@@ -78,17 +78,18 @@ def areasPorPersona(df):
                     .orderBy(col("total").desc(), "full_name"))
 
 def referenciasPorPersona(df):
-    articulos = (df.withColumn("n_refs", when(col("reference").isNull(), lit(0))
-                .otherwise(expr("size(filter(reference, " "r -> r.DOI is not null and trim(r.DOI) != ''))")))
-                .filter(col("n_refs") > 0))
-    
-    personas = (articulos
-        .select("n_refs", explode("author").alias("a"))
-        .select(nombreCompleto(col("a")).alias("full_name"), "n_refs")
-        .filter(col("full_name") != "unknown"))
+    personas = (
+        df.select(explode("author").alias("a"), col("reference"))
+          .select(nombreCompleto.alias("full_name"), col("reference"))
+    )
 
-    return (personas.groupBy("full_name")
-                    .agg(F.sum("n_refs").alias("total_references")))
+    refs = personas.select("full_name", explode("reference").alias("r"))
+
+    return (
+        refs.filter(col("r.DOI").isNotNull() & (trim(col("r.DOI")) != ""))
+            .groupBy("full_name")
+            .agg(countDistinct("r.DOI").alias("total_references"))
+    )
 
 def personaMasReferencia(df):
     return (df.orderBy(col("total_references").desc(), "full_name").limit(1))
