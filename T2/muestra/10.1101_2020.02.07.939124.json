@@ -1,0 +1,295 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:25:44Z",
+      "timestamp": 1768487144434,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Genomics",
+    "reference-count": 17,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              11
+            ]
+          ],
+          "date-time": "2020-02-11T00:00:00Z",
+          "timestamp": 1581379200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Since its debut in mid-December, 2019, the novel coronavirus (2019-nCoV) has rapidly spread from its origin in Wuhan, China, to several countries across the globe, leading to a global health crisis. As of February 7, 2020, 44 strains of the virus have been sequenced and uploaded to NCBI\u2019s GenBank [1], providing insight into the virus\u2019s evolutionary history and pathogenesis. Here, we present the WashU Virus Genome Browser, a web-based portal for viewing virus genomic data. The browser is home to 16 complete 2019-nCoV genome sequences, together with hundreds of related viral sequences including severe acute respiratory syndrome coronavirus (SARS-CoV), Middle East respiratory syndrome coronavirus (MERS-CoV), and Ebola virus. In addition, the browser features unique customizability, supporting user-provided upload of novel viral sequences in various formats. Sequences can be viewed in both a track-based representation as well as a phylogenetic tree-based view, allowing the user to easily compare sequence features across multiple strains. The WashU Virus Genome Browser inherited many features and track types from the WashU Epigenome Browser, and additionally incorporated a new type of SNV track to address the specific needs of viral research. Our Virus Browser portal can be accessed at\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://virusgateway.wustl.edu\">https://virusgateway.wustl.edu</jats:ext-link>\n                  , and documentation is available at\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://virusgateway.readthedocs.io/\">https://virusgateway.readthedocs.io/</jats:ext-link>\n                  .\n                </jats:p>",
+    "DOI": "10.1101/2020.02.07.939124",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T18:45:13Z",
+      "timestamp": 1581446713000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Exploring the coronavirus epidemic using the new WashU Virus Genome Browser"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5041-2669",
+        "authenticated-orcid": false,
+        "given": "Jennifer A.",
+        "family": "Flynn",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6520-9436",
+        "authenticated-orcid": false,
+        "given": "Deepak",
+        "family": "Purushotham",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9824-7217",
+        "authenticated-orcid": false,
+        "given": "Mayank NK",
+        "family": "Choudhary",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1400-5609",
+        "authenticated-orcid": false,
+        "given": "Xiaoyu",
+        "family": "Zhuo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4375-4019",
+        "authenticated-orcid": false,
+        "given": "Changxu",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6200-8487",
+        "authenticated-orcid": false,
+        "given": "Gavriel",
+        "family": "Matt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7492-3703",
+        "authenticated-orcid": false,
+        "given": "Daofeng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6800-242X",
+        "authenticated-orcid": false,
+        "given": "Ting",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.1",
+        "unstructured": "NCBI GeneBank [https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/]"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.2",
+        "unstructured": "Novel Coronavirus (2019-nCoV) Situation Report - 17 [https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200206-sitrep-17-ncov.pdf?sfvrsn=17f0dca_4]"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.3",
+        "unstructured": "International Committee on Taxonomy of Viruses (ICTV) [https://talk.ictvonline.org/taxonomy/]"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-018-0118-9"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkz348"
+      },
+      {
+        "issue": "4",
+        "key": "2024080319161470000_2020.02.07.939124v1.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "345",
+        "DOI": "10.1038/nbt.3158",
+        "article-title": "Epigenomic annotation of genetic variants using the Roadmap Epigenome Browser",
+        "volume": "33",
+        "year": "2015",
+        "journal-title": "Nature biotechnology"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.2440"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.1772"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/4.1.11"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkf436"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mst010"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msp077"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0009490"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.14",
+        "unstructured": "Virus Browser Source Code [https://github.com/debugpoint136/WashU-Virus-Genome-Browser]"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky1006"
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.16",
+        "unstructured": "Zhou P , Yang XL , Wang XG , Hu B , Zhang L , Zhang W , Si HR , Zhu Y , Li B , Huang CL et al: A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020."
+      },
+      {
+        "key": "2024080319161470000_2020.02.07.939124v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12859-018-2283-2"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.07.939124",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:21Z",
+      "timestamp": 1768435221000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.07.939124"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.1101/2020.02.07.939124",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

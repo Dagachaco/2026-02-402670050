@@ -1,0 +1,241 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:13Z",
+      "timestamp": 1768546633284,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 19,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  An outbreak of COVID-19 developed aboard the Princess Cruises Ship during January-February 2020. Using mathematical modeling and time-series incidence data describing the trajectory of the outbreak among passengers and crew members, we characterize how the transmission potential varied over the course of the outbreak. Our estimate of the mean reproduction number in the confined setting reached values as high as \u223c11, which is higher than mean estimates reported from community-level transmission dynamics in China and Singapore (approximate range: 1.1-7). Our findings suggest that\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>t</jats:sub>\n                  decreased substantially compared to values during the early phase after the Japanese government implemented an enhanced quarantine control. Most recent estimates of\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>t</jats:sub>\n                  reached values largely below the epidemic threshold, indicating that a secondary outbreak of the novel coronavirus was unlikely to occur aboard the Diamond Princess Ship.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.24.20027649",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T17:15:37Z",
+      "timestamp": 1582823737000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Transmission potential of the novel coronavirus (COVID-19) onboard the Diamond Princess Cruises Ship, 2020"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2748-6560",
+        "authenticated-orcid": false,
+        "given": "Kenji",
+        "family": "Mizumoto",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Gerardo",
+        "family": "Chowell",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.1",
+        "unstructured": "WHO, World Health Organization, Coronavirus disease 2019 (COVID-19), Situation Report -29. Available from https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200218-sitrep-29-covid-19.pdf?sfvrsn=6262de9e_2"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.2",
+        "unstructured": "Nectar Gan, Natalie Thomas and David Culver, CNN. Over 1,700 frontline medics infected with coronavirus in China, presenting new crisis for the government. February 14, 2020. Available from: <https://edition.cnn.com/2020/02/13/asia/coronavirus-health-care-workers-infected-intl-hnk/index.html > [Accessed February 24, 2020]"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.3",
+        "unstructured": "National Instatitute of Infectious Disease, Japan (NIID) Field Briefing: Diamond Princess COVID-19 Cases. 19 FEBRUARY 2020. Available from https://www.niid.go.jp/niid/en/2019-ncov-e/9407-covid-dp-fe-01.html"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.4",
+        "unstructured": "NPR. Coronavirus Found In China Prisons, As Cases Spike In South Korea. February 21, 2020 Avaiable from https://www.npr.org/2020/02/21/808002924/coronavirus-found-in-china-prisons-as-cases-spike-in-south-korea [Accessed February 24, 2020]"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.5",
+        "unstructured": "The Guardian. Nemo Kim in Daegu. Sun 23 Feb 2020. \u2018It\u2019s ruining everyone\u2019: eerie quiet reigns in coronavirus-hit South Korean city. Avaiable from https://www.theguardian.com/world/2020/feb/23/its-ruining-everyone-coronavirus-hit-south-korean-city-daegu [Accessed February 24, 2020]"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.6",
+        "unstructured": "NHK News Web. February 16, 2020. Available from https://www3.nhk.or.jp/news/html/20200216/k10012288171000.html [Accessed February 24, 2020] [In Japanese]"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.7",
+        "unstructured": "Minister of Health, Labour and Welfare, Japan. Available from https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html [In Japanese]"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Diekmann, O. , J.A.P. Heesterbeek , and M.G. Roberts , The construction of next-generation matrices for compartmental epidemic models. 2010. p. 873\u2013885.",
+        "DOI": "10.1098/rsif.2009.0386"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2019.24.42.1900588"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JR , Cummings DA , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions.doi: https://doi.org/10.1101/2020.01.23.20018549",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mizumoto, K. , K. Kagaya , and G. Chowell , Early epidemiological assessment of the transmission potential and virulence of 2019 Novel Coronavirus in Wuhan City: China, 2019-2020. 2020: https://doi.org/10.1101/2020.02.12.20022434.",
+        "DOI": "10.1101/2020.02.12.20022434"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sanche, S. , et al., The Novel Coronavirus, 2019-nCoV, is Highly Contagious and More Infectious Than Initially Estimated. 2020: https://doi.org/10.1101/2020.02.07.20021154",
+        "DOI": "10.1101/2020.02.07.20021154"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tariq A , Lee Y , Roosa K , Blumberg S , Yan P , Ma S , Chowell G. Real-time monitoring the transmission potential of COVID-19 in Singapore, February 2020. medRxiv 2020.02.21.20026435; doi: https://doi.org/10.1101/2020.02.21.20026435",
+        "DOI": "10.1101/2020.02.21.20026435"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.17",
+        "unstructured": "Kumamotonichinichishinbun. February 21, 2020. Available from https://kumanichi.com/column/syasetsu/1363649/ [Accessed February 24, 2020] [In Japanese]"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.18",
+        "unstructured": "The New York TImes. U.S. Passengers Evacuate Quarantined Cruise Ship in Japan. February 16, 2020. Availalble from https://www.nytimes.com/2020/02/16/world/asia/coronavirus-japan-cruise-americans.html"
+      },
+      {
+        "key": "2020111005150804000_2020.02.24.20027649v2.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mizumoto K , Kagaya K , Zarebski A , Chowell G. Estimating the Asymptomatic Ratio of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020. Submitted.",
+        "DOI": "10.1101/2020.02.20.20025866"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027649",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:16Z",
+      "timestamp": 1768484056000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027649"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 19,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027649",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.idm.2020.02.003",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

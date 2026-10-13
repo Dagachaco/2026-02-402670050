@@ -1,0 +1,390 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:20Z",
+      "timestamp": 1768549220038,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 35,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Based on publicly released data for 1212 patients, we investigated the epidemiological characteristics of COVID-19 in Henan of China. The following findings are obtained: 1) COVID-19 patients in Henan show gender (55% vs 45%) and age (81% aged between 21 and 60) preferences, possible causes were explored; 2) Statistical analysis on 483 patients reveals that the estimated average, mode and median incubation periods are 7.4, 4 and 7 days; Incubation periods of 92% patients were no more than 14 days; 3) The epidemic of COVID-19 in Henan has undergone three stages and showed high correlations with the numbers of patients that recently return from Wuhan; 4) Network analysis on the aggregate outbreak phenomena of COVID-19 revealed that 208 cases were clustering infected, and various people\u2019s Hospital are the main force in treating patients. The related investigations have potential implications for the prevention and control of COVID-19.</jats:p>",
+    "DOI": "10.1101/2020.02.21.20026112",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:35:19Z",
+      "timestamp": 1582518919000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "Epidemiological characteristics of 1212 COVID-19 patients in Henan, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Pei",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jun-an",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanyu",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mengfan",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lingling",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shunjie",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056NEJMoa2001017"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "issue": "2",
+        "key": "2020111005200847000_2020.02.21.20026112v2.6",
+        "first-page": "1",
+        "article-title": "Analysis of Epidemiological characteristics of new coronavirus pneumonia. Chin",
+        "volume": "41",
+        "year": "2020",
+        "journal-title": "J. Epidemiol"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12178/1001-0548.2020033"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2605.200146"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.9",
+        "unstructured": "Zhou T , Wuhan pneumonia\u2019s basic regeneration number is close to SARS, which is indeed a preventable and controllable infectious disease. https://new.qq.com/omn/20200126/20200126A08P9W00.html?pc."
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2139/ssrn.3525558"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.11",
+        "unstructured": "Huazhong Agricultural University finds pangolin as a potential intermediate host for a new coronavirus. https://www.scau.edu.cn/2020/0207/c1300a219015/page.html"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.12",
+        "unstructured": "Lu JA , Wang P , Understanding novel coronavirus pneumonia from the small world, scale-free and high clustering properties of complex networks. Swarma Club, Feb. 6, 2020. https://swarma.org/?p=18300."
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tmaid.2020.101568"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu Z , Magal P , Seydi O , Webb G , Understanding unreported cases in the 2019-nCov epidemic outbreak in Wuhan, China, and the importance of major public health interventions. SSRN, 2020.",
+        "DOI": "10.2139/ssrn.3530969"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.15",
+        "unstructured": "Wang P , Lu J , What did the1105 patients with COVID-19 in Henan province tell us? Swarma Club, Feb.13, 2020. https://mp.weixin.qq.com/s?\\biz=MzIzMjQyNzQ5MA==\\&mid=2247501412\\&idx=2\\&sn=9769e17c76a40bb5ba1d4407945e5bce\\&chksm=e8979ce9dfe015fff9f53201301ee43356350a7c57802314bc84d63644e3543bf465c194fb03\\&mpshare=1\\&scene=1\\&srcid=0220uyHgIRHs1apdACDH86dK\\&sharer\\_sharetime=1582155615531\\&sharer\\_shareid=0a4c190c035057d9555e8de85cb27998\\#rd"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.16",
+        "unstructured": "Liang JZ , Analysis and determination of quarantine days with statistical thinking. https://mp.weixin.qq.com/s?\\_\\_biz=MzUxOTUzNzIyNQ==\\&mid=2247484566\\&idx=1\\&sn=78ced27748f7282ff058df0eee9ea501\\&chksm=f9f953b0ce8edaa601b4dd0c26a2d74c22cda5343e0ac6bb5da8b97b1204c21849a6693e2ec9\\&mpshare=1\\&scene=1\\&srcid=\\&sharer\\_sharetime=1581558526135\\&sharer\\_shareid=6a282fa4fe10c9b910ad6c133c73ba26\\#rd"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.17",
+        "unstructured": "Preliminary analysis of spatio-temporal characteristics of pneumonia in a new coronavirus infection in Henan province. http://skc.henu.edu.cn/info/1047/4673.html"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.18",
+        "unstructured": "Data visualization analysis and simulation prediction for the new crown epidemic. https://mp.weixin.qq.com/s?\\_\\_biz=MzU3NTczNzI2MQ==\\&mid=2247484006\\&idx=1\\&sn=57d8cd06d511fdc3d22d87e0842f6b9b\\&chksm= fd1fdea4ca6857b2810933007cca58874c1b522b5b02a21c91394cab25dd5b07f74803216c04\\&mpshare=1\\&scene=1\\&srcid=\\&sharer\\_sharetime=1581371760526\\&sharer\\_shareid=6a282fa4fe10c9b910ad6c133c73ba26\\#rd"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.19",
+        "unstructured": "Baidu outbreak real-time big data report. https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari\\_pc\\_3."
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.86.3200"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nphys1746"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "650",
+        "DOI": "10.1007/s11424-014-2236-4",
+        "article-title": "Identifying influential spreaders in artificial complex networks",
+        "volume": "27",
+        "year": "2014",
+        "journal-title": "J. Syst. Sci. & Complex"
+      },
+      {
+        "issue": "3",
+        "key": "2020111005200847000_2020.02.21.20026112v2.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "707",
+        "DOI": "10.1109/TBCAS.2015.2487299",
+        "article-title": "Graphical features of functional genes in human protein interaction network",
+        "volume": "10",
+        "year": "2016",
+        "journal-title": "IEEE Trans. Biomed. Circuits Syst"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0106132"
+      },
+      {
+        "issue": "3",
+        "key": "2020111005200847000_2020.02.21.20026112v2.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.1109/TCBB.2018.2821145",
+        "article-title": "Controllability analysis of a gene network for Arabidopsis thaliana reveals characteristics of functional gene families",
+        "volume": "16",
+        "year": "2019",
+        "journal-title": "IEEE/ACM Trans. Comput. Biol. Bioinformat"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.physrep.2016.06.007",
+        "article-title": "Vital nodes identification in complex networks",
+        "volume": "650",
+        "year": "2016",
+        "journal-title": "Phys. Rep"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.physrep.2016.07.002",
+        "article-title": "Dynamics of information diffusion and its applications on complex networks",
+        "volume": "651",
+        "year": "2016",
+        "journal-title": "Phys. Rep"
+      },
+      {
+        "issue": "2",
+        "key": "2020111005200847000_2020.02.21.20026112v2.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "1503",
+        "DOI": "10.1137/17M1134202",
+        "article-title": "Cooperative epidemic spreading on a two-layered interconnected network. SIAM J",
+        "volume": "17",
+        "year": "2018",
+        "journal-title": "Applied Dyn. Syst"
+      },
+      {
+        "issue": "12",
+        "key": "2020111005200847000_2020.02.21.20026112v2.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "4253",
+        "DOI": "10.1109/TCYB.2018.2861568",
+        "article-title": "Spectral learning algorithm reveals propagation capability of complex network",
+        "volume": "49",
+        "year": "2019",
+        "journal-title": "IEEE Trans. Cyber"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/RevModPhys.87.925"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.31",
+        "first-page": "469",
+        "article-title": "The significance probability of the Smirnov two-sample test",
+        "volume": "3",
+        "year": "1957",
+        "journal-title": "Arkiv for Matematik"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.32",
+        "unstructured": "Incubation period. Merriam-Webster.com dictionary, Merriam-Webster. https://www.merriam-webster.com/dictionary/incubation\\%20period. Accessed 12 Feb. 2020."
+      },
+      {
+        "issue": "1",
+        "key": "2020111005200847000_2020.02.21.20026112v2.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1093/oxfordjournals.epirev.a036254",
+        "article-title": "Incubation period of disease",
+        "volume": "5",
+        "year": "1983",
+        "journal-title": "Epidemiologic Rev"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "B\u00fchlmann P , Geer S van de , Statistics for high-dimensional data: methods, theory and applications. Springer, Berlin Heidelberg, 2011.",
+        "DOI": "10.1007/978-3-642-20192-9"
+      },
+      {
+        "key": "2020111005200847000_2020.02.21.20026112v2.35",
+        "unstructured": "Samuels ML , Witmer JA , Schaffner AA , Statistics for the life sciences. Pearson, 2016."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.21.20026112",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:09Z",
+      "timestamp": 1768484049000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.21.20026112"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 35,
+    "URL": "https://doi.org/10.1101/2020.02.21.20026112",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.ijid.2020.04.051",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:09:08Z",
+      "timestamp": 1768547348207,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "update-to": [
+      {
+        "DOI": "10.1101/2020.02.23.20026872",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              7
+            ]
+          ],
+          "date-time": "2020-03-07T00:00:00Z",
+          "timestamp": 1583539200000
+        },
+        "record-id": "23476"
+      }
+    ],
+    "group-title": "Psychiatry and Clinical Psychology",
+    "reference-count": 27,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The authors have withdrawn their manuscript whilst they perform additional experiments to test some of their conclusions further. Therefore, the authors do not wish this work to be cited as reference for the project. If you have any questions, please contact the corresponding author.</jats:p>",
+    "DOI": "10.1101/2020.02.23.20026872",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:45:15Z",
+      "timestamp": 1582663515000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Mental health status and coping strategy of medical workers in China during The COVID-19 outbreak"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Siyu",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Min",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weiping",
+        "family": "Wen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liqian",
+        "family": "Cui",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weiqiang",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shaokun",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiahua",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huijun",
+        "family": "Yue",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shangqing",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bingjie",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Xiaoling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zili",
+        "family": "Qin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kexing",
+        "family": "Lv",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xueqin",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yihui",
+        "family": "Wen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenxiang",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ying",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yang",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Ling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenbin",
+        "family": "Lei",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.1",
+        "unstructured": "China NHCo. Principles for As of 24 o \u2018clock on February 19, the latest situation of new coronavirus pneumonia(2020 [accessed 2.20 2020."
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.2",
+        "first-page": "2020",
+        "volume": "26",
+        "author": "National HCoC",
+        "year": "2020",
+        "journal-title": "Principles for emergency psychological crisis intervention for the new coronavirus pneumonia"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/070674370905400504"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.4",
+        "unstructured": "Liu T , Chen X , Miao G. Recommendations on diagnostic criteria and prevention of SARS-related mental disorders. J Clin Psychol Med 2003(13):188\u201391."
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.5",
+        "unstructured": "Wei Y , Han B , Liu W , et al. Psychosomatic discomfort and related factors among 1,411 first-line SARS staff in Beijing. Manual of the 7th national experimental medicine symposium of Chinese Society of Integrated Traditional Chinese and Western Medicine; Beijing, China 2004:6\u201312."
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jad.2020.01.026"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0228152"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.psy.12.6.371"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.11",
+        "unstructured": "Tao M , Gao J. he reliability and validity of Chinese Revision of Zung Self-Rating Anxiety Scale(SAS-CR). Chinese Journal of Nervous and Mental Diseases 1994(5):301\u201303."
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Radloff L. The CES-D scale: A self-report depression scale for research in the general population. Appl Psychol Meas 1977(1):385\u2013401.",
+        "DOI": "10.1177/014662167700100306"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13811118.2013.805643"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comppsych.2008.02.005"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00420-010-0508-4"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-244X-14-61"
+      },
+      {
+        "issue": "2",
+        "key": "2020110910201497000_2020.02.23.20026872v1.17",
+        "first-page": "139",
+        "article-title": "Development of the Chinese age norms of CES-D in urban area",
+        "volume": "24",
+        "year": "2010",
+        "journal-title": "Chinese Menta lHealth Journal"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1389-9457(00)00065-4"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.sleep.2010.09.019"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.20",
+        "unstructured": "Xiao S. The theoretical basis and research application of social support rating scale. Journal of Clinical Psychiatry 1994(2):98\u2013100."
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0254-6450.2020.02.003"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.22",
+        "unstructured": "Wang F , Xu J , Liu Q , et al. Comparison of Psychological Status between Patients with SARS and Physicians, Nurses Treating SARS. Chinese Mental Health Journal 2003(08):533\u201332."
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0228152"
+      },
+      {
+        "issue": "09",
+        "key": "2020110910201497000_2020.02.23.20026872v1.24",
+        "first-page": "779",
+        "article-title": "Analysis on mental health status of 2460 health care workers in Beijing",
+        "volume": "29",
+        "year": "2013",
+        "journal-title": "Chinese Journal of Health Education"
+      },
+      {
+        "issue": "06",
+        "key": "2020110910201497000_2020.02.23.20026872v1.25",
+        "first-page": "78",
+        "article-title": "The investigation of mental health status of medical staffs in a general hospital",
+        "volume": "12",
+        "year": "2015",
+        "journal-title": "Practical Journal of Clinical Medicine"
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.26",
+        "unstructured": "Association OhansboCM. To medical personnel in otolaryngology, head and neck surgery nationwide - recommendations for protection against novel coronavirus infection control [Available from: http://medline.org.cn/news/newsPreview.do?newsId=16325 accessed Feb,1,2020."
+      },
+      {
+        "key": "2020110910201497000_2020.02.23.20026872v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s2215-0366(20)30047-x"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1101/2020.02.23.20026872",
+        "type": "retraction",
+        "label": "Retraction",
+        "source": "retraction-watch",
+        "updated": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              7
+            ]
+          ],
+          "date-time": "2020-03-07T00:00:00Z",
+          "timestamp": 1583539200000
+        },
+        "record-id": "23476"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.23.20026872",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:12Z",
+      "timestamp": 1768484052000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.23.20026872"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 27,
+    "URL": "https://doi.org/10.1101/2020.02.23.20026872",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

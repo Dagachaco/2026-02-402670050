@@ -1,0 +1,712 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:27:50Z",
+      "timestamp": 1768487270812,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 86,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              11
+            ]
+          ],
+          "date-time": "2020-02-11T00:00:00Z",
+          "timestamp": 1581379200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>New endemic disease has been spread across Wuhan City, China on December 2019. Within few weeks, the World Health Organization (WHO) announced a novel coronavirus designated as coronavirus disease 2019 (COVID-19). In late January 2020, WHO declared the outbreak of a \u201cpublic-health emergency of international concern\u201d due to the rapid and increasing spread of the disease worldwide. Currently, there is no vaccine or approved treatment for this emerging infection; thus the objective of this study is to design a multi epitope peptide vaccine against COVID-19 using immunoinformatics approach.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Method</jats:title>\n                  <jats:p>Several techniques facilitating the combination of immunoinformatics approach and comparative genomic approach were used in order to determine the potential peptides for designing the T cell epitopes-based peptide vaccine using the envelope protein of 2019-nCoV as a target.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Extensive mutations, insertion and deletion were discovered with comparative sequencing in COVID-19 strain. Additionally, ten peptides binding to MHC class I and MHC class II were found to be promising candidates for vaccine design with adequate world population coverage of 88.5% and 99.99%, respectively.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>T cell epitopes-based peptide vaccine was designed for COVID-19 using envelope protein as an immunogenic target. Nevertheless, the proposed vaccine is rapidly needed to be validated clinically in order to ensure its safety, immunogenic profile and to help on stopping this epidemic before it leads to devastating global outbreaks.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.04.934232",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T01:05:25Z",
+      "timestamp": 1581469525000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 37,
+    "title": [
+      "Design of multi epitope-based peptide vaccine against E protein of human COVID-19: An immunoinformatics approach"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Miyssa I.",
+        "family": "Abdelmageed",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5037-8488",
+        "authenticated-orcid": false,
+        "given": "Abdelrahman H.",
+        "family": "Abdelmoneim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6893-0536",
+        "authenticated-orcid": false,
+        "given": "Mujahed I.",
+        "family": "Mustafa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nafisa M.",
+        "family": "Elfadol",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Naseem S.",
+        "family": "Murshed",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shaza W.",
+        "family": "Shantier",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Abdelrafie M.",
+        "family": "Makhawi",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. Lu , C. W. Stratton , and Y. W. Tang , \u201cOutbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle,\u201d J Med Virol, Jan 16 2020.",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D. Benvenuto , M. Giovannetti , A. Ciccozzi , S. Spoto , S. Angeletti , and M. Ciccozzi , \u201cThe 2019-new coronavirus epidemic: evidence for virus evolution,\u201d J Med Virol, Jan 29 2020.",
+        "DOI": "10.1101/2020.01.24.915157"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.4",
+        "unstructured": "\u201cCoV2020\u201d. GISAID EpifluDB. Archivedfrom the original on 12 January 2020. Retrieved February 2020"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1016/j.virol.2015.02.005",
+        "article-title": "Coronavirus envelope (E) protein remains at the site of assembly",
+        "volume": "478",
+        "year": "2015",
+        "journal-title": "Virology"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2011.03.029"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.76.3.1422-1434.2002"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.76.22.11518-11529.2002"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1002674"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. F. Chan , S. Yuan , K. H. Kok , K. K. To , H. Chu , J. Yang , et al.,\u201cA familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster,\u201d Lancet, Jan 24 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.11",
+        "unstructured": "N. Zhang , L. Wang , X. Deng , R. Liang , M. Su , C. He , et al., \u201cRecent advances in the detection of respiratory virus infection in humans,\u201d J Med Virol, Jan 15 2020."
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/10408363.2011.640976"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "V. M. Corman , O. Landt , M. Kaiser , R. Molenkamp , A. Meijer , D. K. Chu , et al.,\u201cDetection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR,\u201d Euro Surveill, vol. 25, Jan 2020.",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000045"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.14",
+        "unstructured": "Y. Chen , Q. Liu , and D. Guo , \u201cEmerging coronaviruses: genome structure, replication, and pathogenesis,\u201d J Med Virol, Jan 22 2020"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y. Wan , J. Shang , R. Graham , R. S. Baric , and F. Li , \u201cReceptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS, J Virol, Jan 29 2020.",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.16",
+        "unstructured": "\u201cGenomic epidemiology of novel coronavirus (nCoV)\u201d. nextstrain.org. Retrieved 11 February 2020."
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Letko M , Munster V (January 2020). \u201cFunctional assessment of cell entry and receptor usage for lineage B\u00df-coronaviruses, including 2019-nCoV\u201d. bioRxiv 2020.01.22.915660 Check |biorxiv= value (help).",
+        "DOI": "10.1101/2020.01.22.915660"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41564-020-0688-y"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.19",
+        "unstructured": "El Sahly HM. \u201cGenomic Characterization of the 2019 Novel Coronavirus\u201d. New England Journal of Medicine. Retrieved 9 February 2020."
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v12020135"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)302518"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. Lu , \u201cDrug treatment options for the 2019-new coronavirus (2019-nCoV),\u201d Biosci Trends, Jan 28 2020.",
+        "DOI": "10.5582/bst.2020.01020"
+      },
+      {
+        "issue": "4",
+        "key": "2024080318500965000_2020.02.04.934232v2.23",
+        "first-page": "S3",
+        "article-title": "Prediction of conformational epitopes with the use of a knowledge-based energy function and geometrically related neighboring residue characteristics",
+        "volume": "14",
+        "year": "2013",
+        "journal-title": "BMCBioinformatics"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.24",
+        "doi-asserted-by": "crossref",
+        "first-page": "515",
+        "DOI": "10.3390/vaccines2030515",
+        "article-title": "Peptide Vaccine: Progress and Challenges",
+        "volume": "2",
+        "year": "2014",
+        "journal-title": "Vaccines (Basel)"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrd2224"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/138161210793292447"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.27",
+        "first-page": "11",
+        "article-title": "Vaccine and antibody-directed T cell tumour immunotherapy",
+        "volume": "1704",
+        "year": "2004",
+        "journal-title": "Biochim Biophys Acta"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/biol.2001.0298"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1586/1744666X.1.1.145"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.30",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1007/978-1-4939-1115-8_3",
+        "article-title": "Immunoinformatics: a brief review",
+        "volume": "1184",
+        "year": "2014",
+        "journal-title": "Methods Mol Biol"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1556/AMicr.61.2014.3.4"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1111/j.1365-2567.2010.03330.x",
+        "article-title": "Immunoinformatics: an integrated scenario",
+        "volume": "131",
+        "year": "2010",
+        "journal-title": "Immunology"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1080/17460441.2018.1413088",
+        "article-title": "The use of databases, data mining and immunoinformatics in vaccinology: where are we?",
+        "volume": "13",
+        "year": "2018",
+        "journal-title": "Expert Opin Drug Discov"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.34",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1080/08830185.2019.1657426",
+        "article-title": "Immunoinformatics: In Silico Approaches and Computational Design of a Multiepitope, Immunogenic Protein",
+        "volume": "38",
+        "year": "2019",
+        "journal-title": "Int Rev Immunol"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bti553"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-8-4"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.37",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1007/s11250-017-1425-2",
+        "article-title": "Design and evaluation of primer pairs for efficient detection of avian rotavirus",
+        "volume": "50",
+        "year": "2018",
+        "journal-title": "Trop Anim Health Prod"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "G. Stecher , K. Tamura , and S. Kumar , \u201cMolecular Evolutionary Genetics Analysis (MEGA) for macOS,\u201d Mol Biol Evol, Jan 6 2020.",
+        "DOI": "10.1093/molbev/msz312"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msm092"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1110/ps.0239403"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkn202"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv639"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1034/j.1399-0039.2003.00112.x"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btn128"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tibtech.2006.10.001"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.46",
+        "doi-asserted-by": "crossref",
+        "first-page": "3363",
+        "DOI": "10.4049/jimmunol.160.7.3363",
+        "article-title": "Several common HLA-DR types share largely overlapping peptide binding repertoires",
+        "volume": "160",
+        "year": "1998",
+        "journal-title": "J Immunol"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rsob.120139"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-7-153"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkw1070"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkw306"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.20084"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/anie.201406295"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/elps.1150181505"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.21256"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.55",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Morris G , S. Goodsell D , S. Halliday R , Huey R , Hart W , Belew R , et al. Automated Docking Using a Lamarckian Genetic Algorithm and Empirical Binding Free Energy Function 1998. 1639\u201362 p",
+        "DOI": "10.1002/(SICI)1096-987X(19981115)19:14<1639::AID-JCC10>3.0.CO;2-B"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.56",
+        "first-page": "556",
+        "article-title": "Developing countries face double burden of disease",
+        "volume": "82",
+        "year": "2004",
+        "journal-title": "Bull World Health Organ"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1586/14760584.3.1.59"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.0020071"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2006.02.010"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.60",
+        "unstructured": "S. Chaudhury , E. H. Duncan , T. Atre , S. Dutta , M. D. Spring , W. W. Leitner , et al.,\u201cCombining immunoprofiling with machine learning to assess the effects of adjuvant formulation on human vaccine-induced immunity,\u201d Hum Vaccin Immunother, pp. 1\u201312, Oct 7 2019."
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrd2224"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.62",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1016/bs.apcsb.2018.01.006",
+        "article-title": "In Silico Tools and Databases for Designing Peptide-Based Vaccine and Drugs",
+        "volume": "112",
+        "year": "2018",
+        "journal-title": "Adv Protein Chem Struct Biol"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bib/bbw025"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.64",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y. Khazaei-Poul , S. Farhadi , S. Ghani , S. A. Ahmadizad , and J. Ranjbari , \u201cMonocyclic Peptides: Types, Synthesis and applications,\u201d Curr Pharm Biotechnol, Jan 20 2020.",
+        "DOI": "10.2174/1573412916666200120155104"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.65",
+        "first-page": "347",
+        "article-title": "A computational assay to design an epitopebased Peptide vaccine against saint louis encephalitis virus",
+        "volume": "7",
+        "year": "2013",
+        "journal-title": "Bioinform Biol Insights"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.66",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.3233/ISB-2010-0435",
+        "article-title": "A computational approach for identification of epitopes in dengue virus envelope protein: a step towards designing a universal dengue vaccine targeting endemic regions",
+        "volume": "10",
+        "year": "2010",
+        "journal-title": "In Silico Biol"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.67",
+        "first-page": "298",
+        "article-title": "Peptide vaccine against chikungunya virus: immuno-informatics combined with molecular docking approach",
+        "volume": "16",
+        "year": "2018",
+        "journal-title": "J TranslMed"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msg010"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hep.510300403"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.70",
+        "first-page": "E58",
+        "article-title": "Comparative genomics",
+        "volume": "1",
+        "year": "2003",
+        "journal-title": "PLoSBiol"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms4348"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12985-019-1182-0"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.febslet.2004.09.009"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.74",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1186/s13029-016-0049-7",
+        "article-title": "Conserved antigenic sites between MERS-CoV and Batcoronavirus are revealed through sequence analysis",
+        "volume": "11",
+        "year": "2016",
+        "journal-title": "Source Code Biol Med"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.75",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1016/S1672-0229(03)01028-3",
+        "article-title": "Genome organization of the SARS-CoV",
+        "volume": "1",
+        "year": "2003",
+        "journal-title": "Genomics Proteomics Bioinformatics"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.76",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1586/erv.09.160",
+        "article-title": "Advances in the design and delivery of peptide subunit vaccines with a focus on toll-like receptor agonists",
+        "volume": "9",
+        "year": "2010",
+        "journal-title": "Expert Rev Vaccines"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/00222615-39-4-241"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.78",
+        "unstructured": "Breakthrough: Chloroquine phosphate has shown apparentefficacy in treatment of COVID-19 associated pneumonia inclinical studies."
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.79",
+        "unstructured": "Potential Inhibitors Against Papain-like Protease of Novel Coronavirus (COVID-19) from FDA Approved Drugs."
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01237-15"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2008.03.005"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2010.01.004"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02012-06"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.03566-14"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1323279111"
+      },
+      {
+        "key": "2024080318500965000_2020.02.04.934232v2.86",
+        "doi-asserted-by": "crossref",
+        "first-page": "476",
+        "DOI": "10.1111/imm.12462",
+        "article-title": "Systemic and mucosal immunity in mice elicited by a single immunization with human adenovirus type 5 or 41 vector-based vaccines carrying the spike protein of Middle East respiratory syndrome coronavirus",
+        "volume": "145",
+        "year": "2015",
+        "journal-title": "Immunology"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.04.934232",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:25Z",
+      "timestamp": 1768435225000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.04.934232"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 86,
+    "URL": "https://doi.org/10.1101/2020.02.04.934232",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

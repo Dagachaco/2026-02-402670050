@@ -1,0 +1,251 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:52Z",
+      "timestamp": 1768544092485,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 14,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Recent outbreak of 2019-nCoV in Wuhan raised serious public health concerns. By February 15, 2020 in Wuhan, the total number of confirmed infection cases has reached 37,914, and the number of deaths has reached 1123, accounting for 56.9% of the total confirmed cases and 73.7% of the total deaths in China. People are eager to know when the epidemic will be completely controlled and when people\u2019s work and life will be on the right track. In this study we analyzed the epidemic dynamics and trend of 2019-nCoV in Wuhan by using the data after the closure of Wuhan city till February 12, 2020 based on the SEIR modeling method. The optimal parameters were estimated as R\n                  <jats:sub>0</jats:sub>\n                  =1.44 (interquartile range: 1.40-1.47),TI=14 (interquartile range: 14-14) and TE=3.0 (interquartile range: 2.8-3.1). Based on these parameters, the number of infected individuals in Wuhan city may reach the peak around February 19 at about 45,000 people. Once entering March, the epidemic would gradually decline, and end around the late March. It is worth noting that the above prediction is based on the assumption that the number of susceptible population N = 200,000 will not increase. If the epidemic situation is not properly controlled, the peak of infected number can be further increased and the peak time will be a little postponed. It was expected that the epidemic would subside in early March, and disappear gradually towards the late March.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.16.20023804",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T23:15:40Z",
+      "timestamp": 1582067740000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "When will the battle against novel coronavirus end in Wuhan: a SEIR modeling analysis"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Kangkang",
+        "family": "Wan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1371-9490",
+        "authenticated-orcid": false,
+        "given": "Changming",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lanlan",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhicheng",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1953-8954",
+        "authenticated-orcid": false,
+        "given": "Lianglu",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.1",
+        "unstructured": "Wee, Rolando Y. \u201cThe Largest Cities In China.\u201d World Atlas, Jul. 9, 2019, worldatlas.com/articles/20-biggest-cities-in-china.html."
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.2",
+        "unstructured": "W. H. Organization , Coronavirus. World Health Organization, Available: https://www.who.int/health-topics/coronavirus (cited January 19, 2020)."
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.3",
+        "unstructured": "The official website of Hubei Provincial Health Committee (http://wjw.hubei.gov.cn/) (cited February 19, 2020)."
+      },
+      {
+        "issue": "3",
+        "key": "2020110712350557000_2020.02.16.20023804v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "925",
+        "DOI": "10.1103/RevModPhys.87.925",
+        "article-title": "Epidemic processes in complex networks",
+        "volume": "87",
+        "year": "2015",
+        "journal-title": "Review of Modern Physics"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.6",
+        "unstructured": "Y Yang , Q Lu , M Liu , et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv 2020.02.10.20021675; doi :https://doi.org/10.1101/2020.02.10.200216."
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T Zhou , Q Liu , Z Yang , et al. Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV,arXiv, 2020 - arxiv.org.",
+        "DOI": "10.1111/jebm.12376"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "JM Read , JRE Bridgen , DAT Cummings,Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions, medRxiv 2020.01.23.20018549; doi : https://doi.org/10.1101/2020.01.23.20018549",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z Cao , Q Zhang , X Lu , et al. Incorporating Human Movement Data to Improve Epidemiological Estimates for 2019-nCoV. medRxiv 2020.02.07.20021071; doi : https://doi.org/10.1101/2020.02.07.20021071",
+        "DOI": "10.1101/2020.02.07.20021071"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13410-1"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1306742"
+      },
+      {
+        "key": "2020110712350557000_2020.02.16.20023804v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "JT Wu , K Leung , GM Leung , Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study, The Lancet, 2020, https://doi.org/10.1016/S0140-6736(20)30260-9",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.20023804",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:59Z",
+      "timestamp": 1768484039000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.16.20023804"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 14,
+    "URL": "https://doi.org/10.1101/2020.02.16.20023804",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.7189/jogh.10.011002",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

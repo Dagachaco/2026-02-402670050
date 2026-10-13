@@ -1,0 +1,179 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:45Z",
+      "timestamp": 1768544085057,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Primary Care Research",
+    "reference-count": 6,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                  The emerging outbreak of the 2019 novel coronavirus (2019-nCoV) originated from Wuhan poses a great challenge to healthcare system in China.\n                  <jats:sup>1</jats:sup>\n                  Primary care practitioners (PCPs) have an important role in district communicable disease control.\n                  <jats:sup>2</jats:sup>\n                  However, because primary health-care system in China still needs to be substantially strengthened,\n                  <jats:sup>3,4</jats:sup>\n                  whether PCPs are proactive and capable in responding to the outbreak remains unclear. Using an electronic questionnaire, we surveyed a national sample of PCPs to assess their response to novel coronavirus outbreak.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.11.20022095",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T13:15:12Z",
+      "timestamp": 1581513312000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Primary Care Practitioners\u2019 Response to 2019 Novel Coronavirus Outbreak in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhijie",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Qian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lizheng",
+        "family": "Fang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mi",
+        "family": "Yao",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110612200441000_2020.02.11.20022095v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.0757"
+      },
+      {
+        "key": "2020110612200441000_2020.02.11.20022095v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cegh.2018.12.006"
+      },
+      {
+        "key": "2020110612200441000_2020.02.11.20022095v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.l2358"
+      },
+      {
+        "key": "2020110612200441000_2020.02.11.20022095v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(17)33109-4"
+      },
+      {
+        "key": "2020110612200441000_2020.02.11.20022095v1.5",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. The Notice of Improving Prevention of 2019-nCoV causing Pneumonia in Primary Care Settings. http://www.xjhfpc.gov.cn/info/2072/17376.htm. Accessed Jan 29, 2020."
+      },
+      {
+        "key": "2020110612200441000_2020.02.11.20022095v1.6",
+        "unstructured": "China\u2019s National Bureau of Statistics. Division of eastern, western, central and northeastern China. http://www.stats.gov.cn/ztjc/zthd/sjtjr/dejtjkfr/tjkp/201106/t20110613_71947.htm. Accessed Jan 29, 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.11.20022095",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:51Z",
+      "timestamp": 1768484031000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.11.20022095"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 6,
+    "URL": "https://doi.org/10.1101/2020.02.11.20022095",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:32:10Z",
+      "timestamp": 1768545130560,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 18,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Severe ill patients with 2019 novel coronavirus (2019-nCoV) infection progressed rapidly to acute respiratory failure. We aimed to select the most useful prognostic factor for severe illness incidence.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>The study prospectively included 61 patients with 2019-nCoV infection treated at Beijing Ditan Hospital from January 13, 2020 to January 31, 2020. Prognostic factor of severe illness was selected by the LASSO COX regression analyses, to predict the severe illness probability of 2019-CoV pneumonia. The predictive accuracy was evaluated by concordance index, calibration curve, decision curve and clinical impact curve.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The neutrophil-to-lymphocyte ratio (NLR) was identified as the independent risk factor for severe illness in patients with 2019-nCoV infection. The NLR had a c-index of 0.807 (95% confidence interval, 0.676\u20130.38), the calibration curves fitted well, and the decision curve and clinical impact curve showed that the NLR had superior standardized net benefit. In addition, the incidence of severe illness was 9.1% in age \u2265 50 and NLR &lt; 3.13 patients, and half of patients with age \u2265 50 and NLR \u2265 3.13 would develop severe illness. Based on the risk stratification of NLR with age, the study developed a 2019-nCoV pneumonia management process.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>The NLR was the early identification of risk factors for 2019-nCoV severe illness. Patients with age \u2265 50 and NLR \u2265 3.13 facilitated severe illness, and they should rapidly access to intensive care unit if necessary.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.10.20021584",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T12:25:13Z",
+      "timestamp": 1581510313000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 135,
+    "title": [
+      "Neutrophil-to-Lymphocyte Ratio Predicts Severe Illness Patients with 2019 Novel Coronavirus in the Early Stage"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Jingyuan",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yao",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pan",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Pu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haofeng",
+        "family": "Xiong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chuansheng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ming",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianbo",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanli",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rui",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meihua",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bing",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaojing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guiqin",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ting",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ben",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanbin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhihai",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xianbo",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1016/S0140-6736(03)13967-0",
+        "article-title": "Newly discovered coronavirus as the primary cause of severe acute respiratory syndrome",
+        "volume": "362",
+        "year": "2003",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01244-13"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holshue ML , DeBolt C , Lindquist S , et al. First Case of 2019 Novel Coronavirus in the United States. The New England journal of medicine 2020.",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet (London, England) 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Berhane M , Melku M , Amsalu A , Enawgaw B , Getaneh Z , Asrie F . The Role of Neutrophil to Lymphocyte Count Ratio in the Differential Diagnosis of Pulmonary Tuberculosis and Bacterial Community-Acquired Pneumonia: a Cross-Sectional Study at Ayder and Mekelle Hospitals, Ethiopia. Clinical laboratory 2019;65.",
+        "DOI": "10.7754/Clin.Lab.2018.180833"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "4970",
+        "DOI": "10.3748/wjg.v25.i33.4970",
+        "article-title": "Lymphocyte-to-monocyte ratio effectively predicts survival outcome of patients with obstructive colorectal cancer",
+        "volume": "25",
+        "year": "2019",
+        "journal-title": "World journal of gastroenterology"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "7660",
+        "DOI": "10.12659/MSM.916356",
+        "article-title": "Risk Factors for Mortality Due to Ventilator-Associated Pneumonia in a Chinese Hospital: A Retrospective Study",
+        "volume": "25",
+        "year": "2019",
+        "journal-title": "Medical science monitor : international medical journal of experimental and clinical research"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ge YL , Zhang HF , Zhang Q , et al. Neutrophil-to-Lymphocyte Ratio in Adult Community-Acquired Pneumonia Patients Correlates with Unfavorable Clinical Outcomes. Clinical laboratory 2019;65.",
+        "DOI": "10.7754/Clin.Lab.2018.181042"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang HF , Ge YL , Wang HY , et al. Neutrophil-to-Lymphocyte Ratio Improves the Accuracy and Sensitivity of Pneumonia Severity Index in Predicting 30-Day Mortality of CAP Patients. Clinical laboratory 2019;65.",
+        "DOI": "10.7754/Clin.Lab.2019.190226"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2016.11.006"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1111/jvh.12160",
+        "article-title": "Neutrophil-lymphocyte ratio: a novel predictor for short-term prognosis in acute-on-chronic hepatitis B liver failure",
+        "volume": "21",
+        "year": "2014",
+        "journal-title": "Journal of viral hepatitis"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "2752",
+        "DOI": "10.3389/fmicb.2019.02752",
+        "article-title": "Clinical Features Predicting Mortality Risk in Patients With Viral Pneumonia: The MuLBSTA Score",
+        "volume": "10",
+        "year": "2019",
+        "journal-title": "Frontiers in microbiology"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.16",
+        "first-page": "99",
+        "article-title": "Performance of the PSI and CURB-65 scoring systems in predicting 30-day mortality in healthcare-associated pneumonia",
+        "volume": "150",
+        "year": "2018",
+        "journal-title": "Medicina clinica"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00408-018-0105-y"
+      },
+      {
+        "key": "2020110612450564000_2020.02.10.20021584v1.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1016/j.annemergmed.2018.06.017",
+        "article-title": "Performance of the CURB-65 Score in Predicting Critical Care Interventions in Patients Admitted With Community-Acquired Pneumonia",
+        "volume": "74",
+        "year": "2019",
+        "journal-title": "Annals of emergency medicine"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.10.20021584",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:49Z",
+      "timestamp": 1768484029000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.10.20021584"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 18,
+    "URL": "https://doi.org/10.1101/2020.02.10.20021584",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1186/s12967-020-02374-0",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

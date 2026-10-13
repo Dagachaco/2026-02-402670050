@@ -1,0 +1,262 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2026-03-30T11:32:31Z",
+      "timestamp": 1774870351162,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 22,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Since the first suspected case of coronavirus disease-2019 (COVID-19) on December 1st, 2019, in Wuhan, Hubei Province, China, a total of 40,235 confirmed cases and 909 deaths have been reported in China up to February 10, 2020, evoking fear locally and internationally. Here, based on the publicly available epidemiological data for Hubei, China from January 11 to February 10, 2020, we provide estimates of the main epidemiological parameters. In particular, we provide an estimation of the case fatality and case recovery ratios, along with their 90% confidence intervals as the outbreak evolves. On the basis of a Susceptible-Infected-Recovered-Dead (SIDR) model, we provide estimations of the basic reproduction number (\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  ), and the per day infection mortality and recovery rates. By calibrating the parameters of the SIRD model to the reported data, we also attempt to forecast the evolution of the of the outbreak at the epicenter three weeks ahead, i.e. until February 29. As the number of infected individuals, especially of those with asymptomatic or mild courses, is suspected to be much higher than the official numbers, which can be considered only as a subset of the actual numbers of infected and recovered cases in the total population, we have repeated the calculations under a second scenario that considers twenty times the number of confirmed infected cases and forty times the number of recovered, leaving the number of deaths unchanged. Based on the reported data, the expected value of\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  as computed considering the period from the 11th of January until the 18th of January, using the official counts of confirmed cases was found to be \u223c4.6, while the one computed under the second scenario was found to be \u223c3.2. Thus, based on the SIRD simulations, the estimated average value of\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  was found to be \u223c 2.6 based on confirmed cases and2 based on the second scenario. Our forecasting flashes a note of caution for the presently unfolding outbreak in China. Based on the official counts for confirmed cases, the simulations suggest that the cumulative number of infected could reach 180,000 (with lower bound of 45,000) by February 29. Regarding the number of deaths, simulations forecast that on the basis of the up to the 10th of February reported data, the death toll might exceed 2,700 (as a lower bound) by February 29. Our analysis further reveals a significant decline of the case fatality ratio from January 26 to which various factors may have contributed, such as the severe control measures taken in Hubei, China (e.g. quarantine and hospitalization of infected individuals), but mainly because of the fact that the actual cumulative numbers of infected and recovered cases in the population most likely are much higher than the reported ones. Thus, in a scenario where we have taken twenty times the confirmed number of infected and forty times the confirmed number of recovered cases, the case fatality ratio is around \u223c 0.15% in the total population. Importantly, based on this scenario, simulations suggest a slow down of the outbreak in Hubei at the end of February.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.11.20022186",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T14:59:20Z",
+      "timestamp": 1581605960000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 109,
+    "title": [
+      "Data-Based Analysis, Modelling and Forecasting of the COVID-19 outbreak"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Cleo",
+        "family": "Anastassopoulou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Lucia",
+        "family": "Russo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Athanasios",
+        "family": "Tsakris",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Constantinos",
+        "family": "Siettos",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.1",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia; 2020. Available from: https://doi.org/10.1088%2F0951-7715%2F16%2F2%2F308."
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.2",
+        "unstructured": "Organization WH. WHO Statement Regarding Cluster of Pneumonia Cases in Wuhan, China; 2020. Available from: https://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wu"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.3",
+        "unstructured": "Organization WH. Novel coronavirus(2019-nCoV). Situation report 21. Geneva, Switzerland: World Health Organization; 2020; 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200210-sitrep-21-ncov.pdf?sfvrsn=947679ef_2."
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30251-8"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30211-7"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15585/mmwr.mm6905e"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.916395"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30260-9"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4161/viru.24041"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.14",
+        "unstructured": "The Johns Hopkins Center for Health Security. Daily updates on the emerging novel coronavirus from the Johns Hopkins Center for Health Security. February 9, 2020; 2020. Available from: https://hub.jhu.edu/2020/01/23/coronavirus-outbreak-mapping-tool-649-em1-art1-dtd-health/."
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.15",
+        "unstructured": "The Johns Hopkins Center for Health Security. Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE; 2020. Available from: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6."
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dong E , Du H , Gardner L. An interactive web-based dashboard to track COVID-19 in real time. The Lancet Infectious Diseases. 2020;doi:https://doi.org/10.1016/S1473-3099(20)30120-1.",
+        "DOI": "10.1016/S1473-3099(20)30120-1"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.es.2020.25.3.2000044"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.18",
+        "unstructured": "NHC. NHS Press Conference, Feb. 4 2020 - National Health Commission (NHC) of the People\u2019s Republic of China; 2020."
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwi230"
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.20",
+        "unstructured": "MATLAB R2018b; 2018."
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.21",
+        "unstructured": "Gale J. Coronavirus May Transmit Along Fecal-Oral Route, Xinhua Reports; 2020. Available from: https://www.bloomberg.com/news/articles/2020-02-02/coronavirus-may-transmit-along-fecal-oral-route-xinhua-reports."
+      },
+      {
+        "key": "2021010306200686000_2020.02.11.20022186v5.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4414/smw.2020.20203"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.11.20022186",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:52Z",
+      "timestamp": 1768484032000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.11.20022186"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 22,
+    "URL": "https://doi.org/10.1101/2020.02.11.20022186",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1371/journal.pone.0230405",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

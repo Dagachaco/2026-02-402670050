@@ -1,0 +1,538 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:01Z",
+      "timestamp": 1768546621561,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 68,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The ongoing COVID-19 epidemic that spread widely in China since December 2019 is now generating local transmission in multiple countries including Singapore as of February 27, 2020. This highlights the need to monitor in real time the transmission potential of COVID-19. In Singapore, four major COVID-19 case clusters have emerged thus far.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    Here we estimate the effective reproduction number, R\n                    <jats:sub>t</jats:sub>\n                    , of COVID-19 in Singapore from the publicly available daily case series of imported and autochthonous cases by date of symptoms onset, after adjusting the local cases for reporting delays. We also derive the reproduction number from the distribution of cluster sizes using a branching process analysis.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    The effective reproduction number peaked with a mean value \u223c1.1 around February 2\n                    <jats:sup>nd</jats:sup>\n                    , 2020 and declined thereafter. As of February 27\n                    <jats:sup>th</jats:sup>\n                    , 2020, our most recent estimate of R\n                    <jats:sub>t</jats:sub>\n                    is at 0.5 (95% CI: 0.2,0.7) while an estimate of the overall R based on cluster size distribution is at 0.7 (95% CI: 0.5, 0.9).\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>The trajectory of the reproduction number in Singapore underscore the significant effects of containment efforts in Singapore while at the same time suggest the need to sustain social distancing and active case finding efforts to stomp out all active chains of transmission.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.21.20026435",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T19:35:23Z",
+      "timestamp": 1582659323000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Real-time monitoring the transmission potential of COVID-19 in Singapore, February 2020"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Amna",
+        "family": "Tariq",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yiseul",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kimberlyn",
+        "family": "Roosa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Seth",
+        "family": "Blumberg",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ping",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stefan",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gerardo",
+        "family": "Chowell",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.1",
+        "unstructured": "WHO. Coronavirus disease 2019 (COVID-19) Situation Report \u2013 27. World Health Organization February 16, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.2",
+        "unstructured": "Worldometer. COVID-19 coronavirus / cases 2020 [Available from: https://www.worldometers.info/coronavirus/coronavirus-cases/."
+      },
+      {
+        "issue": "2",
+        "key": "2021010304000933000_2020.02.21.20026435v4.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.3390/jcm9020330",
+        "article-title": "The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Journal of Clinical Medicine"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.4",
+        "unstructured": "Tian H , Li Y , Liu Y , Kraemer M , Chen B , Cai J , et al. Early evaluation of Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. medRxiv. 2020:2020.01.30.20019844."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.5",
+        "unstructured": "WHO. Novel Coronavirus (2019-nCoV), Situation report - 1. January 21,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.6",
+        "unstructured": "Olowski LJ . Coronavirus worse than reported \u2013 here\u2019s how China is catching up to reality. Fox News. February 16, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.7",
+        "unstructured": "Kottasov\u00e1 I. China\u2019s coronavirus numbers highlight the challenges of an evolving epidemic. CNN. February 14, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.8",
+        "unstructured": "MOH. One more case discharged; five new cases of covid-19 infection confirmed Ministry of Health Singapore [updated February 15,2020. Available from: https://www.moh.gov.sg/news-highlights/details/one-more-case-discharged-five-new-cases-of-covid19-infection-confirmed."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.9",
+        "unstructured": "MOH. Confirmed imported case of novel coronavirus infection in Singapore; multi-ministry taskforce ramps up precautionary measures Ministry of Health Singapore [updated January 23, 2020. Available from: https://www.moh.gov.sg/news-highlights/details/confirmed-imported-case-of-novel-coronavirus-infection-in-singapore-multi-ministry-taskforce-ramps-up-precautionary-measures."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.10",
+        "unstructured": "Ang D. The Big Story: 92 Singaporeans evacuated from Wuhan; Hikikomori in Singapore. The Straits Times. February 13,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.11",
+        "unstructured": "Tan A. Coronavirus: Flight with 174 Singaporeans evacuated from Wuhan lands at Changi Airport on Sunday morning. The Straits Times. February 9, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.12",
+        "unstructured": "MOH. Confirmed cases of local transmission of novel coronavirus infection in Singapore Minstry of Health Singapore [updated February 4,2020. Available from: https://www.moh.gov.sg/news-highlights/details/confirmed-cases-of-local-transmission-of-novel-coronavirus-infection-in-singapore."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.13",
+        "unstructured": "MOH. Five more cases discharged, three new cases of covid-19 infection confirmed Ministry of Health [updated February 19,2020. Available from: https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-three-new-cases-of-covid-19-infection-confirmed."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.14",
+        "unstructured": "Gan N , Thomas N , Culver D. Hundreds of frontline medics likely infected with coronavirus in China presenting new crisis for the government. CNN. February 13, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.15",
+        "unstructured": "Boseley S. More than 1,700 health workers infected by coronavirus in China. The Guardian. Febraury 14, 2020."
+      },
+      {
+        "issue": "1",
+        "key": "2021010304000933000_2020.02.21.20026435v4.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "210",
+        "DOI": "10.1186/s12916-015-0450-0",
+        "article-title": "Transmission characteristics of MERS and SARS in the healthcare setting: a comparative study",
+        "volume": "13",
+        "year": "2015",
+        "journal-title": "BMC Medicine"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1003.030650"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.18",
+        "unstructured": "Lim J. Coronavirus: Doctors, staff and patients to restrict movements to within one hospital. The Straits Times Singapore. February 12, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.19",
+        "unstructured": "Aravindan A , Geddie J. Singapore lifts virus alert to SARS level, sparking panic buying. Rueters. February 7, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.20",
+        "unstructured": "Sim D. Coronavirus: why did Singapore have more cases than Hong Kong \u2013 until now? This Week in Asia. February 11, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.21",
+        "unstructured": "Rettner R. Can the new coronavirus spread through building pipes? Live Science. February 12,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.22",
+        "unstructured": "Vaswani K. Coronavirus: Why Singapore is so vulnerable to coronavirus spread. BBC News. February 13, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.23",
+        "unstructured": "Diekmann O , Heesterbeek JAP . Mathematical Epidemiology of Infectious Diseases: Model Building, Analysis and Interpretation 1st ed: Wiley; March 15 2000."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anderson RM , May RM . Infectious Diseases of Humans. Oxford, editor. Oxford Univeristy Press 1991.",
+        "DOI": "10.1093/oso/9780198545996.001.0001"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.25",
+        "unstructured": "MOH. News Highlights Ministry of Health Singapore [updated February 12,2020. Available from: https://www.moh.gov.sg/news-highlights/."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.26",
+        "unstructured": "Khalik S. Coronavirus in Singapore: Of the 50 cases so far, local cases exceed imported ones. The Straits Times. February 9,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.27",
+        "unstructured": "CNA. Coronavirus cases in Singapore: Trends, clusters and key numbers to watch. CNA. January 24,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.28",
+        "unstructured": "Wong L. Coronavirus: Full recovery for all three local cases linked to Grand Hyatt event. The Straits Times. February 19,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.29",
+        "unstructured": "MalayMail. COVID-19: SAF regular among three new victims in Singapore as Grace Assembly of God cluster grows to 18 cases. Malaymail. February 17,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.30",
+        "unstructured": "Lee J. Covid-19 outbreak: Grace Assembly of God cluster grows to 21 cases. Mothership. February 18,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yan P , Chowell G. Quantitative methods for infectious disease outbreak investigations. Springer 2019.",
+        "DOI": "10.1007/978-3-030-21923-9"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.32",
+        "unstructured": "Yan P. Estimation for the infection curves for the spread of Severe Acute Respiratory Syndrome (SARS) from a back-calculation approach Center for Discrete Mathematics & Theoratical Computer Science Founded as a National Science Foundation Science and Technology Center 2018 [Available from: http://archive.dimacs.rutgers.edu/Workshops/Modeling/slides/Yan.pdf."
+      },
+      {
+        "issue": "1",
+        "key": "2021010304000933000_2020.02.21.20026435v4.33",
+        "first-page": "15",
+        "volume": "22",
+        "year": "1994",
+        "journal-title": "Adjustments for reporting delays and the prediction of occurred but not reported events"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.34",
+        "unstructured": "Taylor GC . Claims Reserving In Non Life Insurance: Elsevier; 1985."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.35",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.epidem.2019.01.003",
+        "article-title": "Assessing reporting delays and the effective reproduction number: The Ebola epidemic in DRC, May 2018-January 2019",
+        "volume": "26",
+        "year": "2019",
+        "journal-title": "Epidemics"
+      },
+      {
+        "issue": "8",
+        "key": "2021010304000933000_2020.02.21.20026435v4.36",
+        "doi-asserted-by": "crossref",
+        "first-page": "672",
+        "DOI": "10.1046/j.1537-2995.1989.29890020437.x",
+        "article-title": "Estimating the incubation time distribution and expected number of cases of transfusion-associated acquired immune deficiency syndrome",
+        "volume": "29",
+        "year": "1989",
+        "journal-title": "Transfusion"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rsif.2009.0153"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.epidem.2016.01.002"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Linton NM , Akhmetzhanov AR . Serial interval of novel coronavirus (2019-nCoV) infections. medRxiv.2020.02.03.20019497.",
+        "DOI": "10.1101/2020.02.03.20019497"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "You C , Deng Y , Hu W , Sun J , Lin Q , Zhou F , et al. Estimation of the Time-Varying Reproduction Number of COVID-19 Outbreak in China. medRxiv. 2020:2020.02.08.20021253.",
+        "DOI": "10.1101/2020.02.08.20021253"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Chowell G. The Effective Reproduction Number as a Prelude to Statistical Estimation of Time-Dependent Epidemic Trends. Springer D, editor 2009. 103\u201312 p.",
+        "DOI": "10.1007/978-90-481-2313-1_5"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paine S , Mercer G , Kelly P , Bandaranayake D , Baker M , Huang Q , et al. Transmissibility of 2009 pandemic influenza A(H1N1) in New Zealand: effective reproduction number and influence of age, ethnicity and importations. Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin. 2010;15(24).",
+        "DOI": "10.2807/ese.15.24.19591-en"
+      },
+      {
+        "issue": "29",
+        "key": "2021010304000933000_2020.02.21.20026435v4.43",
+        "first-page": "19622",
+        "article-title": "Estimation of the reproduction number for 2009 pandemic influenza A(H1N1) in the presence of imported cases",
+        "volume": "15",
+        "year": "2010",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "issue": "3",
+        "key": "2021010304000933000_2020.02.21.20026435v4.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1016/j.idm.2017.08.001",
+        "article-title": "Fitting dynamic models to epidemic outbreaks with quantified uncertainty: A primer for parameter uncertainty, identifiability, and forecasts",
+        "volume": "2",
+        "year": "2017",
+        "journal-title": "Infectious Disease Modelling"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1002993"
+      },
+      {
+        "issue": "2",
+        "key": "2021010304000933000_2020.02.21.20026435v4.46",
+        "first-page": "145",
+        "volume": "41",
+        "author": "Chinese Center for Disease Control and Prevention Beijing 102206 C",
+        "year": "2020",
+        "journal-title": "The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.47",
+        "unstructured": "Belluz J. Why the coronavirus outbreak might be much bigger than we know. Vox. February 14, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.48",
+        "unstructured": "Kurohi R. Coronavirus: 3 new cases in Singapore, including one first warded as dengue patient; five more patients discharged. The Straits Times. February 19,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.49",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shen M , Peng Z , Xiao Y , Zhang L. Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioRxiv.2020.01.23.916726.",
+        "DOI": "10.1101/2020.01.23.916726"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.50",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mizumoto K , Kagaya K , Chowell G. Early epidemiological assessment of the transmission potential and virulence of 2019 Novel Coronavirus in Wuhan City: China, 2019-2020. medRxiv.2020.02.12.20022434.",
+        "DOI": "10.1101/2020.02.12.20022434"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.52",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu T , Hu J , Kang M , Lin L , Zhong H , Xiao J , et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv.2020.01.25.919787.",
+        "DOI": "10.2139/ssrn.3526307"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.53",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JR , Cummings DA , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv.2020.01.23.20018549.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.55",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine. 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.56",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sanche S , Lin YT , Xu C , Romero-Severson E , Hengartner N , Ke R. The Novel Coronavirus, 2019-nCoV, is Highly Contagious and More Infectious Than Initially Estimated. medRxiv.2020.02.07.20021154.",
+        "DOI": "10.1101/2020.02.07.20021154"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.57",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kucharski AJ , Russell TW , Diamond C , Funk S , Eggo RM . Early dynamics of transmission and control of 2019-nCoV: a mathematical modelling study. medRxiv.2020.01.31.20019901.",
+        "DOI": "10.1101/2020.01.31.20019901"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.58",
+        "doi-asserted-by": "crossref",
+        "first-page": "256",
+        "DOI": "10.1016/j.idm.2020.02.002",
+        "article-title": "Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 2020",
+        "volume": "5",
+        "year": "2020",
+        "journal-title": "Infectious Disease Modelling"
+      },
+      {
+        "issue": "25",
+        "key": "2021010304000933000_2020.02.21.20026435v4.59",
+        "first-page": "21167",
+        "article-title": "The role of superspreading in Middle East respiratory syndrome coronavirus (MERS-CoV) transmission",
+        "volume": "20",
+        "year": "2015",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.61",
+        "unstructured": "Sim D , Xinghui K. Singapore: nine new coronavirus cases, no plans to raise outbreak alert to red. This Week in Asia. February 14,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.62",
+        "unstructured": "Baker JA , Mamud AH . 9 new COVID-19 cases in Singapore, including 6 linked to Grace Assembly of God cluster. Channel New Asia. February 14, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.63",
+        "unstructured": "Chang N , Yong M. Public Health Preparedness Clinics reactivated to reduce risk of COVID-19 spread. CNA. February 14, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.64",
+        "unstructured": "Hui M. A cluster of coronavirus cases in South Korea has been traced to a cult. Quartz. February 20,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.65",
+        "unstructured": "Marcus I. Chronology: Germany and Covid 19 (\u2018Coronavirus\u2019). The Berlin Spectator. February 13, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.66",
+        "unstructured": "Rueters. Germany Confirms Seventh Coronavirus Case. Rueters. February 3,2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.67",
+        "unstructured": "McCurry J. Japan reports first coronavirus death as 44 more cases confirmed on cruise ship. The Guardian. February 13, 2020."
+      },
+      {
+        "key": "2021010304000933000_2020.02.21.20026435v4.68",
+        "unstructured": "Woods A. 44 new coronavirus cases reported on quarantined Diamond Princess cruise. Newyork Post. February 13, 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.21.20026435",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:10Z",
+      "timestamp": 1768484050000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.21.20026435"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 68,
+    "URL": "https://doi.org/10.1101/2020.02.21.20026435",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1186/s12916-020-01615-9",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

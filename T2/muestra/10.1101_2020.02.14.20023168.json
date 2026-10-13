@@ -1,0 +1,155 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:45Z",
+      "timestamp": 1768547265148,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 3,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>In the beginning of January 2020, new unknown virus pneumonia cases started to emerge in local hospitals in Wuhan, China. This virus epidemic quickly became a public health emergency of international concern by the WHO. Enormous amount of medical supplies as well as healthcare personals from other provinces were mobilized to support Wuhan. This current work tent to help people understanding how infectious disease spread and the purpose and consequences of various efforts based on simulation model.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Method</jats:title>\n                  <jats:p>a simulation model was created using known parameters. R0 set to 3 and mean incubation time to be 7.5days. the epidemic was divided to 3 periods. Simulation would run 50 times to mimic different patient0 status. Personal activity index was used to mimic different level of control measures. 141427709 simulated patients were created. Cumulation number of patients at the end of period 1 (day50) is 2868.7\u00b11739.0. Total infected patients could be 913396.5 \u00b1 559099.9 by the end of period 2 (day70) in free transmission state. And at day90, total patients number is 913396.5 \u00b1 559099.9.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>COVID-19 is a novel severe respiratory disease. This will put great burden on the shoulder of healthcare workers as well as on medical hardware and supplements. Current strict control measures help to contain disease from spreading. An early detecting, reporting and fast reacting system needs to be setup to prevent future unknown infectious disease.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.14.20023168",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T13:05:41Z",
+      "timestamp": 1582031141000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "A model simulation study on effects of intervention measures in Wuhan COVID-19 epidemic"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3507-8070",
+        "authenticated-orcid": false,
+        "given": "Guopeng",
+        "family": "Zhou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Chunhua",
+        "family": "Chi",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711300919000_2020.02.14.20023168v1.1",
+        "unstructured": "Li, Q. , et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med, 2020."
+      },
+      {
+        "key": "2020110711300919000_2020.02.14.20023168v1.2",
+        "unstructured": "Guan, W.-j. , et al., Clinical characteristics of 2019 novel coronavirus infection in China, in preprint. 2020: https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1."
+      },
+      {
+        "key": "2020110711300919000_2020.02.14.20023168v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read, J.M. , et al., Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions, in preprint. 2020: https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.14.20023168",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:57Z",
+      "timestamp": 1768484037000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.14.20023168"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 3,
+    "URL": "https://doi.org/10.1101/2020.02.14.20023168",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

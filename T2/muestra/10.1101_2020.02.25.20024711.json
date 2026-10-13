@@ -1,0 +1,293 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:13Z",
+      "timestamp": 1768546633261,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The clinical presentation of 2019 Novel Coronavirus (2019-nCov) infected pneumonia (NCIP) resembles that of other etiologies of community-acquired pneumonia (CAP). We aimed to identify clinical laboratory features to distinguish NCIP from CAP.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We compared the ability of the hematological and biochemical features of 84 patients with NCIP at hospital admission and 316 patients with CAP. Parameters independently predictive of NCIP were calculated by multivariate logistic regression. The receiver operating characteristic (ROC) curves were generated and the area under the ROC curve (AUC) was measured to evaluate the discriminative ability.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Most hematological and biochemical indexes of patients with NCIP were significantly different from patients with CAP. Nine laboratory parameters were identified to be highly predictive of a diagnosis of NCIP by multivariate analysis. The AUCs demonstrated good discriminatory ability for red cell distribution width (RDW) with an AUC of 0.88 and Hemoglobin (HGB) with an AUC of 0.82. Red blood cell (RBC), albumin (ALB), eosinophil (EO), hematocrit (HCT), alkaline phosphatase (ALP), and white blood cell (WBC) had fair discriminatory ability. Combinations of any two parameters performed better than did the RDW alone.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Routine laboratory examinations may be helpful for the diagnosis of NCIP. Application of laboratory tests may help to optimize the use of isolation rooms for patients when they present with unexplained febrile respiratory illnesses.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.25.20024711",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:06:31Z",
+      "timestamp": 1582661191000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Can routine laboratory tests discriminate 2019 novel coronavirus infected pneumonia from other community-acquired pneumonia?"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6311-2945",
+        "authenticated-orcid": false,
+        "given": "Yunbao",
+        "family": "Pan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Guangming",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiantao",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guohong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaojiao",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xianghu",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jin",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liangjun",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuang",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiaoling",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoyue",
+        "family": "Hong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ying",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yirong",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xinghuan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. Zhu , D. Zhang , W. Wang , X. Li , B. Yang , J. Song , X. Zhao , B. Huang , W. Shi , R. Lu , P. Niu , F. Zhan , X. Ma , D. Wang , W. Xu , G. Wu , G.F. Gao , W. Tan, I . China Novel Coronavirus, T. Research, A Novel Coronavirus from Patients with Pneumonia in China, 2019, The New England journal of medicine (2020).",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.2",
+        "unstructured": "National Health Commission\u2019s briefing on the pneumonia epidemic situation. Released on 11 Feb 2020 (in Chinese). Available at, http://www.nhc.gov.cn/yjb/s7860/202002/4a611bc7fa20411f8ba1c8084426c0d4.shtml."
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Huang , Y. Wang , X. Li , L. Ren , J. Zhao , Y. Hu , L. Zhang , G. Fan , J. Xu , X. Gu , Z. Cheng , T. Yu , J. Xia , Y. Wei , W. Wu , X. Xie , W. Yin , H. Li , M. Liu , Y. Xiao , H. Gao , L. Guo , J. Xie , G. Wang , R. Jiang , Z. Gao , Q. Jin , J. Wang , B. Cao , Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China, Lancet (2020).",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "issue": "7791",
+        "key": "2020110811550965000_2020.02.25.20024711v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "450",
+        "DOI": "10.1038/d41586-020-00153-x",
+        "volume": "577",
+        "author": "Stop the Wuhan virus",
+        "year": "2020",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Q. Li , X. Guan , P. Wu , X. Wang , L. Zhou , Y. Tong , R. Ren , K.S.M. Leung , E.H.Y. Lau , J.Y. Wong , X. Xing , N. Xiang , Y. Wu , C. Li , Q. Chen , D. Li , T. Liu , J. Zhao , M. Li , W. Tu , C. Chen , L. Jin , R. Yang , Q. Wang , S. Zhou , R. Wang , H. Liu , Y. Luo , Y. Liu , G. Shao , H. Li , Z. Tao , Y. Yang , Z. Deng , B. Liu , Z. Ma , Y. Zhang , G. Shi , T.T.Y. Lam , J.T.K. Wu , G.F. Gao , B.J. Cowling , B. Yang , G.M. Leung , Z. Feng , Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia, The New England journal of medicine (2020).",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.6",
+        "unstructured": "WHO, Novel coronavirus-China, http://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/ (2020)."
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "L.Q. The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Notes from the field: an outbreak of NCIP (2019-nCoV) infection in China-Wuhan, Hubei Province, 2019-2020., China CDC Weekly (2) (2020) 79\u201380.",
+        "DOI": "10.46234/ccdcw2020.022"
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J.F. Chan , S. Yuan , K.H. Kok , K.K. To , H. Chu , J. Yang , F. Xing , J. Liu , C.C. Yip , R.W. Poon , H.W. Tsoi , S.K. Lo , K.H. Chan , V.K. Poon , W.M. Chan , J.D. Ip , J.P. Cai , V.C. Cheng , H. Chen , C.K. Hui , K.Y. Yuen , A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster, Lancet (2020).",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.9",
+        "unstructured": "C.L. Jin Yh , Cheng ZS , et al., A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (Standard version), Mil Med Res 7 (2020)."
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiology.143.1.7063747"
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.11",
+        "unstructured": "Wuhan Municipal Health Commission\u2019s briefing on the pneumonia epidemic situation. Released on 31 Dec 2019 (in Chinese). Available at http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989."
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.12",
+        "unstructured": "National Health Commission\u2019s briefing on the pneumonia epidemic situation. Released on 25 Jan 2020 (in Chinese). Available at http://www.nhc.gov.cn/yjb/s7860/202001/a53e6df293cc4ff0b5a16ddf7b6b2b31.shtml."
+      },
+      {
+        "key": "2020110811550965000_2020.02.25.20024711v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "V.M. Corman , O. Landt , M. Kaiser , R. Molenkamp , A. Meijer , D.K. Chu , T. Bleicker , S. Brunink , J. Schneider , M.L. Schmidt , D.G. Mulders , B.L. Haagmans , B. van der Veer , S. van den Brink , L. Wijsman , G. Goderski , J.L. Romette , J. Ellis , M. Zambon , M. Peiris , H. Goossens , C. Reusken , M.P. Koopmans , C. Drosten , Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR, Euro surveillance: bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin 25(3) (2020).",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000045"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20024711",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:16Z",
+      "timestamp": 1768484056000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20024711"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.25.20024711",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1002/ctm2.23",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

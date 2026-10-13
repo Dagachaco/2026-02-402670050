@@ -1,0 +1,252 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          24
+        ]
+      ],
+      "date-time": "2026-03-24T15:17:35Z",
+      "timestamp": 1774365455781,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 16,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Estimation of the fraction and contagiousness of undocumented novel coronavirus (COVID-19) infections is critical for understanding the overall prevalence and pandemic potential of this disease. Many mild infections are typically not reported and, depending on their contagiousness, may support stealth transmission and the spread of documented infection.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Here we use observations of reported infection and spread within China in conjunction with mobility data, a networked dynamic metapopulation model and Bayesian inference, to infer critical epidemiological characteristics associated with the emerging coronavirus, including the fraction of undocumented infections and their contagiousness.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>We estimate 86% of all infections were undocumented (95% CI: [82%-90%]) prior to the Wuhan travel shutdown (January 23, 2020). Per person, these undocumented infections were 52% as contagious as documented infections ([44%-69%]) and were the source of infection for two-thirds of documented cases. Our estimate of the reproductive number (2.23; [1.77-3.00]) aligns with earlier findings; however, after travel restrictions and control measures were imposed this number falls considerably.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>A majority of COVID-19 infections were undocumented prior to implementation of control measures on January 23, and these undocumented infections substantially contributed to virus transmission. These findings explain the rapid geographic spread of COVID-19 and indicate containment of this virus will be particularly challenging. Our findings also indicate that heightened awareness of the outbreak, increased use of personal protective measures, and travel restriction have been associated with reductions of the overall force of infection; however, it is unclear whether this reduction will be sufficient to stem the virus spread.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.14.20023127",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2020-02-17T22:05:25Z",
+      "timestamp": 1581977125000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 165,
+    "title": [
+      "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (COVID-19)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ruiyun",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Sen",
+        "family": "Pei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yimeng",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wan",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Shaman",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.1",
+        "unstructured": "Update on the novel coronavirus pneumonia outbreak (Jan 24, 2020). Beijing: China National Health Commission, 2020. Available from: http://www.nhc.gov.cn/xcs/yqtb/202001/a53e6df293cc4ff0b5a16ddf7b6b2b31.shtml"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.2",
+        "unstructured": "World Health Organization, Novel coronavirus (2019-nCoV) Situation Report - 17 (Feb 6, 2020). https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.3",
+        "unstructured": "Chan JF , Yuan S , Kok KH , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020;S0140-6736(20)30154-9."
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu P , Hao X , Lau EHY , et al. Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020. Euro Surveill. 2020;25(3):pii=2000044.",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000044"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp2000929"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Du Z, Wang L , Cauchemez S , et al. Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine. MedRxiv. 2020;19299.",
+        "DOI": "10.1101/2020.01.28.20019299"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1708856115"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.8",
+        "unstructured": "http://society.people.com.cn/n1/2018/0315/c1008-29869526.html (in chinese). Accessed on February 2nd, 2020."
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0603181103"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature07084"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.40977"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.12",
+        "unstructured": "The 8th Press Conference on the Prevention and Control of COVID-19. Health Commission of Hubei Province. Available: http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016544.shtml"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.13",
+        "unstructured": "The 9th Press Conference on the Prevention and Control of COVID-19. Health Commission of Hubei Province. Available: http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200131_2017018.shtml"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.14",
+        "unstructured": "Wu J , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the COVID-19 outbreak originating in Wuhan, China: a modelling study. Lancet. 2020;S0140-6736(20)30260-9."
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riou J , Althaus CL . Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (COVID-19), December 2019 to January 2020. Euro Surveill. 2020;25(4):pii=2000058.",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000058"
+      },
+      {
+        "key": "2020110710451000000_2020.02.14.20023127v1.16",
+        "unstructured": "Imai N , Dorigatti I , Cori A , et al. Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. 2020;Available: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.14.20023127",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:57Z",
+      "timestamp": 1768484037000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.14.20023127"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1101/2020.02.14.20023127",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1126/science.abb3221",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

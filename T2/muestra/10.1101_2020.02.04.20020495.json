@@ -1,0 +1,203 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:31:42Z",
+      "timestamp": 1768545102183,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 6,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Cases from the ongoing outbreak of atypical pneumonia caused by the 2019 novel coronavirus (2019-nCoV) exported from mainland China can lead to self-sustained outbreaks in other populations. Internationally imported cases are currently being reported in several different locations. Early detection of imported cases is critical for containment of the virus. Based on air travel volume estimates from Wuhan to international destinations and using a generalized linear regression model we identify locations which may potentially have undetected internationally imported cases.</jats:p>",
+    "DOI": "10.1101/2020.02.04.20020495",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T09:35:10Z",
+      "timestamp": 1580895310000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 44,
+    "title": [
+      "Using predicted imports of 2019-nCoV cases to determine locations that may not be identifying all imported cases"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8096-2001",
+        "authenticated-orcid": false,
+        "given": "PM",
+        "family": "De Salazar",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6751-4124",
+        "authenticated-orcid": false,
+        "given": "R",
+        "family": "Niehus",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2337-8992",
+        "authenticated-orcid": false,
+        "given": "A",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8386-5899",
+        "authenticated-orcid": false,
+        "given": "C",
+        "family": "Buckee",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1504-9213",
+        "authenticated-orcid": false,
+        "given": "M",
+        "family": "Lipsitch",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110511150534000_2020.02.04.20020495v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110511150534000_2020.02.04.20020495v2.2",
+        "unstructured": "WHO. 2019-nCoV situation report - 15. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200204-sitrep-15-ncov.pdf?sfvrsn=88fe8ad6_4 (2020)."
+      },
+      {
+        "key": "2020110511150534000_2020.02.04.20020495v2.3",
+        "unstructured": "John Hopkins Bloomberg School of Public Health. Global health Security Index. https://www.ghsindex.org (2019)."
+      },
+      {
+        "key": "2020110511150534000_2020.02.04.20020495v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.04.20020479"
+      },
+      {
+        "key": "2020110511150534000_2020.02.04.20020495v2.5",
+        "unstructured": "R Development Core Team, R. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing (2011)."
+      },
+      {
+        "key": "2020110511150534000_2020.02.04.20020495v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wickham, H. ggplot2: Elegant Graphics for Data Analysis. (Springer, 2016).",
+        "DOI": "10.1007/978-3-319-24277-4"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.04.20020495",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:44Z",
+      "timestamp": 1768484024000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.04.20020495"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 6,
+    "URL": "https://doi.org/10.1101/2020.02.04.20020495",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3201/eid2607.200250",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

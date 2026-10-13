@@ -1,0 +1,309 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:30Z",
+      "timestamp": 1768549230314,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Motivation</jats:title>\n                  <jats:p>Wuhan pneumonia is an acute infectious disease caused by the 2019 novel coronavirus (COVID-19). It is being treated as a Class A infectious disease though it was classified as Class B according to the Infectious Disease Prevention Act of China. Accurate estimation of the incubation period of the coronavirus is essential to the prevention and control. However, it remains unclear about its exact incubation period though it is believed that symptoms of COVID-19 can appear in as few as 2 days or as long as 14 or even more after exposure. The accurate incubation period calculation requires original chain-of-infection data that may not be fully available in the Wuhan regions. In this study, we aim to accurately calculate the incubation period of COVID-19 by taking advantage of the chain-of-infection data, which is well-documented and epidemiologically informative, outside the Wuhan regions.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We acquired and collected officially reported COVID-19 data from 10 regions in China except for Hubei province. To achieve the accurate calculation of the incubation period, we only involved the officially confirmed cases with a clear history of exposure and time of onset. We excluded those without relevant epidemiological descriptions, working or living in Wuhan for a long time, or hard to determine the possible exposure time. We proposed a Monte Caro simulation approach to estimate the incubation of COVID-19 as well as employed nonparametric ways. We also employed manifold learning and related statistical analysis to decipher the incubation relationships between different age/gender groups.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Result</jats:title>\n                  <jats:p>The incubation period of COVID-19 did not follow general incubation distributions such as lognormal, Weibull, and Gamma distributions. We estimated that the mean and median of its incubation were 5.84 and 5.0 days via bootstrap and proposed Monte Carlo simulations. We found that the incubation periods of the groups with age&gt;=40 years and age&lt;40 years demonstrated a statistically significant difference. The former group had a longer incubation period and a larger variance than the latter. It further suggested that different quarantine time should be applied to the groups for their different incubation periods. Our machine learning analysis also showed that the two groups were linearly separable. incubation of COVID-19 along with previous statistical analysis. Our results further indicated that the incubation difference between males and females did not demonstrate a statistical significance.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.24.20027474",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ],
+      "date-time": "2020-02-29T22:25:11Z",
+      "timestamp": 1583015111000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Estimate the incubation period of coronavirus 2019 (COVID-19)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ke",
+        "family": "Men",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xia",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Yihao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guangwei",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jingjing",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanyan",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Henry",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.1",
+        "unstructured": "Tan W , Zhao X , Ma X , et al. A novel coronavirus genome identified in a cluster of pneumonia cases \u2014 Wuhan, China 2019- 2020. http://weekly.chinacdc.cn/en/article/id/a3907201-f64f-4154-a19e-4253b453d10c."
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.2",
+        "unstructured": "Huang et al (2020) Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China, https://doi.org/10.1016/ S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shi Zhao , Jinjun Ran , Salihu S Musa , Guangpu Yang , Yijun Lou , Daozhou Gao , Lin Yang and Daihai He (2020) Preliminary estimation of the basic reproduction number of novel coronavirus (COVID-19) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv, http://dx.doi.org/10.1101/2020.01.23.916395",
+        "DOI": "10.1101/2020.01.23.916395"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(13)61171-X"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtbi.2010.12.017"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.7",
+        "unstructured": "WHO. Novel coronavirus \u2013 Republic of Korea (ex-China). Jan 21, 2020. http://www.who.int/csr/don/21-january-2020-novel-coronavirus-republic-of-korea-ex-china/en/"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.8",
+        "unstructured": "CDC. First travel-related case of 2019 novel coronavirus detected in United States. Jan 21, 2020. https://www.cdc.gov/media/releases/2020/p0121-novel-coronavirus-travel-case.html"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.9",
+        "unstructured": "Google Colab: https://colab.research.google.com/"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.10",
+        "unstructured": "TPU: https://cloud.google.com/tpu/"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.11",
+        "unstructured": "Daniel, Wayne W. (1990). \u201cKolmogorov\u2013Smirnov one-sample test\u201d. Applied Nonparametric Statistics (2nd ed.). Boston: PWS-Kent. pp. 319\u2013330"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hiroshi Nishiura Early efforts in modeling the incubation period of infectious diseases with an acute course of illness, Emerging Themes in Epidemiology volume 4, Article number: 2 2007",
+        "DOI": "10.1186/1742-7622-4-2"
+      },
+      {
+        "issue": "2",
+        "key": "2020110910050714000_2020.02.24.20027474v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1080/02664769723828",
+        "article-title": "A modification of the test of Shapiro and Wilk for normality",
+        "volume": "24",
+        "year": "1997",
+        "journal-title": "Journal of Applied Statistics"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.14",
+        "unstructured": "R package: goft https://cran.r-project.org/web/packages/goft/index.html"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-006X.62.2.281"
+      },
+      {
+        "issue": "3",
+        "key": "2020110910050714000_2020.02.24.20027474v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1109/TCBB.2009.36",
+        "article-title": "Nonnegative principal component analysis for cancer molecular pattern discovery",
+        "volume": "7",
+        "year": "2010",
+        "journal-title": "IEEE/ACM Transactions on Computational Biology & Bioinformatics"
+      },
+      {
+        "issue": "4",
+        "key": "2020110910050714000_2020.02.24.20027474v1.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1750017",
+        "DOI": "10.1142/S0219720017500172",
+        "article-title": "Application of t-SNE to human genetic data",
+        "volume": "15",
+        "year": "2017",
+        "journal-title": "Journal of Bioinformatics & Computational Biology"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.290.5500.2323"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.19",
+        "unstructured": "Jenatton, R , Obozinski, G , Bach, F : Structured Sparse Principal Component Analysis, ICML 2009"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "200",
+        "DOI": "10.1016/j.virusres.2014.10.007",
+        "article-title": "Middle East respiratory syndrome coronavirus (MERS-CoV) entry inhibitors targeting spike protein",
+        "volume": "194",
+        "year": "2014",
+        "journal-title": "Virus Res"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwv115"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110910050714000_2020.02.24.20027474v1.23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guan et al (2020) Clinical characteristics of 2019 novel coronavirus infection in China, doi: https://doi.org/10.1101/2020.02.06.20020974",
+        "DOI": "10.1101/2020.02.06.20020974"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027474",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:15Z",
+      "timestamp": 1768484055000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027474"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027474",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.compbiomed.2023.106794",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

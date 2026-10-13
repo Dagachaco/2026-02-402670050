@@ -1,0 +1,281 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:00Z",
+      "timestamp": 1768549200219,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Profiling the genetic evolution and dynamic spreading of viruses is a crucial task when responding to epidemic outbreaks. We aim to devise novel ways to model, visualise and analyse the temporal dynamics of epidemic outbreaks in order to help researchers and other people involved in crisis response to make well-informed and targeted decisions about from which geographical locations and time periods more genetic samples may be required to fully understand the outbreak. Our approach relies on the application of Transcendental Information Cascades to a set of temporally ordered nucleotide sequences, and we apply it to real-world data that was collected during the currently ongoing outbreak of the novel 2019-nCoV coronavirus. We assess information-theoretic and network-theoretic measures that characterise the resulting complex network and identify touching points and temporal pathways that are candidates for deeper investigation by geneticists and epidemiologists.</jats:p>",
+    "DOI": "10.1101/2020.02.07.20021139",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T15:45:11Z",
+      "timestamp": 1581435911000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Networks of information token recurrences derived from genomic sequences may reveal hidden patterns in epidemic outbreaks: A case study of the 2019-nCoV coronavirus"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4610-7244",
+        "authenticated-orcid": false,
+        "given": "Markus",
+        "family": "Luczak-Roesch",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.molbev.a026036"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D. Benvenuto , M. Giovannetti , A. Ciccozzi , S. Spoto , S. Angeletti , and M. Ciccozzi . The 2019-new coronavirus epidemic: evidence for virus evolution. Journal of Medical Virology, 2020.",
+        "DOI": "10.1101/2020.01.24.915157"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "V. D. Blondel , J.-L. Guillaume , R. Lambiotte , and E. Lefebvre . Fast unfolding of communities in large networks. Journal of statistical mechanics: theory and experiment, 2008(10):P10008, 2008.",
+        "DOI": "10.1088/1742-5468/2008/10/P10008"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.physrep.2014.07.001"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O. Cenciarelli , S. Pietropaoli , A. Malizia , M. Carestia , F. D\u2019Amico , A. Sassolini , D. Di Giovanni , S. Rea , V. Gabbarini , A. Tamburrini , et al. Ebola virus disease 2013-2014 outbreak in west africa: an analysis of the epidemic spread and response. International journal of microbiology, 2015, 2015.",
+        "DOI": "10.1155/2015/769121"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1084337"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00216-014-7835-3"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. Dong , X. Yang , L. Ye , K. Chen , E. W.-C. Chan , M. Yang , and S. Chen . Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019- ncov, a new coronavirus which caused a pneumonia outbreak in wuhan, china. bioRxiv, 2020.",
+        "DOI": "10.1101/2020.01.20.913368"
+      },
+      {
+        "issue": "1",
+        "key": "2020110614201650000_2020.02.07.20021139v2.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "214",
+        "DOI": "10.1186/1471-2148-7-214",
+        "article-title": "Beast: Bayesian evolutionary analysis by sampling trees",
+        "volume": "7",
+        "year": "2007",
+        "journal-title": "BMC evolutionary biology"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/emboj/18.6.1427"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1368430204046142"
+      },
+      {
+        "issue": "1",
+        "key": "2020110614201650000_2020.02.07.20021139v2.12",
+        "first-page": "37",
+        "article-title": "high-quality force-directed graph drawing",
+        "volume": "10",
+        "year": "2005",
+        "journal-title": "Mathematica Journal"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature01644"
+      },
+      {
+        "issue": "1-6",
+        "key": "2020110614201650000_2020.02.07.20021139v2.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "172",
+        "DOI": "10.1016/j.cplett.2008.05.039",
+        "article-title": "Similarity analysis of dna sequences based on codon usage",
+        "volume": "459",
+        "year": "2008",
+        "journal-title": "Chemical physics letters"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Liu , J. Hu , M. Kang , L. Lin , H. Zhong , J. Xiao , G. He , T. Song , Q. Huang , Z. Rong , et al. Transmission dynamics of 2019 novel coronavirus (2019-ncov). bioRxiv, 2020.",
+        "DOI": "10.2139/ssrn.3526307"
+      },
+      {
+        "issue": "4",
+        "key": "2020110614201650000_2020.02.07.20021139v2.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "709",
+        "DOI": "10.1007/s11023-018-9478-1",
+        "article-title": "What an entangled web we weave: An information-centric approach to time-evolving socio-technical systems",
+        "volume": "28",
+        "year": "2018",
+        "journal-title": "Minds and Machines"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Luczak-Roesch , R. Tinati , M. Van Kleek , and N. Shadbolt . From coincidence to purposeful flow? properties of transcendental information cascades. In 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), pages 633\u2013638. IEEE, 2015.",
+        "DOI": "10.1145/2808797.2809393"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rsfs.2011.0054"
+      },
+      {
+        "issue": "1",
+        "key": "2020110614201650000_2020.02.07.20021139v2.19",
+        "first-page": "1",
+        "article-title": "Detecting sequences of system states in temporal networks",
+        "volume": "9",
+        "year": "2019",
+        "journal-title": "Scientific reports"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.20",
+        "unstructured": "G. R. D. S. Pag\u00e8s H , Aboyoun P. Biostrings: Efficient manipulation of biological strings, 2019. R package version 2.54.0."
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.21",
+        "article-title": "Nonlinearity+ networks: A 2020 vision",
+        "year": "2019"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/15.3.1281"
+      },
+      {
+        "key": "2020110614201650000_2020.02.07.20021139v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.socscimed.2006.08.004"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.07.20021139",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:47Z",
+      "timestamp": 1768484027000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.07.20021139"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.07.20021139",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

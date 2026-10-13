@@ -1,0 +1,224 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:44Z",
+      "timestamp": 1768544084846,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since late December 2019, novel coronavirus\u2013infected pneumonia (NCP) emerged in Wuhan, Hubei province, China. Meanwhile, NCP rapidly spread from China to other countries, and several countries\u2019 government rush to evacuate their citizens from Wuhan. We analyzed the infection rate of the evacuees and extrapolated the results in Wuhan\u2019s NCP incidence estimation.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We collected the total number and confirmed cases of 2019-nCov infection in the evacuation of Korea, Japan, Germany, Singapore, and France and estimated the infection rate of the 2019 novel coronavirus (2019-nCov) among people who were evacuated from Wuhan with a meta-analysis. NCP incidence of Wuhan was indirectly estimated based on data of evacuation.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>From Jan 29 to Feb 2, 2020, 1916 people have been evacuated from Wuhan, among them 17 have been confirmed 2019-nCov infected. The infection rate is estimated to be 1.1% (95% CI 0.4%-3.1%) using one group meta-analysis method with random effect model. We then estimated that almost 110,000 (95% CI: 40,000-310,000) people were infected with 2019-nCov in Wuhan around Feb 2, 2020, assuming the infection risk of evacuees is close to Chinese citizens in Wuhan.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>At the beginning of the outbreak, incidence of NCP may be vastly underestimated. Our result emphasizes that 2019-nCov has proposed a huge public health threats in Wuhan. We need to respond more rapidly, take large-scale public health interventions and draconian measures to limiting population mobility and control the epidemic.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.12.20022285",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T15:15:18Z",
+      "timestamp": 1581606918000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Epidemic size of novel coronavirus-infected pneumonia in the Epicenter Wuhan: using data of five-countries\u2019 evacuation action"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7906-2797",
+        "authenticated-orcid": false,
+        "given": "Hongxin",
+        "family": "Zhao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3032-4113",
+        "authenticated-orcid": false,
+        "given": "Sailimai",
+        "family": "Man",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1464-8724",
+        "authenticated-orcid": false,
+        "given": "Bo",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7737-580X",
+        "authenticated-orcid": false,
+        "given": "Yi",
+        "family": "Ning",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.3",
+        "unstructured": "National Health Commission of People\u2019s Republic of China: Update on novel coronavirus\u2013infected pneumonia epidemic as of 24:00 on February 4. http://www.nhc.gov.cn/xcs/yqtb/202002/17a03704a99646ffad6807bc806f37a4.shtml. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.4",
+        "unstructured": "Health Commission of Hubei Province: Update on novel coronavirus\u2013infected pneumonia epidemic in Hubei Province as of 24:00 on February 4. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.5",
+        "unstructured": "World Health Organization: Statement on the second meeting of the international health regulations (2005) emergency committee regarding the outbreak of novel coronavirus (2019-ncov). https://www.who.int/zh/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov). accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.6",
+        "unstructured": "Wuhan Headquarters of Epidemic Prevention and Control of 2019-nCov Pneumonia: Notice of Epidemic Prevention and Control of 2019-nCov Pneumonia (No. 1). http://www.wuhan.gov.cn/hbgovinfo/zwgk_8265/tzgg/202001/t20200123_304065.html. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JRE , Cummings DAT , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020: 2020.01.23.20018549.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.9",
+        "unstructured": "Enhanced the 2019-nCoV quarantine guideline in Republic of Korea. 2020-02-03. https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&tag=&act=view&list_no=365953. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.10",
+        "unstructured": "24th case of novel Coronavirus has been confirmed in Republic of Korea. https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.11",
+        "unstructured": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-live-updates/2020/02/08/4fcbd584-49f5-11ea-9164-d3154ad8a5cd_story.html. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.12",
+        "unstructured": "Two people evacuated from the Chinese city of Wuhan to Germany have discovered a new Chinese coronavirus. http://engnews24h.com/in-germany-the-number-of-infected-people-has-increased-to-10/. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.13",
+        "unstructured": "Coronavirus: All 92 evacuated from Wuhan on Scoot flight being tested. https://www.straitstimes.com/singapore/all-92-evacuated-from-wuhan-on-scoot-flight-being-tested. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.14",
+        "unstructured": "https://www.france24.com/en/20200131-plane-carrying-french-citizens-out-of-virus-hit-wuhan-lands-in-south-of-france. accessed on Feb 8, 2020."
+      },
+      {
+        "key": "2020110711400723000_2020.02.12.20022285v1.15",
+        "unstructured": "Coronavirus tests on two French citizens evacuated from China turn out negative. Coronavirus: French evacuees from China test negative for virus. https://www.scmp.com/news/world/europe/article/3048638/coronavirus-french-authorities-say-20-people-evacuated-china. accessed on Feb 8, 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20022285",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:53Z",
+      "timestamp": 1768484033000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20022285"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.12.20022285",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

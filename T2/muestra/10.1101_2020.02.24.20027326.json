@@ -1,0 +1,363 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:11Z",
+      "timestamp": 1768546631673,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 33,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>288 cases have been confirmed out of China from January 3 to February 13, 2020. We collected and synthesized all available information on these cases from official sources and media. We analyzed importations that were successfully isolated and those leading to onward transmission. We modeled their number over time, in relation to the origin of travel (Hubei province, other Chinese provinces, other countries) and interventions. We characterized importations timeline to assess the rapidity of isolation, and epidemiologically linked clusters to estimate the rate of detection. We found a rapid exponential growth of importations from Hubei, combined with a slower growth from the other areas. We predicted a rebound of importations from South East Asia in the upcoming weeks. Time from travel to detection has considerably decreased since the first importation, however 6 cases out of 10 were estimated to go undetected. Countries outside China should be prepared for the possible emergence of several undetected clusters of chains of local transmissions.</jats:p>",
+    "DOI": "10.1101/2020.02.24.20027326",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T18:45:11Z",
+      "timestamp": 1582656311000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "Lessons learnt from 288 COVID-19 international cases: importations over time, effect of interventions, underdetection of imported cases"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Francesco",
+        "family": "Pinotti",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Laura",
+        "family": "Di Domenico",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ernesto",
+        "family": "Ortega",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marco",
+        "family": "Mancastroppa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Giulia",
+        "family": "Pullano",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9246-6195",
+        "authenticated-orcid": false,
+        "given": "Eugenio",
+        "family": "Valdano",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pierre-Yves",
+        "family": "Bo\u00eblle",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chiara",
+        "family": "Poletto",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Vittoria",
+        "family": "Colizza",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.1",
+        "unstructured": "World Health Organization (WHO). Coronavirus disease (COVID-2019) situation reports - 31. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.2",
+        "first-page": "145",
+        "volume": "41",
+        "author": "Novel Coronavirus Pneumonia Emergency Response Epidemiology Team",
+        "year": "2020",
+        "journal-title": "[The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi Zhonghua Liuxingbingxue Zazhi"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.30.20019844"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.4",
+        "unstructured": "World Health Organization (WHO) on Twitter: \u2018@DrTedros @_AfricanUnion @NCDCgov @AfricaCDC @JNkengasong @UN @antonioguterres @DrMikeRyan SThe increasing signs of transmission outside #China show that the window of opportunity we have for containing this #coronavirus is narrowing. We are calling on all countries to invest urgently in preparednessS-@DrTedros #COVID19\u2019 / Twitter. Twitter https://twitter.com/who/status/1231112868608823298."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.5",
+        "unstructured": "World Health Organization (WHO) on Twitter: \u2018@DrTedros @_AfricanUnion SAlthough the total number of #COVID19 cases outside #China remains relatively small, we are concerned about the number of cases with no clear epidemiological link, such as travel history to CN or contact with a confirmed caseS-@DrTedros #coronavirus\u2019 / Twitter. Twitter https://twitter.com/who/status/1231111164492419072."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.6",
+        "unstructured": "World Health Organisation. Coronavirus disease (COVID-19) technical guidance. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "542",
+        "DOI": "10.1016/S0140-6736(20)30374-3",
+        "article-title": "COVID-19: what is next for public health?",
+        "volume": "395",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.28.20019224"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0307506101"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.10",
+        "unstructured": "Rothe, C. et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N. Engl. J. Med. 0, null (2020)."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.11",
+        "unstructured": "Dorigatti, I. et al. Report 4: Severity of 2019-novel coronavirus (nCoV). 12."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.31.20019901"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.13",
+        "unstructured": "MRC Centre for Global Infectious Disease Analysis. Report 6: Relative sensitivity of international surveillance. https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.14",
+        "unstructured": "Salute, M. della. Covid-19 - Situazione in Italia e nel mondo. http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5338&area=nuovoCoronavirus&menu=vuoto."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.13.20022707"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.16",
+        "unstructured": "COVID-19 international cases as of Feb 13. https://docs.google.com/spreadsheets/d/1X_8KaA7l5B_JPpwwV3js1L6lgCRa3FoH-gMrTy2k4Gw/edit?usp=sharing."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.17",
+        "unstructured": "Rubin, D. B. Multiple Imputation for Nonresponse in Surveys. (Wiley-Interscience, 2004)."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.18",
+        "unstructured": "Business, S. P. and H. Z., CNN. Airlines around the world are suspending flights to China as the coronavirus spreads. CNN https://www.cnn.com/2020/01/29/business/british-airways-coronavirus/index.html."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.08.20021162"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.09.20021261"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.04.20020479"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.31.20019935"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.1186/s12879-016-1787-5",
+        "article-title": "Risk of MERS importation and onward transmission: a systematic review and analysis of cases reported to WHO",
+        "volume": "16",
+        "year": "2016",
+        "journal-title": "BMC Infect. Dis"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b2651"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4614-5474-8_2"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/currents.outbreaks.e6659013c1d7f11bdab6a20705d1e865"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.27",
+        "unstructured": "World Health Organization (WHO). Coronavirus disease (COVID-2019) situation reports - 32. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.28",
+        "unstructured": "COVID-19: guidance for staff in the transport sector. GOV.UK https://www.gov.uk/government/publications/covid-19-guidance-for-staff-in-the-transport-sector/covid-19-guidance-for-staff-in-the-transport-sector."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.29",
+        "unstructured": "The Times of Israel. Israel bans foreigners coming from East Asian countries over virus fears. https://www.timesofisrael.com/israel-bans-foreigners-coming-from-east-asian-countries-over-virus-fears/."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.30",
+        "unstructured": "Case definition and European surveillance for human infection with novel coronavirus (SARS-CoV-2). European Centre for Disease Prevention and Control https://www.ecdc.europa.eu/en/case-definition-and-european-surveillance-human-infection-novel-coronavirus-2019-ncov."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.31",
+        "unstructured": "World Health Organization (WHO). Global Surveillance for human infection with coronavirus disease (COVID-2019). https://www.who.int/publications-detail/global-surveillance-for-human-infection-with-novel-coronavirus-(2019-ncov)."
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.3390/jcm9020419",
+        "article-title": "The Rate of Underascertainment of Novel Coronavirus (2019-nCoV) Infection: Estimation Using Japanese Passengers Data on Evacuation Flights",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "J. Clin. Med"
+      },
+      {
+        "key": "2020110910201926000_2020.02.24.20027326v1.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1209",
+        "DOI": "10.1016/S0140-6736(09)61377-5",
+        "article-title": "How to maintain surveillance for novel influenza A H1N1 when there are too many cases to count",
+        "volume": "374",
+        "year": "2009",
+        "journal-title": "The Lancet"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027326",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:15Z",
+      "timestamp": 1768484055000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027326"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 33,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027326",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1371/journal.pmed.1003193",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:03:45Z",
+      "timestamp": 1768489425732,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 16,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              26
+            ]
+          ],
+          "date-time": "2020-01-26T00:00:00Z",
+          "timestamp": 1579996800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          31
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The 2019 novel coronavirus (2019-nCoV) have emerged from Wuhan, China. Studying the epidemic dynamics is crucial for further surveillance and control of the outbreak. We employed a Bayesian framework to infer the time-calibrated phylogeny and the epidemic dynamics represented by the effective reproductive number (\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>\n                    <jats:italic>e</jats:italic>\n                  </jats:sub>\n                  ) changing over time from 33 genomic sequences available from GISAID. The time of the most recent common ancestor (MRCA) was December 17, 2019 (95% HPD: December 7, 2019 \u2013 December 23, 2019). The median estimate of\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>\n                    <jats:italic>e</jats:italic>\n                  </jats:sub>\n                  shifted from 1.6 to 1.1 on around January 1, 2020. This study provides an early insight of the 2019-nCoV epidemic. However, due to limited amount of data, one should be cautious when interpreting the results at this stage.\n                </jats:p>",
+    "DOI": "10.1101/2020.01.25.919688",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2020-01-26T20:34:16Z",
+      "timestamp": 1580070856000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "MRCA time and epidemic dynamics of the 2019 novel coronavirus"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Chi",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Mei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1006650"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan J.F.-W. , Yuan S. , Kok K.-H. , To K.K.-W. , Chu H. , Yang J. , Xing F. , Liu J. , Yip C.C.-Y. , Poon R.W.-S. , Tsoi H.-W. , Lo S.K.-F. , Chan K.-H. , Poon V.K.-M. , Chan W.-M. , Ip J.D. , Cai J.-P. , Cheng V.C.-C. , Chen H. , Hui C.K.-M. , Yuen K.-Y. 2020. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.0040088"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.4",
+        "unstructured": "du Plessis L. , Pybus O. 2020. nCoV-2019 origin time estimates (research note)."
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh340"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.6",
+        "unstructured": "GISAID. 2020 Coronavirus. https://www.gisaid.org/CoV2020."
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02101694"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Q. , Guan X. , Wu P. , Wang X. , Zhou L. , Tong Y. , Ren R. , Leung K.S.M. , Lau E.H.Y. , Wong J.Y. , Xing X. , Xiang N. , Wu Y. , Li C. , Chen Q. , Li D. , Liu T. , Zhao J. , Liu M. , Tu W. , Chen C. , Jin L. , Yang R. , Wang Q. , Zhou S. , Wang R. , Liu H. , Luo Y. , Liu Y. , Shao G. , Li H. , Tao Z. , Yang Y. , Deng Z. , Liu B. , Ma Z. , Zhang Y. , Shi G. , Lam T.T.Y. , Wu J.T. , Gao G.F. , Cowling B.J. , Yang B. , Leung G.M. , Feng Z. 2020. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/sysbio/syy032"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10635150701420643"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1207965110"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang C. , Horby P.W. , Hayden F.G. , Gao G.F. 2020. A novel coronavirus outbreak of global health concern. The Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.13",
+        "unstructured": "World Health Organization (WHO). Novel Coronavirus \u2013 China. https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china."
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.14",
+        "unstructured": "World Health Organization (WHO). Coronavirus. https://www.who.int/health-topics/coronavirus."
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00160154"
+      },
+      {
+        "key": "2024080322321737000_2020.01.25.919688v3.16",
+        "unstructured": "Zhou P. , Yang X.-L. , Wang X.-G. , Hu B. , Zhang L. , Zhang W. , Si H.-R. , Zhu Y. , Li B. , Huang C.-L. , Chen H.-D. , Chen J. , Luo Y. , Guo H. , Jiang R.-D. , Liu M.-Q. , Chen Y. , Shen X.-R. , Wang X. , Zheng X.-S. , Zhao K. , Chen Q.-J. , Deng F. , Liu L.-L. , Yan B. , Zhan F.-X. , Wang Y.-Y. , Xiao G. , Shi Z.-L. 2020. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.25.919688",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:01Z",
+      "timestamp": 1768435021000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.25.919688"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1101/2020.01.25.919688",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

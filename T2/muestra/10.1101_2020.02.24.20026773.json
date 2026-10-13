@@ -1,0 +1,262 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:30Z",
+      "timestamp": 1768549230303,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>The outbreak of the novel coronavirus disease, COVID-19, originating from Wuhan, China in early December, has infected more than 70,000 people in China and other countries and has caused more than 2,000 deaths. As the disease continues to spread, the biomedical society urgently began identifying effective approaches to prevent further outbreaks. Through rigorous epidemiological analysis, we characterized the fast transmission of COVID-19 with a basic reproductive number 5.6 and proved a sole zoonotic source to originate in Wuhan. No changes in transmission have been noted across generations. By evaluating different control strategies through predictive modeling and Monte carlo simulations, a comprehensive quarantine in hospitals and quarantine stations has been found to be the most effective approach. Government action to immediately enforce this quarantine is highly recommended.</jats:p>",
+    "DOI": "10.1101/2020.02.24.20026773",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:06:30Z",
+      "timestamp": 1582661190000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Characterizing the transmission and identifying the control strategy for COVID-19 through epidemiological modeling"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Huijuan",
+        "family": "Zhou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Chengbin",
+        "family": "Xue",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guannan",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lauren",
+        "family": "Lawless",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Linglin",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ke K.",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1002/jmv.25688",
+        "article-title": "The 2019-new coronavirus epidemic: Evidence for virus evolution",
+        "volume": "92",
+        "year": "2020",
+        "journal-title": "J Med Virol"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.2",
+        "first-page": "1884",
+        "article-title": "Epidemiology",
+        "volume": "300",
+        "year": "2003",
+        "journal-title": "Modeling the SARS epidemic. Science"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-micro-020518-115759"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guan, W.-j. , Ni, Z.-y. , Hu, Y. , Liang, W.-h. , Ou, C.-q. , He, J.-x. , Liu, L. , Shan, H. , Lei, C.-l. , Hui, D.S. , et al. (2020). Clinical characteristics of 2019 novel coronavirus infection in China. 2020.2002.2006.20020974.",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kandeil, A. , Gomaa, M. , Nageh, A. , Shehata, M.M. , Kayed, A.E. , Sabir, J.S.M. , Abiadh, A. , Jrijer, J. , Amr, Z. , Said, M.A. , et al. (2019). Middle East Respiratory Syndrome Coronavirus (MERS-CoV) in Dromedary Camels in Africa and Middle East. Viruses 11.",
+        "DOI": "10.3390/v11080717"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, Q. , Guan, X. , Wu, P. , Wang, X. , Zhou, L. , Tong, Y. , Ren, R. , Leung, K.S.M. , Lau, E.H.Y. , Wong, J.Y. , et al. (2020). Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02389-06"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1016/j.meegid.2019.03.001",
+        "article-title": "Molecular epidemiology, evolution and phylogeny of SARS coronavirus",
+        "volume": "71",
+        "year": "2019",
+        "journal-title": "Infect Genet Evol"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0018558"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1186/s40169-020-00271-z",
+        "article-title": "2019 novel coronavirus of pneumonia in Wuhan, China: emerging attack and management strategies",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Clin Transl Med"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, J.T. , Leung, K. , and Leung, G.M. (2020). Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang, Y. , Lu, Q. , Liu, M. , Wang, Y. , Zhang, A. , Jalali, N. , Dean, N. , Longini, I. , Halloran, M.E. , Xu, B. , et al. (2020). Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. 2020.2002.2010.20021675.",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2020110909550582000_2020.02.24.20026773v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou, T. , Liu, Q. , Yang, Z. , Liao, J. , Yang, K. , Bai, W. , Lu, X. , and Zhang, W. (2020). Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV. J Evid Based Med.",
+        "DOI": "10.1111/jebm.12376"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20026773",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:14Z",
+      "timestamp": 1768484054000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20026773"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.24.20026773",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

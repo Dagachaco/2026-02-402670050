@@ -1,0 +1,251 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2026-02-16T19:09:53Z",
+      "timestamp": 1771268993609,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 12,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The 2019-nCoV outbreak in Wuhan, China has attracted world-wide attention. As of February 11, 2020, a total of 44730 cases of novel coronavirus-infected pneumonia associated with COVID-19 were confirmed by the National Health Commission of China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Three approaches, namely Poisson likelihood-based method (ML), exponential growth rate-based method (EGR) and stochastic Susceptible-Infected-Removed dynamic model-based method (SIR), were implemented to estimate the basic and controlled reproduction numbers.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>A total of 71 chains of transmission together with dates of symptoms onset and 67 dates of infections were identified among 5405 confirmed cases outside Hubei as reported by February 2, 2020. Based on this information, we find the serial interval having an average of 4.41 days with a standard deviation of 3.17 days and the infectious period having an average of 10.91 days with a standard deviation of 3.95 days.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>\n                    The controlled reproduction number is declining. It is lower than one in most regions of China, but is still larger than one in Hubei Province. Sustained efforts are needed to further reduce the\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>c</jats:italic>\n                    </jats:sub>\n                    to below one in order to end the current epidemic.\n                  </jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.08.20021253",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T16:14:23Z",
+      "timestamp": 1581437663000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 43,
+    "title": [
+      "Estimation of the Time-Varying Reproduction Number of COVID-19 Outbreak in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Chong",
+        "family": "You",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yuhao",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenjie",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiarui",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiushi",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Feng",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Cheng Heng",
+        "family": "Pang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhengchao",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiao-Hua",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang, C. , Wang, Y. , Li, X. , Ren, L. , Zhao, J. , Hu, Y. , \u2026 & Cheng, Z. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, C. , Horby, P. W. , Hayden, F. G. , & Gao, G. F. (2020). A novel coronavirus outbreak of global health concern. The Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.4",
+        "unstructured": "Anderson, R. M. , Anderson, B. , & May, R. M. (1992). Infectious diseases of humans: dynamics and control. Oxford university press."
+      },
+      {
+        "key": "#cr-split#-2020110616101633000_2020.02.08.20021253v2.5.1",
+        "unstructured": "Nikbakht, R. , Baneshi, M. R. , Bahrampour, A. , & Hosseinnataj, A. (2019). Comparison of methods to Estimate Basic Reproduction Number"
+      },
+      {
+        "key": "#cr-split#-2020110616101633000_2020.02.08.20021253v2.5.2",
+        "unstructured": "(R0) of influenza, Using Canada 2009 and 2017-18 A (H1N1) Data. Journal of research in medical sciences: the official journal of Isfahan University of Medical Sciences, 24."
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3136"
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.8",
+        "unstructured": "King Aaron A. , Domenech de Cell\u00e8s Matthieu , Magpantay Felicia M. G. and Rohani Pejman . (2015). Avoidable errors in the modelling of outbreaks of emerging pathogens, with special reference to Ebola. Proc. R. Soc. B. 282"
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1410597112"
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.10",
+        "unstructured": "King, A. A. , Ionides, E. L. , Bret\u00f3, C. M. , Ellner, S. , Kendall, B. , Wearing, H. , Ferrari, M. J. , Lavine, M. & Reuman, D. C. (2010). pomp: Statistical inference for partially observed Markov processes (R package)."
+      },
+      {
+        "key": "2020110616101633000_2020.02.08.20021253v2.11",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China, http://www.nhc.gov.cn/xcs/zhengcwj/list_gzbd.shtml"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.20021253",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:48Z",
+      "timestamp": 1768484028000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.08.20021253"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 12,
+    "URL": "https://doi.org/10.1101/2020.02.08.20021253",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.ijheh.2020.113555",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

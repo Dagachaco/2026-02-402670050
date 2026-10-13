@@ -1,0 +1,215 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:51:28Z",
+      "timestamp": 1768488688493,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Genetics",
+    "reference-count": 8,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              2
+            ]
+          ],
+          "date-time": "2020-02-02T00:00:00Z",
+          "timestamp": 1580601600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Using a method for pathogen screening in DNA synthesis orders, we have identified a number of amino acid sequences that distinguish 2019-nCoV (Wuhan Coronavirus) from all other known viruses in\n                  <jats:italic>Coronaviridae</jats:italic>\n                  . We find three main regions of unique sequence: two in the 1ab polyprotein QHO60603.1, one in surface glycoprotein QHO60594.1.\n                </jats:p>",
+    "DOI": "10.1101/2020.01.31.929497",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2020-02-03T02:35:10Z",
+      "timestamp": 1580697310000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Highly Distinguished Amino Acid Sequences of 2019-nCoV (Wuhan Coronavirus)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1663-5102",
+        "authenticated-orcid": false,
+        "given": "Jacob",
+        "family": "Beal",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Thomas",
+        "family": "Mitchell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Daniel",
+        "family": "Wyschogrod",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jeff",
+        "family": "Manthey",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Adam",
+        "family": "Clore",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N Zhu , D Zhang , W Wang , X Li , B Yang , J Song , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England Journal of Medicine. 2020 Jan 24.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.2",
+        "unstructured": "J Beal , D Wyschogrod , T Mitchell , S Katz , J Manthey , A Clore . Applicability of FAST-NA to Nucleic Acid Screening. Final Report on Intelligence Advanced Research Projects Activity Contract No. 2018\u201317110300002, Feb 2019."
+      },
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.3",
+        "unstructured": "S Adali , A Adler , J Bader , J Grothendieck , T Mitchell , A Persikov , et al. Towards Detection of Engineering in Metagenomic Sequencing Data for Yeast and Other Fungi, In International Workshop on BioDesign Automation, 2019."
+      },
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D Wyschogrod , J Dezso . False alarm reduction in automatic signature generation for zero-day attacks. In 2nd Cyberspace Research Workshop, 2009.",
+        "DOI": "10.1145/1558607.1558640"
+      },
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.5",
+        "unstructured": "K Queen , Y Tao , Y Li , CR Paden , X Lu , B Lynch , et al. Full genome sequence of first U.S. case of nCoV-2019. Submitted (24-JAN-2020) Division of Viral Diseases, Centers for Disease Control and Prevention, 1600 Clifton Rd NE, Atlanta, GA"
+      },
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "JF-W Chan , S Yuan , KH Kok , KK-W To , H Chu , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet (2020) In press",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.7",
+        "unstructured": "R Buathong , S Wacharapluesadee , S Lamsirithawon , W Chaifoo , T Ponpinit , Y Joyjinda, Y , et al. Direct Submission. Submitted (19-JAN-2020) Faculty of Medicine, Chulalongkorn University, Rama IV Rd, Bangkok 10330, Thailand"
+      },
+      {
+        "key": "2024080318265533000_2020.01.31.929497v1.8",
+        "unstructured": "F Wu , S Zhao , B Yu , Y-M Chen , W Wang , Y Hu , et al. A novel coronavirus associated with a respiratory disease in Wuhan of Hubei province, China. Submitted (05-JAN-2020) Shanghai Public Health Clinical Center & School of Public Health, Fudan University, Shanghai, China."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.31.929497",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:58:50Z",
+      "timestamp": 1768435130000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.31.929497"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 8,
+    "URL": "https://doi.org/10.1101/2020.01.31.929497",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

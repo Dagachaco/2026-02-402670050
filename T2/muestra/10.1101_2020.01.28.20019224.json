@@ -1,0 +1,258 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          14
+        ]
+      ],
+      "date-time": "2026-04-14T02:25:13Z",
+      "timestamp": 1776133513922,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 17,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Traveller screening is being used to limit further global spread of 2019 novel coronavirus (nCoV) following its recent emergence. Here, we project the impact of different travel screening programs given remaining uncertainty around the values of key nCoV life history and epidemiological parameters. Even under best-case assumptions, we estimate that screening will miss more than half of infected travellers. Breaking down the factors leading to screening successes and failures, we find that most cases missed by screening are fundamentally undetectable, because they have not yet developed symptoms and are unaware they were exposed. These findings emphasize the need for measures to track travellers who become ill after being missed by a travel screening program. We make our model available for interactive use so stakeholders can explore scenarios of interest using the most up-to-date information. We hope these findings contribute to evidence-based policy to combat the spread of nCoV, and to prospective planning to mitigate future emerging pathogens.</jats:p>",
+    "DOI": "10.1101/2020.01.28.20019224",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2020-01-30T17:55:13Z",
+      "timestamp": 1580406913000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Estimated effectiveness of traveller screening to prevent international spread of 2019 novel coronavirus (2019-nCoV)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9369-6371",
+        "authenticated-orcid": false,
+        "given": "Katelyn M.",
+        "family": "Gostic",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ana C. R.",
+        "family": "Gomez",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4542-3483",
+        "authenticated-orcid": false,
+        "given": "Riley O.",
+        "family": "Mummah",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Adam J.",
+        "family": "Kucharski",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7941-502X",
+        "authenticated-orcid": false,
+        "given": "James O.",
+        "family": "Lloyd-Smith",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.27.20018986"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.2",
+        "first-page": "1",
+        "article-title": "International travels and fever screening during epidemics: A literature review on the effectiveness and potential use of non-contact infrared thermometers",
+        "volume": "14",
+        "year": "2009",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-10-82"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.05564"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.8",
+        "unstructured": "Imai N , Cori A , Dorigatti I , Baguelin M , Donnelly CA , Riley S , Neil M. 2019. Report 3: Transmissibility of 2019-nCoV. London."
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.9",
+        "unstructured": "Kucharski AJ , Russell T , Diamond C , Funk S , Eggo R. n.d. Analysis of early transmission of 2019-nCoV and implications for outbreaks in new locations."
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu T , Hu J , Kang M , Lin L , Zhong H , Xiao J , He G , Song T , Huang Q , Rong Z , Deng A , Zeng W , Tan X , Zeng S , Zhu Z , Li J , Wan D , Lu J , Deng H , He J , Ma W. 2020. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv 1\u201313.",
+        "DOI": "10.2139/ssrn.3526307"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0014490"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riou J , Althaus CL . 2020. Pattern of early human-to-human transmission of Wuhan 2019-nCoV. bioRxiv 1\u20136.",
+        "DOI": "10.1101/2020.01.23.917351"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.puhe.2015.07.023"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.16",
+        "unstructured": "World Health Organization. n.d. Novel coronavirus (2019-nCov) Situation Report 12. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200201-sitrep-12-ncov.pdf?sfvrsn=273c5d35_2"
+      },
+      {
+        "key": "2020110411550888000_2020.01.28.20019224v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.28.20019224",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:35Z",
+      "timestamp": 1768484015000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.28.20019224"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.1101/2020.01.28.20019224",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.7554/elife.55570",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

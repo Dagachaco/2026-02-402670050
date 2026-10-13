@@ -1,0 +1,240 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2026-04-03T22:05:37Z",
+      "timestamp": 1775253937154,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Since late December 2019 a new epidemic outbreak has emerged from Whuhan, China. Rapidly the new coronavirus has spread worldwide. China CDC has reported results of a descriptive exploratory analysis of all cases diagnosed until the 11th February 2020, presenting the epidemiologic curves and geo-temporal spread of COVID-19 along with case fatality rate according to some baseline characteristics, such as age, gender and several well-established high prevalence comorbidities. Despite this, we intend to increase even further the predictive value of that manuscript by presenting the odds ratio for mortality due to COVID-19 adjusted for the presence of those comorbidities and baseline characteristics such as age and gender. Besides, we present a way to determine the risk of each particular patient, given his characteristics.</jats:p>\n                <jats:p>We found that age is the variable that presents higher risk of COVID-19 mortality, where 60 or older patients have an OR = 18.8161 (CI95%[7.1997; 41.5517]). Regarding comorbidities, cardiovascular disease appears to be the riskiest (OR= 12.8328 CI95%[10.2736; 15.8643], along with chronic respiratory disease (OR=7.7925 CI95%[5.5446; 10.4319]). Males are more likely to die from COVID-19 (OR=1.8518 (CI95%[1.5996; 2.1270]). Some limitations such as the lack of information about the correct prevalence of gender per age or about comorbidities per age and gender or the assumption of independence between risk factors are expected to have a small impact on results. A final point of paramount importance is that the equation presented here can be used to determine the probability of dying from COVID-19 for a particular patient, given its age interval, gender and comorbidities associated.</jats:p>",
+    "DOI": "10.1101/2020.02.24.20027268",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T18:55:13Z",
+      "timestamp": 1582656913000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 146,
+    "title": [
+      "Estimation of risk factors for COVID-19 mortality - preliminary results"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "F",
+        "family": "Caramelo",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "N",
+        "family": "Ferreira",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "B",
+        "family": "Oliveiros",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.1",
+        "unstructured": "World Health Organization. Novel coronavirus \u2013 China. Geneva, Switzerland: World Health Organization 2020. https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/."
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "727",
+        "DOI": "10.1056/NEJMoa2001017",
+        "article-title": "A novel coronavirus from patients with pneumonia in China, 2019",
+        "volume": "382",
+        "year": "2020",
+        "journal-title": "N Engl J Med. N Engl J Med"
+      },
+      {
+        "issue": "1",
+        "key": "2020110911082250000_2020.02.24.20027268v1.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1080/22221751.2020.1719902",
+        "article-title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Emerg Microbs Infect"
+      },
+      {
+        "issue": "4",
+        "key": "2020110911082250000_2020.02.24.20027268v1.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.46234/ccdcw2020.017",
+        "article-title": "A novel coronavirus genome identified in a cluster of pneumonia cases\u2014Wuhan, China 2019-2020",
+        "volume": "2",
+        "year": "2020",
+        "journal-title": "China CDC Weekly"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paules CI , Marston HD , Fauci AS . Coronavirus infection\u2014more than just the common cold. JAMA, Jan 2020. http://dx.doi.org/10.1001/jama.2020.0757.",
+        "DOI": "10.1001/jama.2020.0757"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp2000929"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0254-6450.2020.02.003"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.12",
+        "unstructured": "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 [consulted on 2020-02-24]"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.13",
+        "unstructured": "World Health Organization. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). Geneva, Switzerland: World Health Organization. https://www.who.int/newsroom/detail/30-01-2020-statement-on-the-second-meeting-of-theinternational-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov). [2020-01-30]"
+      },
+      {
+        "issue": "3",
+        "key": "2020110911082250000_2020.02.24.20027268v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "114876",
+        "DOI": "10.1016/j.diagmicrobio.2019.114876",
+        "article-title": "The risk factors associated with MERS-CoV patient fatality: A global survey",
+        "volume": "96",
+        "year": "2020",
+        "journal-title": "Diagnostic Microbiology and Infectious Disease"
+      },
+      {
+        "key": "2020110911082250000_2020.02.24.20027268v1.15",
+        "unstructured": "R Core Team (2017). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027268",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:14Z",
+      "timestamp": 1768484054000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027268"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027268",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

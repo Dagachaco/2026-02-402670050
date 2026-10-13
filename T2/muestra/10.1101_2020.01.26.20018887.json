@@ -1,0 +1,252 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:06:26Z",
+      "timestamp": 1768547186318,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>Virological tests indicate that a novel coronavirus is the most likely explanation for the 2019-20 pneumonia outbreak in Wuhan, China. We demonstrate that non-virological descriptive characteristics could have determined that the outbreak is caused by a novel pathogen in advance of virological testing.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Characteristics of the ongoing outbreak were collected in real time from two medical social media sites. These were compared against characteristics of ten existing pathogens that can induce atypical pneumonia. The probability that the current outbreak is due to \u201cDisease X\u201d (i.e., previously unknown etiology) as opposed to one of the known pathogens was inferred, and this estimate was updated as the outbreak continued.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The probability that Disease X is driving the outbreak was assessed as over 32% on 31 December 2019, one week before virus identification. After some specific pathogens were ruled out by laboratory tests on 5 Jan 2020, the inferred probability of Disease X was over 59%.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>We showed quantitatively that the emerging outbreak of atypical pneumonia cases is consistent with causation by a novel pathogen. The proposed approach, that uses only routinely-observed non-virological data, can aid ongoing risk assessments even before virological test results become available.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.26.20018887",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2020-01-28T16:45:04Z",
+      "timestamp": 1580229904000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Epidemiological identification of a novel infectious disease in real time: Analysis of the atypical pneumonia outbreak in Wuhan, China, 2019-20"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0787-4515",
+        "authenticated-orcid": false,
+        "given": "Sung-mok",
+        "family": "Jung",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0116-4598",
+        "authenticated-orcid": false,
+        "given": "Ryo",
+        "family": "Kinoshita",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8545-5212",
+        "authenticated-orcid": false,
+        "given": "Robin N.",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Katsuma",
+        "family": "Hayashi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5464-0076",
+        "authenticated-orcid": false,
+        "given": "Natalie M.",
+        "family": "Linton",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5271-7132",
+        "authenticated-orcid": false,
+        "given": "Yichi",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3269-7351",
+        "authenticated-orcid": false,
+        "given": "Andrei R.",
+        "family": "Akhmetzhanov",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0941-8537",
+        "authenticated-orcid": false,
+        "given": "Hiroshi",
+        "family": "Nishiura",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/j.jtbi.2013.12.024",
+        "article-title": "Probabilistic differential diagnosis of Middle East respiratory syndrome (MERS) using the time from immigration to illness onset among imported cases",
+        "volume": "346",
+        "year": "2014",
+        "journal-title": "Journal of Theoretical Biology"
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.2",
+        "unstructured": "European Centers for Disease Control and Prevention. Pneumonia cases possibly associated with a novel coronavirus in Wuhan, China. https://www.ecdc.europa.eu/en/publications-data/pneumonia-cases-possibly-associated-novel-coronavirus-wuhan-china, 2020 (accessed 14 Jan 2020)."
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.3",
+        "unstructured": "Flutracker. https://flutrackers.com/forum/forum/china-other-health-threats/china-emerging-diseases-other-health-threats/821830-china-41-diagnosed-viral-pneumonia-coronavirus-cases-in-wuhan-hubei-province-december-30-2019-1-fatal-case-739-screened-so-far-including-419-hcw, 2020, (accessed 14 Jan 2020)."
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.4",
+        "unstructured": "ProMED. https://promedmail.org/, 2020, (accessed 14 Jan 2020)."
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1002203"
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Mizumoto K , Ejima K , Zhong Y , Cowling B , Omori R. Incubation period as part of the case definition of severe respiratory illness caused by a novel coronavirus. Euro Surveill. 2012;17(42).",
+        "DOI": "10.2807/ese.17.42.20296-en"
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aba7672"
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aba8542"
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.9",
+        "unstructured": "World Health Organization. WHO Statement Regarding Cluster of Pneumonia Cases in Wuhan, China. World Health Organization: China. https://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china, 2020 (accessed 14 Jan 2020)."
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.10",
+        "unstructured": "Wuhan Municipal Health Commission. Wuhan Municipal Health Commission\u2019s briefing on the current pneumonia epidemic. http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989, 2019 (accessed 14 Jan 2020)."
+      },
+      {
+        "key": "2020110412050761000_2020.01.26.20018887v2.11",
+        "unstructured": "Wuhan Municipal Health Commission, Wuhan Municipal Health and Health Committee\u2019s Report on Unexplained Viral Pneumonia. http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017, 2020 (accessed 14 Jan 2020)"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.26.20018887",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:32Z",
+      "timestamp": 1768484012000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.26.20018887"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.01.26.20018887",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3390/jcm9030637",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

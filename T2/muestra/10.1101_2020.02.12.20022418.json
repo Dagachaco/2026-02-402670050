@@ -1,0 +1,287 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2026-04-01T03:05:46Z",
+      "timestamp": 1775012746569,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Urology",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>In December 2019 and January 2020, novel coronavirus (2019-nCoV) - infected pneumonia (NCIP) occurred in Wuhan, and has already posed a serious threat to public health. ACE2 (Angiotensin Converting Enzyme 2) has been shown to be one of the major receptors that mediate the entry of 2019-nCoV into human cells, which also happens in severe acute respiratory syndrome coronavirus (SARS). Several researches have indicated that some patients have abnormal renal function or even kidney damage in addition to injury in respiratory system, and the related mechanism is unknown. This arouses our interest in whether coronavirus infection will affect the urinary and male reproductive systems. Here in this study, we used the online datasets to analyze ACE2 expression in different human organs. The results indicate that ACE2 highly expresses in renal tubular cells, Leydig cells and cells in seminiferous ducts in testis. Therefore, virus might directly bind to such ACE2 positive cells and damage the kidney and testicular tissue of patients. Our results indicate that renal function evaluation and special care should be performed in 2019-nCoV patients during clinical work, because of the kidney damage caused by virus and antiviral drugs with certain renal toxicity. In addition, due to the potential pathogenicity of the virus to testicular tissues, clinicians should pay attention to the risk of testicular lesions in patients during hospitalization and later clinical follow-up, especially the assessment and appropriate intervention in young patients\u2019 fertility.</jats:p>",
+    "DOI": "10.1101/2020.02.12.20022418",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T15:05:19Z",
+      "timestamp": 1581606319000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 179,
+    "title": [
+      "ACE2 Expression in Kidney and Testis May Cause Kidney and Testis Damage After 2019-nCoV Infection"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Caibin",
+        "family": "Fan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Kai",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanhong",
+        "family": "Ding",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0709-9694",
+        "authenticated-orcid": false,
+        "given": "Jianqing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.1",
+        "unstructured": "Li, Q. , et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med, 2020."
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan, J.F. , et al., A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet, 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gralinski, L.E. and V.D. Menachery , Return of the Coronavirus: 2019-nCoV. Viruses, 2020. 12(2).",
+        "DOI": "10.3390/v12020135"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chai, X. , et al., Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCoV Infection. bioRxiv, 2020: p. 2020.02.03.931766.",
+        "DOI": "10.1101/2020.02.03.931766"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Letko, M.C. and V. Munster , Functional assessment of cell entry and receptor usage for lineage B \u03b2-coronaviruses, including 2019-nCoV. bioRxiv, 2020.",
+        "DOI": "10.1101/2020.01.22.915660"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.6",
+        "unstructured": "Zhou, P. , et al., Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv, 2020."
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2007.04.035"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0908837106"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.2067"
+      },
+      {
+        "issue": "12",
+        "key": "2020110711101010000_2020.02.12.20022418v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "9180",
+        "DOI": "10.1128/JVI.71.12.9180-9187.1997",
+        "article-title": "Distinct pathogenic effects of group B coxsackieviruses on human glomerular and tubular kidney cells",
+        "volume": "71",
+        "year": "1997",
+        "journal-title": "J Virol"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.stem.2016.03.012"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.2147/OV.S218494",
+        "article-title": "Virus-Receptor Interactions: Structural Insights For Oncolytic Virus Development",
+        "volume": "8",
+        "year": "2019",
+        "journal-title": "Oncolytic Virother"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, N. , et al., Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet, 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.14",
+        "unstructured": "Huang, C. , et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020."
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1260419"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature11003"
+      },
+      {
+        "issue": "1",
+        "key": "2020110711101010000_2020.02.12.20022418v1.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1038/s41597-019-0351-8",
+        "article-title": "Single-cell RNA sequencing of human kidney",
+        "volume": "7",
+        "year": "2020",
+        "journal-title": "Sci Data"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Luo, G.G. and S.J. Gao , Global Health Concern Stirred by Emerging Viral Infections. J Med Virol, 2020.",
+        "DOI": "10.1002/jmv.25683"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MMBR.65.2.208-231.2001"
+      },
+      {
+        "key": "2020110711101010000_2020.02.12.20022418v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1095/biolreprod.105.044776"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20022418",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:53Z",
+      "timestamp": 1768484033000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20022418"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.12.20022418",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3389/fmed.2020.563893",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

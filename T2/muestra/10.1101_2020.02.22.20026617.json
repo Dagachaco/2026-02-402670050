@@ -1,0 +1,405 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:01Z",
+      "timestamp": 1768546621643,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>A respiratory illness has been spreading rapidly in China, since its outbreak in Wuhan city, Hubei province in December 2019. The illness was caused by a novel coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Clinical manifestations related to SARS-CoV-2 infection ranged from no symptom to fatal pneumonia. World Health Organization (WHO) named the diseases associated with SARS-CoV-2 infection as COVID-19. Real time RT-PCR is the only laboratory test available till now to confirm the infection. However, the accuracy of real time RT-PCR depends on many factors, including sampling location and of methods, quality of RNA extraction and training of operators etc.. Variations in these factors might significantly lower the sensitivity of the detection. We developed a peptide-based luminescent immunoassay to detect IgG and IgM. Cut-off value of this assay was determined by the detection of 200 healthy sera and 167 sera from patients infected with other pathogens than SARS-CoV-2. To evaluate the performance of this assay, we detected IgG and IgM in the 276 sera from confirmed patients. The positive rate of IgG and IgM were 71.4% (197/276) and 57.2% (158/276) respectively. By combining with real time RT-PCR detection, this assay might help to enhance the accuracy of diagnosis of SARS-CoV-2 infection.</jats:p>",
+    "DOI": "10.1101/2020.02.22.20026617",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T19:35:13Z",
+      "timestamp": 1582659313000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "A Peptide-based Magnetic Chemiluminescence Enzyme Immunoassay for Serological Diagnosis of Corona Virus Disease 2019 (COVID-19)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Xue-fei",
+        "family": "Cai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Juan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie-li",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Quan-xin",
+        "family": "Long",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hai-jun",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kai",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pu",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bei-zhong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gui-cheng",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yao-kai",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhi-jie",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiao-li",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen-guang",
+        "family": "Tian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiang-lin",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hong-xin",
+        "family": "Du",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuan",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ni",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ji-hua",
+        "family": "Ren",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lu-yi",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-yang",
+        "family": "Gan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan-meng",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qing-zhu",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A-mei",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chang-long",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dao-Xin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fa-Chun",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ai-long",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ping",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "De-qiang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alexander E. Gorbalenya SCB , Ralph S. Baric , et al. Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group. medRxiv. 2020. doi: https://doi.org/10.1101/2020.02.07.937862.",
+        "DOI": "10.1101/2020.02.07.937862"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.2",
+        "unstructured": "WHO. 2020. Available from: https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wei-jie Guan Z-yN , Yu Hu , et. al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv. 2020. doi: http://dx.doi.org/10.1101/2020.02.06.20020974.",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang Yang Q-BL , Ming-Jin Liu , et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv. 2020. doi: https://doi.org/10.1101/2020.02.10.20021675.",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.9",
+        "unstructured": "WHO. Coronavirus disease 2019 (COVID-19) Situation Report \u2013 23. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200212-sitrep-23-ncov.pdf?sfvrsn=41e9fb78_2"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/22221751.2020.1719902"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.43.7.3054-3058.2005"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/civ951"
+      },
+      {
+        "key": "2020110912100579000_2020.02.22.20026617v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.41.10.4521-4524.2003"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.22.20026617",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:11Z",
+      "timestamp": 1768484051000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.22.20026617"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.22.20026617",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1093/infdis/jiaa243",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

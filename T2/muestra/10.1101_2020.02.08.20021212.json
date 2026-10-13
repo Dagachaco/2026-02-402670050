@@ -1,0 +1,431 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2026-03-23T10:56:13Z",
+      "timestamp": 1774263373435,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 29,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>To date, large amounts of epidemiological and case study data have been available for the Coronavirus Disease 2019 (COVID-19), which suggested that the mortality was related to not just respiratory complications. Here, we specifically analyzed kidney functions in COVID-19 patients and their relations to mortality.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Method</jats:title>\n                  <jats:p>In this multi-centered, retrospective, observational study, we included 193 adult patients with laboratory-confirmed COVID-19 from 2 hospitals in Wuhan, 1 hospital in Huangshi (Hubei province, 83 km from Wuhan) and 1 hospital in Chongqing (754 km from Wuhan). Demographic data, symptoms, laboratory values, comorbidities, treatments, and clinical outcomes were all collected, including data regarding to kidney functions. Data were compared among three groups: non-severe COVID-19 patients (128), severe COVID-19 patients (65) and a control group of other pneumonia (28). For the data from computed tomographic (CT) scans, we also included a control group of healthy subjects (110 cases, without abnormalities in the lung and without kidney diseases). The primary outcome was a common presence of kidney dysfunctions in COVID-19 patients and the occurrence of acute kidney injury (AKI) in a fraction of COVID-19 patients. Secondary outcomes included a survival analysis of COVID-19 patients in conditions of AKI or comorbid chronic illnesses.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>\n                    We included 193 COVID-19 patients (128 non-severe, 65 severe (including 32 non-survivors), between January 6\n                    <jats:sup>th</jats:sup>\n                    and February 21\n                    <jats:sup>th</jats:sup>\n                    ,2020; the final date of follow-up was March 4\n                    <jats:sup>th</jats:sup>\n                    , 2020) and 28 patients of other pneumonia (15 of viral pneumonia, 13 of mycoplasma pneumonia) before the COVID-19 outbreak. On hospitaladmission, a remarkable fraction of patients had signs of kidney dysfunctions, including 59% with proteinuria, 44% with hematuria, 14% with increased levels of blood urea nitrogen, and 10% with increased levels of serum creatinine, although mild but worse than that in cases with other pneumonia. While these kidney dysfunctions might not be readily diagnosed as AKI at admission, over the progress during hospitalization they could be gradually worsened and diagnosed as AKI. A univariate Cox regression analysis showed that proteinuria, hematuria, and elevated levels of blood urea nitrogen, serum creatinine, uric acid as well as D-dimer were significantly associated with the death of COVID-19 patients respectively. Importantly, the Cox regression analysis also suggested that COVID-19 patients that developed AKI had a \u223c5.3-times mortality risk of those without AKI, much higher than that of comorbid chronic illnesses (\u223c1.5 times risk of those without comorbid chronic illnesses).\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>To prevent fatality in such conditions, we suggested a high degree of caution in monitoring the kidney functions of severe COVID-19 patients regardless of the past disease history. In addition, upon day-by-day monitoring, clinicians should consider any potential interventions to protect kidney functions at the early stage of the disease and renal replacement therapies in severely ill patients, particularly for those with strong inflammatory reactions or a cytokine storm.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>None.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.08.20021212",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T15:55:13Z",
+      "timestamp": 1581522913000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 195,
+    "title": [
+      "Caution on Kidney Dysfunctions of COVID-19 Patients"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhen",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ming",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiwei",
+        "family": "Yao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiang",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Siji",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiali",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guangjie",
+        "family": "Duan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuanxiu",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaojun",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhansong",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Taojiao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ming",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xianxiang",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Fu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chong",
+        "family": "Lei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hailong",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chuou",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yahua",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Min",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongbo",
+        "family": "Jia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaowei",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Junan",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11427-020-1661-4"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-2600(20)30079-5"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30558-4"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30566-3"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1523-1755.2005.67130.x"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/kisup.2012.1"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2012.5669"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1158/2326-6066.CIR-19-0476"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2214/ajr.182.5.1821251"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejrad.2011.02.029"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2214/ajr.176.4.1760965"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-2600(20)30076-X"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(20)30086-4"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00467-012-2386-3"
+      },
+      {
+        "issue": "1",
+        "key": "2020111110550562000_2020.02.08.20021212v2.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1038/nrneph.2015.158",
+        "article-title": "Mechanisms and mediators of lung injury after acute kidney injury",
+        "volume": "12",
+        "year": "2016",
+        "journal-title": "Nat Rev Nephrol"
+      },
+      {
+        "issue": "1",
+        "key": "2020111110550562000_2020.02.08.20021212v2.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/j.semnephrol.2018.10.001",
+        "article-title": "Pulmonary consequences of acute kidney injury",
+        "volume": "39",
+        "year": "2019",
+        "journal-title": "Semin Nephrol"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000259585"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "16004",
+        "DOI": "10.1038/nmicrobiol.2016.4",
+        "article-title": "MERS coronavirus induces apoptosis in kidney and lung by upregulating Smad7 and FGF2",
+        "volume": "1",
+        "year": "2016",
+        "journal-title": "Nat Microbiol"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.03.04.20031120v2"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2007.10.031"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/cc12743"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.08.20021212v1"
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.27",
+        "unstructured": "Chinese National Health Commission. COVID-19 treatment guidelines. (http://www.nhc.gov.cn/xcs/zhengcwj/202002/8334a8326dd94d329df351d7da8aefc2.shtml) 2020."
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.28",
+        "unstructured": "Wang D. A multicenter, randomized controlled trial for the efficacy and safety of tocilizumab in the treatment of new coronavirus pneumonia (COVID-19) (http://www.chictr.org.cn/showproj.aspx?proj=49409) 2020."
+      },
+      {
+        "key": "2020111110550562000_2020.02.08.20021212v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.12.945576v1"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.20021212",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:47Z",
+      "timestamp": 1768484027000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.08.20021212"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 29,
+    "URL": "https://doi.org/10.1101/2020.02.08.20021212",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

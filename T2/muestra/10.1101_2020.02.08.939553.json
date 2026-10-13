@@ -1,0 +1,466 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:27:58Z",
+      "timestamp": 1768487278411,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 34,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              12
+            ]
+          ],
+          "date-time": "2020-02-12T00:00:00Z",
+          "timestamp": 1581465600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>\n                  The outbreak of the 2019 Novel Coronavirus (SARS-CoV-2) rapidly spread from Wuhan, China to more than 150 countries, areas, or territories, causing staggering numbers of infections and deaths. In this study, bioinformatics analyses were performed on 5,568 complete genomes of SARS-CoV-2 virus to predict the T cell and B cell immunogenic epitopes of all viral proteins, which formed a systematic immune vulnerability landscape of SARS-CoV-2. The immune vulnerability and genetic variation profiles of SARS-CoV were compared with those of SARS-CoV and MERS-CoV. In addition, a web portal was developed to broadly share the data and results as a resource for the research community. Using this resource, we showed that genetic variations in SARS-CoV-2 are associated with loss of B cell immunogenicity, an increase in CD4\n                  <jats:sup>+</jats:sup>\n                  T cell immunogenicity, and a minimum loss in CD8\n                  <jats:sup>+</jats:sup>\n                  T cell immunogenicity, indicating the existence of a curious correlation between SARS-CoV-2 genetic evolutions and the immunity pressure from the host. Overall, we present an immunological resource for SARS-CoV-2 that could promote both therapeutic/vaccine development and mechanistic research.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.08.939553",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T23:35:16Z",
+      "timestamp": 1581550516000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "The immune vulnerability landscape of the 2019 Novel Coronavirus, SARS-CoV-2"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "James",
+        "family": "Zhu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jiwoong",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xue",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yunguan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Danni",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuang",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ran",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "He",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lenny",
+        "family": "Moise",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andres H.",
+        "family": "Gutierrez",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Anne S.",
+        "family": "De Groot",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guanghua",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "John W.",
+        "family": "Schoggins",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaowei",
+        "family": "Zhan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yang",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13059-016-0924-1"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.181.6.4168"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1186/s12929-018-0462-0",
+        "article-title": "Dengue virus non-structural protein 1: a pathogenic factor, therapeutic target, and vaccine candidate",
+        "volume": "25",
+        "year": "2018",
+        "journal-title": "J. Biomed. Sci"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01281-09"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-5-113"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh340"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-5-73"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.8",
+        "unstructured": "Galanis, K.A. , Nastou, K.C. , Papandreou, N.C. , Petichakis, G.N. , and Iconomidou, V.A. (2019). Linear B-cell epitope prediction: a performance review of currently available methods. BioRxiv."
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku1166"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1016/j.chom.2020.03.002",
+        "article-title": "A Sequence Homology and Bioinformatic Approach Can Predict Candidate Targets for Immune Responses to SARS-CoV-2",
+        "volume": "27",
+        "year": "2020",
+        "journal-title": "Cell Host Microbe"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.13",
+        "first-page": "e23",
+        "article-title": "Understanding the T cell immune response in SARS coronavirus infection. Emerg",
+        "volume": "1",
+        "year": "2012",
+        "journal-title": "Microbes Infect"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/imm.12889"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkx346"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.1700893"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1111",
+        "DOI": "10.1016/j.humimm.2016.10.005",
+        "article-title": "HLA-A, -B, -C, and -DRB1 genotyping and haplotype frequencies for a Hong Kong Chinese population of 7595 individuals",
+        "volume": "77",
+        "year": "2016",
+        "journal-title": "Hum. Immunol"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "108956",
+        "DOI": "10.1016/j.ejrad.2020.108956",
+        "article-title": "Asymptomatic SARS-CoV-2 infected patients with persistent negative CT findings",
+        "volume": "126",
+        "year": "2020",
+        "journal-title": "Eur. J. Radiol"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "2241",
+        "DOI": "10.1080/21645515.2015.1052197",
+        "article-title": "H7N9 T-cell epitopes that mimic human sequences are less immunogenic and may induce Treg-mediated tolerance",
+        "volume": "11",
+        "year": "2015",
+        "journal-title": "Hum. Vaccin. Immunother"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1038/s41541-018-0072-6",
+        "article-title": "Incorporation of NS1 and prM/M are important to confer effective protection of adenovirus-vectored Zika virus vaccine carrying E protein",
+        "volume": "3",
+        "year": "2018",
+        "journal-title": "Npj Vaccines"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1016/j.jhep.2014.08.026",
+        "article-title": "HCV epitope, homologous to multiple human protein sequences, induces a regulatory T cell response in infected patients",
+        "volume": "62",
+        "year": "2015",
+        "journal-title": "J. Hepatol"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)302518"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu, T. , Wang, S. , Xu, L. , Zhou, Q. , Singla, N. , Gao, J. , Manna, S. , Pop, L. , Xie, Z. , Chen, M. , et al. (2020b). Tumor neoantigenicity assessment with CSiN score incorporates clonality and immunogenicity to predict immunotherapy outcomes. Sci. Immunol. 5.",
+        "DOI": "10.1126/sciimmunol.aaz3199"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4161/hv.24615"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(20)30114-6"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-9525(00)02024-2"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1283",
+        "DOI": "10.1038/s41598-017-01372-5",
+        "article-title": "A humanized mouse model identifies key amino acids for low immunogenicity of H7N9 vaccines",
+        "volume": "7",
+        "year": "2017",
+        "journal-title": "Sci. Rep"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan, Y. , Shang, J. , Graham, R. , Baric, R.S. , and Li, F. (2020). Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus. J. Virol. 94.",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abb2507"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1016/j.chom.2020.02.001",
+        "article-title": "Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China",
+        "volume": "27",
+        "year": "2020",
+        "journal-title": "Cell Host Microbe"
+      },
+      {
+        "key": "2024080319190248000_2020.02.08.939553v3.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.939553",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:27Z",
+      "timestamp": 1768435227000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.08.939553"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 34,
+    "URL": "https://doi.org/10.1101/2020.02.08.939553",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

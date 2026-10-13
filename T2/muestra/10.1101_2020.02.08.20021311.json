@@ -1,0 +1,193 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:01:12Z",
+      "timestamp": 1768546872486,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 7,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          21
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Rapid assessment of the transmission potential of an emerging or reemerging pathogen is a cornerstone of public health response. A simple approach is shown for using the number of disease introductions and secondary cases to determine whether the upper bound of the reproduction number exceeds the critical value of one.</jats:p>",
+    "DOI": "10.1101/2020.02.08.20021311",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T16:29:16Z",
+      "timestamp": 1581438556000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Assessing the plausibility of supercritical transmission for an emerging or re-emerging pathogen"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5495-4238",
+        "authenticated-orcid": false,
+        "given": "Seth",
+        "family": "Blumberg",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Phoebe",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Thomas M",
+        "family": "Lietman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Travis C",
+        "family": "Porco",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021112321550449000_2020.02.08.20021311v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1177345"
+      },
+      {
+        "issue": "5",
+        "key": "2021112321550449000_2020.02.08.20021311v2.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1002993",
+        "DOI": "10.1371/journal.pcbi.1002993",
+        "article-title": "Inference of R0 and transmission heterogeneity from the size distribution of stuttering chains",
+        "volume": "9",
+        "year": "2013",
+        "journal-title": "PLoS Computational Biology"
+      },
+      {
+        "key": "2021112321550449000_2020.02.08.20021311v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2021112321550449000_2020.02.08.20021311v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biostatistics/4.2.279"
+      },
+      {
+        "key": "2021112321550449000_2020.02.08.20021311v2.5",
+        "unstructured": "Hawai\u2018i COVID-19 Daily News Digest July 8, 2020. Hawai\u2018i DOH: Info & Resources for Managing COVID-19. Published July 9, 2020. Accessed October 24, 2021. https://hawaiicovid19.com/hawaii-covid-19-daily-news-digest-july-8-2020/"
+      },
+      {
+        "key": "2021112321550449000_2020.02.08.20021311v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science"
+      },
+      {
+        "key": "2021112321550449000_2020.02.08.20021311v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.epidem.2013.05.002"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.20021311",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:48Z",
+      "timestamp": 1768484028000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.08.20021311"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 7,
+    "URL": "https://doi.org/10.1101/2020.02.08.20021311",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:08:13Z",
+      "timestamp": 1768547293962,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background and Objective</jats:title>\n                  <jats:p>To analyze the impact of different patterns of migration flow in two cities, Hefei and Shenzhen, on the epidemic and disease control of Coronavirus Disease 2019 (COVID-19), in order to provide insight for making differentiated controlling policies.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We collected demographic and epidemiological information of confirmed COVID-19 cases in Hefei and Shenzhen between January 19 and February 11, 2020, from data officially published by the provincial and municipal Centers for Disease Control and Prevention (CDC). From these data we calculated basic reproduction number R0 to reflect the rate of spread of COVID-19 in these cities. Aggregated data of population migration during the same period was extracted from Baidu Migration. The change of R0 in the two cites were analyzed and compared. Spearman correlation analysis between R0 and population inflow from epidemic focus were performed.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    A total of 157 confirmed cases was identified in Hefei by 24:00 February 11, 2020, with an average age of 44.4\u00b115.6 years, 74 female (47.1%) and 386 confirmed cases were identified in Shenzhen, with an average age of 45.15\u00b117.99 years, 202 female (52.3%). Significant difference in the proportion of imported cases between the two cities was observed (Hefei vs Shenzhen, 24.2% vs 74.9%,\n                    <jats:italic>p</jats:italic>\n                    =0.000). Before January 31 2020, during the initial stage of the Level 1 Response to Major Public Health Emergencies, there was no significant association observed in Shenzhen between R0 and the proportion of population inflow from the epidemic focus (\n                    <jats:italic>P</jats:italic>\n                    =0.260, r=-0.452); meanwhile in Hefei, such association was strong (\n                    <jats:italic>P</jats:italic>\n                    =0.000, r=1.0). However, after the initial stage of response, the situation reversed. A weak association was observed in Shenzhen between be R0 and the proportion of population inflow from the epidemic focus (\n                    <jats:italic>P</jats:italic>\n                    =0.073, r=0.536) but not in Hefei (\n                    <jats:italic>P</jats:italic>\n                    =0.498, r=0.217).\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Following Level 1 Response, consistent decline of R0 of COVID-19 was observed in both Hefei and Shenzhen. Different patterns of disease spread were observed in the two cities, driven by different patterns of population migration. This indicated that population migration should be taken into consideration when we set controlling policy of a novel infectious disease.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.18.20024661",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T18:35:14Z",
+      "timestamp": 1582223714000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Association of Population migration and Coronavirus Disease 2019 epidemic control"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1617-2125",
+        "authenticated-orcid": false,
+        "given": "Yu",
+        "family": "Ding",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8503-0310",
+        "authenticated-orcid": false,
+        "given": "Sihui",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8395-9476",
+        "authenticated-orcid": false,
+        "given": "Xueying",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9889-5812",
+        "authenticated-orcid": false,
+        "given": "Ping",
+        "family": "Ling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7203-6948",
+        "authenticated-orcid": false,
+        "given": "Tong",
+        "family": "Yue",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0958-9099",
+        "authenticated-orcid": false,
+        "given": "Zhirong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7889-1697",
+        "authenticated-orcid": false,
+        "given": "Jianping",
+        "family": "Weng",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41423-020-0372-4"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m308"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.6",
+        "unstructured": "[6] World Health Organization. WHO Emergencies Press Conference on novel coronavirus \u221211 February 2020. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/press-briefings."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.8",
+        "unstructured": "National Health Commission. The latest situation of COVID-19 by 12 February 2020. http://www.nhc.gov.cn/xcs/yqtb/202002/395f075a5f3a411f80335766c65b0487.shtml."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.9",
+        "unstructured": "National Health Commission. Answers about COVID-19 from experts. 21 Jaunary 2020. http://www.nhc.gov.cn/xcs/s7847/202001/8d735f0bb50b45af928d9944d16950c8.shtml."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.11",
+        "unstructured": "Wuhan People\u2019s Government. Prevention and Control Command Notice of COVID-19 in wuhan(No.1). 23 January 2020. http://www.gov.cn/xinwen/2020-01/23/content_5471751.htm."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.12",
+        "unstructured": "Xinhua news online. 30 provinces have decided to launch the Level 1 Response to Major Public Health Emergencies. 25 January 2020. http://www.xinhuanet.com/politics/2020-01/25/c_1125502232.htm."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, J. T. , Leung, K. & Leung, G. M. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet,2020, doi: https://doi.org/10.1016/S0140-6736(20)30260-9 (2020).",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tmaid.2020.101568"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2009.1605"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.16",
+        "unstructured": "Baidu Migration. http://qianxi.baidu.com/."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.17",
+        "unstructured": "Anhui Health Commission. Anhui province has decided to launch the Level 1 Response to Major Public Health Emergencies. 24 January 2020. http://wjw.ah.gov.cn/news_details_53958.html."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.18",
+        "unstructured": "Guangdong Health Commission. Guangdong province has decided to launch the Level 1 Response to Major Public Health Emergencies. 23 January 2020. http://www.gd.gov.cn/gdywdt/gdyw/content/post_2878901.html."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.19",
+        "unstructured": "Hefei Health Commission. http://wjw.hefei.gov.cn/ztzl/xxgzbdgrdfyyqfk/index.html."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.20",
+        "unstructured": "Shenzhen Health Commission. http://wjw.sz.gov.cn/yqxx/index_2.htm."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.21",
+        "unstructured": "National Health Commission. Diagnosis and treatment of COVID-19(Version 5, Temporary)."
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp2000929"
+      },
+      {
+        "key": "2020110811550768000_2020.02.18.20024661v1.23",
+        "unstructured": "Zhang, Epidemiological characteristics of novel coronavirus pneumonia. Chin J Epidemiol, February 2020, Vol.41, No.2."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20024661",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:04Z",
+      "timestamp": 1768484044000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20024661"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.18.20024661",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1007/s11427-020-1695-5",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

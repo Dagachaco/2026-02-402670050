@@ -1,0 +1,253 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:15:58Z",
+      "timestamp": 1768544158303,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Ophthalmology",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Purpose</jats:title>\n                  <jats:p>The 2019 novel coronavirus(COVID-19) mainly transmitted by person-to-person through inhalation of respiratory droplets. We report the laboratory results of conjunctival PCR-tests and some clinical features of these patients in shenyang China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>This is a cross-sectional non-randomized study</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Subjects</jats:title>\n                  <jats:p>The study include 14 confirmly diagnosed cases, 16 suspected cases and some medical observed patients.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>All patients with diagnosed and suspected COVID-19 were admitted to a designated hospital in Shenyang, China. We collected conjunctival samples of these patients to do the laboratory tests by real time RT-PCR. Medical observed patients were enrolled if they had clinical symptoms. Then we analysed the PCR results and clinical data from eletronic medical records in order to find some relationships.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Main Outcome Measures</jats:title>\n                  <jats:p>Clinical condition and PCR results. of conjunctival swabs compared with other specimens</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>One of the identified case coverted from suspected case without typical clinical symptoms. Twenty-two medical observed cases were removed because none of them converted to identified cases. One of the suspected converted to identified case recently. The included cases in our study are imported cases with less underlying diseases and the severity of their infection was relatively moderate. All the conjunctival results of PCR-test were negative. Two cases had typical clinical symptoms but were finally confirmed by repeated pharynxswabtests.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Conjunctiva may be a transmission way of COVID-19. And ocular conjunctival swabs in combination with PCR test could be a non-invasive, convenient and feasible diagnostic method for identifying the infection of COVID-19. Emphasis on the false-negative results is vital.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.23.20024935",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:35:26Z",
+      "timestamp": 1582662926000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Conjunctival polymerase chain reaction-tests of 2019 novel coronavirus in patients in Shenyang, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Li",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xinyue",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Baijun",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinping",
+        "family": "Mu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhiqian",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yehong",
+        "family": "Cao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xue",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , Li X et al. A novel coronavirus from patients with pneumonia in China,2019. N Engl J Med,2020 Jan 24, DOI:https://doi.org/10.1056/NEJMoa2001017",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X et al. Early transmission dynamics in Wuhan,China,of novel coronavirus infected pneumonia. N Engl J Med,2020,Jan 29, DOI:https://doi.org/10.1056/NEJMoa2001316",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Richman DD , Whitley RJ , Hayden FG ,eds. Clinical Virology,4th edn. Washington:ASM Press,2016",
+        "DOI": "10.1128/9781555819439"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/resp.13196"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ping-Ing Lee , Po-Ren Hsueh . Emerging threats from zoonotic coronaviruses-from SARS and MERS to 2019-nCov. Journal of Microbiology,Immunology and Infection,https://doi.org/10.1016/j.jmii.2020.02.001.",
+        "DOI": "10.1016/j.jmii.2020.02.001"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cheng-wei Lu , Xiu-fen, Liu , Zhi-fang Jia . 2019-nCov Transmission through the ocular surface must not be ignored. 2020,Feb 6, www.Lancet.com.https://doi.org/10.1016/S0140-6736(20)30313-5",
+        "DOI": "10.1016/S0140-6736(20)30313-5"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chaolin Huang , Yeming Wang , Xingwang Li et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan,China. 2020,Jan 24,http://doi.org/10.1016/S0140-6736(20)30183-5",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/radiol.2020200343"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sarrah E. Burr , Ansumana Sillah , Hassan Joof et al. An outbreak of acute haemorrhagic conjunctivitis associated with coxsackievirus A24 variant in the Gambia, West Africa.2017,BMC Res Notes, 10:692",
+        "DOI": "10.1186/s13104-017-3007-9"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2020110811251083000_2020.02.23.20024935v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.1570"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.23.20024935",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:11Z",
+      "timestamp": 1768484051000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.23.20024935"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.23.20024935",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

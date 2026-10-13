@@ -1,0 +1,461 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:12:09Z",
+      "timestamp": 1768489929647,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Evolutionary Biology",
+    "reference-count": 53,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              18
+            ]
+          ],
+          "date-time": "2020-02-18T00:00:00Z",
+          "timestamp": 1581984000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The emergence of SARS-CoV-2 underscores the need to better understand the evolutionary processes that drive the emergence and adaptation of zoonotic viruses in humans. In the betacoronavirus genus, which also includes SARS-CoV and MERS-CoV, recombination frequently encompasses the Receptor Binding Domain (RBD) of the Spike protein, which, in turn, is responsible for viral binding to host cell receptors. Here, we find evidence of a recombination event in the RBD involving ancestral linages to both SARS-CoV and SARS-CoV-2. Although we cannot specify the recombinant nor the parental strains, likely due to the ancestry of the event and potential undersampling, our statistical analyses in the space of phylogenetic trees support such an ancestral recombination. Consequently, SARS-CoV and SARS-CoV-2 share an RBD sequence that includes two insertions (positions 432-436 and 460-472), as well as the variants 427N and 436Y. Both 427N and 436Y belong to a helix that interacts directly with the human ACE2 (hACE2) receptor. Reconstruction of ancestral states, combined with protein-binding affinity analyses using the physics-based trRosetta algorithm, reveal that the recombination event involving ancestral strains of SARS-CoV and SARS-CoV-2 led to an increased affinity for hACE2 binding, and that alleles 427N and 436Y significantly enhanced affinity as well. Structural modeling indicates that ancestors of SARS-CoV-2 may have acquired the ability to infect humans decades ago. The binding affinity with the human receptor was subsequently boosted in SARS-CoV and SARS-CoV-2 through further mutations in RBD. In sum, we report an ancestral recombination event affecting the RBD of both SARS-CoV and SARS-CoV-2 that was associated with an increased binding affinity to hACE2.</jats:p>\n                <jats:sec>\n                  <jats:title>Importance</jats:title>\n                  <jats:p>This paper addresses critical questions about the origin of the SARS-CoV-2 virus: what are the evolutionary mechanisms that led to the emergence of the virus, and how can we leverage such knowledge to assess the potential of SARS-like viruses to become pandemic strains? In this work, we demonstrate common mechanisms involved in the emergence of human-infecting SARS-like viruses: first, by acquiring a common haplotype in the RBD through recombination, and further, through increased specificity to the human ACE2 receptor through lineage specific mutations. We also show that the ancestors of SARS-CoV-2 already had the potential to infect humans at least a decade ago, suggesting that SARS-like viruses currently circulating in wild animal species constitute a source of potential pandemic re-emergence.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.10.942748",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2020-02-19T01:35:10Z",
+      "timestamp": 1582076110000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Recombination and lineage-specific mutations linked to the emergence of SARS-CoV-2"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Juan \u00c1ngel",
+        "family": "Pati\u00f1o-Galindo",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ioan",
+        "family": "Filip",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ratul",
+        "family": "Chowdhury",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Costas D.",
+        "family": "Maranas",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3364-1838",
+        "authenticated-orcid": false,
+        "given": "Peter K.",
+        "family": "Sorger",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mohammed",
+        "family": "AlQuraishi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7946-9255",
+        "authenticated-orcid": false,
+        "given": "Raul",
+        "family": "Rabadan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.1",
+        "unstructured": "W.H.O. Coronavirus disease 2019 (COVID-19) Situation Report - 5 January. (2021)."
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v11010041"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peng Zhou, X.-L. Y. , Xian-Guang Wang , Ben Hu , Lei Zhang , Wei Zhang , Hao-Rui Si , Yan Zhu , Bei Li , Chao-Lin Huang , Hui-Dong Chen , Jing Chen , Yun Luo , Hua Guo , Ren-Di Jiang , Mei-Qin Liu , Ying Chen , Xu-Rui Shen , Xi Wang , Xiao-Shuang Zheng , Kai Zhao , Quan-Jiao Chen , Fei Deng , Lin-Lin Liu , Bing Yan , Fa-Xian Zhan , Yan-Yi Wang , Gengfu Xiao , Zheng-Li Shi . Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv 2020.01.22.914952 doi: https://doi.org/10.1101/2020.01.22.914952 (2020).",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2020.05.023"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lam, T. T.-Y. et al. Identification of 2019-nCoV related coronaviruses in Malayan pangolins in southern China. bioRxiv (2020).",
+        "DOI": "10.1101/2020.02.13.945485"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2020.02.052"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chowdhury, R. & Maranas, C. D. Biophysical characterization of the SARS-CoV-2 spike protein binding with the ACE2 receptor and implications for infectivity. bioRxiv (2020).",
+        "DOI": "10.1101/2020.03.30.015891"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cti2.1073"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2020.104742"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1365-294X.2003.02051.x"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00239-001-0064-3"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01926-07"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiong, C. , Jiang, L. , Chen, Y. & Jiang, Q. Evolution and variation of 2019-novel coronavirus. bioRxiv (2020).",
+        "DOI": "10.1101/2020.01.30.926477"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01394-09"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, X. et al. Emergence of SARS-CoV-2 through recombination and strong purifying selection. Science Advances (2020).",
+        "DOI": "10.1101/2020.03.20.000885"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, H. , Pipes, L. & Nielsen, R. Synonymous mutations and the molecular evolution of SARS-Cov-2 origins. bioRxiv (2020).",
+        "DOI": "10.1101/2020.04.20.052019"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1009226"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ve/vev003"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/aama.2001.0759"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.0030005"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0808116105"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1006698"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1092002"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2016.10.005"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2015.06.016"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2017.11.001"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abb2762"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1914677117"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41592-020-0848-2"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2020.08.012"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2004.1478"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pgen.1009272"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.3001115"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-021-03312-w"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41564-020-0771-4"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41591-020-0820-9"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.06828-11"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2006.02.003"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mst010"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/18.3.502"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/sysbio/syq010"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TCBB.2010.3"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/sysbio/syx080"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bty633"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2020.03.045"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btq007"
+      },
+      {
+        "key": "2024080319354178000_2020.02.10.942748v3.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aos/1013699998"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.10.942748",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:01:43Z",
+      "timestamp": 1768435303000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.10.942748"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 53,
+    "URL": "https://doi.org/10.1101/2020.02.10.942748",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

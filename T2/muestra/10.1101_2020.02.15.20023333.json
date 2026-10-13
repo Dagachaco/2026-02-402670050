@@ -1,0 +1,272 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:56:43Z",
+      "timestamp": 1768546603734,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "group-title": "Health Systems and Quality Improvement",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since December 2019, pneumonia associated with the 2019 novel coronavirus (2019-nCoV) has emerged in Wuhan, China. The exponential increase of the confirmed number of cases of 2019n-CoV is of great concern to the global community. The fears and panic among residents in the epicenters have prompted diverse responses, which are understudied. During such a crisis, community trust and support for the government and health authorities are important to contain the outbreak. We aimed to investigate the influence of institutional trust on public responses to the 2019-nCoV outbreak.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>An anonymous Internet-based, cross-sectional survey was administered on January 29, 2020. The study population comprised all residents currently residing or working in the province of Hubei, where Wuhan is the capital city. The level of trust in information provision and preventive instructions, individual preventive behaviors and treatment-seeking behaviors were queried.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>The majority of the participants expressed a great extent of trust in the information and preventive instructions provided by the central government than by the local government. A high uptake of 2019-nCoV preventive measures was found, particularly among people who had been placed under quarantine. Being under quarantine (adjusted odds ratio [OR] = 2.35, 95% confidence interval [CI] 1.80 to 3.08) and having a high institutional trust score (OR = 2.23, 95% CI 1.96 to 2.53) were both strong and significant determinants of higher preventive behavior scores. The majority of study participants (85.7%, n = 3,640) reported that they would seek hospital treatment if they suspected themselves to have been infected with 2019 n-CoV. Few of the participants from Wuhan (16.6%, n = 475) and those participants who were under quarantine (13.8%, n = 550) expressed an unwillingness to seek hospital treatment. Similarly, being under quarantine (OR = 2.36, 95% CI 1.80 to 3.09) and having a high institutional trust score (OR = 2.20, 95% CI 1.96 to 2.49) were two strong significant determinants of hospital treatment-seeking.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>The results of this study suggest that institutional trust is an important factor influencing adequate preventive behavior and seeking formal medical care during an outbreak. In view of the 2019-nCoV being highly pathogenic and extremely contagious, our findings also underscore the importance of public health intervention to reach individuals with poor adherence to preventive measures and who are reluctant to seek treatment at formal health services.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>National Key R&amp;D Program of China, Ningbo Health Branding Subject F und, Sanming Project of Medicine in Shenzhen, K.C. Wong Magna Fund in Ningbo University, National Natural Science Foundation of China, Fundamental Research Fu nds for the Central Universities, China Postdoctoral Science Foundation, and Natural Science Basic Research Program of Shanxi Province.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Evidence before this study</jats:title>\n                  <jats:p>We searched PubMed on January 28, 2020, for articles that describe the trust, preventive practices and health-seeking behaviors related to the 2019 novel coronavirus (2019-nCoV) in China, using the search terms \u201cnovel coronavirus,\u201d \u201cinstitutional trust,\u201d \u201cbehavioral change,\u201d \u201cprotective behaviors,\u201d and \u201ctreatment-seeking\u201d with no language or publication time restrictions. Previously published research discussed the behavioral responses to the severe acute respiratory syndrome (SARS) epidemic and the 2009 pandemic influenza A (H1N1) in Hong Kong. The only report investigating the influence of institutional trust and public responses was published on March 27, 2019, on the Ebola outbreak in the Democratic Republic of the Congo. No previous studies have investigated how trust in the information provision and prevention instructions from the authorities during a disease outbreak has influenced the public\u2019s prevention practices and treatment-seeking in the epicenter of the 2019-nCoV.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.15.20023333",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2020-02-21T19:35:10Z",
+      "timestamp": 1582313710000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "The role of institutional trust in preventive and treatment-seeking behaviors during the 2019 novel coronavirus (2019-nCoV) outbreak among residents in Hubei, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Liping",
+        "family": "Wong",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2873-5266",
+        "authenticated-orcid": false,
+        "given": "Qunhong",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhuo",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haridah",
+        "family": "Alias",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3329-3212",
+        "authenticated-orcid": false,
+        "given": "Mingwang",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jingcen",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7682-2877",
+        "authenticated-orcid": false,
+        "given": "Shiwei",
+        "family": "Duan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinjie",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liyuan",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu H , Stratton CW , Tang YW . Outbreak of pneumonia of unknown etiology in Wuhan China: the mystery and the miracle. J Med Virol 2020; published online Jan 16. https://doi.org/10.1002/jmv.25678",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.3",
+        "unstructured": "World Health Organization. Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance. Jan 11, 2020. https://www.who.int/internalpublications-detail/clinical-management-of-severe-acute-respiratoryinfection-when-novel-coronavirus-(ncov)-infection-is-suspected (accessed Jan 30, 2020)"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , Qu J , Gong F , Han Y , et al.; Epidemiological and Clinical Characteristics of 99 Cases of 2019-Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. Lancet 2020; Published online Jan 30,2020.https://doi.org/10.1016/S0140-6736(20)30211-7",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu R , Zhao X , Li J , Niu P , Yang B , Wu H , et al.; Genomic characterization and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet 2020. Published online January 29, 2020. https://doi.org/10.1016/S0140-6736(20)30251-8",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/429923"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.2009.162537"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(19)30063-5"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.9",
+        "unstructured": "World Health Organization. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). Jan 30, 2020. https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov) (accessed 31 January, 2020)."
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hosmer Jr DW , Lemeshow S , Sturdivant RX . Applied logistic regression. John Wiley & Sons; 2013.",
+        "DOI": "10.1002/9781118548387"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "e131",
+        "DOI": "10.1016/S2214-109X(15)70010-0",
+        "article-title": "Ebola interventions: listen to communities",
+        "volume": "3",
+        "year": "2015",
+        "journal-title": "Lancet Glob Health"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10810730701265978"
+      },
+      {
+        "key": "2020110710450553000_2020.02.15.20023333v1.13",
+        "unstructured": "Centers for Disease Control and Prevention. Influenza (Flu). Guidance: Use of mask to control Influenza transmission. March 5, 2019. https://www.cdc.gov/flu/professionals/infectioncontrol/maskguidance.htm (accessed 1 Feb 2020)."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.15.20023333",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:57Z",
+      "timestamp": 1768484037000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.15.20023333"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.15.20023333",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1093/inthealth/ihab023",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:54Z",
+      "timestamp": 1768547274322,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 18,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since December 2019, a pneumonia caused by the 2019 novel coronavirus (2019-nCoV) has broken out in Wuhan, Hubei province, China. The continuous rising of infected cases has imposed overwhelming pressure on public health decision and medical resource allocation in China. We managed to forecast the infection peak time in Hubei province and the severe and critical case distribution.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We used data resource according to cases reported by the National Health Commission of the People\u2019s Republic of China (Jan 25, 2019, to Feb 28, 2020) as the training set to deduce the arrival of the peak infection time and the number of severe and critical cases in Wuhan on subsequent days. Medical observation, discharge, infected, non-Severe, infected and severe, cure and death data were collected and analyzed. Using this state transition matrix model, we will be able predict when the inflection peak time (the maximum open infection cases) in Hubei Province will occur. Also, we can use this model to predict the patient distribution (severe, non-severe) to better allocate medical resource. Under relative pessimistic scenario, the inflection peak time is April 6-April 14. The numbers of critically ill and critically ill patients will lie between 8300-9800 and 2200-2700, respectively.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>In very optimistic scenarios (daily NCC decay rate of \u221210%), the peak time of open inflection cases will arrive around February 23-February 26. At the same time, there will be a peak in the numbers of severely ill and critically ill patients, between 6800-7200 and 1800-2000, respectively. In a relative optimistic scenario (daily NCC decay rate of \u22125%), the inflection case peak time will arrive around February 28-March 2. The numbers of critically ill and critically ill patients will lie between 7100-7800 and 1900-2200, respectively. In a relatively pessimistic scenario (daily NCC decay rate of \u22121%), the inflection peak time does not arrive around the end of March. Estimated time is April 6-April 14. The numbers of critically ill and critically ill patients will lie between 8300-9800 and 2200-2700, respectively. We are using the diagnosis rate, mortality rate, cure rate as the 2/8 data. There should be room for improvement, if these metrics continue to improve. In that case, the peak time will arrive earlier than our estimation. Also, the severe and critical case ratios are likely to decline as the virus becomes less toxic and medical conditions improve. If that happens, the peak numbers will be lower than predicted above.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>We can infer that we are still not close to the end of this outbreak and the number of critically ill patients is still climbing. Assisting critical care resources in Hubei province requires the government to consider further tilt, and it is vital to make reasonable management of doctors and medical assistance systems to curb the transmission trend.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.16.20023614",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2020-02-19T19:55:21Z",
+      "timestamp": 1582142121000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Utilize State Transition Matrix Model to Predict the Novel Corona Virus Infection Peak and Patient Distribution"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ke",
+        "family": "Wu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Junhua",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chang, Lin M , Wei L , et al. Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside Wuhan, China. JAMA. 2020.",
+        "DOI": "10.1001/jama.2020.1623"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heymann DL . Data sharing and outbreaks: best practice exemplified. Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30184-7"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.acap.2013.06.010"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.28.1.75"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.79.3.1595-1604.2005"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1440-1843.2003.00523.x"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa032111"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(1013)61887-61885"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Song F , Shi N , Shan F , et al. Emerging Coronavirus 2019-nCoV Pneumonia. Radiology. 2020:200274.",
+        "DOI": "10.1148/radiol.2020200274"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu SL , Saif L . Emerging Viruses without Borders: The Wuhan Coronavirus. Viruses. 2020;12(2).",
+        "DOI": "10.3390/v12020130"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Phan LT , Nguyen TV , Luong QC , et al. Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam. N Engl J Med. 2020.",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(15)60454-8"
+      },
+      {
+        "key": "2020110710550974000_2020.02.16.20023614v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Corman VM , Landt O , Kaiser M , et al. Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill. 2020;25(3).",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000045"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.20023614",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:58Z",
+      "timestamp": 1768484038000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.16.20023614"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "references-count": 18,
+    "URL": "https://doi.org/10.1101/2020.02.16.20023614",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

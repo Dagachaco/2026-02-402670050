@@ -1,0 +1,313 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:09:37Z",
+      "timestamp": 1768547377543,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Respiratory Medicine",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>With the spread of COVID-19 from Wuhan, Hubei Province to other areas of the country, medical staff in Fever Clinics faced the challenge of identifying suspected cases among febrile patients with acute respiratory infections. We aimed to describe the prevalence and clinical features of COVID-19 as compared to pneumonias of other etiologies in a Fever Clinic in Beijing.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In this single-center, retrospective study, 342 cases of pneumonia were diagnosed in Fever Clinic in Peking University Third Hospital between January 21 to February 15, 2020. From these patients, 88 were reviewed by panel discussion as possible or probable cases of COVID-19, and received 2019-nCoV detection by RT-PCR. COVID-19 was confirmed by positive 2019-nCoV in 19 cases, and by epidemiological, clinical and CT features in 2 cases (the COVID-19 Group, n=21), while the remaining 67 cases served as the non-COVID-19 group. Demographic and epidemiological data, symptoms, laboratory and lung CT findings were collected, and compared between the two groups.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>\n                    The prevalence of COVID-19 in all pneumonia patients during the study period was 6.14% (21/342). Compared with the non-COVID-19 group, more patients with COVID-19 had an identified epidemiological history (90.5% versus 32.8%,\n                    <jats:italic>P</jats:italic>\n                    &lt;0.001). The COVID-19 group had lower WBC [5.19\u00d710\n                    <jats:sup>9</jats:sup>\n                    /L (\u00b11.47) versus 7.21\u00d710\n                    <jats:sup>9</jats:sup>\n                    /L (\u00b12.94),\n                    <jats:italic>P</jats:italic>\n                    &lt;0.001] and neutrophil counts [3.39\u00d710\n                    <jats:sup>9</jats:sup>\n                    /L (\u00b11.48) versus 5.38\u00d710\n                    <jats:sup>9</jats:sup>\n                    /L (\u00b12.85),\n                    <jats:italic>P</jats:italic>\n                    &lt;0.001] in peripheral blood. However, the count of lymphocytes was not different. On lung CT scans, involvement of 4 or more lobes was more common in the COVID-19 group (45% versus 16.4%,\n                    <jats:italic>P</jats:italic>\n                    =0.008).\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>In the period of COVID-19 epidemic outside Hubei Province, the prevalence of COVID-19 in patients with pneumonia visiting our Fever Clinic in Beijing was 6.14%. Epidemiological evidence was important for prompt case finding, and lower blood WBC and neutrophil counts may be useful for differentiation from pneumonia of other etiologies.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>None.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.25.20027763",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T17:04:54Z",
+      "timestamp": 1582823094000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Prevalence and clinical features of 2019 novel coronavirus disease (COVID-19) in the Fever Clinic of a teaching hospital in Beijing: a single-center, retrospective study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ying",
+        "family": "Liang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jingjin",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qingtao",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoguang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fei",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhonghua",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Biying",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lu",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaohua",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hong",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qingbian",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaomei",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yongchang",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.3",
+        "unstructured": "WHO. Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance. Jan 11, 2020. https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-inf ection-whennovel-coronavirus-(ncov)-infection-is-suspected."
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jiaa077"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m606"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1623"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.8",
+        "first-page": "E013",
+        "article-title": "[Clinical features of 2019 novel coronavirus pneumonia in the early stage from a fever clinic in Beijing]",
+        "volume": "43",
+        "year": "2020",
+        "journal-title": "Zhonghua Jie He He Hu Xi Za Zhi"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-2600(20)30071-0"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.10",
+        "unstructured": "Guidelines for the Diagnosis and Treatment of Novel Coronavirus (2019-nCoV) Infection by the National Health Commission. Available from: http://www.nhc.gov.cn/xcs/zhengcwj/list_gzbd.shtml Accessed Jan 20, 2020."
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0254-6450.2020.02.003"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000062"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0254-6450.2020.02.002"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CM9.0000000000000744"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-2600(20)30079-5"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00259-020-04720-2"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00330-020-06731-x"
+      },
+      {
+        "key": "2020111005400607000_2020.02.25.20027763v2.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chung M , Bernheim A , Mei X , et al. CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV). Radiology 2020: 200230. 10.1148/radiol.2020200230.",
+        "DOI": "10.1148/radiol.2020200230"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20027763",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:17Z",
+      "timestamp": 1768484057000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20027763"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.25.20027763",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

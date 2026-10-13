@@ -1,0 +1,281 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2026-01-24T09:12:28Z",
+      "timestamp": 1769245948822,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 17,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              2
+            ]
+          ],
+          "date-time": "2020-02-02T00:00:00Z",
+          "timestamp": 1580601600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>Summary</jats:title>\n                  <jats:p>Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format. Since its release in 2019, we have produced a number of typing tools for emergent viruses that have caused large outbreaks, such as Zika and Yellow Fever Virus in Brazil. Here, we present The Genome Detective Coronavirus Typing Tool that can accurately identify novel coronavirus (2019-nCoV) sequences isolated in China and around the world. The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. The tool has been tested and validated with hundreds of whole genomes from ten coronavirus species, and correctly classified all of the SARS-related coronavirus (SARSr-CoV) and all of the available public data for 2019-nCoV. The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Availability</jats:title>\n                  <jats:p>\n                    Available online:\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://www.genomedetective.com/app/typingtool/cov\">https://www.genomedetective.com/app/typingtool/cov</jats:ext-link>\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:label>*</jats:label>\n                  <jats:title>Contact</jats:title>\n                  <jats:p>\n                    <jats:email>koen@emweb.be</jats:email>\n                    and\n                    <jats:email>deoliveira@ukzn.ac.za</jats:email>\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Supplementary information</jats:title>\n                  <jats:p>Supplementary data is available online.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.31.928796",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2020-02-02T16:39:15Z",
+      "timestamp": 1580661555000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Genome Detective Coronavirus Typing Tool for rapid identification and characterization of novel coronavirus genomes"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Sara",
+        "family": "Cleemput",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wim",
+        "family": "Dumon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Vagner",
+        "family": "Fonseca",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wasim",
+        "family": "Abdool Karim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marta",
+        "family": "Giovanetti",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Luiz Carlos",
+        "family": "Alcantara",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Koen",
+        "family": "Deforche",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3027-5254",
+        "authenticated-orcid": false,
+        "given": "Tulio",
+        "family": "de Oliveira",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu R , Xiang Zhao , Juan Li , Peihua Niu , Bo Yang , Honglong Wu , Wenling Wang , Hao Song , Baoying Huang , Na Zhu , Yuhai Bi , Xuejun Ma , Faxian Zhan , Liang Wang , Tao Hu , Hong Zhou , Zhenhong Hu , Weimin Zhou , Li Zhao , Jing Chen , Yao Meng , Ji Wang , Yang Lin , Jianying Yuan , Zhihao Xie , Jinmin Ma , William J Liu , Dayan Wang , Wenbo Xu , Edward C Holmes , George F Gao , Guizhen Wu , Weijun Chen , Weifeng Shi , Wenjie Tan . Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet. 2020. DOI:https://doi.org/10.1016/S0140-6736(20)30251-8",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.4",
+        "unstructured": "World Health Organization (WHO) Novel Coronavirus (2019-nCoV) situational reports. Available online https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh340"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10635150390235520"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-018-0043-0"
+      },
+      {
+        "issue": "12",
+        "key": "2024080323210772000_2020.01.31.928796v1.8",
+        "first-page": "1572",
+        "article-title": "MrBayes 3: Bayesian phylogenetic inference under mixed models",
+        "volume": "19",
+        "year": "2003",
+        "journal-title": "Bioin- formatics"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.9",
+        "unstructured": "Rambaut A. FigTree v1.4.4. Institute of Evolutionary Biology, University of Edinburgh, Edinburgh. 2018, http://tree.bio.ed.ac.uk/software/figtree/"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.10",
+        "unstructured": "Rambaut A. Twitter, 24 Jan 2020. https://twitter.com/arambaut"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bty695"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pntd.0007231"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/200394"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-2836(81)90087-5"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-2836(82)90398-9"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mst010"
+      },
+      {
+        "key": "2024080323210772000_2020.01.31.928796v1.17",
+        "unstructured": "Swofford,D.L. PAUP* 4.0: phylogenetic analysis under parsimony (and other methods), version 4.0b2a. Sinauer Associates Inc., Sunderland, Mass."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.31.928796",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:58:41Z",
+      "timestamp": 1768435121000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.31.928796"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.1101/2020.01.31.928796",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

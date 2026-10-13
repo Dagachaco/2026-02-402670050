@@ -1,0 +1,373 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2026-03-06T13:14:24Z",
+      "timestamp": 1772802864377,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 31,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Motivated by the rapid spread of a novel coronavirus (2019-nCoV) in Mainland China, we use a global metapopulation disease transmission model to project the impact of both domestic and international travel limitations on the national and international spread of the epidemic. The model is calibrated on the evidence of internationally imported cases before the implementation of the travel quarantine of Wuhan. By assuming a generation time of 7.5 days, the reproduction number is estimated to be 2.4 [90% CI 2.2-2.6]. The median estimate for number of cases before the travel ban implementation on January 23, 2020 is 58,956 [90% CI 40,759 - 87,471] in Wuhan and 3,491 [90% CI 1,924 - 7,360] in other locations in Mainland China. The model shows that as of January 23, most Chinese cities had already received a considerable number of infected cases, and the travel quarantine delays the overall epidemic progression by only 3 to 5 days. The travel quarantine has a more marked effect at the international scale, where we estimate the number of case importations to be reduced by 80% until the end of February. Modeling results also indicate that sustained 90% travel restrictions to and from Mainland China only modestly affect the epidemic trajectory unless combined with a 50% or higher reduction of transmission in the community.</jats:p>",
+    "DOI": "10.1101/2020.02.09.20021261",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T16:15:19Z",
+      "timestamp": 1581437719000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 119,
+    "title": [
+      "The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5955-1929",
+        "authenticated-orcid": false,
+        "given": "Matteo",
+        "family": "Chinazzi",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jessica T.",
+        "family": "Davis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marco",
+        "family": "Ajelli",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Corrado",
+        "family": "Gioannini",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Maria",
+        "family": "Litvinova",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stefano",
+        "family": "Merler",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2894-0489",
+        "authenticated-orcid": false,
+        "given": "Ana Pastore",
+        "family": "y Piontti",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Luca",
+        "family": "Rossi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kaiyuan",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "C\u00e9cile",
+        "family": "Viboud",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xinyue",
+        "family": "Xiong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongjie",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3127-1757",
+        "authenticated-orcid": false,
+        "given": "M. Elizabeth",
+        "family": "Halloran",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "suffix": "Jr.",
+        "given": "Ira M.",
+        "family": "Longini",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3419-4205",
+        "authenticated-orcid": false,
+        "given": "Alessandro",
+        "family": "Vespignani",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.1",
+        "unstructured": "World Health Organization, Novel Coronavirus \u2013 China, https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/ (2020). [Online; accessed 17- January-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.2",
+        "unstructured": "The Center for Systems Science and Engineering, Wuhan coronavirus Global Cases, https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 (2020). [Online; accessed 31-January-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.3",
+        "unstructured": "World Health Organization, Novel Coronavirus \u2013 China, https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200204-sitrep-15-ncov.pdf?sfvrsn=88fe8ad6_2 (2020). [Online; accessed 04-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0906910106"
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1016/j.jocs.2010.07.002",
+        "volume": "1",
+        "year": "2010",
+        "journal-title": "Journal of Computational Science"
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.6",
+        "unstructured": "M. F. Gomes , et al., PLoS Current Outbreaks 6 (2014)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1620161114"
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.8",
+        "unstructured": "A. Rambaut , Phylogenetic analysis of nCoV-2019 genomes, http://virological.org/t/phylogenetic-analysis-of-23-ncov-2019-genomes-2020-01-23/335). (2020) [Online; accessed 05-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.9",
+        "unstructured": "Natsuko Imai , Anne Cori , Ilaria Dorigatti , Marc Baguelin , Christl A. Donnelly , Steven Riley , Neil M. Ferguson , Report 3:Transmissibility of 2019-nCoVa, https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/ (2020). [Online; accessed 05-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.10",
+        "unstructured": "J. A. Backer , D. Klinkenberg , J. Wallinga , medRxiv doi.org/10.1101/2020.01.27.20018986 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.11",
+        "unstructured": "C. Huang , et al., The Lancet. doi.org/10.1016/S0140-6736(20)30183-5 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086478"
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.15",
+        "unstructured": "M. Kraemer , D. Pigott , Epidemiological Data from the nCoV-2019 Out- break: Early Descriptions from Publicly Available Data, http://virological.org/t/epidemiological-data-from-the-ncov-2019-outbreak-early-descriptions-from-publicly-available-data/337 (2020). [Online; accessed 05-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.16",
+        "unstructured": "K. Sun , J. Chen , C. Viboud , medRxiv. doi.org/10.1101/2020.01.31.20019935 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.17",
+        "first-page": "4",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.18",
+        "unstructured": "S. Zhao , et al., International Journal of Infectious Diseases. doi.org/10.1016/j.ijid.2020.01.050 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.19",
+        "unstructured": "J. M. Read , J. R. Bridgen , D. A. Cummings , A. Ho , C. P. Jewell , medRxiv. doi.org/10.1101/2020.01.23.20018549 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.20",
+        "unstructured": "N. Imai , et al., Report 3: Transmissibility of 2019-nCoV.https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-2019-nCoV-transmissibility.pdf (2020). [Online; accessed 5-February- 2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.21",
+        "unstructured": "H. Tian , et al., medRxiv. doi.org/10.1101/2020.01.30.20019844 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.22",
+        "unstructured": "Epidemiological Data from the nCoV-2019 Outbreak, https://ncov.dxy.cn/ncovh5/view/pneumonia (2020). [Online; accessed 05-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.23",
+        "unstructured": "New York Times, North Korea Bans Foreign Tourists Over Coronavirus, Tour Operator Says, https://www.nytimes.com/2020/01/21/world/asia/coronavirus-china-north-korea-tourism-ban.html (2020). [Online; accessed 04-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.24",
+        "unstructured": "CNA, Scoot cancels flights to China\u2019s Wuhan over virus out- break, https://www.channelnewsasia.com/news/singapore/wuhan-virus-scoot-cancels-flights-mtr-train-12309076 (2020). [Online; accessed 04-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.25",
+        "unstructured": "Toui tre News, Vietnam aviation authority ceases all flights to and from coronavirus-stricken Wuhan, https://tuoitrenews.vn/news/business/20200124/vietnam-aviation-authority-ceases-all-flights-to-and-from-coronavirusstricken-wuhan/52707.html (2020). [Online; accessed 04-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.26",
+        "unstructured": "Reuters, Russia ramps up controls, shuts China border crossings over virus fears, https://www.reuters.com/article/us-china-health-russia-border/russian-regions-in-far-east-close-border-with-china-amid-coronavirus-fears-tass-idUSKBN1ZR0TU (2020). [Online; accessed 04-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.27",
+        "unstructured": "Center for Disease Control, Novel Coronavirus in China, https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china (2020). [Online; accessed 04- February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.28",
+        "unstructured": "The Australian, \u201cTravelers from China to be denied entry to Australia, https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fnation%2Ftravellers-from-china-to-be-denied-entry-into-australia%2Fnews-story%2F7b7619d44af78dd7395a934e22b52997&memtype=anonymous&mode=premium (2020). [Online; accessed 04-February-2020]."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.29",
+        "unstructured": "J. T. Wu , K. Leung , G. M. Leung , The Lancet doi.org/10.1016/S0140-6736(20)30260-9 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.30",
+        "unstructured": "Z. Du , et al., medRxiv. doi.org/10.1101/2020.01.28.20019299 (2020)."
+      },
+      {
+        "key": "2020110610451019000_2020.02.09.20021261v1.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. M. Drake , S. K. Chew , S. Ma , PloS one 1 e20 (2006).",
+        "DOI": "10.1371/journal.pone.0000020"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.09.20021261",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:48Z",
+      "timestamp": 1768484028000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.09.20021261"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 31,
+    "URL": "https://doi.org/10.1101/2020.02.09.20021261",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1126/science.aba9757",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

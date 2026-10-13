@@ -1,0 +1,185 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T19:15:25Z",
+      "timestamp": 1768590925197,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 8,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Any plan for stopping the ongoing 2019-nCov epidemic must be based on a quantitative understanding of the proportion of the at-risk population that needs to be protected by effective control measures in order for transmission to decline sufficiently and quickly enough for the epidemic to end. Using an SEIR-type transmission model, we contrasted two alternate strategies by modeling the proportion of the population that needs to be protected from infection by one-time vaccination (assuming 100% effectiveness) or by testing with isolation and treatment of individuals within six, 24, or 48 hours of symptom onset. If R is currently 2.2, vaccination at the herd immunity coverage of 55% would drive R just below 1, but transmission could persist for years. Over 80% of coverage is required to end the epidemic in 6 months with population-wide vaccination. The epidemic could be ended in just under a year if testing with isolation and treatment reached 80% of symptomatically infected patients within 24 hours of symptom onset (assuming 10% asymptomatic transmission). The epidemic could be ended in six months if testing with isolation and treatment reached 90% of symptomatic patients. If 90% of symptomatic patients could be tested within six hours of symptoms appearing, the epidemic could be ended in under four months.</jats:p>",
+    "DOI": "10.1101/2020.02.03.20020271",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T18:25:10Z",
+      "timestamp": 1580927110000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Getting to zero quickly in the 2019-nCov epidemic with vaccines or rapid testing"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Gerardo",
+        "family": "Chowell",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ranu",
+        "family": "Dhillon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Devabhaktuni",
+        "family": "Srikrishna",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abb1524"
+      },
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.4",
+        "unstructured": "World Health Organization. Novel Coronavirus(2019-nCoV). Situation Report - 12. 1 February 2020. Available at: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200201-sitrep-12-ncov.pdf"
+      },
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1007.030647"
+      },
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anderson RM , May RM . Infectious diseases of humans. Oxford: Oxford University Press; 1991.",
+        "DOI": "10.1093/oso/9780198545996.001.0001"
+      },
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1007.030647"
+      },
+      {
+        "key": "2020110510150708000_2020.02.03.20020271v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mbs.2007.02.004"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.20020271",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:42Z",
+      "timestamp": 1768484022000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.03.20020271"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 8,
+    "URL": "https://doi.org/10.1101/2020.02.03.20020271",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

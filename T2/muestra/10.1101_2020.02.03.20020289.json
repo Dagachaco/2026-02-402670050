@@ -1,0 +1,255 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:39:57Z",
+      "timestamp": 1768549197413,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Gastroenterology",
+    "reference-count": 14,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:p>The outbreak of pneumonia caused by the 2019 Novel Coronavirus (2019-nCoV) was reported in Wuhan City, China. However, the clinical symptoms varied in different reports. Based on results of inter-group difference test, we found that the incidence of diarrhea differed in three recent reports. As 2019-nCoV utilizes the same cell entry receptor ACE2 as severe acute respiratory syndrome coronavirus (SARS-CoV) and ACE2 tightly controls intestinal inflammation, to trace the route of infection mediated by 2019-nCoV, we used the single-cell RNA sequencing data for analysis. We found that the ACE2 mRNA was highly expressed in the healthy human small intestine rather than the lung. Besides, single-cell RNA sequencing data showed that ACE2 was significantly elevated in the proximal and distal enterocytes, where the small intestinal epithelium is exposed to the foreign pathogen. Thus, we suspect that ACE2-expressing small intestinal epithelium cells might be vulnerable to 2019-nCoV infection when people eat infected wild animals and diarrhea may serve as an indicator for infection, suggesting that clinicians should pay more attention to patients with diarrhea during the outbreak of pneumonia.</jats:p>",
+    "DOI": "10.1101/2020.02.03.20020289",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T15:35:11Z",
+      "timestamp": 1581435311000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Diarrhea may be underestimated: a missing link in 2019 novel coronavirus"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Weicheng",
+        "family": "Liang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Zhijie",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shitao",
+        "family": "Rao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Cuicui",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ze-Xiao",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qi",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qi",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.2",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020."
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N ZM , Dong X , Qu J , Gong F , Han Y , Qiu Y , Wang J , Liu Y , Wei Y , Xia J , Yu T , Zhang X , Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020.",
+        "DOI": "10.2139/ssrn.3523861"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu R ZX , Li J , Niu P , Yang B , Wu H , Wang W , Song H , Huang B , Zhu N , Bi Y , Ma X , Zhan F , Wang L , Hu T , Zhou H , Hu Z , Zhou W , Zhao Li , Chen J , Meng Y , Wang J , Lin Y , Yuan J , Xie Z , Ma J , Liu J , Wang D , Xu W , Holmes E , Gao G , Wu G , Chen W , Shi W , Tan W. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan Y , Shang J , Graham R , Baric RS , Li F. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. Journal of virology 2020.",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu X C P , Wang, J , Feng, J , Zhou, H , Li, X , Zhong, W , Hao, P. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci 2020.",
+        "DOI": "10.1007/s11427-020-1637-5"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Letko M MV . Functional assessment of cell entry and receptor usage for lineage B \u03b2-coronaviruses, including 2019-nCoV. bioRxiv 2020.",
+        "DOI": "10.1101/2020.01.22.915660"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou P YX , Wang X , Hu B , Zhang L , Zhang W , Si H , Zhu Y , Li B , Huang C , Chen H , Chen J , Luo Y , Guo H , Jiang R , Liu M , Chen Y , Shen X , Wang X , Zheng X , Zhao K , Chen Q , Deng F , Liu L , Yan B , Zhan F , Wang Y , Xiao G , Shi Z. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv 2020.",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature11228"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature24489"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang H KZ , Gong H , Xu D , Wang J , Li Z , Cui X , Xiao J , Meng T , Zhou W , Liu J , Xu H. The digestive system is a potential route of 2019-nCov infection: a bioinformatics analysis based on single-cell transcriptomes. bioRxiv 2020.",
+        "DOI": "10.1101/2020.01.30.927806"
+      },
+      {
+        "key": "2020110510500436000_2020.02.03.20020289v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.aao4966"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.20020289",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:42Z",
+      "timestamp": 1768484022000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.03.20020289"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 14,
+    "URL": "https://doi.org/10.1101/2020.02.03.20020289",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1136/gutjnl-2020-320832",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

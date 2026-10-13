@@ -1,0 +1,315 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T00:50:11Z",
+      "timestamp": 1768524611499,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Immunology",
+    "reference-count": 21,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              20
+            ]
+          ],
+          "date-time": "2020-02-20T00:00:00Z",
+          "timestamp": 1582156800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>\n                  Effective countermeasures against the recent emergence and rapid expansion of the 2019-Novel Coronavirus (2019-nCoV) require the development of data and tools to understand and monitor viral spread and immune responses. However, little information about the targets of immune responses to 2019-nCoV is available. We used the Immune Epitope Database and Analysis Resource (IEDB) resource to catalog available data related to other coronaviruses, including SARS-CoV, which has high sequence similarity to 2019-nCoV, and is the best-characterized coronavirus in terms of epitope responses. We identified multiple specific regions in 2019-nCoV that have high homology to SARS virus. Parallel bionformatic predictions identified\n                  <jats:italic>a priori</jats:italic>\n                  potential B and T cell epitopes for 2019-nCoV. The independent identification of the same regions using two approaches reflects the high probability that these regions are targets for immune recognition of 2019-nCoV.\n                </jats:p>\n                <jats:sec>\n                  <jats:title>ONE SENTENCE SUMMARY</jats:title>\n                  <jats:p>We identified potential targets for immune responses to 2019-nCoV and provide essential information for understanding human immune responses to this virus and evaluation of diagnostic and vaccine candidates.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.12.946087",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:15:44Z",
+      "timestamp": 1582218944000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Candidate targets for immune responses to 2019-Novel Coronavirus (nCoV): sequence homology- and bioinformatic-based predictions"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0369-1746",
+        "authenticated-orcid": false,
+        "given": "Alba",
+        "family": "Grifoni",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0987-405X",
+        "authenticated-orcid": false,
+        "given": "John",
+        "family": "Sidney",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2707-5881",
+        "authenticated-orcid": false,
+        "given": "Yun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1355-892X",
+        "authenticated-orcid": false,
+        "given": "Richard H",
+        "family": "Scheuermann",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8457-6693",
+        "authenticated-orcid": false,
+        "given": "Bjoern",
+        "family": "Peters",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7013-2250",
+        "authenticated-orcid": false,
+        "given": "Alessandro",
+        "family": "Sette",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky1006"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkr859"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z. Song et al., From SARS to MERS, Thrusting Coronaviruses into the Spotlight. Viruses 11, (2019).",
+        "DOI": "10.3390/v11010059"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "3931",
+        "DOI": "10.1093/bioinformatics/bty463",
+        "article-title": "ImmunomeBrowser: a tool to aggregate and visualize complex and heterogeneous epitopes in reference proteins",
+        "volume": "34",
+        "year": "2018",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkx346"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1002829"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky427"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.1403074"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.10",
+        "first-page": "18 19 11",
+        "article-title": "TepiTool: A Pipeline for Computational Prediction of T Cell Epitope Candidates",
+        "volume": "114",
+        "year": "2016",
+        "journal-title": "Curr Protoc Immunol"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.11",
+        "first-page": "763461",
+        "article-title": "Automatic Generation of Validated Specific Epitope Sets",
+        "volume": "2015",
+        "year": "2015",
+        "journal-title": "Journal of immunology research"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fimmu.2017.01309"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.1801090"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0193382",
+        "DOI": "10.1371/journal.pone.0193382",
+        "article-title": "Correction: Definition of Human Epitopes Recognized in Tetanus Toxoid and Development of an Assay Strategy to Detect Ex Vivo Tetanus CD4+ T Cell Responses",
+        "volume": "13",
+        "year": "2018",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2172-9-1"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1305227110"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.1700893"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jim.2015.03.022"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkn254"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.1302101"
+      },
+      {
+        "key": "2024080319532959000_2020.02.12.946087v3.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1034/j.1399-0039.2003.00062.x"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.946087",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:02:30Z",
+      "timestamp": 1768435350000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.12.946087"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 21,
+    "URL": "https://doi.org/10.1101/2020.02.12.946087",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

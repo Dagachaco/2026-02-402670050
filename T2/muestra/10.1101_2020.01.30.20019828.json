@@ -1,0 +1,171 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:39:08Z",
+      "timestamp": 1768549148252,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 7,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  As of 8am 30\n                  <jats:sup>th</jats:sup>\n                  January (Beijing Time) 2020, Approximate 8000 cases across the world have been confirmed. It\u2019s necessary to simulate epidemic trend of the 2019-nCOV outbreak in Hubei Province, the hardest-hit area. By SEIR simulation, the predicted epidemic peak in Hubei will be within 28\n                  <jats:sup>th</jats:sup>\n                  January 2020 to 7\n                  <jats:sup>th</jats:sup>\n                  February 2020, up to 7000-9000 infectious cases in total. The estimate above was based on some assumptions and limitations exited.\n                </jats:p>",
+    "DOI": "10.1101/2020.01.30.20019828",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2020-02-02T11:44:15Z",
+      "timestamp": 1580643855000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Modelling the epidemic trend of the 2019-nCOV outbreak in Hubei Province, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Lizhe",
+        "family": "Ai",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110510500716000_2020.01.30.20019828v2.1",
+        "first-page": "237",
+        "volume": "3",
+        "author": "World Health Organization",
+        "year": "2020",
+        "journal-title": "Novel coronavirus (2019-nCoV). Situation report"
+      },
+      {
+        "key": "2020110510500716000_2020.01.30.20019828v2.2",
+        "first-page": "2000044",
+        "article-title": "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020110510500716000_2020.01.30.20019828v2.3",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Outbreak notification. http://www.nhc.gov.cn/xcs/yqtb/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml"
+      },
+      {
+        "key": "2020110510500716000_2020.01.30.20019828v2.4",
+        "unstructured": "World Health Organization. Clinical management of severe acute respiratory infection when novel coronavirus (nCOV) infection is suspected: Interim guidance"
+      },
+      {
+        "key": "2020110510500716000_2020.01.30.20019828v2.5",
+        "unstructured": "Imai N , Dorigatti I , Cori A , Riley S , Ferguson NM . Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China [Internet]. 2020 [cited 23 Jan 2020]. Available: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan242coronavirus"
+      },
+      {
+        "key": "2020110510500716000_2020.01.30.20019828v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mingwang Shen , Zhihang Peng , Yanni Xiao , Lei Zhang . Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioRxiv 2020.01.23.916726",
+        "DOI": "10.1101/2020.01.23.916726"
+      },
+      {
+        "key": "2020110510500716000_2020.01.30.20019828v2.7",
+        "unstructured": "Bjnews. Baidu map data shows that Wuhan\u2019s population recently moved out of cities mostly in Hubei Province. http://www.bjnews.com.cn/finance/2020/01/23/678407.html"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.30.20019828",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:38Z",
+      "timestamp": 1768484018000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.30.20019828"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 7,
+    "URL": "https://doi.org/10.1101/2020.01.30.20019828",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

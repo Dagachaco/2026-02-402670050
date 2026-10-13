@@ -1,0 +1,239 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          18
+        ]
+      ],
+      "date-time": "2026-01-18T23:13:35Z",
+      "timestamp": 1768778015780,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Cardiovascular Medicine",
+    "reference-count": 9,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To investigate the correlation between clinical characteristics and cardiac injury of COVID-2019 pneumonia.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In this retrospective, single-center study, 41 consecutive corona virus disease 2019 (COVID-2019) patients (including 2 deaths) of COVID-2019 in Beijing Youan Hospital, China Jan 21 to Feb 03, 2020, were involved in this study. The high risk factors of cardiac injury in different COVID-2019 patients were analyzed. Computed tomographic (CT) imaging of epicardial adipose tissue (EAT) has been used to demonstrate the cardiac inflammation of COVID-2019.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    Of the 41 COVID-2019 patients, 2 (4.88%), 32 (78.05%), 4 (9.75%) and 3 (7.32%) patients were clinically diagnosed as light, mild, severe and critical cases, according to the 6\n                    <jats:sup>th</jats:sup>\n                    guidance issued by the National Health Commission of China. 10 (24.4%) patients had underlying complications, such as hypertension, CAD, type 2 diabetes mellites and tumor. The peak value of TnI in critical patients is 40-fold more than normal value. 2 patients in the critical group had the onset of atrial fibrillation, and the peak heart rates reached up to 160 bpm. CT scan showed low EAT density in severe and critical patients.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Our results indicated that cardiac injury of COVID-2019 was rare in light and mild patients, while common in severe and critical patients. Therefore, the monitoring of the heart functions of COVID-2019 patients and applying potential interventions for those with abnormal cardiac injury related characteristics, is vital to prevent the fatality.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.24.20027052",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T17:25:16Z",
+      "timestamp": 1582824316000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 33,
+    "title": [
+      "Clinical and radiographic features of cardiac injury in patients with 2019 novel coronavirus pneumonia"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Hui",
+        "family": "Hui",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yingqian",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xin",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bingxi",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongjun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Tian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yundai",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911074473000_2020.02.24.20027052v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, D. , et al., Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA, 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110911074473000_2020.02.24.20027052v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "issue": "5",
+        "key": "2020110911074473000_2020.02.24.20027052v1.3",
+        "first-page": "372",
+        "article-title": "[Identification and quantification of fat compartments with CT and MRI and their importance]",
+        "volume": "51",
+        "year": "2011",
+        "journal-title": "Radiologe"
+      },
+      {
+        "issue": "1",
+        "key": "2020110911074473000_2020.02.24.20027052v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1016/j.jcct.2017.11.007",
+        "article-title": "Epicardial adipose tissue density and volume are related to subclinical atherosclerosis, inflammation and major adverse cardiac events in asymptomatic subjects",
+        "volume": "12",
+        "year": "2018",
+        "journal-title": "J Cardiovasc Comput Tomogr"
+      },
+      {
+        "key": "2020110911074473000_2020.02.24.20027052v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/thorax.58.8.686"
+      },
+      {
+        "key": "2020110911074473000_2020.02.24.20027052v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2201.151340"
+      },
+      {
+        "key": "2020110911074473000_2020.02.24.20027052v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(18)30127-0"
+      },
+      {
+        "key": "2020110911074473000_2020.02.24.20027052v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu, Z. , et al., Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med, 2020.",
+        "DOI": "10.1016/S2213-2600(20)30076-X"
+      },
+      {
+        "key": "2020110911074473000_2020.02.24.20027052v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fitzgibbons, T.P. and M.P. Czech , Epicardial and Perivascular Adipose Tissues and Their Influence on Cardiovascular Disease: Basic Mechanisms and Clinical Associations. Journal of the American Heart Association, 2014. 3(2).",
+        "DOI": "10.1161/JAHA.113.000582"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027052",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:14Z",
+      "timestamp": 1768484054000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027052"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 9,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027052",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

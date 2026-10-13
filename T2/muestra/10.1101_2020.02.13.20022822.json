@@ -1,0 +1,175 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:47Z",
+      "timestamp": 1768544087658,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 7,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objectives</jats:title>\n                  <jats:p>Amid the continuing spread of the novel coronavirus (COVID-19), the incubation period of COVID-19 should be regularly re-assessed as more information is available upon the increase in reported cases. The present work estimated the distribution of incubation periods of patients infected in and outside Hubei province of China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Clinical data were collected from the individual cases reported by the media as they were not fully available on the official pages of the Chinese health authorities. MLE was used to estimate the distributions of the incubation period.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>It was found that the incubation period of patients with no travel history to Hubei was longer and more volatile.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>It is recommended that the duration of quarantine should be extended to at least 3 weeks.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.13.20022822",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T12:45:42Z",
+      "timestamp": 1582029942000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Estimating the distribution of the incubation period of 2019 novel coronavirus (COVID-19) infection between travelers to Hubei, China and non-travelers"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Char",
+        "family": "Leung",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711100790000_2020.02.13.20022822v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000062"
+      },
+      {
+        "key": "2020110711100790000_2020.02.13.20022822v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110711100790000_2020.02.13.20022822v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25682"
+      },
+      {
+        "key": "2020110711100790000_2020.02.13.20022822v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110711100790000_2020.02.13.20022822v1.5",
+        "unstructured": "National Health Committee of the PRC Government (2020, January 26). State Council Information Office Press Conference. http://www.nhc.gov.cn/xwzb/webcontroller.do?titleSeq=11209&gecstype=1. Accessed 9 February 2020."
+      },
+      {
+        "key": "2020110711100790000_2020.02.13.20022822v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3659"
+      },
+      {
+        "key": "2020110711100790000_2020.02.13.20022822v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.13.20022822",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:55Z",
+      "timestamp": 1768484035000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.13.20022822"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 7,
+    "URL": "https://doi.org/10.1101/2020.02.13.20022822",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1017/ice.2020.81",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

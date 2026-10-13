@@ -1,0 +1,434 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2026-02-12T11:32:44Z",
+      "timestamp": 1770895964488,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "group-title": "Systems Biology",
+    "reference-count": 29,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>Rationale</jats:title>\n                  <jats:p>Several studies have estimated basic production number of novel coronavirus pneumonia (NCP). However, the time-varying transmission dynamics of NCP during the outbreak remain unclear.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Objectives</jats:title>\n                  <jats:p>We aimed to estimate the basic and time-varying transmission dynamics of NCP across China, and compared them with SARS.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    Data on NCP cases by February 7, 2020 were collected from epidemiological investigations or official websites. Data on severe acute respiratory syndrome (SARS) cases in Guangdong Province, Beijing and Hong Kong during 2002-2003 were also obtained. We estimated the doubling time, basic reproduction number (\n                    <jats:italic>\n                      R\n                      <jats:sub>0</jats:sub>\n                    </jats:italic>\n                    ) and time-varying reproduction number (\n                    <jats:italic>\n                      R\n                      <jats:sub>t</jats:sub>\n                    </jats:italic>\n                    ) of NCP and SARS.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Measurements and main results</jats:title>\n                  <jats:p>\n                    As of February 7, 2020, 34,598 NCP cases were identified in China, and daily confirmed cases decreased after February 4. The doubling time of NCP nationwide was 2.4 days which was shorter than that of SARS in Guangdong (14.3 days), Hong Kong (5.7 days) and Beijing (12.4 days). The\n                    <jats:italic>\n                      R\n                      <jats:sub>0</jats:sub>\n                    </jats:italic>\n                    of NCP cases nationwide and in Wuhan were 4.5 and 4.4 respectively, which were higher than\n                    <jats:italic>\n                      R\n                      <jats:sub>0</jats:sub>\n                    </jats:italic>\n                    of SARS in Guangdong (\n                    <jats:italic>\n                      R\n                      <jats:sub>0</jats:sub>\n                    </jats:italic>\n                    =2.3), Hongkong (\n                    <jats:italic>\n                      R\n                      <jats:sub>0</jats:sub>\n                    </jats:italic>\n                    =2.3), and Beijing (\n                    <jats:italic>\n                      R\n                      <jats:sub>0</jats:sub>\n                    </jats:italic>\n                    =2.6). The\n                    <jats:italic>\n                      R\n                      <jats:sub>t</jats:sub>\n                    </jats:italic>\n                    for NCP continuously decreased especially after January 16 nationwide and in Wuhan. The\n                    <jats:italic>\n                      R\n                      <jats:sub>0</jats:sub>\n                    </jats:italic>\n                    for secondary NCP cases in Guangdong was 0.6, and the\n                    <jats:italic>\n                      R\n                      <jats:sub>t</jats:sub>\n                    </jats:italic>\n                    values were less than 1 during the epidemic.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>NCP may have a higher transmissibility than SARS, and the efforts of containing the outbreak are effective. However, the efforts are needed to persist in for reducing time-varying reproduction number below one.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>At a Glance Commentary</jats:title>\n                  <jats:sec>\n                    <jats:title>Scientific Knowledge on the Subject</jats:title>\n                    <jats:p>Since December 29, 2019, pneumonia infection with 2019-nCoV, now named as Novel Coronavirus Pneumonia (NCP), occurred in Wuhan, Hubei Province, China. The disease has rapidly spread from Wuhan to other areas. As a novel virus, the time-varying transmission dynamics of NCP remain unclear, and it is also important to compare it with SARS.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>What This Study Adds to the Field</jats:title>\n                    <jats:p>We compared the transmission dynamics of NCP with SARS, and found that NCP has a higher transmissibility than SARS. Time-varying production number indicates that rigorous control measures taken by governments are effective across China, and persistent efforts are needed to be taken for reducing instantaneous reproduction number below one.</jats:p>\n                  </jats:sec>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.25.919787",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2020-01-26T20:34:15Z",
+      "timestamp": 1580070855000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 157,
+    "title": [
+      "Time-varying transmission dynamics of Novel Coronavirus Pneumonia in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Tao",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jianxiong",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianpeng",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guanhao",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Min",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zuhua",
+        "family": "Rong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lifeng",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haojie",
+        "family": "Zhong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiong",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Aiping",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weilin",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaohua",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Siqing",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhihua",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiansen",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dexin",
+        "family": "Gong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Donghua",
+        "family": "Wan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shaowei",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lingchuan",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Limei",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenjia",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tie",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianfeng",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenjun",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.1",
+        "unstructured": "World Health Organization. Summary of probable SARS cases with onset of illness from 1 November 2002 to 31 July 2003. 2003. Available from: https://www.who.int/csr/sars/country/table2004_04_21/en/."
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.46234/ccdcw2020.022",
+        "article-title": "An Outbreak of NCIP (2019-nCoV) Infection in China \u2014 Wuhan, Hubei Province",
+        "volume": "2",
+        "author": "The 2019-nCoV Outbreak Joint Field Epidemiology Investigation Team, Li Q",
+        "year": "2020",
+        "journal-title": "China CDC Weekly"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.3",
+        "unstructured": "World Health Organization. Coronavirus. 2020. Available from: https://www.who.int/health-topics/coronavirus."
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y , Zhang L , Fan G , Xu J , Gu X , Cheng Z , Yu T , Xia J , Wei Y , Wu W , Xie X , Yin W , Li H , Liu M , Xiao Y , Gao H , Guo L , Xie J , Wang G , Jiang R , Gao Z , Jin Q , Wang J , Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020. Jan 24.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.5",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Epidemic situation of novel coronavirus infection. 2020. Available from: http://www.nhc.gov.cn/xcs/yqtb/202001/c5da49c4c5bf4bcfb320ec2036480627.shtml."
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , To KK , Chu H , Yang J , Xing F , Liu J , Yip CC , Poon RW , Tsoi HW , Lo SK , Chan KH , Poon VK , Chan WM , Ip JD , Cai JP , Cheng VC , Chen H , Hui CK , Yuen KY. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020. Jan 24.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , Ren R , Leung KSM , Lau EHY , Wong JY , Xing X , Xiang N , Wu Y , Li C , Chen Q , Li D , Liu T , Zhao J , Li M , Tu W , Chen C , Jin L , Yang R , Wang Q , Zhou S , Wang R , Liu H , Luo Y , Liu Y , Shao G , Li H , Tao Z , Yang Y , Deng Z , Liu B , Ma Z , Zhang Y , Shi G , Lam TTY , Wu JTK , Gao GF , Cowling BJ , Yang B , Leung GM , Feng Z , Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N Engl J Med 2020. Jan 29.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tang B , Wang X , Li Q , Bragazzi NL , Tang S , Xiao Y , Wu J. Estimation of the Transmission Risk of 2019-nCov and Its Implication for Public Health Interventions. January 24, 2020. Available at SSRN: https://ssrn.com/abstract=3525558.",
+        "DOI": "10.2139/ssrn.3525558"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.9"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.11"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Lin Q , Ran J , Musa SS , Yang G , Wang W , Lou Y , Gao D , Yang L , He D , Wang MH. Preliminary estimation of the basic reproduction number of novel coronavirus (2019- nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. Int J Infect Dis 2020. Jan 30.",
+        "DOI": "10.1101/2020.01.23.916395"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "100356",
+        "DOI": "10.1016/j.epidem.2019.100356",
+        "article-title": "Improved inference of time-varying reproduction numbers during infectious disease outbreaks",
+        "volume": "29",
+        "year": "2019",
+        "journal-title": "Epidemics"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ede.0000181633.80269.4c"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/pgmj.2004.020263"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.16",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Prevention and Control Scheme of Novel Coronavirus. 2020. Available from: http://www.nhc.gov.cn/xcs/zhengcwj/202001/808bbf75e5ce415aa19f74c78ddc653f.shtml."
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.290.24.3215"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.18",
+        "unstructured": "World Health Organization. Epidemic curves - Severe Acute Respiratory Syndrome (SARS); 2003. Available from: https://www.who.int/csr/sars/epicurve/epiindex/en/."
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mcgough SF , Johansson MA , Lipsitch M , Menzies NA. Nowcasting by Bayesian Smoothing: A flexible, generalizable model for real-time epidemic tracking. bioRxiv 2019: 663823.",
+        "DOI": "10.1101/663823"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.3201/eid0908.030334",
+        "article-title": "Severe acute respiratory syndrome: temporal stability and geographic variation in case-fatality rates and doubling times",
+        "volume": "9",
+        "year": "2003",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m236"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.23"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0307506101"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1616438114"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang C , Horby PW , Hayden FG , Gao GF. A novel coronavirus outbreak of global health concern. Lancet 2020. Jan 24.",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.28"
+      },
+      {
+        "key": "2020021512250505000_2020.01.25.919787v2.29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , Zhu F , Liu X , Zhang J , Wang B , Xiang H , Cheng Z , Xiong Y , Zhao Y , Li Y , Wang X , Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA 2020. Feb 07.",
+        "DOI": "10.1001/jama.2020.1585"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.25.919787",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:27Z",
+      "timestamp": 1768435047000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.25.919787"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "references-count": 29,
+    "URL": "https://doi.org/10.1101/2020.01.25.919787",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

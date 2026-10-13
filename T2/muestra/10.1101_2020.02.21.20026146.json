@@ -1,0 +1,346 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T04:39:48Z",
+      "timestamp": 1773290388730,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>In response to the COVID-19 outbreak, we aimed to investigate behavioural change on exposure to live animals before and during the outbreak, and public support and confidence for governmental containment measures.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>A population-based cross-sectional telephone survey via random dialing was conducted in Wuhan (the epicentre) and Shanghai (an affected city with imported cases) between 1 and 10 February, 2020. 510 residents in Wuhan and 501 residents in Shanghai were randomly sampled. Differences of outcome measures were compared before and during the outbreak, and between two cities.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>Proportion of respondents visiting wet markets at usual was 23.3% (119/510) in Wuhan and 20.4% (102/501) in Shanghai. During the outbreak, it decreased to 3.1% (16) in Wuhan (p&lt;0\u00b7001), and 4.4% (22) in Shanghai (p&lt;0\u00b7001). Proportion of those consuming wild animal products declined from 10.2% (52) to 0.6% (3) in Wuhan (p&lt;0\u00b7001), and from 5.2% (26) to 0.8% (4) in Shanghai (p&lt;0\u00b7001). 79.0% (403) of respondents in Wuhan and 66.9% (335) of respondents in Shanghai supported permanent closure of wet markets (P&lt;0.001). 95% and 92% of respondents supported banning wild animal trade and quarantining Wuhan, and 75% were confident towards containment measures. Females and the more educated were more supportive for the above containment measures.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>The public responded quickly to the outbreak, and reduced exposure to live animals, especially in Wuhan. With high public support in containment measures, better regulation of wet markets and healthy diets should be promoted.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>National Science Fund for Distinguished Young Scholars, H2020 MOOD project.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Research in context</jats:title>\n                  <jats:sec>\n                    <jats:title>Evidence before this study</jats:title>\n                    <jats:p>On February 19, 2020, we searched PubMed for papers published after January 1, 2020, containing the following terms: \u201c2019 nCoV\u201d or \u201cCOVID-19\u201d. We identified 179 studies, most of which are research on clinical and epidemiological characteristics of COVID-19. To date there is no primary research to quantify public behavioural response and support in containment measures in response to the outbreak. Only four commentaries mentioned the influence of the outbreak on mental health. One commentary introduced the habit of consuming wild animal products in China. Another commentary briefly introduced isolation, quarantine, social distancing and community containment as public health measures in the outbreak. The Chinese government has introduced a series of strict containment measures, and societal acceptability of these measure is important for effective and sustained response. Evidence is urgently needed to help policy makers understand public response to the outbreak and support for the containment measures, but no evidence available to date.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Added value of this study</jats:title>\n                    <jats:p>We conducted a population-based cross-sectional telephone survey via random digital dialing in Wuhan (the epicentre) and Shanghai (an affected city with imported cases) between 1 and 10 February, 2020. To date, this is the only few analyses on behavioural response to the outbreak and societal acceptability of governmental containment measures, which has been listed as the current priority of China CDC. We provide an assessment of behavioural change on exposure to live animals during the outbreak, by comparison before and during the outbreak, and between two cities with diverse exposure intensities to COVID-19. We also provide evidence on public support in governmental containment measures, including strict regulation on wet markets to reduce animal-to-human transmission and city quarantine to reduce human transmission.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Implications of all the available evidence</jats:title>\n                    <jats:p>We found that wild animal consumption was more prevalent in Wuhan (10.2%) than in Shanghai (5.2%). The public responded quickly to the outbreak, and significantly reduced exposure to live animals and stopped wild animal consumption, especially in Wuhan. They were very supportive of governmental containment measures. With high public support, wet markets should be better regulated, and healthy diets, including changing the traditional habit of eating wild animal products, should be promoted. This can inform policy makers in China and other countries to implement and adjust containment strategies in response to the outbreak in the future.</jats:p>\n                  </jats:sec>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.21.20026146",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:35:20Z",
+      "timestamp": 1582518920000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Public Exposure to Live Animals, Behavioural Change, and Support in Containment Measures in response to COVID-19 Outbreak: a population-based cross sectional survey in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhiyuan",
+        "family": "Hou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Leesa",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lu",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fanxing",
+        "family": "Du",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mengcen",
+        "family": "Qian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuxia",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Juanjuan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongjie",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.1",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020."
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.3",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus- Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.4",
+        "unstructured": "Lu R , Zhao X , Li J , et al. Genomic characterization and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet 2020."
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A novel coronavirus from patients with pneumonia in China, 2019. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.6",
+        "unstructured": "World Health Organization. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). 30 January 2020. Geneva, Switzerland."
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.7",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. http://www.nhc.gov.cn. (Assessed on February 10th, 2020)"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)15329-9"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(15)00502-2"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1087139"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-540-70962-6_13"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1401505"
+      },
+      {
+        "issue": "3",
+        "key": "2020110911250716000_2020.02.21.20026146v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "e109",
+        "DOI": "10.1016/S2468-2667(18)30029-X",
+        "article-title": "Gone or forgotten? The rise and fall of Zika virus",
+        "volume": "3",
+        "year": "2018",
+        "journal-title": "The Lancet Public Health"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2008.131821"
+      },
+      {
+        "issue": "9",
+        "key": "2020110911250716000_2020.02.21.20026146v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0137831",
+        "DOI": "10.1371/journal.pone.0137831",
+        "article-title": "Live Poultry Exposure and Public Response to Influenza A(H7N9) in Urban and Rural China during Two Epidemic Waves in 2013-2014",
+        "volume": "10",
+        "year": "2015",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "1",
+        "key": "2020110911250716000_2020.02.21.20026146v1.17",
+        "first-page": "34",
+        "article-title": "Public risk perception and attitudes towards live poultry markets before and after their closure due to influenza A(H7N9), Hong Kong, January-February 2014",
+        "volume": "38",
+        "year": "2016",
+        "journal-title": "JPublic Health (Oxf)"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kavanagh MM . Authoritarianism, outbreaks, and information politics. The Lancet Public Health 2020.",
+        "DOI": "10.1016/S2468-2667(20)30030-X"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rubin GJ , Aml\u00f4t R , Page L , Wessely S. Public perceptions, anxiety, and behaviour change inrelation to the swine flu outbreak: cross sectional telephone survey. BMJ 2009.",
+        "DOI": "10.1136/bmj.b2651"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/429923"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jech.57.11.857"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li J , Li J , Xie X , et al. Game consumption and the 2019 novel coronavirus. Lancet Infect Dis 2020.",
+        "DOI": "10.1016/S1473-3099(20)30063-3"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(13)61904-2"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.24",
+        "unstructured": "Zhong N. Response to the prevention and control of the COVID-19. Xinhua net. http://www.xinhuanet.com/2020-01/20/c_1125487200.htm."
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m313"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiang YT , Yang Y , Li W , et al. Timely mental health care for the 2019 novel coronavirus outbreak is urgently needed. Lancet Psychiatry 2020.",
+        "DOI": "10.1016/S2215-0366(20)30046-8"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.27",
+        "unstructured": "The Paper news. Public Awareness and Prevention Behavior of COVID-19. https://www.thepaper.cn/newsDetail_forward_5635537"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.28",
+        "unstructured": "General Administration of Market Supervision, Ministry of Agriculture and Rural Affairs, National Forestry and Grass Bureau. Announcement on Prohibition of Wildlife Trading (No. 4 of 2020). Jan 26, 2020."
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1322",
+        "DOI": "10.1016/j.ajic.2014.08.010",
+        "article-title": "Attitudinal changes toward control measures in live poultry markets among the general public and live poultry traders, Guangzhou, China, January\u2013February, 2014",
+        "volume": "42",
+        "year": "2014",
+        "journal-title": "Am J Infect Control"
+      },
+      {
+        "key": "2020110911250716000_2020.02.21.20026146v1.30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Atlani-Duault L , Ward JK , Roy M , Morin C , Wilson A. Tracking online heroisation and blame in epidemics. The Lancet Public Health 2020.",
+        "DOI": "10.1016/S2468-2667(20)30033-5"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.21.20026146",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:09Z",
+      "timestamp": 1768484049000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.21.20026146"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.21.20026146",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

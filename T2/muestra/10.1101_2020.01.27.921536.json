@@ -1,0 +1,359 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:49:07Z",
+      "timestamp": 1768488547243,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "group-title": "Ecology",
+    "reference-count": 31,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              28
+            ]
+          ],
+          "date-time": "2020-01-28T00:00:00Z",
+          "timestamp": 1580169600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>During outbreaks of emerging infections, the lack of effective drugs and vaccines increases reliance on non-pharmacologic public health interventions and behavior change to limit human-to-human transmission. Interventions that increase the speed with which infected individuals remove themselves from the susceptible population are paramount, particularly isolation and hospitalization. Ebola virus disease (EVD), Severe Acute Respiratory Syndrome (SARS), and Middle East Respiratory Syndrome (MERS) are zoonotic viruses that have caused significant recent outbreaks with sustained human-to-human transmission. This investigation quantified changing mean removal rates (MRR) and days from symptom onset to hospitalization (DSOH) of infected individuals from the population in seven different outbreaks of EVD, SARS, and MERS, to test for statistically significant differences in these metrics between outbreaks. We found that epidemic week and viral serial interval were correlated with the speed with which populations developed and maintained health behaviors in each outbreak.</jats:p>",
+    "DOI": "10.1101/2020.01.27.921536",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2020-01-28T17:46:14Z",
+      "timestamp": 1580233574000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Protective Population Behavior Change in Outbreaks of Emerging Infectious Disease"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2222-5441",
+        "authenticated-orcid": false,
+        "given": "Evans K.",
+        "family": "Lodge",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Annakate M.",
+        "family": "Schatz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "John M.",
+        "family": "Drake",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1411100"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2016.0308"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc1414992"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aat6030"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matt J. Keeling & Pejman Rohani. Modeling Infectious Diseases in Humans and Animals. (Princeton University Press, 2011).",
+        "DOI": "10.2307/j.ctvcm4gk0"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "876",
+        "DOI": "10.1137/10081856X",
+        "article-title": "A Stochastic Differential Equation SIS Epidemic Model",
+        "volume": "71",
+        "year": "2011",
+        "journal-title": "SIAM J. Appl. Math"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0950268806007217"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1007/s12529-008-9000-x",
+        "article-title": "Risk Perceptions and Behaviour: Towards Pandemic Control of Emerging Infectious Diseases",
+        "volume": "16",
+        "year": "2009",
+        "journal-title": "Int.J. Behav. Med"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "e20",
+        "DOI": "10.1371/journal.pone.0000020",
+        "article-title": "Societal Learning in Epidemics: Intervention Effectiveness during the 2003 SARS Outbreak in Singapore",
+        "volume": "1",
+        "year": "2006",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.10",
+        "unstructured": "MAL Hayashi . Integrating Mathematical Models of Behavior and Infectious Disease: Applications to Outbreak Dynamics and Control. (2016)."
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid0604.000403"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "528",
+        "DOI": "10.1080/17441692.2016.1208262",
+        "article-title": "Community-based reports of morbidity, mortality, and health-seeking behaviours in four Monrovia communities during the West African Ebola epidemic",
+        "volume": "13",
+        "year": "2018",
+        "journal-title": "Global Public Health"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2016.0302"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0137964",
+        "DOI": "10.1371/journal.pone.0137964",
+        "article-title": "The Economics of Epidemic Diseases",
+        "volume": "10",
+        "year": "2015",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1414216"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.16",
+        "unstructured": "World Health Organization. Preliminary results on the efficacy of rVSV-ZEBOV-GP Ebola vaccine using the ring vaccination strategy in the control of an Ebola outbreak in the Democratic Republic of the Congo: an example of integration of research into epidemic response. (2019)."
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wells, C. et al. Harnessing Case Isolation and Ring Vaccination to Control Ebola. PLoS Negl Trop Dis 9, (2015).",
+        "DOI": "10.1371/journal.pntd.0003794"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1247",
+        "DOI": "10.1111/j.1539-6924.2006.00812.x",
+        "article-title": "Societal Responses to Familiar Versus Unfamiliar Risk: Comparisons of Influenza and SARS in Korea",
+        "volume": "26",
+        "year": "2006",
+        "journal-title": "Risk Analysis"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/514320"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ngwa, G. A. & Teboh-Ewungkem, M. I. A Mathematical Model with Quarantine States for the Dynamics of Ebola Virus Disease in Human Populations. Comput Math Methods Med 2016, (2016).",
+        "DOI": "10.1155/2016/9352725"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtbi.2006.09.015"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1244492"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "196",
+        "DOI": "10.1186/s12916-014-0196-0",
+        "article-title": "Transmission dynamics and control of Ebola virus disease (EVD): a review",
+        "volume": "12",
+        "year": "2014",
+        "journal-title": "BMC Medicine"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwh255"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086478"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.26",
+        "first-page": "110",
+        "article-title": "Real-time Estimates in Early Detection of SARS",
+        "volume": "12",
+        "year": "2006",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1306742"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cowling, B. J. et al. Preliminary epidemiologic assessment of MERS-CoV outbreak in South Korea, May\u2013June 2015. Euro Surveill 20, (2015).",
+        "DOI": "10.2807/1560-7917.ES2015.20.25.21163"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.310.6973.170"
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.30",
+        "unstructured": "R Development Core Team. R: A Language and Environment for Statistical Computing. (The R Foundation for Statistical Computing, 2011)."
+      },
+      {
+        "key": "2024080322430739000_2020.01.27.921536v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/dmp.2015.38"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.27.921536",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:52Z",
+      "timestamp": 1768435072000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.27.921536"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "references-count": 31,
+    "URL": "https://doi.org/10.1101/2020.01.27.921536",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

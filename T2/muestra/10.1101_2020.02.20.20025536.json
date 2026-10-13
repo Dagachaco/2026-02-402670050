@@ -1,0 +1,320 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:01:48Z",
+      "timestamp": 1768546908131,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 22,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since December 2019, Severe acute respiratory syndrome coronavirus 2(SARS-CoV-2)-infected disease (Coronavirus Disease 2019,COVID-19) emerged in Wuhan, China,and rapidly spread throughout China,even throughout the world. We try to describe the epidemiological and clinical characteristics of COVID-19 in non-Wuhan area,and explore its effective treatment.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Retrospective, single-center case series of the 51 hospitalized patients with confirmed COVID-19 at Chongqing University Three Gorges Hospital in Chongqing, China, from January 20 to February 3, 2020;The discharge time was from January 29 to February 11, 2020. The main results and indicators of epidemiology, demography, clinical manifestation, laboratory examination, imaging data and treatment data of 51 patients with covid-19 were collected and analyzed. The changes of blood routine and biochemical indexes at discharge and admission were compared. Compare the clinical characteristics of severe patients (including severe and critical patients) and non-severe patients (general patients).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Of 51 hospitalized patients with COVID-19, the median age was 45 years (interquartile range, 34-51; range, 16-68 years) and 32 (62.7%) were men.43(84.3%) patients had been to Wuhan or Other Hubei areas outside Wuhan,and 4(7.7%) patients had a clear contact history of COVID-19 patients before the onset of the disease, and 4 (7.7%) patients had no clear epidemiological history of COVID-19.Common symptoms included fever (43 [84.3%]), cough (38 [74.5%]) and fatigue (22 [43.1%]). Lymphopenia was observed in 26 patients (51.0%), and elevated C-reactive protein level in 32 patients (62.7%). Ground-glass opacity was the typical radiological finding on chest computed tomography (41 [80.4%]),Local consolidation of pneumonia in some patients(17 [33.3%]).Most of the patients were treated with traditional Chinese medicine decoction (28 [54.9%]),all of them received aerosol inhalation of recombinant human interferon a-1b for injection and oral antiviral therapy with Lopinavir and Ritonavir tablets (51 [100%]); Most of the patients were given Bacillus licheniformis capsules regulated intestinal flora treatment (44 [86.3%]). 10 patients (19.6%) received short-term (3-5 days) glucocorticoid treatment. Compared with non-severe patients (n = 44), severe patients (n = 7) were older (median age, 52 years vs 44 years), had a higher proportion of diabetes mellitus (4 [57.1%] vs 0 [0.0%]), most of them needed antibiotic treatment (7 [100%] vs 4 [9.1%], most of them needed nutritional diet (6 [85.7%) vs 0 [0.0%], and were more likely to have dyspnea (6 [85.7%] vs 5 [11.4%]),most of them needed noninvasive mechanical ventilation (6 [85.7%] vs 0 [0.0%]). Except one patient died, the remaining 50 patients were discharged according to the discharge standard, the common clinical symptoms disappeared basically, the lymphocyte increased significantly (P=0.008), CRP decreased significantly (P &lt;0.001). The median length of stay was 12 days (IQR, 9-13).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>In 51 single center cases confirmed as COVID-19 and discharged from the hospital, 13.7% of the patients were severe. The main clinical symptoms of patients with COVID-19 were fever, cough and asthenia,Some patients had obvious dyspnea. They had clinical laboratory and radiologic characteristics. There is no specific drug treatment for the disease. For the treatment of COVID-19, in addition to oxygen inhalation and antiviral treatment, attention should be paid to the dialectical treatment of traditional Chinese medicine, regulation of intestinal flora, nutritional support treatment and other comprehensive treatment.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.20.20025536",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:35:45Z",
+      "timestamp": 1582518945000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 39,
+    "title": [
+      "Clinical characteristics of 51 patients discharged from hospital with COVID-19 in Chongqing,China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Lei",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jian-Ya",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wan-mei",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xian-xiang",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lian",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-qiu",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yue-wu",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-hui",
+        "family": "Lang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fang-zheng",
+        "family": "Mou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zheng-jun",
+        "family": "Yi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qin-qin",
+        "family": "Pei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kai",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiang-lin",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiang-feng",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.2",
+        "unstructured": "WHO Director-General\u2019s remarks at the media briefing on 2019-nCoV on 11 February 2020. Retrieved February 11, 2020, from https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020."
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gorbalenya. (2020). Severe acute respiratory syndrome-related coronavirus \u2013 The species and its viruses, a statement of the Coronavirus Study Group. Retrieved bioRxiv, https://doi.org/10.1101/2020.02.07.937862.",
+        "DOI": "10.1101/2020.02.07.937862"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.4",
+        "unstructured": "International Committee on Taxonomy of Viruses. Retrieved February 11, 2020, from https://talk.ictvonline.org/."
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.5",
+        "unstructured": "WHO main website. https://www.who.int (accessed February 14th, 2020)"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "William Kyle Silverstein, Lynfa Stroud, Graham Edward Cleghorn, et.al. First imported case of 2019 novel coronavirus in Canada, presenting as mild pneumonia. The Lancet; February 13, 2020. DOI:https://doi.org/10.1016/S0140-6736(20)30370-6",
+        "DOI": "10.1016/S0140-6736(20)30370-6"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.10",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. http://www.nhc.gov.cn (Assessed on February 15th, 2020)"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wei J , Ni Z, Hu-Y , et al. Clinical characteristics of 2019 novel coronavirus infection in China. Medrxiv, Posted February 09, 2020. doi : https://doi.org/10.1101/2020.02.06.20020974",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang Y , Lu Q , Liu M , et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. Medrxiv, Posted February 11, 2020.doi: https://doi.org/10.1101/2020.02.10.20021675",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.15",
+        "unstructured": "Chongqing Health Committee. http://wsjkw.cq.gov.cn (Assessed on February 15th, 2020)"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.16",
+        "unstructured": "World Health Organization. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected: interim guidance. Published January 28, 2020. Accessed January 31, 2020. https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.17",
+        "unstructured": "The national health and Health Commission of the people\u2019s Republic of China, State Administration of traditional Chinese medicine of the people\u2019s Republic of China. Diagnosis and treatment of novel coronavirus pneumonia (trial version fifth). 2020."
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ranieri VM , Rubenfeld GD , Thompson BT , et al. ARDS Definition Task Force. Acute respiratory distress syndrome: the Berlin definition. JAMA.2533-2526:(23)307;2012doi/10.1001:jama.2012.5669.",
+        "DOI": "10.1001/jama.2012.5669"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "De Wit E , Van Doremalen N , Falzarano D , et al. SARS and MERS: recent insights into emerging coronaviruses. Nat Rev Microbiol. 534-523:(8)14; 2016. doi/10.1038:nrmicro.2016.81PubMedGoogle ScholarCrossref.",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Clark D Russell , Jonathan E Millar , J Kenneth Baillie , et al. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Published:February 11, 2020.https://doi.org/10.1016/S0140-6736(20)30317-2",
+        "DOI": "10.1016/S0140-6736(20)30317-2"
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.21",
+        "unstructured": "Luo Y , Wang C Z , Hesse-Fong J , et al. Application of Chinese Medicine in Acute and Critical Medical Conditions. The American Journal of Chinese Medicine, 2019:1\u201313."
+      },
+      {
+        "key": "2020110810450711000_2020.02.20.20025536v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/14651858.CD004882.pub3"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025536",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:07Z",
+      "timestamp": 1768484047000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025536"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 22,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025536",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

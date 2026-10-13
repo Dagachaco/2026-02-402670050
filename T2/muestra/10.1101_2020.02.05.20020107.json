@@ -1,0 +1,278 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:39:57Z",
+      "timestamp": 1768549197364,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  In current severe global emergency situation of 2019-nCov outbreak, it is imperative to identify vulnerable and susceptible groups for effective protection and care. Recently, studies found that 2019-nCov and SARS-nCov share the same receptor, ACE2. In this study, we analyzed five large-scale bulk transcriptomic datasets of normal lung tissue and two single-cell transcriptomic datasets to investigate the disparities related to race, age, gender and smoking status in\n                  <jats:italic>ACE2</jats:italic>\n                  gene expression and its distribution among cell types. We didn\u2019t find significant disparities in\n                  <jats:italic>ACE2</jats:italic>\n                  gene expression between racial groups (Asian vs Caucasian), age groups (&gt;60 vs &lt;60) or gender groups (male vs female). However, we observed significantly higher\n                  <jats:italic>ACE2</jats:italic>\n                  gene expression in former smoker\u2019s lung compared to non-smoker\u2019s lung. Also, we found higher\n                  <jats:italic>ACE2</jats:italic>\n                  gene expression in Asian current smokers compared to non-smokers but not in Caucasian current smokers, which may indicate an existence of gene-smoking interaction. In addition, we found that\n                  <jats:italic>ACE2</jats:italic>\n                  gene is expressed in specific cell types related to smoking history and location. In bronchial epithelium,\n                  <jats:italic>ACE2</jats:italic>\n                  is actively expressed in goblet cells of current smokers and club cells of non-smokers. In alveoli,\n                  <jats:italic>ACE2</jats:italic>\n                  is actively expressed in remodelled AT2 cells of former smokers. Together, this study indicates that smokers especially former smokers may be more susceptible to 2019-nCov and have infection paths different with non-smokers. Thus, smoking history may provide valuable information in identifying susceptible population and standardizing treatment regimen.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.05.20020107",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T15:15:12Z",
+      "timestamp": 1581434112000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 34,
+    "title": [
+      "Bulk and single-cell transcriptomics identify tobacco-use disparity in lung gene expression of ACE2, the receptor of 2019-nCov"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Guoshuai",
+        "family": "Cai",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwh056"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/IJGM.S67061"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu X , Chen P , Wang J , et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. SCIENCE CHINA Life Sciences 2020.",
+        "DOI": "10.1007/s11427-020-1637-5"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.4",
+        "unstructured": "Zhou P , Yang X-L , Wang X-G , et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv 2020:2020.01.22.914952."
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao Y , Zhao Z , Wang Y , Zhou Y , Ma Y , Zuo W. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov. bioRxiv 2020:2020.01.26.919985.",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/gr.145144.112"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "2590",
+        "DOI": "10.1158/1055-9965.EPI-10-0332",
+        "article-title": "Identification of a novel biomarker, SEMA5A, for non-small cell lung carcinoma in nonsmoking women",
+        "volume": "19",
+        "year": "2010",
+        "journal-title": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0001651"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0175850",
+        "DOI": "10.1371/journal.pone.0175850",
+        "article-title": "Population effect model identifies gene expression predictors of survival outcomes in lung adenocarcinoma for both Caucasian and Asian patients",
+        "volume": "12",
+        "year": "2017",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1755-8794-5-21"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biostatistics/4.2.249"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1517",
+        "DOI": "10.1164/rccm.201712-2410OC",
+        "article-title": "Single-Cell Transcriptomic Analysis of Human Lung Provides Insights into the Pathobiology of Pulmonary Fibrosis",
+        "volume": "199",
+        "year": "2019",
+        "journal-title": "Am J Respir Crit Care Med"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.aaw3413"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2012.08.003"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2019.05.031"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cai G , Xiao F. SCANNER: A Web Server for Annotation, Visualization and Sharing of Single Cell RNA-seq Data. bioRxiv 2020:2020.01.25.919712.",
+        "DOI": "10.1101/2020.01.25.919712"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ng.2653"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.18",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.19",
+        "unstructured": "Guan W-j , Ni Z-y , Hu Y , et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv 2020:2020.02.06.20020974."
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1468",
+        "DOI": "10.1016/j.burns.2015.04.010",
+        "article-title": "Role of angiotensin-converting enzyme (ACE) and ACE2 in a rat model of smoke inhalation induced acute respiratory distress syndrome",
+        "volume": "41",
+        "year": "2015",
+        "journal-title": "Burns"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "454",
+        "DOI": "10.7150/ijbs.13379",
+        "article-title": "Alternative Roles of STAT3 and MAPK Signaling Pathways in the MMPs Activation and Progression of Lung Injury Induced by Cigarette Smoke Exposure in ACE2 Knockout Mice",
+        "volume": "12",
+        "year": "2016",
+        "journal-title": "Int J Biol Sci"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1152/ajpregu.00099.2018"
+      },
+      {
+        "key": "2020110707350433000_2020.02.05.20020107v3.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.1016/j.taap.2010.02.009",
+        "article-title": "Losartan attenuates chronic cigarette smoke exposure-induced pulmonary arterial hypertension in rats: possible involvement of angiotensin-converting enzyme-2",
+        "volume": "245",
+        "year": "2010",
+        "journal-title": "Toxicol Appl Pharmacol"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.05.20020107",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:44Z",
+      "timestamp": 1768484024000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.05.20020107"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.05.20020107",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

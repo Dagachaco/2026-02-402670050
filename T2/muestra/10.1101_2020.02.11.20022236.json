@@ -1,0 +1,202 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:36Z",
+      "timestamp": 1768547256222,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 8,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:p>We present a timely evaluation of the impact of lockdown on the 2019-nCov epidemic in Hubei province, China. The implementation appears to be effective in reducing about 60% of new infections and deaths, and its effect also appears to be sustainable even after its removal. Delaying its implementation reduces its effectiveness. However, the direct economic cost of such a lockdown remains to be seen and whether the model is replicable in other Chinese regions remains a matter of further investigation.</jats:p>",
+    "DOI": "10.1101/2020.02.11.20022236",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T14:55:11Z",
+      "timestamp": 1581605711000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 29,
+    "title": [
+      "Lockdown may partially halt the spread of 2019 novel coronavirus in Hubei province, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Mingwang",
+        "family": "Shen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Zhihang",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuming",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanni",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.1",
+        "unstructured": "World Health Organization. Novel Coronavirus\u2014China, Disease outbreak news : Update. https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/ [Accessed 12 Feb 2020]"
+      },
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.2",
+        "unstructured": "Daily Nation News. WHO names new coronavirus: COVID-19. https://www.nation.co.ke/news/WHO-names-new-coronavirus/1056-5452098-48sdj6/index.html [Accessed 12 Feb 2020]"
+      },
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.3",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Daily report about 2019-nCov. http://www.nhc.gov.cn/ [Accessed 12 Feb 2020]"
+      },
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang CL , Wang YM , Li XW , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020; DOI:https://doi.org/10.1016/S0140-6736(20)30183-5",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang C , Horby PW , Hayden FG , GF Gao . A novel coronavirus outbreak of global health concern. Lancet. 2020; https://doi.org/10.1016/S0140-6736(20)30185-9",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.6",
+        "unstructured": "Chinese Center for Disease Control and Prevention. Report about 2019-nCov. http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf [Accessed 12 Feb 2020]"
+      },
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m313"
+      },
+      {
+        "key": "2020110612400979000_2020.02.11.20022236v1.8",
+        "unstructured": "Sina News. Hubei province closed 13 cities. https://news.sina.com.cn/c/2020-01-24/doc-iihnzahk6182535.shtml [Accessed 12 Feb 2020]"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.11.20022236",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:52Z",
+      "timestamp": 1768484032000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.11.20022236"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 8,
+    "URL": "https://doi.org/10.1101/2020.02.11.20022236",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.ijid.2020.05.019",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

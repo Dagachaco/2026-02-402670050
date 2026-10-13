@@ -1,0 +1,329 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          28
+        ]
+      ],
+      "date-time": "2026-03-28T10:09:42Z",
+      "timestamp": 1774692582264,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>We aim to summarize reliable evidences of evidence-based medicine for the treatment and prevention of the 2019 novel coronavirus (2019-nCoV) by analyzing all the published studies on the clinical characteristics of patients with 2019-nCoV.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>PubMed, Cochrane Library, Embase, and other databases were searched. Several studies on the clinical characteristics of 2019-nCoV infection were collected for Meta-analysis.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Ten studies were included in Meta-analysis, including a total number of 50466 patients with 2019-nCoV infection. Meta-analysis shows that, among these patients, the incidence of fever was 89.1%, the incidence of cough was 72.2%, and the incidence of muscle soreness or fatigue was 42.5%. The incidence of acute respiratory distress syndrome (ARDS) was 14.8%, the incidence of abnormal chest computer tomography (CT) was 96.6%, the percentage of severe cases in all infected cases was 18.1%, and the case fatality rate of patients with 2019-nCoV infection was 4.3%.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Fever and cough are the most common symptoms in patients with 2019-nCoV infection, and most of these patients have abnormal chest CT examination. Several people have muscle soreness or fatigue as well as ARDS. Diarrhea, hemoptysis, headache, sore throat, shock, and other symptoms only occur in a small number of patients. The case fatality rate of patients with 2019-nCoV infection is lower than that of Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS).</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.18.20024539",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T14:45:16Z",
+      "timestamp": 1582555516000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 49,
+    "title": [
+      "Clinical characteristics of 50466 patients with 2019-nCoV infection"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Pengfei",
+        "family": "Sun",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shuyan",
+        "family": "Qie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zongjan",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jizhen",
+        "family": "Ren",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianing",
+        "family": "Xi",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30186-0"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.06.005"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10654-010-9491-z"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.5",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020. pii: S0140-6736(20)30183-5."
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al . Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020. pii: S0140-6736(20)30211-7.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Weijie Guan , Zhengyi Ni , Yu Hu , et al. Clinical characteristics of 2019 novel coronavirus infection in China, medRxiv 2020. doi: https://doi.org/10.1101/2020.02.06.20020974.",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "issue": "0",
+        "key": "2021010304500478000_2020.02.18.20024539v2.9",
+        "first-page": "E005",
+        "volume": "43",
+        "year": "2020",
+        "journal-title": "Analysis of clinical features of 29 patients with 2019 novel coronavirus pneumonia. Zhonghua Jie He He Hu Xi Za Zhi"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kaiyuan Sun , Jenny Chen , Cecile Viboud . Early epidemiological analysis of the 2019-nCoV outbreak based on a crowdsourced data. medRxiv 2020. doi: https://doi.org/10.1101/2020.01.31.20019935.",
+        "DOI": "10.1101/2020.01.31.20019935"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang Yang , Qingbin Lu , Mingjin Liu , et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China. medRxiv 2020. doi: https://doi.org/10.1101/2020.02.10.20021675.",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jie Li , Shilin Li , Yurui Cai , et al. Epidemiological and Clinical Characteristics of 17 Hospitalized Patients with 2019 Novel Coronavirus Infections Outside Wuhan, China. medRxiv 2020. doi: https://doi.org/10.1101/2020.02.11.20022053.",
+        "DOI": "10.1101/2020.02.11.20022053"
+      },
+      {
+        "issue": "2",
+        "key": "2021010304500478000_2020.02.18.20024539v2.13",
+        "first-page": "145",
+        "volume": "41",
+        "author": "The Noval Coronavirus Pneumonia Emergency Response Epidemiology Team, Chinese Center for Disease Control and Prevention. The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China",
+        "year": "2020",
+        "journal-title": "Zhong Hua Liu Xing Bing Xue Za Zhi"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m606"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25682"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kangpeng Xiao , Junqiong Zhai , Yaoyu Feng , et al. Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins. medRxiv 2020. doi: https://doi.org/10.1101/2020.02.17.951335.",
+        "DOI": "10.1101/2020.02.17.951335"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25688"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peng Zhou , XingLou Yang , XianGuang Wang , et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020. doi:https://doi.org/10.1038/s41586-020-2012-7.",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fan Wu , Su Zhao , Bin Yu , et al. A new coronavirus associated with human respiratory disease in China. Nature 2020.doi:https://doi.org/10.1038/s41586-020-2008-3.",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idc.2019.07.001"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idc.2019.08.001"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chest.2019.10.032"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.127.6.2119"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/thx.2004.030205"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yu Zhao , Zixian Zhao , Yujia Wang , et al. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov. bioRxiv 2020. doi: https://doi.org/10.1101/2020.01.26.919985.",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "issue": "1",
+        "key": "2021010304500478000_2020.02.18.20024539v2.27",
+        "first-page": "1",
+        "article-title": "Immuno-modulation and anti-inflammatory benefits of antibiotics: the example of tilmicosin",
+        "volume": "74",
+        "year": "2010",
+        "journal-title": "Can J Vet Res"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/01902148.2010.492895"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1465-9921-15-51"
+      },
+      {
+        "key": "2021010304500478000_2020.02.18.20024539v2.30",
+        "first-page": "682",
+        "article-title": "Research Progress of Two New Antifibrotic Drugs for Idiopathic Pulmonary Fibrosis",
+        "volume": "09",
+        "year": "2019",
+        "journal-title": "Chin Pharm J"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20024539",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:03Z",
+      "timestamp": 1768484043000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20024539"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.18.20024539",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

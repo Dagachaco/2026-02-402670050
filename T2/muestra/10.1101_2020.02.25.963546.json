@@ -1,0 +1,729 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:14:30Z",
+      "timestamp": 1768490070574,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Immunology",
+    "reference-count": 78,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              27
+            ]
+          ],
+          "date-time": "2020-02-27T00:00:00Z",
+          "timestamp": 1582761600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The 2013-2016 West Africa EBOV epidemic was the biggest EBOV outbreak to date. An analysis of virus-specific CD8+ T-cell immunity in 30 survivors showed that 26 of those individuals had a CD8+ response to at least one EBOV protein. The dominant response (25/26 subjects) was specific to the EBOV nucleocapsid protein (NP). It has been suggested that epitopes on the EBOV NP could form an important part of an effective T-cell vaccine for Ebola Zaire. We show that a 9-amino-acid peptide NP44-52 (YQVNNLEEI) located in a conserved region of EBOV NP provides protection against morbidity and mortality after mouse adapted EBOV challenge. A single vaccination in a C57BL/6 mouse using an adjuvanted microsphere peptide vaccine formulation containing NP44-52 is enough to confer immunity in mice. Our work suggests that a peptide vaccine based on CD8+ T-cell immunity in EBOV survivors is conceptually sound and feasible. Nucleocapsid proteins within SARS-CoV-2 contain multiple class I epitopes with predicted HLA restrictions consistent with broad population coverage. A similar approach to a CTL vaccine design may be possible for that virus.</jats:p>",
+    "DOI": "10.1101/2020.02.25.963546",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2020-02-28T03:05:14Z",
+      "timestamp": 1582859114000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "An Effective CTL Peptide Vaccine for Ebola Zaire Based on Survivors\u2019 CD8+ Targeting of a Particular Nucleocapsid Protein Epitope with Potential Implications for COVID-19 Vaccine Design"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "CV",
+        "family": "Herst",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "S",
+        "family": "Burkholz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J",
+        "family": "Sidney",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A",
+        "family": "Sette",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "PE",
+        "family": "Harris",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "S",
+        "family": "Massey",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "T",
+        "family": "Brasel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "E",
+        "family": "Cunha-Neto",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "DS",
+        "family": "Rosa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "WCH",
+        "family": "Chao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "R",
+        "family": "Carback",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "T",
+        "family": "Hodge",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "L",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "S",
+        "family": "Ciotlos",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "P",
+        "family": "Lloyd",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "R",
+        "family": "Rubsamen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv639"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v8050148"
+      },
+      {
+        "issue": "3",
+        "key": "2024080321262669000_2020.02.25.963546v4.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "658",
+        "DOI": "10.1074/mcp.M114.042812",
+        "article-title": "Mass spectrometry of human leukocyte antigen class i pep-tidomes reveals strong effects of protein abundance and turnover on antigen presentation",
+        "volume": "14",
+        "year": "2015",
+        "journal-title": "Molecular & Cellular Proteomics"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(14)61839-0"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.1600965"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1107/S0907444905013090"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/mt.2013.248"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku1207"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/jir.2009.0076"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2013.12.009"
+      },
+      {
+        "issue": "1-3",
+        "key": "2024080321262669000_2020.02.25.963546v4.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "118",
+        "DOI": "10.1007/s12026-014-8534-z",
+        "article-title": "T cell-mediated immune response to respiratory coronaviruses",
+        "volume": "59",
+        "year": "2014",
+        "journal-title": "Immunologic research"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2007.05.025"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.13",
+        "first-page": "27",
+        "article-title": "Investigation of immunogenic t-cell epitopes in sars virus nucleocapsid protein and their role in the prevention and treatment of sars infection",
+        "volume": "14",
+        "year": "2008",
+        "journal-title": "Hong Kong medical journal= Xianggang yi xue za zhi"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fimmu.2017.00640"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0300985810378597"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13238-015-0163-3"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jir336"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/tan.12413"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nri1154"
+      },
+      {
+        "issue": "1",
+        "key": "2024080321262669000_2020.02.25.963546v4.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1186/1471-2148-7-229",
+        "article-title": "Barriers to antigenic escape by pathogens: trade-off between reproductive rate and antigenic mutability",
+        "volume": "7",
+        "year": "2007",
+        "journal-title": "BMC evolutionary biology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/21645515.2015.1021528"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9440(10)63591-2"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2567.2011.03517.x"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.174.7.4198"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature10003"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.26",
+        "unstructured": "Mikkel Harndahl , Kasper Lamberth , Sune Justesen , Gustav Rder , Michael Madsen , Christina Sylvester-Hvid , Morten Nielsen , Claus Lundegaard , Mette Voldby Larsen , Sheila Tang , Sren Brunak , Ole Lund , and Sren Buus . Large scale analysis of peptide-hla class i interactions. IEDB, 2006. URL https://www.iedb.org/reference/1000945."
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0165-2478(01)00327-3"
+      },
+      {
+        "issue": "1",
+        "key": "2024080321262669000_2020.02.25.963546v4.28",
+        "first-page": "1",
+        "article-title": "Understanding the t cell immune response in sars coronavirus infection",
+        "volume": "1",
+        "year": "2012",
+        "journal-title": "Emerging microbes & infections"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1258"
+      },
+      {
+        "issue": "9",
+        "key": "2024080321262669000_2020.02.25.963546v4.30",
+        "doi-asserted-by": "crossref",
+        "first-page": "3360",
+        "DOI": "10.4049/jimmunol.1700893",
+        "article-title": "Netmhcpan-4.0: improved peptide-mhc class i interaction predictions integrating eluted ligand and peptide binding affinity data",
+        "volume": "199",
+        "year": "2017",
+        "journal-title": "The Journal of Immunology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/bsp.2004.2.186"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1111/j.1399-0039.1988.tb02070.x",
+        "article-title": "Study of hla antigens in a population of mali (west africa)",
+        "volume": "31",
+        "year": "1988",
+        "journal-title": "Tissue Antigens"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1571",
+        "DOI": "10.3389/fmicb.2017.01571",
+        "article-title": "Ebola virus glycoprotein induces an innate immune response in vivo via tlr4",
+        "volume": "8",
+        "year": "2017",
+        "journal-title": "Frontiers in microbiology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btm404"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Liu , Qiang Wei , Qingqing Lin , Jun Fang , Haibo Wang , Hauyee Kwok , Hangying Tang , Kenji Nishiura , Jie Peng , Zhiwu Tan , et al. Anti-spike igg causes severe acute lung injury by skewing macrophage responses during acute sars-cov infection. JCI insight, 4(4), 2019. URL https://doi.org/10.1172/jci.insight.123158.",
+        "DOI": "10.1172/jci.insight.123158"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.36",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.1016/j.antiviral.2016.11.006",
+        "article-title": "T-cell immunity of sars-cov: Implications for vaccine development against mers-cov",
+        "volume": "137",
+        "year": "2017",
+        "journal-title": "Antiviral research"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/smll.200500087"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1502619112"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0061904"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1110/ps.0239403"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2009.04.001"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2006.03.036"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01004-14"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Julia Ponomarenko , Kerrie Vaughan , Sinu Paul , Bjoern Peters , Alessandro Sette , Maximilian Haeussler , and Sebastian Maurer-Stroh . Ebola: an analysis of immunity at the molecular level. IEEE, July 2015. doi: https://doi:10.1109/aisw.2015.7469230. URL https://doi:10.1109/aisw.2015.7469230.",
+        "DOI": "10.1109/AISW.2015.7469230"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.45",
+        "unstructured": "Michael Rasmussen , Mikkel Harndahl , Anne Bregnballe Kristensen , Ida Kallehauge Nielsen , Kasper W Jorgensen , Anette Stryhn , Morten Nielsen , and Sren Buus . Large scale analysis of peptide-hla-i stability. IEDB, 2014. URL https://www.iedb.org/reference/1028287."
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.46",
+        "unstructured": "Michael Rasmussen , Mikkel Harndahl , Anne Bregnballe Kristensen , Ida Kallehauge Nielsen , Kasper W Jorgensen , Anette Stryhn , Morten Nielsen , and Sren Buus . Large scale analysis of peptide-hla-i stability. IEDB, 2014. URL https://www.iedb.org/reference/1028291."
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.47",
+        "first-page": "171",
+        "article-title": "T cell responses to viral infections-opportunities for peptide vaccination",
+        "volume": "5",
+        "year": "2014",
+        "journal-title": "Frontiers in immunology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2014.05.071"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00430-019-00584-y"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1806200115"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1502924"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0161-5890(94)90019-1"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.53",
+        "unstructured": "John Sidney , Jason Botten , Benjamin Neuman , Michael Buchmeier , and Alessandro Sette . Sars iedb entries. IEDB, 2006. URL https://www.iedb.org/reference/1000425."
+      },
+      {
+        "issue": "1",
+        "key": "2024080321262669000_2020.02.25.963546v4.54",
+        "first-page": "18",
+        "article-title": "Measurement of mhc/peptide interactions by gel filtration or monoclonal antibody capture",
+        "volume": "100",
+        "year": "2013",
+        "journal-title": "Current protocols in immunology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.55",
+        "doi-asserted-by": "crossref",
+        "first-page": "2991",
+        "DOI": "10.3389/fmicb.2018.02991",
+        "article-title": "Viral-induced enhanced disease illness",
+        "volume": "9",
+        "year": "2018",
+        "journal-title": "Frontiers in microbiology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fimmu.2016.00195"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm.3350"
+      },
+      {
+        "issue": "6010",
+        "key": "2024080321262669000_2020.02.25.963546v4.58",
+        "doi-asserted-by": "crossref",
+        "first-page": "1551",
+        "DOI": "10.1126/science.1195271",
+        "article-title": "The major genetic determinants of hiv-1 control affect hla class i peptide presentation",
+        "volume": "330",
+        "author": "The International HIV Controllers Study",
+        "year": "2010",
+        "journal-title": "Science (New York, NY)"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/35046108"
+      },
+      {
+        "issue": "6",
+        "key": "2024080321262669000_2020.02.25.963546v4.60",
+        "doi-asserted-by": "crossref",
+        "first-page": "632",
+        "DOI": "10.1111/j.0300-9475.2004.01423bd.x",
+        "article-title": "Sars ctl vaccine candidateshla supertype, genome-wide scanning and biochemical validation",
+        "volume": "59",
+        "year": "2004",
+        "journal-title": "Scandinavian Journal of Immunology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1712263115"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiaolu Tang , Changcheng Wu , Xiang Li , Yuhe Song , Xinmin Yao , Xinkai Wu , Yuange Duan , Hong Zhang , Yirong Wang , Zhaohui Qian , et al. On the origin and continuing evolution of sars-cov-2. National Science Review, page nwaa036, 2020. URL https://doi.org/10.1093/nsr/nwaa036.",
+        "DOI": "10.1093/nsr/nwaa036"
+      },
+      {
+        "issue": "4",
+        "key": "2024080321262669000_2020.02.25.963546v4.63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1480",
+        "DOI": "10.4049/jimmunol.1501721",
+        "article-title": "The length distribution of class i-restricted t cell epitopes is determined by both peptide supply and mhc allele-specific binding preference",
+        "volume": "196",
+        "year": "2016",
+        "journal-title": "The Journal of Immunology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbrc.2006.03.152"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R Vita , JA Overton , JA Greenbaum , J Ponomarenko , JD Clark , JR Cantrell , DK Wheeler , JL Gabbard , D Hix , A Sette , and B Peters . The immune epitope database (iedb) 3.0. Nucleic Acids Res., 2014.",
+        "DOI": "10.1093/nar/gku938"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.66",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.3389/fmicb.2020.00135",
+        "article-title": "Broadly protective strategies against influenza viruses: Universal vaccines and therapeutics",
+        "volume": "11",
+        "year": "2020",
+        "journal-title": "Frontiers in Microbiology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature24490"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.95.9.5217"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0118881"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2237038100"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pntd.0000837"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.72",
+        "unstructured": "DJ Weber and Rutala WA . Plotkin sa, orenstein wa, offit pa. vaccines. 6, 2013."
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.75.6.2660-2664.2001"
+      },
+      {
+        "issue": "1",
+        "key": "2024080321262669000_2020.02.25.963546v4.74",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1007/s00894-004-0210-0",
+        "article-title": "Reasoning of spike glycoproteins being more vulnerable to mutations among 158 coronavirus proteins from different species",
+        "volume": "11",
+        "year": "2005",
+        "journal-title": "Journal of molecular modeling"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.75",
+        "doi-asserted-by": "crossref",
+        "first-page": "1781",
+        "DOI": "10.3389/fmicb.2019.01781",
+        "article-title": "Recent advances in the vaccine development against middle east respiratory syndrome-coronavirus",
+        "volume": "10",
+        "year": "2019",
+        "journal-title": "Frontiers in microbiology"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.20499"
+      },
+      {
+        "key": "2024080321262669000_2020.02.25.963546v4.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4161/hv.26088"
+      },
+      {
+        "issue": "4",
+        "key": "2024080321262669000_2020.02.25.963546v4.78",
+        "doi-asserted-by": "crossref",
+        "first-page": "2138",
+        "DOI": "10.4049/jimmunol.177.4.2138",
+        "article-title": "Screening and identification of severe acute respiratory syndrome-associated coronavirus-specific ctl epitopes",
+        "volume": "177",
+        "year": "2006",
+        "journal-title": "The Journal of Immunology"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.963546",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:03:24Z",
+      "timestamp": 1768435404000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.25.963546"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 78,
+    "URL": "https://doi.org/10.1101/2020.02.25.963546",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

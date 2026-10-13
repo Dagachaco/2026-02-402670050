@@ -1,0 +1,249 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:06:27Z",
+      "timestamp": 1768489587248,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "group-title": "Genomics",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The outbreaks of 2002/2003 SARS, 2012/2015 MERS and 2019/2020 Wuhan respiratory syndrome clearly indicate that genome evolution of an animal coronavirus (CoV) may enable it to acquire human transmission ability, and thereby to cause serious threats to global public health. It is widely accepted that CoV human transmission is driven by the interactions of its spike protein (S-protein) with human receptor on host cell surface; so, quantitative evaluation of these interactions may be used to assess the human transmission capability of CoVs. However, quantitative methods directly using viral genome data are still lacking. Here, we perform large-scale protein-protein docking to quantify the interactions of 2019-nCoV S-protein receptor-binding domain (S-RBD) with human receptor ACE2, based on experimental SARS-CoV S-RBD-ACE2 complex structure. By sampling a large number of thermodynamically probable binding conformations with Monte Carlo algorithm, this approach successfully identified the experimental complex structure as the lowest-energy receptor-binding conformations, and hence established an experiment-based strength reference for evaluating the receptor-binding affinity of 2019-nCoV via comparison with SARS-CoV. Our results show that this binding affinity is about 73% of that of SARS-CoV, supporting that 2019-nCoV may cause human transmission similar to that of SARS-CoV. Thus, this study presents a method for rapidly assessing the human transmission capability of a newly emerged CoV and its mutant strains, and demonstrates that post-genome analysis of protein-protein interactions may provide early scientific guidance for viral prevention and control.</jats:p>",
+    "DOI": "10.1101/2020.02.01.930537",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2020-02-04T00:04:17Z",
+      "timestamp": 1580774657000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "title": [
+      "Fast assessment of human receptor-binding capability of 2019 novel coronavirus (2019-nCoV)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Qiang",
+        "family": "Huang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Andreas",
+        "family": "Herrmann",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.1"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0022477"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.biochem.77.062906.171838"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.00636-10"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00854-15"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(1020)30251-30258"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature06249"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12005"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.15",
+        "unstructured": "Rambaut, A. (2020). Phylogenetic analysis of 23 nCoV-2019 genomes, 2020-01-23 (http://virological.org/t/phylogenetic-analysis-of-23-ncov-2019-genomes-2020-01-23/335)."
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.coviro.2016.01.004"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.str.2008.12.014"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "401",
+        "DOI": "10.1038/nprot.2016.180",
+        "article-title": "Modeling and docking of antibody structures with Rosetta",
+        "volume": "12",
+        "year": "2017",
+        "journal-title": "Nat Protoc"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.19",
+        "unstructured": "WHO (2004). Summary of probably SARS cases with onset of illness from 1 November 2002 to 31 July 2003 (http://www.who.int/csr/sars/country/table2004_04_21/en/)."
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.20",
+        "unstructured": "WHO (2016). Coronavirus infections: disease outbreak news (http://www.who.int/csr/don/26-april-2016-mers-saudi-arabia/en/)."
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.21"
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.22",
+        "unstructured": "Xu, X. , Chen, P. , Wang, J. , Feng, J. , Zhou, H. , Li, X. , Zhong, W. , and Hao, P. (2020). Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. SCIENCE CHINA Life Sciences (https://doi.org/10.1007/s11427-020-1637-5)."
+      },
+      {
+        "key": "2020020611041490000_2020.02.01.930537v2.23"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.01.930537",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:58:33Z",
+      "timestamp": 1768435113000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.01.930537"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.01.930537",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

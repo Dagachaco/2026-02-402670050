@@ -1,0 +1,362 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:00:43Z",
+      "timestamp": 1768546843104,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 28,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The outbreak of pneumonia caused by a novel coronavirus (2019-nCoV) in Wuhan City of China obtained global concern, the population outflow from Wuhan has contributed to spatial expansion in other parts of China. We examined the effects of population outflow from Wuhan on the 2019-nCoV transmission in other provinces and cities of China, as well as the impacts of the city closure in Wuhan. We observed a significantly positive association between population movement and the number of cases. Further analysis revealed that if the city closure policy was implemented two days earlier, 1420 (95% CI: 1059, 1833) cases could be prevented, and if two days later, 1462 (95% CI: 1090, 1886) more cases would be possible. Our findings suggest that population movement might be one important trigger of the 2019-nCoV infection transmission in China, and the policy of city closure is effective to prevent the epidemic.</jats:p>",
+    "DOI": "10.1101/2020.02.04.20020339",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T18:34:16Z",
+      "timestamp": 1580927656000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 29,
+    "title": [
+      "Population movement, city closure and spatial transmission of the 2019-nCoV infection in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Siqi",
+        "family": "Ai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Guanghu",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fei",
+        "family": "Tian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuan",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yinglin",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiyong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hualiang",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.367.6475.234"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF-W , Yuan S , Kok K-H , To KK-W , Chu H , Yang J , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang C , Horby PW , Hayden FG , Gao GF . A novel coronavirus outbreak of global health concern. Lancet. 2020 Jan 24.",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.5",
+        "unstructured": "First F. Mayor of Wuhan: more than 5 million people left Wuhan. 2020 [cited 2020 Jan 13, 2020]; Available from: http://news.sina.com.cn/2020-01-26/doc-iihnzahk6472836.shtml"
+      },
+      {
+        "issue": "3",
+        "key": "2020110509500882000_2020.02.04.20020339v1.6",
+        "first-page": "2000044",
+        "article-title": "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Benvenuto D , Giovannetti M , Ciccozzi A , Spoto S , Angeletti S , Ciccozzi M. The 2019-new coronavirus epidemic: evidence for virus evolution. bioRxiv. 2020.",
+        "DOI": "10.1101/2020.01.24.915157"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.8",
+        "unstructured": "Ji W , Wang W , Zhao X , Zai J , Li X. Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross-species transmission from snake to human. J Med Virol. 2020 Jan 22."
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen T , Rui J , Wang Q , Zhao Z , Cui J-A , Yin L. A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv. 2020:2020.01.19.911669.",
+        "DOI": "10.1101/2020.01.19.911669"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JR , Cummings DA , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Jan 24.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.13",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Jan 29."
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF-W , Yuan S , Kok K-H , To KK-W , Chu H , Yang J , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.15",
+        "unstructured": "New coronavirus pneumonia diagnosis and treatment program (4th ed.)(in Chinese). 2020."
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bogoch II , Watts A , Thomas-Bachli A , Huber C , Kraemer MUG , Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. Journal of Travel Medicine. 2020.",
+        "DOI": "10.1093/jtm/taaa008"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.17",
+        "first-page": "1",
+        "article-title": "Modeling Impact of Temperature and Human Movement on the Persistence of Dengue Disease",
+        "volume": "2017",
+        "year": "2017",
+        "journal-title": "Computational and Mathematical Methods in Medicine"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Poletto C , Pelat C , Levy-Bruhl D , Yazdanpanah Y , Boelle P , Colizza V. Assessment of the Middle East respiratory syndrome coronavirus (MERS-CoV) epidemic in the Middle East and risk of international spread using a novel maximum likelihood analysis approach. 2014.",
+        "DOI": "10.2807/1560-7917.ES2014.19.23.20824"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "310",
+        "DOI": "10.1016/j.envpol.2017.02.010",
+        "article-title": "Ambient temperature and emergency department visits: Time-series analysis in 12 Chinese cities",
+        "volume": "224",
+        "year": "2017",
+        "journal-title": "Environmental pollution"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwr411"
+      },
+      {
+        "issue": "1",
+        "key": "2020110509500882000_2020.02.04.20020339v1.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.15585/mmwr.mm6901a3",
+        "article-title": "Population Movement Patterns Among the Democratic Republic of the Congo, Rwanda, and Uganda During an Outbreak of Ebola Virus Disease: Results from Community Engagement in Two Districts - Uganda, March 2019",
+        "volume": "69",
+        "year": "2020",
+        "journal-title": "MMWR Morbidity and mortality weekly report"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0308344101"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.23",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet."
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.24",
+        "unstructured": "Commission CNH. Announcement from the Headquarter for novel coronavirus pneumonia prevention and control (No. 1). 2020 [cited Jan 31, 2020]; Available from: http://www.gov.cn/xinwen/2020-01/23/content_5471751.htm"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JRE , Cummings DAT , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. 2020.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "issue": "6",
+        "key": "2020110509500882000_2020.02.04.20020339v1.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "e212",
+        "DOI": "10.1371/journal.pmed.0030212",
+        "article-title": "Delaying the international spread of pandemic influenza",
+        "volume": "3",
+        "year": "2006",
+        "journal-title": "PLoS medicine"
+      },
+      {
+        "issue": "10",
+        "key": "2020110509500882000_2020.02.04.20020339v1.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "e401",
+        "DOI": "10.1371/journal.pmed.0030401",
+        "article-title": "Empirical evidence for the effect of airline travel on inter-regional influenza spread in the United States",
+        "volume": "3",
+        "year": "2006",
+        "journal-title": "PLoS medicine"
+      },
+      {
+        "key": "2020110509500882000_2020.02.04.20020339v1.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "356",
+        "DOI": "10.1186/s12879-016-1675-z",
+        "article-title": "Predicting the international spread of Middle East respiratory syndrome (MERS)",
+        "volume": "16",
+        "year": "2016",
+        "journal-title": "BMC Infect Dis"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.04.20020339",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:43Z",
+      "timestamp": 1768484023000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.04.20020339"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 28,
+    "URL": "https://doi.org/10.1101/2020.02.04.20020339",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1093/cid/ciaa422",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

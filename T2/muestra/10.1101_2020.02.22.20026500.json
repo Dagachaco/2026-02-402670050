@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          7
+        ]
+      ],
+      "date-time": "2026-04-07T11:35:22Z",
+      "timestamp": 1775561722499,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>OBJECTIVE</jats:title>\n                  <jats:p>To study the neurological manifestations of patients with coronavirus disease 2019 (COVID-19).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>DESIGN</jats:title>\n                  <jats:p>Retrospective case series</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>SETTING</jats:title>\n                  <jats:p>Three designated COVID-19 care hospitals of the Union Hospital of Huazhong University of Science and Technology in Wuhan, China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>PARTICIPANTS</jats:title>\n                  <jats:p>Two hundred fourteen hospitalized patients with laboratory confirmed diagnosis of severe acute respiratory syndrome from coronavirus 2 (SARS-CoV-2) infection. Data were collected from 16 January 2020 to 19 February 2020.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>MAIN OUTCOME MEASURES</jats:title>\n                  <jats:p>Clinical data were extracted from electronic medical records and reviewed by a trained team of physicians. Neurological symptoms fall into three categories: central nervous system (CNS) symptoms or diseases (headache, dizziness, impaired consciousness, ataxia, acute cerebrovascular disease, and epilepsy), peripheral nervous system (PNS) symptoms (hypogeusia, hyposmia, hypopsia, and neuralgia), and skeletal muscular symptoms. Data of all neurological symptoms were checked by two trained neurologists.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>RESULTS</jats:title>\n                  <jats:p>Of 214 patients studied, 88 (41.1%) were severe and 126 (58.9%) were non-severe patients. Compared with non-severe patients, severe patients were older (58.7 \u00b1 15.0 years vs 48.9 \u00b1 14.7 years), had more underlying disorders (42 [47.7%] vs 41 [32.5%]), especially hypertension (32 [36.4%] vs 19 [15.1%]), and showed less typical symptoms such as fever (40 [45.5%] vs 92 [73%]) and cough (30 [34.1%] vs 77 [61.1%]). Seventy-eight (36.4%) patients had neurologic manifestations. More severe patients were likely to have neurologic symptoms (40 [45.5%] vs 38 [30.2%]), such as acute cerebrovascular diseases (5 [5.7%] vs 1 [0.8%]), impaired consciousness (13 [14.8%] vs 3 [2.4%]) and skeletal muscle injury (17 [19.3%] vs 6 [4.8%]).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>CONCLUSION</jats:title>\n                  <jats:p>Compared with non-severe patients with COVID-19, severe patients commonly had neurologic symptoms manifested as acute cerebrovascular diseases, consciousness impairment and skeletal muscle symptoms.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.22.20026500",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:15:26Z",
+      "timestamp": 1582661726000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 236,
+    "title": [
+      "Neurological Manifestations of Hospitalized Patients with COVID-19 in Wuhan, China: a retrospective case series study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ling",
+        "family": "Mao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Mengdie",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shengcai",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Quanwei",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiang",
+        "family": "Chang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Candong",
+        "family": "Hong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yifan",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huijuan",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bo",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.4",
+        "unstructured": "WHO. Coronavirus disease 2019 (COVID-19) Situation Report-32. January, 2020. https://www.who.int/docs/default-source/coronaviruse/situation-re-ports/20200221-sitrep-32-covid-19.pdf?sfvrsn=4802d089_2 (accessed Feb 21, 2020)."
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2016.03.003"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.6",
+        "unstructured": "WHO. Middle East respiratory syndrome coronavirus (MERS-CoV). November, 2019. https://www.who.int/emergencies/mers-cov/en/ (accessed Jan 19, 2020)."
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.8",
+        "unstructured": "WHO. Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance. January, 2020. https://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected (accessed February 5, 2020)"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1164/rccm.201908-1581ST"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.1570"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Marc D , Dominique JF , \u00c9lodie B , et al. Human coronavirus: respiratory pathogens revisited as infectious neuroinvasive, neurotropic, and neurovirulent agents. In: Sunit KS, Daniel R. Neuroviral Infections: RNA Viruses and Retroviruses. Florida Boca Raton: CRC press 2013:93\u2013122.",
+        "DOI": "10.1201/b13908-7"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMsr1408795"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/med.21343"
+      },
+      {
+        "key": "2020110911112953000_2020.02.22.20026500v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.1560"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.22.20026500",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:11Z",
+      "timestamp": 1768484051000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.22.20026500"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.22.20026500",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

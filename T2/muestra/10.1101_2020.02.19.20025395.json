@@ -1,0 +1,290 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2026-02-07T08:51:11Z",
+      "timestamp": 1770454271147,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>China has been severely affected by COVID-19 (Corona Virus Disease 2019) since December, 2019. This study aimed to assess the population mental health burden during the epidemic, and to explore the potential influence factors.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Using a web-based cross-sectional survey, we collected data from 7,236 self-selected volunteers assessed with demographic information, COVID-19 related knowledge, Generalized Anxiety Disorder-7 (GAD-7), Center for Epidemiology Scale for Depression (CES-D), and Pittsburgh Sleep Quality Index (PSQI). Logistic regressions were used to identify influence factors associated with mental health problem.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    Of the total sample analyzed, the overall prevalence of GAD, depressive symptoms, and sleep quality were 35.1%, 20.1%, and 18.2%, respectively. Young people reported a higher prevalence of GAD and depressive symptoms than older people (\n                    <jats:italic>P</jats:italic>\n                    &lt;0.001). Compared with other occupational group, healthcare workers have the highest rate of poor sleep quality (\n                    <jats:italic>P</jats:italic>\n                    &lt;0.001). Multivariate logistic regression showed that age (&lt; 35 years) and times to focus on the COVID-19 (\u2265 3 hours per day) were associated with GAD, and healthcare workers were associated with poor sleep quality.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Our study identified a major mental health burden of the public during COVID-19 epidemic in China. Young people, people who spent too much time on the epidemic, and healthcare workers were at high risk for mental illness. Continuous surveillance and monitoring of the psychological consequences for outbreaks should become routine as part of preparedness efforts worldwide.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.19.20025395",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:37:35Z",
+      "timestamp": 1582519055000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 88,
+    "title": [
+      "Generalized anxiety disorder, depressive symptoms and sleep quality during COVID-19 epidemic in China: a web-based cross-sectional survey"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yeen",
+        "family": "Huang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ning",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0165-1781(89)90047-4"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1520-6394(1997)6:2<78::AID-DA4>3.0.CO;2-1"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jad.2019.11.121"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep28033"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid0602.000201"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8986.2007.537.x"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/070674370705200405"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comppsych.2018.10.003"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02951625"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000095443"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.genhosppsych.2009.03.001"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.289.18.2432"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/070674370705200406"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.14",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China, 2020. News: 21,569 medical staff have been sent to support Hubei. Accessed February 17, 2020. http://www.nhc.gov.cn/wjw/xinw/xwzx.shtml"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.0757"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.16",
+        "unstructured": "People\u2019s daily of China, 2020. The novel coronavirus can be inhibited by Chinese patent medicine Shuanghuanglian oral liquid. Accessed January 31, 2020. http://search.people.com.cn/cnpeople/news/getNewsResult.jsp"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/014662167700100306"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.166.10.1092"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jpsychires.2005.12.006"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.20",
+        "unstructured": "The Japan Times, 2020. Japanese official looking after Wuhan returnees found dead. Accessed February 3, 2020. https://www.japantimes.co.jp/news/2020/02/02/national/crime-legal/japanese-official-looking-wuhan-returnees-found-dead/."
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eplepsyres.2015.11.019"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.23",
+        "unstructured": "World Health Organization , 2020a. Novel coronavirus (2019-nCoV): situation report. Accessed February 15, 2020. https://www.who.int/docs/default-source/coronaviruse/situationreports"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.24",
+        "unstructured": "World Health Organization , 2020b. Current novel coronavirus (2019-nCoV) outbreak. Accessed January 30, 2020. https://www.who.int/health-topics/coronavirus"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1005-3220.2018.03.007"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.26",
+        "unstructured": "Wuhan Municipal Health Commission, 2020. Report of novel coronavirus-infected pneumonia in China. Published January 20, 2020. Accessed January 31, 2020. http://wjw.wuhan.gov.cn/front/web/showDetail/2020012009077"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.27",
+        "unstructured": "XINHUANET, 2020. The Latest: China confirms human-to-human transmission of 2019-nCoV, infections among medical staff. Accessed January 21, 2020. http://www.xinhuanet.com/english/2020-01/21/c_138722888.htm"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1000-6729.2011.07.007"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1000-6729.2010.02.015"
+      },
+      {
+        "key": "2020111110150728000_2020.02.19.20025395v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.19.20025395",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:06Z",
+      "timestamp": 1768484046000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.19.20025395"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.19.20025395",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.psychres.2020.112954",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

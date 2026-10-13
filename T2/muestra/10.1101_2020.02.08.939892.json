@@ -1,0 +1,363 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2026-04-01T03:05:46Z",
+      "timestamp": 1775012746298,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Genomics",
+    "reference-count": 25,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              18
+            ]
+          ],
+          "date-time": "2020-02-18T00:00:00Z",
+          "timestamp": 1581984000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Since December 2019, a novel coronavirus named 2019 coronavirus (2019-nCoV) has emerged in Wuhan of China and spread to several countries worldwide within just one month. Apart from fever and respiratory complications, acute kidney injury has been observed in some patients with 2019-nCoV. In a short period of time, angiotensin converting enzyme II (ACE2), have been proposed to serve as the receptor for the entry of 2019-nCoV, which is the same for severe acute respiratory syndrome coronavirus (SARS). To investigate the possible cause of kidney damage in 2019-nCoV patients, we used both published kidney and bladder cell atlas data and an independent unpublished kidney single cell RNA-Seq data generated in-house to evaluate ACE2 gene expressions in all cell types in healthy kidneys and bladders.</jats:p>\n                <jats:p>Our results showed the enriched expression of all subtypes of proximal tubule cells of kidney and low but detectable levels of expression in bladder epithelial cells. These results indicated the urinary system is a potential route for 2019-nCoV infection, along with the respiratory system and digestion system. Our findings suggested the kidney abnormalities of SARS and 2019-nCoV patients may be due to proximal tubule cells damage and subsequent systematic inflammatory response induced kidney injury. Beyond that, laboratory tests of viruses and related indicators in urine may be needed in some special patients of 2019-nCoV.</jats:p>",
+    "DOI": "10.1101/2020.02.08.939892",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2020-02-19T01:18:23Z",
+      "timestamp": 1582075103000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 29,
+    "title": [
+      "Single-cell Analysis of ACE2 Expression in Human Kidneys and Bladders Reveals a Potential Route of 2019-nCoV Infection"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Wei",
+        "family": "Lin",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Longfei",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Joshua D.",
+        "family": "Ooi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ting",
+        "family": "Meng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiang",
+        "family": "Ding",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Longkai",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhou",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiang",
+        "family": "Ao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiangcheng",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiaoling",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ping",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jue",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong",
+        "family": "Zhong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30186-0"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jvi.00127-20"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25681"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.7",
+        "unstructured": "Xintian Xu PC , Jingfang Wang , Jiannan Feng , Hui Zhou . Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. 2020"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30211-7"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.30.927806"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.03.931766"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41592-019-0619-0"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bib/bbz096"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aat1699"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.1570"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.18",
+        "unstructured": "Susanna K.P. Lau X-YC , Patrick C.Y. Woo , Beatrice H.L. Wong , Vincent C.C. Cheng , Gibson K.S. Woo , lvan F.N. Hung , Rosana W.S. Poon , Kwok-Hung Chan , J.S. Malik Peiris , and Kwok-Yung Yuen . SARS Coronavirus Detection Methods. Emerging Infectious Diseases 2005"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1183/09031936.04.00057804"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1523-1755.2005.67130.x"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M13-2486"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/426870"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.41.10.4521-4524.2003"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00096-08"
+      },
+      {
+        "key": "2024080319200364000_2020.02.08.939892v1.25",
+        "unstructured": "Yu Lung Lau JMP. Pathogenesis of severe acute respiratory syndrome. Current opinion in immunology 2005"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.939892",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:01:42Z",
+      "timestamp": 1768435302000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.08.939892"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 25,
+    "URL": "https://doi.org/10.1101/2020.02.08.939892",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

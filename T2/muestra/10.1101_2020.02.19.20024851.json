@@ -1,0 +1,264 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:00Z",
+      "timestamp": 1768546620366,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 17,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>To reconstruct the evolutionary dynamics of the 2019 novel coronavirus, 52 2019-nCOV genomes available on 04 February 2020 at GISAID were analysed.</jats:p>\n                <jats:p>\n                  The two models used to estimate the reproduction number (coalescent-based exponential growth and a birth-death skyline method) indicated an estimated mean evolutionary rate of 7.8 \u00d7 10\n                  <jats:sup>\u22124</jats:sup>\n                  subs/site/year (range 1.1\u00d710\n                  <jats:sup>\u22124</jats:sup>\n                  \u201315\u00d710\n                  <jats:sup>\u22124</jats:sup>\n                  ).\n                </jats:p>\n                <jats:p>The estimated R value was 2.6 (range 2.1-5.1), and increased from 0.8 to 2.4 in December 2019. The estimated mean doubling time of the epidemic was between 3.6 and 4.1 days.</jats:p>\n                <jats:p>This study proves the usefulness of phylogeny in supporting the surveillance of emerging new infections even as the epidemic is growing.</jats:p>",
+    "DOI": "10.1101/2020.02.19.20024851",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T14:45:14Z",
+      "timestamp": 1582555514000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Early Phylogenetic Estimate Of The Effective Reproduction Number Of 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3174-5721",
+        "authenticated-orcid": false,
+        "given": "Alessia",
+        "family": "Lai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Annalisa",
+        "family": "Bergna",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Carla",
+        "family": "Acciarri",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8887-6215",
+        "authenticated-orcid": false,
+        "given": "Massimo",
+        "family": "Galli",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1886-2915",
+        "authenticated-orcid": false,
+        "given": "Gianguglielmo",
+        "family": "Zehender",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.1",
+        "unstructured": "Lu R , Zhao X , Li J , et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet (London, England). 2020."
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "104212",
+        "DOI": "10.1016/j.meegid.2020.104212",
+        "article-title": "Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event",
+        "volume": "79",
+        "year": "2020",
+        "journal-title": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.3",
+        "unstructured": "Zhou P , Yang X-L , Wang X-G , et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020."
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msn083"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mss075"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.molbev.a003872"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mss084"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1058321"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1207965110"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.10",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. The New England journal of medicine. 2020."
+      },
+      {
+        "issue": "3",
+        "key": "2020110811500735000_2020.02.19.20024851v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1016/j.meegid.2004.06.011",
+        "article-title": "Comparative population dynamics of HIV-1 subtypes B and C: subtype-specific differences in patterns of epidemic growth",
+        "volume": "5",
+        "year": "2005",
+        "journal-title": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1306742"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.14",
+        "unstructured": "Liu T , Hu J , Kang M , et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv. 2020:2020.2001.2025.919787."
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Veo C , Della Ventura C , Moreno A , et al. Evolutionary Dynamics of the Lineage 2 West Nile Virus That Caused the Largest European Epidemic: Italy 2011-2018. Viruses. 2019;11(9).",
+        "DOI": "10.3390/v11090814"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Musa SS , Lin Q , et al. Estimating the Unreported Number of Novel Coronavirus (2019-nCoV) Cases in China in the First Half of January 2020: A Data-Driven Modelling Analysis of the Early Outbreak. Journal of clinical medicine. 2020;9(2).",
+        "DOI": "10.3390/jcm9020388"
+      },
+      {
+        "key": "2020110811500735000_2020.02.19.20024851v1.17",
+        "unstructured": "Zhao S , Lin Q , Ran J , et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases. 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.19.20024851",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:04Z",
+      "timestamp": 1768484044000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.19.20024851"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.1101/2020.02.19.20024851",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1002/jmv.25723",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

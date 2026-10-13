@@ -1,0 +1,219 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:34:09Z",
+      "timestamp": 1768545249348,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since December 2019, a novel coronavirus pneumonia (COVID-19) rapidly spread in China, reached multiple continents currently.We aimed to reveal the infectious characteristics of COVID-19 that provide more information for the research of novel coronavirus.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We performed a retrospective study on the clinical characteristics of 128 COVID-19 cases with laboratory-confirmed from Xiangyang No 1 Hospitalad during January 2020 to 16 February 2020.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    Female patients account for 53.1%. The aged below 20 years that accounts for 1.6% of overall patients. The aged in 21\u223c50, 51\u223c65, over 66 years were accounts for 44.5%, 35.1%,18.8%, respectively. In the difference age spectrum, all severe groups compared with non-severe groups were difference significantly (P &lt; 0.01). Fever (89.8%) and Cough (67.2%) were common clinical symptoms. The rate of patients with sore throats (14.1%) was rare. The rate of chest computed tomography scan showing ground glass opacity in overall, non-severe, severe groups were 63.3%, 60.7%, 76.2%, respectively. White blood cell counts in the normal range of overall patients, but severe group patients were increased significantly (\n                    <jats:italic>P</jats:italic>\n                    &lt; 0.01). Lymphocytes of overall patients were decreased. Alanine transaminase (ALT) and aspartate transaminase (AST) in the normal range of overall patients, but its were elevated in the severe group. Creatinine (CR) and blood urea nitrogen (BUN) of overall patients in the normal range. C-reactive protein (CRP) level of all patients were increased markedly, but it in the severe group was significantly higher than that in the non-severe group (\n                    <jats:italic>P</jats:italic>\n                    &lt; 0.01).\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Our data provide more information that advanced age, lower lymphocytes levels at the diagnosed COVID-19 patients may be a risk factor for unfavourable prognosis. The white blood cells and C-reactive protein level elevated in severe COVID-19 patients may be accompanying bacterial infection. 2019-nCov may be carries a risk factor of impaired liver and kidney function.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.23.20026963",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T19:05:27Z",
+      "timestamp": 1582657527000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "title": [
+      "Clinical features and laboratory inspection of novel coronavirus pneumonia (COVID-19) in Xiangyang, Hubei"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Weiliang",
+        "family": "Cao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuemei",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zirong",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.1",
+        "unstructured": "Chinese Center for Disease Control and Prevention. Notice of the National Health and Health Commission on the tentative naming of new coronavirus pneumonia. http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11815/202002/t20200209_212395.html."
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.3",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.4",
+        "unstructured": "World Health Organization. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)."
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.5",
+        "unstructured": "World Health Organization. Coronavirus disease 2019 (COVID-19) Situation Report-32. Data as reported by 21 February 2020. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200221-sitrep-32-covid-19.pdf?sfvrsn=4802d089."
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.10",
+        "unstructured": "WHO: clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected. https://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected."
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijantimicag.2020.105924"
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Weijie Guan , Zhengyi Ni , Yu Hu , Wenhua Liang , Chunquan Ou , Jianxing He , et al. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv preprint doi: https://doi.org/10.1101/2020.02.06.20020974.",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110911300742000_2020.02.23.20026963v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jie Li , Shilin Li , Yurui Cai , Qin Liu , Xue Li , Zhaoping Zeng ,et al. Epidemiological and Clinical Characteristics of 17 Hospitalized Patients with 2019 Novel Coronavirus Infections Outside Wuhan, China. medRxiv preprint, doi: https://doi.org/10.1101/2020.02.11.20022053.",
+        "DOI": "10.1101/2020.02.11.20022053"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.23.20026963",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:13Z",
+      "timestamp": 1768484053000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.23.20026963"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.23.20026963",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

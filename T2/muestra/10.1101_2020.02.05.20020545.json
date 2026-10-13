@@ -1,0 +1,371 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:55:37Z",
+      "timestamp": 1768546537016,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "group-title": "Allergy and Immunology",
+    "reference-count": 22,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>\n                  Respiratory disease caused by the 2019 novel coronavirus (2019-nCoV) pneumonia first emerged in Wuhan, Hubei Province, China, in December 2019 and spread rapidly to other provinces and other countries. Angiotensin-converting enzyme 2 (ACE2) is the receptor for SARS-CoV and has been suggested to be also the receptor for 2019-nCoV. Paradoxically, ACE2 expression in the lung protects mice from SARS-CoV spike protein induced lung injury by attenuating the renin-angiotensin system. In the intestine, ACE2 also suppresses intestinal inflammation by maintaining amino acid homeostasis, antimicrobial peptide expression and ecology of the gut microbiome. Upon analysis of single cell-RNA sequencing data from control subjects and those with colitis or inflammatory bowel disease (IBD), we found that\n                  <jats:italic>ACE2</jats:italic>\n                  expression in the colonocytes was positively associated with genes regulating viral infection, innate and cellular immunity, but was negatively associated with viral transcription, protein translation, humoral immunity, phagocytosis and complement activation. In summary, we suggest that ACE2 may play dual roles in mediating the susceptibility and immunity of 2019-nCoV infection.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.05.20020545",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2020-02-07T11:15:15Z",
+      "timestamp": 1581074115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 55,
+    "title": [
+      "ACE2 expression by colonic epithelial cells is associated with viral infection, immunity and energy metabolism"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Jun",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shanmeizi",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ming",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhiyao",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yiping",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ping",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meng",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanhui",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bing",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoyu",
+        "family": "Zuo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhanghua",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fan",
+        "family": "Bai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jun",
+        "family": "Cui",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew M",
+        "family": "Lew",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jincun",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hai-Bin",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuxia",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.1",
+        "unstructured": "Huang, C. , et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020."
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.2",
+        "unstructured": "Jasper Fuk-Woo Chan, S.Y. , Kin-Hang Kok , Kelvin Kai-Wang To , Hin Chu , Jin Yang , Fanfan Xing , Jieling Liu , Cyril Chik-Yan Yip , Rosana Wing-Shan Poon , Hoi-Wah Tsoi , Simon Kam-Fai Lo , Kwok-Hung Chan , Vincent Kwok-Man Poon , Wan-Mui Chan , Jonathan Daniel Ip , and V.C.-C.C. Jian-Piao Cai , Honglin Chen , Christopher Kim-Ming Hui , Kwok-Yung Yuen , A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission:a study of a family cluster. Lancet, 2020."
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holshue, M.L. , et al., First Case of 2019 Novel Coronavirus in the United States. N Engl J Med, 2020.",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbrc.2007.05.092"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1113572"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1267"
+      },
+      {
+        "issue": "1",
+        "key": "2020110508150750000_2020.02.05.20020545v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1080/22221751.2020.1719902",
+        "article-title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Emerg Microbes Infect"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/1381612033455431"
+      },
+      {
+        "issue": "11",
+        "key": "2020110508150750000_2020.02.05.20020545v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "e005819",
+        "DOI": "10.1161/CIRCHEARTFAILURE.119.005819",
+        "article-title": "Treatment of Pulmonary Hypertension With Angiotensin II Receptor Blocker and Neprilysin Inhibitor Sacubitril/Valsartan",
+        "volume": "12",
+        "year": "2019",
+        "journal-title": "Circ Heart Fail"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.115.018622"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature11228"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00726-014-1889-6"
+      },
+      {
+        "issue": "5",
+        "key": "2020110508150750000_2020.02.05.20020545v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1160",
+        "DOI": "10.1016/j.cell.2019.10.027",
+        "article-title": "Mucosal Profiling of Pediatric-Onset Colitis and IBD Reveals Common Pathogenics and Therapeutic Pathways",
+        "volume": "179",
+        "year": "2019",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.14",
+        "first-page": "104350",
+        "article-title": "ACE2 exhibits protective effects against LPS-induced acute lung injury in mice by inhibiting the LPS-TLR4 pathway",
+        "volume": "113",
+        "year": "2019",
+        "journal-title": "Exp Mol Pathol"
+      },
+      {
+        "issue": "3",
+        "key": "2020110508150750000_2020.02.05.20020545v1.15",
+        "first-page": "125",
+        "article-title": "Antiviral action of dipyridamole and its derivatives against influenza virus A",
+        "volume": "26",
+        "year": "1982",
+        "journal-title": "Acta Virol"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.79.17.11062-11070.2005"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.45.12.3657-3659.2001"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.86.10.3842"
+      },
+      {
+        "issue": "3",
+        "key": "2020110508150750000_2020.02.05.20020545v1.19",
+        "first-page": "294",
+        "article-title": "[Evaluation of dipyridamole efficacy as an agent for preventing acute respiratory viral diseases]",
+        "volume": "32",
+        "year": "1987",
+        "journal-title": "Vopr Virusol"
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.20",
+        "unstructured": "Kuzmov, K. , et al., [Epidemiological trial of the prophylactic effectiveness of the interferon inducer dipyridamole with respect to influenza and acute respiratory diseases]. Zh Mikrobiol Epidemiol Immunobiol, 1985(6): p. 26\u201330."
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.21",
+        "unstructured": "Hu, X.Q. and X.L. wANG , Treatment of viral upper respiratory tract infection in children with dipyridamole. Chinese Journal of Hospital Pharmacy, 1995(9)."
+      },
+      {
+        "key": "2020110508150750000_2020.02.05.20020545v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nbt.4096"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.05.20020545",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:44Z",
+      "timestamp": 1768484024000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.05.20020545"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "references-count": 22,
+    "URL": "https://doi.org/10.1101/2020.02.05.20020545",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

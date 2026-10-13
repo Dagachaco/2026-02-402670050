@@ -1,0 +1,846 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T11:45:02Z",
+      "timestamp": 1768477502790,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          5
+        ]
+      ]
+    },
+    "group-title": "Genomics",
+    "reference-count": 99,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              5
+            ]
+          ],
+          "date-time": "2017-10-05T00:00:00Z",
+          "timestamp": 1507161600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                  Sex can be an important determinant of cancer phenotype, and exploring sex-biased tumor biology holds promise for identifying novel therapeutic targets and new approaches to cancer treatment. In an established isogenic murine model of glioblastoma, we discovered correlated transcriptome-wide sex differences in gene expression, H3K27ac marks, large Brd4-bound enhancer usage, and Brd4 localization to Myc and p53 genomic binding sites. These sex-biased gene expression patterns were also evident in human glioblastoma stem cells (GSCs). These observations led us to hypothesize that Brd4-bound enhancers might underlie sex differences in stem cell function and tumorigenicity in GBM. We found that male and female GBM cells exhibited opposing responses to pharmacological or genetic inhibition of Brd4. Brd4 knockdown or pharmacologic inhibition decreased male GBM cell clonogenicity and\n                  <jats:italic>in vivo</jats:italic>\n                  tumorigenesis, while increasing both in female GBM cells. These results were validated in male and female patient-derived GBM cell lines. Furthermore, analysis of the Cancer Therapeutic Response Portal of human GBM samples segregated by sex revealed that male GBM cells are significantly more sensitive to BET inhibitors than are female cells. Thus, for the first time, Brd4 activity is revealed to drive a sex differences in stem cell and tumorigenic phenotype, resulting in diametrically opposite responses to BET inhibition in male and female GBM cells. This has important implications for the clinical evaluation and use of BET inhibitors.\n                </jats:p>\n                <jats:sec>\n                  <jats:title>Significance</jats:title>\n                  <jats:p>Consistent sex differences in incidence and outcome have been reported in numerous cancers including brain tumors. GBM, the most common and aggressive primary brain tumor, occurs with higher incidence and shorter survival in males compared to females. Brd4 is essential for regulating transcriptome-wide gene expression and specifying cell identity, including that of GBM. We report that sex-biased Brd4 activity drive sex differences in GBM and render male and female tumor cells differentially sensitive to BET inhibitors. The observed sex differences in BETi treatment strongly indicate that sex differences in disease biology translate into sex differences in therapeutic responses. This has critical implications for clinical use of BET inhibitors further affirming the importance of inclusion of sex as a biological variable.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/199059",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2017-10-06T01:10:23Z",
+      "timestamp": 1507252223000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Brd4-bound enhancers drive cell intrinsic sex differences in glioblastoma"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Najla",
+        "family": "Kfoury",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Zongtai",
+        "family": "Qi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Briana C",
+        "family": "Prager",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael N",
+        "family": "Wilkinson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lauren",
+        "family": "Broestl",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kristopher C",
+        "family": "Berrett",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0544-3463",
+        "authenticated-orcid": false,
+        "given": "Arnav",
+        "family": "Moudgil",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sumithra",
+        "family": "Sankararaman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuhua",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jay",
+        "family": "Gertz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jeremy Naftali",
+        "family": "Rich",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Robi D",
+        "family": "Mitra",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Joshua B",
+        "family": "Rubin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080317412373000_199059v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrg2415"
+      },
+      {
+        "issue": "12",
+        "key": "2024080317412373000_199059v3.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "107795",
+        "DOI": "10.1016/j.celrep.2020.107795",
+        "article-title": "Sex Differences in Gene Expression and Regulatory Networks across 29 Human Tissues",
+        "volume": "31",
+        "year": "2020",
+        "journal-title": "Cell reports"
+      },
+      {
+        "issue": "1",
+        "key": "2024080317412373000_199059v3.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "5385",
+        "DOI": "10.1038/s41467-019-13266-3",
+        "article-title": "Identification of cancer sex-disparity in the functional integrity of p53 and its X chromosome network",
+        "volume": "10",
+        "year": "2019",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "issue": "1",
+        "key": "2024080317412373000_199059v3.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1186/s13293-020-00291-x",
+        "article-title": "Sex differences in cancer mechanisms",
+        "volume": "11",
+        "year": "2020",
+        "journal-title": "Biol Sex Differ"
+      },
+      {
+        "key": "2024080317412373000_199059v3.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/neuonc/nou087"
+      },
+      {
+        "issue": "5",
+        "key": "2024080317412373000_199059v3.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "625",
+        "DOI": "10.1017/S0317167100010805",
+        "article-title": "Clinical significance of molecular biomarkers in glioblastoma",
+        "volume": "37",
+        "year": "2010",
+        "journal-title": "Can J Neurol Sci"
+      },
+      {
+        "key": "2024080317412373000_199059v3.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ostrom QT , et al. (2016) CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2009-2013. Neuro Oncol 18(suppl_5):v 1-v75.",
+        "DOI": "10.1093/neuonc/now207"
+      },
+      {
+        "key": "2024080317412373000_199059v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/caac.21149"
+      },
+      {
+        "key": "2024080317412373000_199059v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/caac.21153"
+      },
+      {
+        "key": "2024080317412373000_199059v3.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1186/2042-6410-3-3",
+        "article-title": "Why does Jack, and not Jill, break his crown? Sex disparity in brain tumors",
+        "volume": "3",
+        "year": "2012",
+        "journal-title": "Biol Sex Differ"
+      },
+      {
+        "key": "2024080317412373000_199059v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jnen/nly085"
+      },
+      {
+        "key": "2024080317412373000_199059v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/neuonc/noy002"
+      },
+      {
+        "key": "2024080317412373000_199059v3.13",
+        "first-page": "268",
+        "article-title": "Gender differences in cancer susceptibility: an inadequately addressed issue",
+        "volume": "3",
+        "year": "2012",
+        "journal-title": "Front Genet"
+      },
+      {
+        "key": "2024080317412373000_199059v3.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature03479"
+      },
+      {
+        "issue": "22",
+        "key": "2024080317412373000_199059v3.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "R1313",
+        "DOI": "10.1016/j.cub.2018.09.018",
+        "article-title": "Sex Chromosome Effects on Male-Female Differences in Mammals",
+        "volume": "28",
+        "year": "2018",
+        "journal-title": "Curr Biol"
+      },
+      {
+        "key": "2024080317412373000_199059v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13293-017-0150-x"
+      },
+      {
+        "key": "2024080317412373000_199059v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/gr.103200.109"
+      },
+      {
+        "issue": "1",
+        "key": "2024080317412373000_199059v3.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1186/s40478-018-0513-5",
+        "article-title": "Cooperative p16 and p21 action protects female astrocytes from transformation",
+        "volume": "6",
+        "year": "2018",
+        "journal-title": "Acta Neuropathol Commun"
+      },
+      {
+        "key": "2024080317412373000_199059v3.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1172/JCI71048"
+      },
+      {
+        "key": "2024080317412373000_199059v3.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang W , et al. (2019) Sex differences in GBM revealed by analysis of patient imaging, transcriptome, and survival data. Sci Transl Med 11(473).",
+        "DOI": "10.1126/scitranslmed.aao5253"
+      },
+      {
+        "key": "2024080317412373000_199059v3.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000325264"
+      },
+      {
+        "key": "2024080317412373000_199059v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnbeh.2015.00221"
+      },
+      {
+        "key": "2024080317412373000_199059v3.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrc3256"
+      },
+      {
+        "key": "2024080317412373000_199059v3.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4161/epi.27906"
+      },
+      {
+        "key": "2024080317412373000_199059v3.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2013.03.035"
+      },
+      {
+        "key": "2024080317412373000_199059v3.26",
+        "unstructured": "Wu T & Donohoe ME (2015) The converging roles of BRD4 and gene transcription in pluripotency and oncogenesis. RNA & disease 2(3)."
+      },
+      {
+        "key": "2024080317412373000_199059v3.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ijc.30256"
+      },
+      {
+        "issue": "3",
+        "key": "2024080317412373000_199059v3.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "390",
+        "DOI": "10.1016/j.stemcr.2015.01.012",
+        "article-title": "The BET family member BRD4 interacts with OCT4 and regulates pluripotency gene expression",
+        "volume": "4",
+        "year": "2015",
+        "journal-title": "Stem cell reports"
+      },
+      {
+        "key": "2024080317412373000_199059v3.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1712363115"
+      },
+      {
+        "key": "2024080317412373000_199059v3.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2014.09.030"
+      },
+      {
+        "key": "2024080317412373000_199059v3.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2013.09.053"
+      },
+      {
+        "key": "2024080317412373000_199059v3.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.molcel.2015.02.014"
+      },
+      {
+        "issue": "7 Pt B",
+        "key": "2024080317412373000_199059v3.33",
+        "first-page": "1953",
+        "article-title": "Superenhancer lncs to cardiovascular development and disease",
+        "volume": "1863",
+        "year": "2016",
+        "journal-title": "Biochim Biophys Acta"
+      },
+      {
+        "key": "2024080317412373000_199059v3.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1317023110"
+      },
+      {
+        "key": "2024080317412373000_199059v3.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrd4286"
+      },
+      {
+        "key": "2024080317412373000_199059v3.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1158/0008-5472.CAN-10-4417"
+      },
+      {
+        "key": "2024080317412373000_199059v3.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2011.08.017"
+      },
+      {
+        "key": "2024080317412373000_199059v3.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature09504"
+      },
+      {
+        "key": "2024080317412373000_199059v3.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2013.03.036"
+      },
+      {
+        "issue": "10",
+        "key": "2024080317412373000_199059v3.40",
+        "doi-asserted-by": "crossref",
+        "first-page": "2045",
+        "DOI": "10.1016/j.celrep.2017.05.049",
+        "article-title": "Androgen Receptor Deregulation Drives Bromodomain-Mediated Chromatin Alterations in Prostate Cancer",
+        "volume": "19",
+        "year": "2017",
+        "journal-title": "Cell reports"
+      },
+      {
+        "key": "2024080317412373000_199059v3.41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ali I , Choi G , & Lee K (2017) BET Inhibitors as Anticancer Agents: A Patent Review. Recent Pat Anticancer Drug Discov.",
+        "DOI": "10.2174/1574892812666170808121228"
+      },
+      {
+        "key": "2024080317412373000_199059v3.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/gr.114850.110"
+      },
+      {
+        "key": "2024080317412373000_199059v3.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1534/genetics.111.137315"
+      },
+      {
+        "key": "2024080317412373000_199059v3.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature07829"
+      },
+      {
+        "key": "2024080317412373000_199059v3.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ccr.2013.04.002"
+      },
+      {
+        "key": "2024080317412373000_199059v3.46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Caswell DR et al. (2018) Tumor Suppressor Activity of Selenbp1, a Direct Nkx2-1 Target, in Lung Adenocarcinoma. Mol Cancer Res.",
+        "DOI": "10.1158/1541-7786.MCR-18-0392"
+      },
+      {
+        "issue": "3",
+        "key": "2024080317412373000_199059v3.47",
+        "first-page": "937",
+        "article-title": "ZIC1 acts a tumor suppressor in breast cancer by targeting survivin",
+        "volume": "53",
+        "year": "2018",
+        "journal-title": "Int J Oncol"
+      },
+      {
+        "issue": "7",
+        "key": "2024080317412373000_199059v3.48",
+        "doi-asserted-by": "crossref",
+        "first-page": "E1163",
+        "DOI": "10.1210/jc.2013-3729",
+        "article-title": "ZIC1 is a putative tumor suppressor in thyroid cancer by modulating major signaling pathways and transcription factor FOXO3a",
+        "volume": "99",
+        "year": "2014",
+        "journal-title": "J Clin Endocrinol Metab"
+      },
+      {
+        "key": "2024080317412373000_199059v3.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkw826"
+      },
+      {
+        "key": "2024080317412373000_199059v3.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.febslet.2014.05.041"
+      },
+      {
+        "key": "2024080317412373000_199059v3.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1084/jem.20190196"
+      },
+      {
+        "key": "2024080317412373000_199059v3.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature07385"
+      },
+      {
+        "issue": "5",
+        "key": "2024080317412373000_199059v3.53",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1080/15592294.2016.1265710",
+        "article-title": "Bromodomain inhibitors and cancer therapy: From structures to applications",
+        "volume": "12",
+        "year": "2017",
+        "journal-title": "Epigenetics"
+      },
+      {
+        "key": "2024080317412373000_199059v3.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18632/oncotarget.3551"
+      },
+      {
+        "key": "2024080317412373000_199059v3.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acs.jmedchem.6b01761"
+      },
+      {
+        "issue": "3",
+        "key": "2024080317412373000_199059v3.56",
+        "doi-asserted-by": "crossref",
+        "first-page": "519",
+        "DOI": "10.1016/j.celrep.2016.03.054",
+        "article-title": "BET Bromodomain Inhibition Releases the Mediator Complex from Select cis-Regulatory Elements",
+        "volume": "15",
+        "year": "2016",
+        "journal-title": "Cell reports"
+      },
+      {
+        "key": "2024080317412373000_199059v3.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1310658110"
+      },
+      {
+        "key": "2024080317412373000_199059v3.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1158/1055-9965.EPI-11-0246"
+      },
+      {
+        "key": "2024080317412373000_199059v3.59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1158/1055-9965.EPI-20-0036"
+      },
+      {
+        "key": "2024080317412373000_199059v3.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/caac.21551"
+      },
+      {
+        "key": "2024080317412373000_199059v3.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/neuonc/noz150"
+      },
+      {
+        "issue": "6",
+        "key": "2024080317412373000_199059v3.62",
+        "first-page": "451",
+        "article-title": "Sex is an important prognostic factor for glioblastoma but not for nonglioblastoma",
+        "volume": "6",
+        "year": "2019",
+        "journal-title": "Neurooncol Pract"
+      },
+      {
+        "key": "2024080317412373000_199059v3.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ccell.2016.04.001"
+      },
+      {
+        "key": "2024080317412373000_199059v3.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2013.09.034"
+      },
+      {
+        "issue": "1",
+        "key": "2024080317412373000_199059v3.65",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1038/nn.4190",
+        "article-title": "An epigenetic gateway to brain tumor cell identity",
+        "volume": "19",
+        "year": "2016",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "2024080317412373000_199059v3.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ccr.2012.08.024"
+      },
+      {
+        "issue": "21",
+        "key": "2024080317412373000_199059v3.67",
+        "doi-asserted-by": "crossref",
+        "first-page": "34896",
+        "DOI": "10.18632/oncotarget.16820",
+        "article-title": "Small molecules targeting histone demethylase genes (KDMs) inhibit growth of temozolomide-resistant glioblastoma cells",
+        "volume": "8",
+        "year": "2017",
+        "journal-title": "Oncotarget"
+      },
+      {
+        "key": "2024080317412373000_199059v3.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0710331105"
+      },
+      {
+        "key": "2024080317412373000_199059v3.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm.4372"
+      },
+      {
+        "issue": "6",
+        "key": "2024080317412373000_199059v3.70",
+        "doi-asserted-by": "crossref",
+        "first-page": "1114",
+        "DOI": "10.1016/j.molcel.2020.04.034",
+        "article-title": "Opposing Functions of BRD4 Isoforms in Breast Cancer",
+        "volume": "78",
+        "year": "2020",
+        "journal-title": "Mol Cell"
+      },
+      {
+        "key": "2024080317412373000_199059v3.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.1923"
+      },
+      {
+        "key": "2024080317412373000_199059v3.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/gb-2008-9-9-r137"
+      },
+      {
+        "issue": "1",
+        "key": "2024080317412373000_199059v3.73",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1038/ng.3726",
+        "article-title": "Tumor-suppressor genes that escape from X-inactivation contribute to cancer sex bias",
+        "volume": "49",
+        "year": "2017",
+        "journal-title": "Nat Genet"
+      },
+      {
+        "key": "2024080317412373000_199059v3.74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature10730"
+      },
+      {
+        "key": "2024080317412373000_199059v3.75",
+        "unstructured": "Stark RaB, G. (2011) DiffBind: differential binding analysis of ChIP-Seq peak data."
+      },
+      {
+        "key": "2024080317412373000_199059v3.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bts635"
+      },
+      {
+        "key": "2024080317412373000_199059v3.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btu638"
+      },
+      {
+        "key": "2024080317412373000_199059v3.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13059-016-0881-8"
+      },
+      {
+        "issue": "Suppl 4",
+        "key": "2024080317412373000_199059v3.79",
+        "first-page": "117",
+        "article-title": "Comprehensive evaluation of RNA-seq quantification methods for linearity",
+        "volume": "18",
+        "year": "2017",
+        "journal-title": "BMC Bioinformatics"
+      },
+      {
+        "key": "2024080317412373000_199059v3.80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12064-012-0162-3"
+      },
+      {
+        "key": "2024080317412373000_199059v3.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13059-014-0550-8"
+      },
+      {
+        "issue": "1",
+        "key": "2024080317412373000_199059v3.82",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1186/s40478-018-0513-5",
+        "article-title": "Cooperative p16 and p21 action protects female astrocytes from transformation",
+        "volume": "6",
+        "year": "2018",
+        "journal-title": "Acta Neuropathol Commun"
+      },
+      {
+        "key": "2024080317412373000_199059v3.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/gr.097022.109"
+      },
+      {
+        "key": "2024080317412373000_199059v3.84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1084/jem.20190196"
+      },
+      {
+        "key": "2024080317412373000_199059v3.85",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Martin M (2011) Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.journal 17(10).",
+        "DOI": "10.14806/ej.17.1.200"
+      },
+      {
+        "key": "2024080317412373000_199059v3.86",
+        "unstructured": "Andrews S (2010) FastQC: a quality control tool for high throughput sequence data."
+      },
+      {
+        "key": "2024080317412373000_199059v3.87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.4197"
+      },
+      {
+        "key": "2024080317412373000_199059v3.88",
+        "unstructured": "Team RC (R: A language and environment for statistical computing.."
+      },
+      {
+        "key": "2024080317412373000_199059v3.89",
+        "doi-asserted-by": "crossref",
+        "first-page": "1521",
+        "DOI": "10.12688/f1000research.7563.1",
+        "article-title": "Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences",
+        "volume": "4",
+        "year": "2015",
+        "journal-title": "F1000Res"
+      },
+      {
+        "key": "2024080317412373000_199059v3.90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13059-014-0550-8"
+      },
+      {
+        "key": "2024080317412373000_199059v3.91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18632/oncotarget.3551"
+      },
+      {
+        "key": "2024080317412373000_199059v3.92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2013.03.036"
+      },
+      {
+        "key": "2024080317412373000_199059v3.93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1310658110"
+      },
+      {
+        "key": "2024080317412373000_199059v3.94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1158/0008-5472.CAN-12-3292"
+      },
+      {
+        "key": "2024080317412373000_199059v3.95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acs.jmedchem.6b01761"
+      },
+      {
+        "key": "2024080317412373000_199059v3.96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1172/JCI71048"
+      },
+      {
+        "key": "2024080317412373000_199059v3.97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jim.2009.06.008"
+      },
+      {
+        "key": "2024080317412373000_199059v3.98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkv007"
+      },
+      {
+        "key": "2024080317412373000_199059v3.99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.molcel.2010.05.004"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/199059",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T22:31:20Z",
+      "timestamp": 1768429880000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/199059"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          5
+        ]
+      ]
+    },
+    "references-count": 99,
+    "URL": "https://doi.org/10.1101/199059",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

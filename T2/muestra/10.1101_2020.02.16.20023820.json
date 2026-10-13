@@ -1,0 +1,271 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          18
+        ]
+      ],
+      "date-time": "2026-01-18T09:37:22Z",
+      "timestamp": 1768729042033,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 24,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>We give an update to the original paper posted on 2/17/20 \u2013 now (as of 3/1/20) the China deaths are rapidly decreasing, and we find an exponential decline to the power law similar to the that predicted by the network model of Vazquez [2006]. At the same time, we see non-China deaths increasing rapidly, and similar to the early behavior of the China statistics. Thus, we see three stages of the spread of the disease in terms of number of deaths: exponential growth, power-law behavior, and then exponential decline in the daily rate.</jats:p>\n                <jats:p>(Original abstract) The novel coronavirus (COVID-19) continues to grow rapidly in China and is spreading in other parts of the world. The classic epidemiological approach in studying this growth is to quantify a reproduction number and infection time, and this is the approach followed by many studies on the epidemiology of this disease. However, this assumption leads to exponential growth, and while the growth rate is high, it is not following exponential behavior. One approach that is being used is to simply keep adjusting the reproduction number to match the dynamics. Other approaches use rate equations such as the SEIR and logistical models. Here we show that the current growth closely follows power-law kinetics, indicative of an underlying fractal or small-world network of connections between susceptible and infected individuals. Positive deviations from this growth law might indicate either a failure of the current containment efforts while negative deviations might indicate the beginnings of the end of the pandemic. We cannot predict the ultimate extent of the pandemic but can get an estimate of the growth of the disease.</jats:p>",
+    "DOI": "10.1101/2020.02.16.20023820",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T18:06:49Z",
+      "timestamp": 1582222009000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 56,
+    "title": [
+      "Fractal kinetics of COVID-19 pandemic (with update 3/1/20)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6403-8516",
+        "authenticated-orcid": false,
+        "given": "Anna L.",
+        "family": "Ziff",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9023-7508",
+        "authenticated-orcid": false,
+        "given": "Robert M.",
+        "family": "Ziff",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.1",
+        "unstructured": "BBC. Coronavirus: \u201cWay too early\u201d to predict end of outbreak, WHO says, February 2020. URL https://www.bbc.com/news/world-asia-china-51482994."
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.2",
+        "author": "Axel Brandenburg",
+        "year": "2020",
+        "journal-title": "Quadratic growth during the 2019 novel coronavirus epidemic"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.3",
+        "year": "2020",
+        "journal-title": "Data Visualization Analysis and Simulation Prediction for COVID-19"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jon Cohen . Scientists are racing to model the next moves of a coronavirus that\u2019s still hard to predict, February 2020. URL https://www.sciencemag.org/news/2020/02/scientists-are-racing-model-next-moves-coronavirus-thats-still-hard-predict.",
+        "DOI": "10.1126/science.abb2161"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bradley Efron and Robert J. Tibshirani . An Introduction to the Bootstrap. CRC Press, 1994.",
+        "DOI": "10.1201/9780429246593"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.6",
+        "year": "2020",
+        "journal-title": "Forecast of the evolution of the contagious disease caused by novel coronavirus (2019-nCoV) in China"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.04.20020461"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1573-4412(01)05005-X"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.9",
+        "year": "2020",
+        "journal-title": "Artificial Intelligence Forecasting of Covid-19 in China"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.10",
+        "year": "2020",
+        "journal-title": "A Robust Stochastic Method of Estimating the Transmission Potential of 2019-nCoV"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.11",
+        "year": "2020",
+        "journal-title": "Scaling features in the spreading of COVID-19"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.12",
+        "year": "2020",
+        "journal-title": "Trend and forecasting of the COVID-19 outbreak in China"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.13",
+        "year": "2020",
+        "journal-title": "Predicting the cumulative number of cases for the COVID-19 epidemic in China from early data"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.14",
+        "year": "2020",
+        "journal-title": "Effective containment explains sub-exponential growth in confirmed cases of recent COVID-19 outbreak in Mainland China"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.15",
+        "year": "2020",
+        "journal-title": "Epidemic analysis of COVID-19 in China by dynamical modeling"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.16",
+        "year": "2020",
+        "journal-title": "Insights from early mathematical models of 2019-nCoV acute respiratory disease (COVID-19) dynamics"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idm.2020.02.002"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.96.038702"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.19",
+        "unstructured": "Vivan Wang . How Many Coronavirus Cases in China? Officials Tweak the Answer, February 2020. URL https://www.nytimes.com/2020/02/12/world/asia/china-coronavirus-cases.html."
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.20",
+        "unstructured": "World Health Organization. Novel Coronavirus (2019-nCoV) situation reports. Technical Report 1-24, WHO, January 2020. URL https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports."
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.22",
+        "year": "2020",
+        "journal-title": "Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020110808500473000_2020.02.16.20023820v2.24",
+        "year": "2020",
+        "journal-title": "The Outbreak Evaluation of COVID-19 in Wuhan District of China"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.20023820",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:59Z",
+      "timestamp": 1768484039000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.16.20023820"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 24,
+    "URL": "https://doi.org/10.1101/2020.02.16.20023820",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.18562/ijee.053",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

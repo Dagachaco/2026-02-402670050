@@ -1,0 +1,337 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:10Z",
+      "timestamp": 1768549210195,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) disease (COVID-19) outbreaks in Wuhan, China, healthcare systems capacities in highly endemic areas have been overwhelmed. Approaches to efficient management are urgently needed and key to a quicker control of the outbreaks and casualties. We aimed to characterize the clinical features of hospitalized patients with confirmed or suspected COVID-19, and develop a mortality risk index for COVID-19 patients.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In this retrospective one-centre cohort study, we included all the confirmed or suspected COVID-19 patients hospitalized in a COVID-19-designated hospital from January 21 to February 5, 2020. Demographic, clinical, laboratory, radiological and clinical outcome data were collected from the hospital information system, nursing records and laboratory reports.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Of 577 patients with at least one post-admission evaluation, the median age was 55 years (interquartile range [IQR], 39 - 66); 254 (44.0%) were men; 22.8% (100/438) were severe pneumonia on admission, and 37.7% (75/199) patients were SARS-CoV-2 positive. The clinical, laboratory and radiological data were comparable between positive and negative SARS-CoV-2 patients. During a median follow-up of 8.4 days (IQR, 5.8 - 12.0), 39 patients died with a 12-day cumulative mortality of 8.7% (95% CI, 5.9% to 11.5%). A simple mortality risk index (called ACP index), composed of Age and C-reactive Protein, was developed. By applying the ACP index, patients were categorized into three grades. The 12-day cumulative mortality in grade three (age \u2265 60 years and CRP \u2265 34 mg/L) was 33.2% (95% CI, 19.8% to 44.3%), which was significantly higher than those of grade two (age \u2265 60 years and CRP &lt; 34 mg/L; age &lt; 60 years and CRP \u2265 34 mg/L; 5.6% [95% CI, 0 to 11.3%]) and grade one (age &lt; 60 years and CRP &lt; 34 mg/L, 0%) (P &lt;0.001), respectively.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>The ACP index can predict COVID-19 related short-term mortality, which may be a useful and convenient tool for quickly establishing a COVID-19 hierarchical management system that can greatly reduce the medical burden and therefore mortality in highly endemic areas.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.20.20025510",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T14:15:43Z",
+      "timestamp": 1582553743000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 53,
+    "title": [
+      "ACP risk grade: a simple mortality index for patients with confirmed or suspected severe acute respiratory syndrome coronavirus 2 disease (COVID-19) during the early stage of outbreak in Wuhan, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Jiatao",
+        "family": "Lu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shufang",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rong",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhihong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xueru",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiongya",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qingquan",
+        "family": "Lv",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhifang",
+        "family": "Cai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haijun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuhai",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ying",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongping",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenyong",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shibo",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiongfang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hui",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuefeng",
+        "family": "Yi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zixiao",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yabing",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinlin",
+        "family": "Hou",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.6",
+        "unstructured": "National Health Commision of the People\u2019s Republic of China. Novel Coronavirus (SARS-CoV-2) situation reports. Feb 12, 2020. http://www.nhc.gov.cn/xcs/yqtb/202002/395f075a5f3a411f80335766c65b0487.shtml (assessed Feb 12, 2020)."
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.9",
+        "unstructured": "China NHC . New coronavirus pneumonia prevention and control program (6th ed.) (in Chinese). Feb 18, 2020. http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2.shtml (accessed Feb 18, 2020)."
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1373/clinchem.2008.112797"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-139-9-200311040-00005"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(13)70204-4"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "468",
+        "DOI": "10.1016/j.jinf.2016.08.005",
+        "article-title": "Predictive factors for pneumonia development and progression to respiratory failure in MERS-CoV infected patients",
+        "volume": "73",
+        "year": "2016",
+        "journal-title": "The Journal of infection"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1750-2659.2011.00269.x"
+      },
+      {
+        "key": "2020110811551169000_2020.02.20.20025510v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/thx.2007.086785"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025510",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:06Z",
+      "timestamp": 1768484046000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025510"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025510",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

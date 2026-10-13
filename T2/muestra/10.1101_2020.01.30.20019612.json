@@ -1,0 +1,199 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:59:24Z",
+      "timestamp": 1768546764031,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The pandemic potential of the novel coronavirus (nCoV) that emerged in Wuhan, China, during December 2019 is strongly tied to the number and contagiousness of undocumented human infections. Here we present findings from a proactive longitudinal sampling study of acute viral respiratory infections that documents rates of asymptomatic infection and clinical care seeking for seasonal coronavirus. We find that the majority of infections are asymptomatic by most symptom definitions and that only 4% of individuals experiencing a seasonal coronavirus infection episode sought medical care for their symptoms. These numbers indicate that a very high percentage of seasonal coronavirus infections are undocumented and provide a reference for understanding the spread of the emergent nCoV.</jats:p>",
+    "DOI": "10.1101/2020.01.30.20019612",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2020-02-03T11:15:19Z",
+      "timestamp": 1580728519000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Direct Measurement of Rates of Asymptomatic Infection and Clinical Care-Seeking for Seasonal Coronavirus"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7216-7809",
+        "authenticated-orcid": false,
+        "given": "Jeffrey",
+        "family": "Shaman",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Marta",
+        "family": "Galanti",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.1",
+        "unstructured": "WHO \u2013 World Health Organization. Novel Coronavirus (2019-nCoV), 2020. https://www.who.int/emergencies/diseases/novel-coronavirus-2019."
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.2",
+        "first-page": "29",
+        "volume": "9",
+        "author": "WHO \u2013 World Health Organization, 2020b: Novel Coronavirus (2019-nCoV)",
+        "year": "2020",
+        "journal-title": "Situation Report \u2013"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/irv.12629"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "e176",
+        "DOI": "10.1017/S0950268819000505",
+        "article-title": "Rates of asymptomatic respiratory virus infection across age groups",
+        "volume": "147",
+        "year": "2019",
+        "journal-title": "Epidemiology and Infection"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jix685"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.6",
+        "unstructured": "Davies W , Tan S. The age, sex and symptoms of China\u2019s coronavirus victims. Bloomberg News, January 22, 2020, update January 23, 2020. https://www.bloomberg.com/news/articles/2020-01-23/several-china-coronavirus-victims-didn-t-even-have-a-fever [Data from China\u2019s National Health Commission]."
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.7",
+        "unstructured": "Chinazzi M , Davis JT , Gioannini C , Litvinova M , Pastore y Piontti A, Rossi L et al. Preliminary assessment of the International spreading risk associated with the 2019 novel coronavirus (2019-nCoV) outbreak in Wuhan City. January 21, 2020. https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus_jan21.pdf"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.9",
+        "unstructured": "WHO \u2013 World Health Organization. Consensus document on the epidemiology of severe acute respiratory syndrome (SARS), 2003. https://www.who.int/csr/sars/en/WHOconsensus.pdf"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.10",
+        "unstructured": "WHO \u2013 World Health Organization. Middle East respiratory syndrome coronavirus (MERS-CoV). WHO MERS global summary and assessment of risk. 2018. https://www.who.int/csr/disease/coronavirus_infections/risk-assessment-august-2018.pdf"
+      },
+      {
+        "key": "2020110507450533000_2020.01.30.20019612v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2013.07.001"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.30.20019612",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:37Z",
+      "timestamp": 1768484017000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.30.20019612"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.01.30.20019612",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          3
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

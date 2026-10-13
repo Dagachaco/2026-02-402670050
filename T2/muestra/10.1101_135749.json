@@ -1,0 +1,696 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T11:00:41Z",
+      "timestamp": 1768474841624,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          9
+        ]
+      ]
+    },
+    "group-title": "Zoology",
+    "reference-count": 94,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              9
+            ]
+          ],
+          "date-time": "2017-05-09T00:00:00Z",
+          "timestamp": 1494288000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          19
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The ability of powered flight in insects facilitated their great evolutionary success allowing them to occupy various ecological niches. Beyond this primary task, wings are often involved in various premating behaviors, such as the generation of courtship songs and the initiation of mating in flight. These specific functions imply special adaptations of wing morphology, as well as sex-specific wing morphologies. Although wing morphology has been extensively studied in\n                  <jats:italic>Drosophila melanogaster</jats:italic>\n                  , a comprehensive understa nding of sexual wing shape dimorphisms and developmental plasticity is missing for other Diptera. Therefore, we raised flies of the three Diptera species\n                  <jats:italic>Drosophila melanogaster, Ceratitis capitata</jats:italic>\n                  and\n                  <jats:italic>Musca domestica</jats:italic>\n                  at different environmental conditions and applied geometric morphometrics to analyze wing shape. Our data showed extensive interspecific differences in wing shape, as well as a clear sexual wing shape dimorphism in all three species. We revealed an impact of different rearing temperatures wing shape in all three species, which was mostly explained by plasticity in wing size in\n                  <jats:italic>D. melanogaster</jats:italic>\n                  . Rearing densities had significant effects on allometric wing shape in\n                  <jats:italic>D. melanogaster</jats:italic>\n                  , while no obvious effects were observed for the other two species. Additionally, we do not find evidence for sex-specific response to different rearing conditions in all three species. We determined species-specific and common trends in shape alterations, and we hypothesize developmental and functional implications of our data.\n                </jats:p>\n                <jats:sec>\n                  <jats:title>Contribution to the Field Statement</jats:title>\n                  <jats:p>\n                    The size and shape of organisms and organs must be tightly controlled during development to ensure proper functionality. However, morphological traits vary considerably in nature contributing to phenotypic diversity. Such variation can be the result of evolutionary adaptations as well as plasticity for example as reaction to changing environmental conditions during development. It is therefore a major aim in Biology to unravel the processes that control differences in adult morphology. Insect wings are excellent models to study how organ size and shape evolves because they facilitate basic tasks such as mating and feeding. Accordingly, a tremendous variety of wings sizes and shapes evolved in nature. Additionally, plasticity in wing morphology in response to different rearing conditions has been observed in many insects contributing to phenotypic diversity. In this work we applied Geometric Morphometrics to study wing shape in the three Diptera species: the Mediterranean fruit fly\n                    <jats:italic>Ceratitis capitata</jats:italic>\n                    , the Vinegar fly\n                    <jats:italic>Drosophila melanogaster</jats:italic>\n                    and the housefly\n                    <jats:italic>Musca domestica</jats:italic>\n                    . Flies were raised in different temperature and density regimes that allowed us to study the effects of these environmental factors on wing shape. Additionally, in accordance with different mating behaviors of these flies, we observed a clear sexual shape dimorphism in all three species. Since the three studied species represent serious pests and disease vectors, our findings may contribute to existing and future monitoring efforts.\n                  </jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/135749",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2017-05-12T11:45:41Z",
+      "timestamp": 1494589541000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Sexual dimorphism and plasticity in wing shape in three Diptera"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Micael",
+        "family": "Reis",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Natalia",
+        "family": "Siomava",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2480-2804",
+        "authenticated-orcid": false,
+        "given": "Ernst A.",
+        "family": "Wimmer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0700-5595",
+        "authenticated-orcid": false,
+        "given": "Nico",
+        "family": "Posnien",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080311141895000_135749v2.1",
+        "unstructured": "Adams, D. C. , Collyer, M. L. , Kaliontzopoulou, A. , and Baken, E. (2021). Geomorph: Software for geometric morphometric analyses. R package version 3.3.2."
+      },
+      {
+        "key": "2024080311141895000_135749v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrg2166"
+      },
+      {
+        "key": "2024080311141895000_135749v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature15730"
+      },
+      {
+        "key": "2024080311141895000_135749v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-ento-120709-144828"
+      },
+      {
+        "key": "2024080311141895000_135749v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/a:1020685727460"
+      },
+      {
+        "key": "2024080311141895000_135749v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1537573"
+      },
+      {
+        "key": "2024080311141895000_135749v2.7",
+        "first-page": "53",
+        "article-title": "Geometric Perspectives of Sexual Dimorphism in the Wing Shape of Lepidoptera: the Case of Synneuria sp. (Lepidoptera: Geometridae)",
+        "volume": "13",
+        "year": "2011",
+        "journal-title": "Journal of the Entomological Research Society"
+      },
+      {
+        "key": "2024080311141895000_135749v2.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1007/BF01065681",
+        "article-title": "Letter: Courtship stimuli in Drosophila melanogaster",
+        "volume": "6",
+        "year": "1976",
+        "journal-title": "Behavior Genetics"
+      },
+      {
+        "key": "2024080311141895000_135749v2.9",
+        "first-page": "1655",
+        "article-title": "The moment of inertia of bird wings and the inertial power requirement for flapping flight",
+        "volume": "198",
+        "year": "1995",
+        "journal-title": "The Journalof experimentalbiology"
+      },
+      {
+        "key": "2024080311141895000_135749v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1003765106652"
+      },
+      {
+        "key": "2024080311141895000_135749v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.cellbio.23.090506.123606"
+      },
+      {
+        "key": "2024080311141895000_135749v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/393620"
+      },
+      {
+        "key": "2024080311141895000_135749v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4039/n09-029"
+      },
+      {
+        "key": "2024080311141895000_135749v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1558-5646.2007.00081.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bookstein, F. L. (1991). Morphometric tools for landmark data: Geometry and biology. Cambridge: Cambridge University Press.",
+        "DOI": "10.1017/CBO9780511573064"
+      },
+      {
+        "key": "2024080311141895000_135749v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02458311"
+      },
+      {
+        "key": "2024080311141895000_135749v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1653/0015-4040(2002)085"
+      },
+      {
+        "key": "2024080311141895000_135749v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3495810"
+      },
+      {
+        "key": "2024080311141895000_135749v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aesa/76.4.678"
+      },
+      {
+        "key": "2024080311141895000_135749v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jisesa/iev083"
+      },
+      {
+        "key": "2024080311141895000_135749v2.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1046/j.1420-9101.1991.4010141.x",
+        "article-title": "Temperature-related divergence in experimental populations of Drosophila melanogaster. III. Fourier and centroid analysis of wing shape and relationship between shape variation and fitness",
+        "volume": "4",
+        "year": "1991",
+        "journal-title": "Journalof Evolutionary Biology"
+      },
+      {
+        "key": "2024080311141895000_135749v2.22",
+        "first-page": "335",
+        "article-title": "Positioning and differentiation of veins in the Drosophila wing",
+        "volume": "42",
+        "year": "1998",
+        "journal-title": "The International journal of developmentalbiology"
+      },
+      {
+        "key": "2024080311141895000_135749v2.23",
+        "unstructured": "Chun-Hsung, C. (2012). Method for Breeding Musca Domestica. US 2012/0132140 A1."
+      },
+      {
+        "key": "2024080311141895000_135749v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jee/79.3.614"
+      },
+      {
+        "key": "2024080311141895000_135749v2.25",
+        "unstructured": "Colless, D. H. , and McAlpine, D. K. (1991). \u201cDiptera (flies).,\u201d in Insects of Australia, ed. I. D. Naumann (Collingwood, Vic. CSIRO Publishing), 717\u2013786."
+      },
+      {
+        "key": "2024080311141895000_135749v2.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "549",
+        "DOI": "10.1093/genetics/114.2.549",
+        "article-title": "Quantitative Genetics of DROSOPHILA MELANOGASTER. I. Sexual Dimorphism in Genetic Parameters for Wing Traits",
+        "volume": "114",
+        "year": "1986",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "2024080311141895000_135749v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-3472(81)80030-9"
+      },
+      {
+        "key": "2024080311141895000_135749v2.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "2977",
+        "DOI": "10.1242/dev.127.14.2977",
+        "article-title": "Measuring dimensions: the regulation of size and shape",
+        "volume": "127",
+        "year": "2000",
+        "journal-title": "Development (Cambridge, England)"
+      },
+      {
+        "key": "2024080311141895000_135749v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0014-3820.2003.tb01519.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1554/06-045.1"
+      },
+      {
+        "key": "2024080311141895000_135749v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0906749106"
+      },
+      {
+        "key": "2024080311141895000_135749v2.32",
+        "unstructured": "Dryden, I. L. , and Mardia, V. K. (1998). Statistical shape analysis. Chichester: John Wiley & Sons Ltd."
+      },
+      {
+        "key": "2024080311141895000_135749v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1079/ber2002188"
+      },
+      {
+        "key": "2024080311141895000_135749v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/pdb.prot4847"
+      },
+      {
+        "key": "2024080311141895000_135749v2.35",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1111/j.1365-2311.2007.00872.x",
+        "article-title": "Achieving high sexual size dimorphism in insects: females add instars",
+        "volume": "32",
+        "year": "2007",
+        "journal-title": "Ecological entomology"
+      },
+      {
+        "key": "2024080311141895000_135749v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/156853968X00298"
+      },
+      {
+        "key": "2024080311141895000_135749v2.37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fairbairn, D. J. , Blanckenhorn, W. U. , and Sz\u00e9kely, T. , eds (2007). Sex, Size and Gender Roles. Oxford University Press.",
+        "DOI": "10.1093/acprof:oso/9780199208784.001.0001"
+      },
+      {
+        "key": "2024080311141895000_135749v2.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00435-015-0280-9"
+      },
+      {
+        "key": "2024080311141895000_135749v2.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2013.09.055"
+      },
+      {
+        "key": "2024080311141895000_135749v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2148-9-110"
+      },
+      {
+        "key": "2024080311141895000_135749v2.41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Good, P. (1994). Permutation Tests: A Practical Guide to Resampling Methods for Testing Hypotheses. New York, NY: Springer.",
+        "DOI": "10.1007/978-1-4757-2346-5_3"
+      },
+      {
+        "key": "2024080311141895000_135749v2.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0007485300022483"
+      },
+      {
+        "key": "2024080311141895000_135749v2.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.8209251"
+      },
+      {
+        "key": "2024080311141895000_135749v2.44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hewitt, C. G. (1914). The house-fly, Musca domestica Linn.: its structure, habits, development, relation to disease and control. Cambridge: University Press.",
+        "DOI": "10.5962/bhl.title.31278"
+      },
+      {
+        "key": "2024080311141895000_135749v2.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1242/jeb.037630"
+      },
+      {
+        "key": "2024080311141895000_135749v2.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aesa/66.5.937"
+      },
+      {
+        "key": "2024080311141895000_135749v2.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1755-0998.2010.02924.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00427-016-0539-2"
+      },
+      {
+        "key": "2024080311141895000_135749v2.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1515964113"
+      },
+      {
+        "key": "2024080311141895000_135749v2.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-ento-010814-021045"
+      },
+      {
+        "key": "2024080311141895000_135749v2.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcz.2020.08.005"
+      },
+      {
+        "key": "2024080311141895000_135749v2.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2017.06.029"
+      },
+      {
+        "key": "2024080311141895000_135749v2.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1469-7580.2001.19910211.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.genet.39.073003.112454"
+      },
+      {
+        "key": "2024080311141895000_135749v2.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dvdy.24255"
+      },
+      {
+        "key": "2024080311141895000_135749v2.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11692-009-9055-x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.57",
+        "first-page": "59",
+        "article-title": "A brief review of shape, form, and allometry in geometric morphometrics, with applications to human facial morphology",
+        "volume": "24",
+        "year": "2013",
+        "journal-title": "Hystrix, the Italian Journalof Mammalogy"
+      },
+      {
+        "key": "2024080311141895000_135749v2.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.hdy.6800442"
+      },
+      {
+        "key": "2024080311141895000_135749v2.59",
+        "first-page": "264",
+        "article-title": "Studies on the mating behavior of the house fly, Musca domestica L",
+        "volume": "64",
+        "year": "1964",
+        "journal-title": "Ohio J. Sci"
+      },
+      {
+        "key": "2024080311141895000_135749v2.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1603/EN10302"
+      },
+      {
+        "key": "2024080311141895000_135749v2.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2015.1005"
+      },
+      {
+        "key": "2024080311141895000_135749v2.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-3472(87)80281-6"
+      },
+      {
+        "key": "2024080311141895000_135749v2.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jez.a.211"
+      },
+      {
+        "key": "2024080311141895000_135749v2.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/hdy.1997.201"
+      },
+      {
+        "key": "2024080311141895000_135749v2.65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1440-6055.2005.00464.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1095-8312.2009.01326.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1420-9101.2001.00259.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5958/0973-9130.2017.00100.1"
+      },
+      {
+        "key": "2024080311141895000_135749v2.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4404/hystrix-26.1-11264"
+      },
+      {
+        "key": "2024080311141895000_135749v2.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.es.21.110190.001503"
+      },
+      {
+        "key": "2024080311141895000_135749v2.71",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1111/j.1439-0418.1976.tb04229.x",
+        "article-title": "Die akustischen Sexualsignale von Ceratitis capitata Wied. und Dacus olei Gmel",
+        "volume": "81",
+        "year": "1976",
+        "journal-title": "Z. Ang. Entomol"
+      },
+      {
+        "key": "2024080311141895000_135749v2.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/24550"
+      },
+      {
+        "key": "2024080311141895000_135749v2.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1139/z02-082"
+      },
+      {
+        "issue": "Pt 5",
+        "key": "2024080311141895000_135749v2.74",
+        "first-page": "515",
+        "article-title": "Gene-environment interaction for body size and larval density in Drosophila melanogaster: an investigation of effects on development time, thorax length and adult sex ratio",
+        "volume": "72",
+        "year": "1994",
+        "journal-title": "Heredity"
+      },
+      {
+        "key": "2024080311141895000_135749v2.75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2008.1796"
+      },
+      {
+        "key": "2024080311141895000_135749v2.76",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shyy, W. , Aono, H. , Kang, C. , and Liu, H. (2013). An Introduction to Flapping Wing Aerodynamics. Cambridge: Cambridge University Press.",
+        "DOI": "10.1017/CBO9781139583916"
+      },
+      {
+        "key": "2024080311141895000_135749v2.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1096-3642.2010.00677.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00427-016-0543-6"
+      },
+      {
+        "key": "2024080311141895000_135749v2.79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-3472(84)80214-6"
+      },
+      {
+        "key": "2024080311141895000_135749v2.80",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Slice, D. E. (2005). \u201cModern Morphometrics,\u201d in Modern Morphometrics in Physical Anthropology, ed. D. E. Slice (New York: Kluwer Academic/Plenum Publishers), 1\u201345.",
+        "DOI": "10.1007/0-387-27614-9_1"
+      },
+      {
+        "key": "2024080311141895000_135749v2.81",
+        "first-page": "399",
+        "article-title": "Mating behavior within the genus Drosophila (Diptera)",
+        "volume": "99",
+        "year": "1952",
+        "journal-title": "Bulletin of the American Museum of Natural History"
+      },
+      {
+        "key": "2024080311141895000_135749v2.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-ento-112408-085500"
+      },
+      {
+        "key": "2024080311141895000_135749v2.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.anbehav.2003.11.023"
+      },
+      {
+        "key": "2024080311141895000_135749v2.84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0030-1299.2005.13609.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00427-016-0534-7"
+      },
+      {
+        "key": "2024080311141895000_135749v2.86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13071-015-0769-6"
+      },
+      {
+        "key": "2024080311141895000_135749v2.87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1211373"
+      },
+      {
+        "key": "2024080311141895000_135749v2.88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1570-7458.1983.tb03224.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1570-7458.1983.tb03224.x"
+      },
+      {
+        "key": "2024080311141895000_135749v2.90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ee/13.3.650"
+      },
+      {
+        "key": "2024080311141895000_135749v2.91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF01066850"
+      },
+      {
+        "key": "2024080311141895000_135749v2.92",
+        "unstructured": "Wilkinson, G. , and P. Johns (2005). \u201cexual selection and the evolution of mating systems in flies.,\u201d in The Biology of the Diptera., eds. D. Yeates , and Weigmann B. M. (New York: Columbia University Press), 312\u2013339."
+      },
+      {
+        "key": "2024080311141895000_135749v2.93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.12248"
+      },
+      {
+        "key": "2024080311141895000_135749v2.94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1558-5646.2010.01075.x"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/135749",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T22:25:20Z",
+      "timestamp": 1768429520000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/135749"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          9
+        ]
+      ]
+    },
+    "references-count": 94,
+    "URL": "https://doi.org/10.1101/135749",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          9
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:32:41Z",
+      "timestamp": 1768545161987,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 17,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>In this short paper, the logistic growth model and classic susceptible-infected-recovered dynamic model are used to estimate the final size of the coronavirus epidemic.</jats:p>",
+    "DOI": "10.1101/2020.02.16.20023606",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T23:05:12Z",
+      "timestamp": 1582067112000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 98,
+    "title": [
+      "Estimation of the final size of the COVID-19 epidemic"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Milan",
+        "family": "Batista",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.11.20022186"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bender, Carl M. , and Steven A. Orszag . 1999. Advanced mathematical methods for scientists and engineers I asymptotic methods and perturbation theory. New York: Springer.",
+        "DOI": "10.1007/978-1-4757-3069-2"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17513758.2018.1469792"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11538-018-00549-x"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/currents.outbreaks.b4690859d91684da963dc40e00f3da81"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.6",
+        "unstructured": "Danby, J. M. A. 1985. Computing applications to differential equations modelling in the physical and social sciences. Reston, Va.: Reston Publishing Company."
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/currents.outbreaks.89c0d3783f36958d96ebbae97348d571"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Haberman, Richard . 1998. Mathematical models mechanical vibrations, population dynamics, and traffic flow an introduction to applied mathematics. Unabridged republication ed, Classics in applied mathematics. Philadelphia: SIAM.",
+        "DOI": "10.1137/1.9781611971156"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/S0036144500371907"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11538-012-9749-6"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Murray, James Dickson . 2002. Mathematical biology. 3rd ed, Interdisciplinary applied mathematics. New York: Springer.",
+        "DOI": "10.1007/b98868"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.12.20021931"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1016/j.epidem.2016.11.002",
+        "article-title": "Using phenomenological models for forecasting the 2015 Ebola challenge",
+        "volume": "22",
+        "year": "2018",
+        "journal-title": "Epidemics"
+      },
+      {
+        "issue": "2",
+        "key": "2020110817000443000_2020.02.16.20023606v5.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "596",
+        "DOI": "10.3390/jcm9020596",
+        "article-title": "Short-term Forecasts of the COVID-19 Epidemic in Guangdong and Zhejiang, China",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Journal of Clinical Medicine"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sapm19553411"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, Joseph T. , Kathy Leung , and Gabriel M. Leung . 2020. \u201cNowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.\u201d The Lancet. doi: https://doi.org/10.1016/S0140-6736(20)30260-9.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110817000443000_2020.02.16.20023606v5.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.10.20021519"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.20023606",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:58Z",
+      "timestamp": 1768484038000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.16.20023606"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.1101/2020.02.16.20023606",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

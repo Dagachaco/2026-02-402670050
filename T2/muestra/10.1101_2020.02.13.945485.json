@@ -1,0 +1,312 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:55:17Z",
+      "timestamp": 1768488917320,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              18
+            ]
+          ],
+          "date-time": "2020-02-18T00:00:00Z",
+          "timestamp": 1581984000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The ongoing outbreak of viral pneumonia in China and beyond is associated with a novel coronavirus, provisionally termed 2019-nCoV. This outbreak has been tentatively associated with a seafood market in Wuhan, China, where the sale of wild animals may be the source of zoonotic infection. Although bats are likely reservoir hosts for 2019-nCoV, the identity of any intermediate host facilitating transfer to humans is unknown. Here, we report the identification of 2019-nCoV related coronaviruses in pangolins (\n                  <jats:italic>Manis javanica</jats:italic>\n                  ) seized in anti-smuggling operations in southern China. Metagenomic sequencing identified pangolin associated CoVs that belong to two sub-lineages of 2019-nCoV related coronaviruses, including one very closely related to 2019-nCoV in the receptor-binding domain. The discovery of multiple lineages of pangolin coronavirus and their similarity to 2019-nCoV suggests that pangolins should be considered as possible intermediate hosts for this novel human virus and should be removed from wet markets to prevent zoonotic transmission.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.13.945485",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2020-02-19T01:25:26Z",
+      "timestamp": 1582075526000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 113,
+    "title": [
+      "Identification of 2019-nCoV related coronaviruses in Malayan pangolins in southern China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Tommy Tsan-Yuk",
+        "family": "Lam",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Marcus Ho-Hin",
+        "family": "Shum",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hua-Chen",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi-Gang",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xue-Bing",
+        "family": "Ni",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yun-Shi",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "William Yiu-Man",
+        "family": "Cheung",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen-Juan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lian-Feng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gabriel M",
+        "family": "Leung",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Edward C.",
+        "family": "Holmes",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan-Ling",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Guan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, F. et al. A new coronavirus associated with human respiratory disease in China. Nature (2020). https://doi.org/10.1038/s41586-020-2008-3.",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.2",
+        "unstructured": "World Health Organization. WHO Novel Coronavirus (2019-nCoV) situation reports. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.4",
+        "unstructured": "Cohen, J. Mining coronavirus genomes for clues to the outbreak\u2019s origins. Science, (2020) https://www.sciencemag.org/news/2020/01/mining-coronavirus-genomes-clues-outbreak-s-origins."
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1112.041293"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou, P. et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature (2020). https://doi.org/10.1038/s41586-020-2012-7.",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu, P. et al. Viral Metagenomics Revealed Sendai Virus and Coronavirus Infection of Malayan Pangolins (Manis javanica). Viruses 11, (2019).",
+        "DOI": "10.3390/v11110979"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01926-07"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan, Y. et al. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J Virol, (2020).",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.10",
+        "unstructured": "Heinrich, S. et al. The global trafficking of pangolins: A comprehensive summary of seizures and trafficking routes from 2010\u20132015. Trafficking, (2017)."
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, W. et al. 2017. Discovery of a Highly Divergent Coronavirus in the Asian House Shrew from China Illuminates the Origin of the Alphacoronaviruses. J Virol 91, (2017). References associated in Methods only:",
+        "DOI": "10.1128/JVI.00764-17"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv033"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btp698"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.14",
+        "first-page": "W5",
+        "article-title": "MAFFT-DASH: integrated protein sequence and structural alignment",
+        "volume": "47",
+        "year": "2019",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "2024080319580110000_2020.02.13.945485v1.15",
+        "first-page": "W557",
+        "article-title": "PHYML Online--a web server for fast maximum likelihood-based phylogenetic inference",
+        "volume": "33",
+        "year": "2010",
+        "journal-title": "Nucleic Acids Res"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.13.945485",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:01:39Z",
+      "timestamp": 1768435299000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.13.945485"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.13.945485",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

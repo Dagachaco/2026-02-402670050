@@ -1,0 +1,414 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T12:26:11Z",
+      "timestamp": 1773923171017,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "group-title": "Immunology",
+    "reference-count": 40,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2020-02-21T00:00:00Z",
+          "timestamp": 1582243200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The new coronavirus (2019-nCoV) outbreak from December 2019 in Wuhan, Hubei, China, has been declared a global public health emergency. Angiotensin I converting enzyme 2 (ACE2), is the host receptor by 2019-nCov to infect human cells. Although ACE2 is reported to be expressed in lung, liver, stomach, ileum, kidney and colon, its expressing levels are rather low, especially in the lung. 2019-nCoV may use co-receptors/auxiliary proteins as ACE2 partner to facilitate the virus entry. To identify the potential candidates, we explored the single cell gene expression atlas including 119 cell types of 13 human tissues and analyzed the single cell co-expression spectrum of 51 reported RNA virus receptors and 400 other membrane proteins. Consistent with other recent reports, we confirmed that ACE2 was mainly expressed in lung AT2, liver cholangiocyte, colon colonocytes, esophagus keratinocytes, ileum ECs, rectum ECs, stomach epithelial cells, and kidney proximal tubules. Intriguingly, we found that the candidate co-receptors, manifesting the most similar expression patterns with ACE2 across 13 human tissues, are all peptidases, including ANPEP, DPP4 and ENPEP. Among them, ANPEP and DPP4 are the known receptors for human CoVs, suggesting ENPEP as another potential receptor for human CoVs. We also conducted \u201cCellPhoneDB\u201d analysis to understand the cell crosstalk between CoV-targets and their surrounding cells across different tissues. We found that macrophages frequently communicate with the CoVs targets through chemokine and phagocytosis signaling, highlighting the importance of tissue macrophages in immune defense and immune pathogenesis.</jats:p>",
+    "DOI": "10.1101/2020.02.16.951913",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2020-02-21T18:15:15Z",
+      "timestamp": 1582308915000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "Single cell RNA sequencing of 13 human tissues identify cell types and receptors of human coronaviruses"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8323-0925",
+        "authenticated-orcid": false,
+        "given": "Furong",
+        "family": "Qi",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shen",
+        "family": "Qian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuye",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zheng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.77.15.8181-8186.2003"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.2",
+        "unstructured": "Huang, C. , Y. Wang , X. Li , et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020."
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MMBR.67.2.226-237.2003"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.4",
+        "unstructured": "Lu, R. , X. Zhao , J. Li , et al., Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet, 2020."
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.5",
+        "unstructured": "Zhao, Y. , Z. Zhao , Y. Wang , et al., Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov. bioRxiv, 2020: p. 2020.01.26.919985."
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chai, X. , L. Hu , Y. Zhang , et al., Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCoV Infection. bioRxiv, 2020: p. 2020.02.03.931766.",
+        "DOI": "10.1101/2020.02.03.931766"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, H. , Z. Kang , H. Gong , et al., The digestive system is a potential route of 2019-nCov infection: a bioinformatics analysis based on single-cell transcriptomes. bioRxiv, 2020: p. 2020.01.30.927806.",
+        "DOI": "10.1101/2020.01.30.927806"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.8",
+        "unstructured": "Xin Zou, K.C. , Jiawei Zou , Peiyi Han , Jie Hao , Zeguang Han , The single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to Wuhan 2019-nCoV infection. Front. Med.: p. 0-."
+      },
+      {
+        "issue": "5",
+        "key": "2024080320225359000_2020.02.16.951913v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "723",
+        "DOI": "10.1093/bioinformatics/bty694",
+        "article-title": "Cell membrane proteins with high N-glycosylation, high expression and multiple interaction partners are preferred by mammalian viruses as receptors",
+        "volume": "35",
+        "year": "2019",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoffmann, M. , H. Kleine-Weber , N. Kr\u00fcger , et al., The novel coronavirus 2019 (2019-nCoV) uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells. bioRxiv, 2020: p. 2020.01.31.929042.",
+        "DOI": "10.1101/2020.01.31.929042"
+      },
+      {
+        "issue": "12",
+        "key": "2024080320225359000_2020.02.16.951913v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1517",
+        "DOI": "10.1164/rccm.201712-2410OC",
+        "article-title": "Single-Cell Transcriptomic Analysis of Human Lung Provides Insights into the Pathobiology of Pulmonary Fibrosis",
+        "volume": "199",
+        "year": "2019",
+        "journal-title": "Am J Respir Crit Care Med"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-018-06318-7"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, Y. , W. Song , J. Wang , et al., Single-cell transcriptome analysis reveals differential nutrient absorption functions in human intestine. J Exp Med, 2020. 217(2).",
+        "DOI": "10.1084/jem.20191130"
+      },
+      {
+        "issue": "7",
+        "key": "2024080320225359000_2020.02.16.951913v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1832",
+        "DOI": "10.1016/j.celrep.2019.10.024",
+        "article-title": "Single-Cell Transcriptomics Uncovers Zonation of Function in the Mesenchyme during Liver Fibrosis",
+        "volume": "29",
+        "year": "2019",
+        "journal-title": "Cell Rep"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Oetjen, K.A. , K.E. Lindblad , M. Goswami , et al., Human bone marrow assessment by singlecell RNA sequencing, mass cytometry, and flow cytometry. JCI Insight, 2018. 3(23).",
+        "DOI": "10.1172/jci.insight.124928"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.16",
+        "unstructured": "Kim, D. , T. Kobayashi , B. Voisin , et al., Targeted therapy guided by single-cell transcriptomic analysis in drug-induced hypersensitivity syndrome: a case report. Nat Med, 2020."
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/S13059-019-1906-x"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-019-0992-y"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1914143116"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2019.04.052"
+      },
+      {
+        "issue": "1",
+        "key": "2024080320225359000_2020.02.16.951913v1.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1038/s41597-019-0351-8",
+        "article-title": "Single-cell RNA sequencing of human kidney",
+        "volume": "7",
+        "year": "2020",
+        "journal-title": "Sci Data"
+      },
+      {
+        "issue": "7",
+        "key": "2024080320225359000_2020.02.16.951913v1.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1888",
+        "DOI": "10.1016/j.cell.2019.05.031",
+        "article-title": "Comprehensive Integration of Single-Cell Data",
+        "volume": "177",
+        "year": "2019",
+        "journal-title": "Cell"
+      },
+      {
+        "issue": "12",
+        "key": "2024080320225359000_2020.02.16.951913v1.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1289",
+        "DOI": "10.1038/s41592-019-0619-0",
+        "article-title": "Fast, sensitive and accurate integration of single-cell data with Harmony",
+        "volume": "16",
+        "year": "2019",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Efremova, M. , M. Vento-Tormo , S.A. Teichmann , et al., CellPhoneDB v2.0: Inferring cell-cell communication from combined expression of multi-subunit receptor-ligand complexes. bioRxiv, 2019: p. 680926.",
+        "DOI": "10.1101/680926"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkw712"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holmes, R.S. , K.D. Spradling-Reeves and L.A. Cox , Mammalian Glutamyl Aminopeptidase Genes (ENPEP) and Proteins: Comparative Studies of a Major Contributor to Arterial Hypertension. J Data Mining Genomics Proteomics, 2017. 8(2).",
+        "DOI": "10.4172/2153-0602.1000211"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02615-14"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.socscimed.2006.08.004"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.29",
+        "unstructured": "Middle East respiratory syndrome coronavirus (MERS-CoV). World Health Organization, Retrieved 10 April 2017."
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, N. , M. Zhou , X. Dong , et al., Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet, 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virusres.2008.03.004"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.78.11.5642-5650.2004"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2005.06.026"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.78.21.12090-12095.2004"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peck, K.M. , T. Scobey , J. Swanstrom , et al., Permissivity of Dipeptidyl Peptidase 4 Orthologs to Middle East Respiratory Syndrome Coronavirus Is Governed by Glycosylation and Other Complex Determinants. J Virol, 2017. 91(19).",
+        "DOI": "10.1128/JVI.00534-17"
+      },
+      {
+        "issue": "3",
+        "key": "2024080320225359000_2020.02.16.951913v1.36",
+        "first-page": "374",
+        "article-title": "Interferon activation and innate immunity",
+        "volume": "2",
+        "year": "2000",
+        "journal-title": "Rev Immunogenet"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.cr.7290309"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nri3787"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nri2575"
+      },
+      {
+        "key": "2024080320225359000_2020.02.16.951913v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nri2357"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.951913",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:02:46Z",
+      "timestamp": 1768435366000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.16.951913"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "references-count": 40,
+    "URL": "https://doi.org/10.1101/2020.02.16.951913",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

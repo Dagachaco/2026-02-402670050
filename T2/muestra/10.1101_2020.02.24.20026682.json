@@ -1,0 +1,294 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:09:08Z",
+      "timestamp": 1768547348219,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 18,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>We plotted daily data on the frequencies of keywords related to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from WeChat, a Chinese social media. Using \u201cFeidian\u201d, Chinese abbreviation for SARS, may detect the SARS-CoV-2 outbreak in 2019 two weeks earlier. WeChat offered a new approach to early detect disease outbreaks.</jats:p>",
+    "DOI": "10.1101/2020.02.24.20026682",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T07:49:24Z",
+      "timestamp": 1582789764000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "WeChat, a Chinese social media, may early detect the SARS-CoV-2 outbreak in 2019"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Wenjun",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yikai",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xin",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yaping",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoli",
+        "family": "Jia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuangsuo",
+        "family": "Dang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.2",
+        "unstructured": "Lu, R. , et al., Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet (London, England), 2020: p. S0140-6736(20)30251\u20138."
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gorbalenya, A.E. , et al., Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group. bioRxiv, 2020: p. 2020.02.07.937862.",
+        "DOI": "10.1101/2020.02.07.937862"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.5",
+        "unstructured": "World Health Orgnization,, https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/."
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(13)70244-5"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2458-9-339"
+      },
+      {
+        "issue": "9",
+        "key": "2020110910350517000_2020.02.24.20026682v1.8",
+        "first-page": "209",
+        "article-title": "Big Data and the Global Public Health Intelligence Network (GPHIN)",
+        "volume": "41",
+        "year": "2015",
+        "journal-title": "Canada communicable disease report = Releve des maladies transmissibles au Canada"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature07634"
+      },
+      {
+        "issue": "5",
+        "key": "2020110910350517000_2020.02.24.20026682v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1206",
+        "DOI": "10.1371/journal.pntd.0001206",
+        "article-title": "Using web search query data to monitor dengue epidemics: a new model for neglected tropical disease surveillance",
+        "volume": "5",
+        "year": "2011",
+        "journal-title": "PLoS neglected tropical diseases"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.11",
+        "unstructured": "Li, Q. , et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. The New England journal of medicine, 2020: p. 10.1056/ EJMoa2001316."
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.12",
+        "unstructured": "Mohsin, M.F.M. , A.R. Hamdan , and A.A. Bakar . Review on anomaly detection for outbreak detection. in International Conference on Information Science and Managemen (ICoCSIM). 2012."
+      },
+      {
+        "issue": "6",
+        "key": "2020110910350517000_2020.02.24.20026682v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "610",
+        "DOI": "10.1016/j.arcmed.2005.03.040",
+        "article-title": "Lessons from severe acute respiratory syndrome (SARS): implications for infection control",
+        "volume": "36",
+        "year": "2005",
+        "journal-title": "Archives of medical research"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1440-1843.2008.01255.x"
+      },
+      {
+        "issue": "1",
+        "key": "2020110910350517000_2020.02.24.20026682v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.1038/s41598-018-35685-w",
+        "article-title": "Using Baidu Search Engine to Monitor AIDS Epidemics Inform for Targeted intervention of HIV/AIDS in China",
+        "volume": "9",
+        "year": "2019",
+        "journal-title": "Scientific reports"
+      },
+      {
+        "key": "2020110910350517000_2020.02.24.20026682v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "38040",
+        "DOI": "10.1038/srep38040",
+        "article-title": "Using Baidu Search Index to Predict Dengue Outbreak in China",
+        "volume": "6",
+        "year": "2016",
+        "journal-title": "Scientific reports"
+      },
+      {
+        "issue": "1",
+        "key": "2020110910350517000_2020.02.24.20026682v1.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "3262",
+        "DOI": "10.1038/s41598-019-39871-2",
+        "article-title": "Predicting seasonal influenza epidemics using cross-hemisphere influenza surveillance data and local internet query data",
+        "volume": "9",
+        "year": "2019",
+        "journal-title": "Scientific reports"
+      },
+      {
+        "issue": "3",
+        "key": "2020110910350517000_2020.02.24.20026682v1.18",
+        "first-page": "343",
+        "volume": "1",
+        "year": "2016",
+        "journal-title": "WeChat and civil society in China"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20026682",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:14Z",
+      "timestamp": 1768484054000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20026682"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "references-count": 18,
+    "URL": "https://doi.org/10.1101/2020.02.24.20026682",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.2196/19589",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

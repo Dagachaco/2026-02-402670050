@@ -1,0 +1,271 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T13:14:31Z",
+      "timestamp": 1773926071404,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          29
+        ]
+      ]
+    },
+    "group-title": "Pharmacology and Toxicology",
+    "reference-count": 14,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              29
+            ]
+          ],
+          "date-time": "2020-01-29T00:00:00Z",
+          "timestamp": 1580256000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>2019 Novel Coronavirus (2019-nCoV) is a virus identified as the cause of the outbreak of pneumonia first detected in Wuhan, China. Investigations on the transmissibility, severity, and other features associated with this virus are ongoing. Currently, there is no vaccine or therapeutic antibody to prevent the infection, and more time is required to develop an effective immune strategy against the pathogen. In contrast, specific inhibitors targeting the key protease involved in replication and proliferation of the virus are the most effective means to alleviate the epidemic. The main protease of SARS-CoV is essential for the life cycle of the virus, which showed 96.1% of similarity with the main proteaseof 2019-nCoV, is considered to be an attractive target for drug development. In this study, we have identified 4 small molecular drugs with high binding capacity with SARS-CoV main protease by high-throughput screening based on the 8,000 clinical drug libraries, all these drugs have been widely used in clinical applications with guaranteed safety, which may serve as promising candidates to treat the infection of 2019-nCoV.</jats:p>",
+    "DOI": "10.1101/2020.01.28.922922",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2020-01-29T17:39:18Z",
+      "timestamp": 1580319558000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 54,
+    "title": [
+      "Therapeutic Drugs Targeting 2019-nCoV Main Protease by High-Throughput Screening"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yan",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jinyong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ning",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haibo",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yun",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gang",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kaiyun",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hao",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Quanming",
+        "family": "Zou",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , Li X , Yang B , et al. (2020) A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1201-9712(03)90001-4"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13238-011-1034-1"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkx1037"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.21334"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btw638"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou P , Yang X-L , Wang X-G , Hu B , Zhang L , et al. (2020) Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv: 2020.2001.2022.914952.",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2009.10.006"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01260-08"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pupt.2005.09.009"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0039163"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00055-12"
+      },
+      {
+        "key": "2024080322503613000_2020.01.28.922922v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01474-16"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.28.922922",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:33Z",
+      "timestamp": 1768435053000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.28.922922"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          29
+        ]
+      ]
+    },
+    "references-count": 14,
+    "URL": "https://doi.org/10.1101/2020.01.28.922922",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          29
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

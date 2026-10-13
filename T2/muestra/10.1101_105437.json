@@ -1,0 +1,721 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T11:21:46Z",
+      "timestamp": 1768476106368,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          6
+        ]
+      ]
+    },
+    "group-title": "Plant Biology",
+    "reference-count": 81,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              6
+            ]
+          ],
+          "date-time": "2017-02-06T00:00:00Z",
+          "timestamp": 1486339200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          14
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Predicting a multicellular organism\u2019s phenotype quantitatively from its genotype is challenging, as genetic effects must propagate across scales. Circadian clocks are intracellular regulators that control temporal gene expression patterns and hence metabolism, physiology and behaviour. Here we explain and predict canonical phenotypes of circadian timing in a multicellular, model organism. We used diverse metabolic and physiological data to combine and extend mathematical models of rhythmic gene expression, photoperiod-dependent flowering, elongation growth and starch metabolism within a Framework Model for the vegetative growth of\n                  <jats:italic>Arabidopsis thaliana</jats:italic>\n                  , sharing the model and data files in a structured, public resource. The calibrated model predicted the effect of altered circadian timing upon each particular phenotype in clock-mutant plants under standard laboratory conditions. Altered night-time metabolism of stored starch accounted for most of the decrease in whole-plant biomass, as previously proposed. Mobilisation of a secondary store of malate and fumarate was also mis-regulated, accounting for any remaining biomass defect. We test three candidate mechanisms for the accumulation of these organic acids. Our results link genotype through specific processes to higher-level phenotypes, formalising our understanding of a subtle, pleiotropic syndrome at the whole-organism level, and validating the systems approach to understand complex traits starting from intracellular circuits.\n                </jats:p>\n                <jats:p>\n                  This work updates the first biorXiv version, February 2017,\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1101/105437\">https://doi.org/10.1101/105437</jats:ext-link>\n                  , with an expanded description and additional analysis of the same core data sets and the same FMv2 model, summary tables and supporting, follow-on data from three further studies with further collaborators. This biorXiv revision constitutes the second version of this report.\n                </jats:p>",
+    "DOI": "10.1101/105437",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2017-02-07T01:10:10Z",
+      "timestamp": 1486429810000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "The Arabidopsis Framework Model version 2 predicts the organism-level effects of circadian clock gene mis-regulation"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9258-583X",
+        "authenticated-orcid": false,
+        "given": "Yin Hoon",
+        "family": "Chew",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5222-3893",
+        "authenticated-orcid": false,
+        "given": "Daniel D.",
+        "family": "Seaton",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4958-4209",
+        "authenticated-orcid": false,
+        "given": "Virginie",
+        "family": "Mengin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9142-1606",
+        "authenticated-orcid": false,
+        "given": "Anna",
+        "family": "Flis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8537-5578",
+        "authenticated-orcid": false,
+        "given": "Sam T.",
+        "family": "Mugford",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7880-3952",
+        "authenticated-orcid": false,
+        "given": "Gavin M.",
+        "family": "George",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael",
+        "family": "Moulin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8322-9182",
+        "authenticated-orcid": false,
+        "given": "Alastair",
+        "family": "Hume",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2791-0915",
+        "authenticated-orcid": false,
+        "given": "Samuel C.",
+        "family": "Zeeman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7694-5631",
+        "authenticated-orcid": false,
+        "given": "Teresa B.",
+        "family": "Fitzpatrick",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6927-9650",
+        "authenticated-orcid": false,
+        "given": "Alison M.",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4900-1763",
+        "authenticated-orcid": false,
+        "given": "Mark",
+        "family": "Stitt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1756-3654",
+        "authenticated-orcid": false,
+        "given": "Andrew J.",
+        "family": "Millar",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080314055958000_105437v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/nph.15415"
+      },
+      {
+        "key": "2024080314055958000_105437v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1101050108"
+      },
+      {
+        "key": "2024080314055958000_105437v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-313X.2009.03902.x"
+      },
+      {
+        "key": "2024080314055958000_105437v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncb2546"
+      },
+      {
+        "key": "2024080314055958000_105437v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.113.119495"
+      },
+      {
+        "key": "2024080314055958000_105437v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.molp.2015.03.003"
+      },
+      {
+        "key": "2024080314055958000_105437v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.112.106385"
+      },
+      {
+        "key": "2024080314055958000_105437v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.15.00880"
+      },
+      {
+        "key": "2024080314055958000_105437v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1410238111"
+      },
+      {
+        "key": "2024080314055958000_105437v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8137.2012.04069.x"
+      },
+      {
+        "key": "2024080314055958000_105437v2.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1147",
+        "DOI": "10.1071/FP08099",
+        "article-title": "A model-based analysis of the dynamics of carbon balance at the whole-plant level in Arabidopsis thaliana",
+        "volume": "35",
+        "year": "2008",
+        "journal-title": "Functional Plant Biology"
+      },
+      {
+        "key": "2024080314055958000_105437v2.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1146/annurev-arplant-050718-100221",
+        "article-title": "Modeling Plant Metabolism: From Network Reconstruction to Mechanistic Models",
+        "volume": "71",
+        "year": "2020",
+        "journal-title": "Ann. Rev. Plant Biol"
+      },
+      {
+        "key": "2024080314055958000_105437v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.109.148981"
+      },
+      {
+        "key": "2024080314055958000_105437v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1115581"
+      },
+      {
+        "key": "2024080314055958000_105437v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Flis, A. , Fernandez, A.P. , Zielinski, T. , Mengin, V. , Sulpice, R. , Stratford, K. , Hume, A. , Pokhilko, A. , Southern, M.M. , Seaton, D.D. , McWatters, H.G. , Stitt, M. , Halliday, K.J. and Millar, A.J. (2015) Defining the robust behaviour of the plant clock gene circuit with absolute RNA timeseries and open infrastructure. Open Biol, 5.",
+        "DOI": "10.1098/rsob.150042"
+      },
+      {
+        "key": "2024080314055958000_105437v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/pce.13440"
+      },
+      {
+        "key": "2024080314055958000_105437v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1003705"
+      },
+      {
+        "key": "2024080314055958000_105437v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0900952106"
+      },
+      {
+        "key": "2024080314055958000_105437v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-313X.2004.02173.x"
+      },
+      {
+        "key": "2024080314055958000_105437v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-3040.2009.01965.x"
+      },
+      {
+        "key": "2024080314055958000_105437v2.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Graf, A. , Coman, D. , Uhrig, R.G. , Walsh, S. , Flis, A. , Stitt, M. and Gruissem, W. (2017) Parallel analysis of Arabidopsis circadian clock mutants reveals different scales of transcriptome and proteome regulation. Open Biol, 7.",
+        "DOI": "10.1098/rsob.160333"
+      },
+      {
+        "key": "2024080314055958000_105437v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0914299107"
+      },
+      {
+        "key": "2024080314055958000_105437v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.113.224006"
+      },
+      {
+        "key": "2024080314055958000_105437v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.004374"
+      },
+      {
+        "key": "2024080314055958000_105437v2.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Grzegorczyk, M. , Aderhold, A. and Husmeier, D. (2015) Inferring bi-directional interactions between circadian clock genes and metabolism with model ensembles. Stat Appl Genet Mol Biol, 2014.",
+        "DOI": "10.1515/sagmb-2014-0041"
+      },
+      {
+        "key": "2024080314055958000_105437v2.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hammer, G. , Messina, C. , Wu, A. and Cooper, M. (2019) Biological reality and parsimony in crop models\u2014why we need both in crop improvement! in silico Plants, 1.",
+        "DOI": "10.1093/insilicoplants/diz010"
+      },
+      {
+        "key": "2024080314055958000_105437v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12603"
+      },
+      {
+        "key": "2024080314055958000_105437v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.15.00771"
+      },
+      {
+        "key": "2024080314055958000_105437v2.29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kinmonth-Schultz, H.A. , MacEwen, M.J.S. , Seaton, D.D. , Millar, A.J. , Imaizumi, T. and Kim, S. -H. (2019) An explanatory model of temperature influence on flowering through whole-plant accumulation of FLOWERING LOCUS T in Arabidopsis thaliana. in silico Plants, 1.",
+        "DOI": "10.1093/insilicoplants/diz006"
+      },
+      {
+        "key": "2024080314055958000_105437v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1746-4811-9-45"
+      },
+      {
+        "key": "2024080314055958000_105437v2.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "K\u00f6lling, K. , Thalmann, M. , Muller, A. , Jenny, C. and Zeeman, S.C. (2015) Carbon partitioning in Arabidopsis thaliana is a dynamic process controlled by the plants metabolic status and its circadian clock. Plant Cell Environ.",
+        "DOI": "10.1111/pce.12512"
+      },
+      {
+        "key": "2024080314055958000_105437v2.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "3263",
+        "DOI": "10.1093/jxb/erab038",
+        "article-title": "Phytochromes control metabolic flux, and their action at the seedling stage determines adult plant biomass",
+        "volume": "72",
+        "year": "2021",
+        "journal-title": "J.Exp.Bot"
+      },
+      {
+        "key": "2024080314055958000_105437v2.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1002/1873-3468.13311",
+        "article-title": "Time-resolved interaction proteomics of the GIGANTEA protein under diurnal cycles in Arabidopsis",
+        "volume": "593",
+        "year": "2019",
+        "journal-title": "FEBS Lett"
+      },
+      {
+        "key": "2024080314055958000_105437v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/cshperspect.a033613"
+      },
+      {
+        "key": "2024080314055958000_105437v2.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrg3885"
+      },
+      {
+        "key": "2024080314055958000_105437v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/msb4100025"
+      },
+      {
+        "key": "2024080314055958000_105437v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.111.179382"
+      },
+      {
+        "key": "2024080314055958000_105437v2.38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matthews, M.L. and Marshall-Colon, A. (2021) Multiscale plant modeling: from genome to phenome and beyond. Emerg Top Life Sci.",
+        "DOI": "10.1042/ETLS20200276"
+      },
+      {
+        "key": "2024080314055958000_105437v2.39",
+        "doi-asserted-by": "crossref",
+        "first-page": "2608",
+        "DOI": "10.1111/pce.13000",
+        "article-title": "Photosynthate partitioning to starch in Arabidopsis thaliana is insensitive to light intensity but sensitive to photoperiod due to a restriction on growth in the light in short photoperiods",
+        "volume": "40",
+        "year": "2017",
+        "journal-title": "Plant Cell Environ"
+      },
+      {
+        "key": "2024080314055958000_105437v2.40",
+        "doi-asserted-by": "crossref",
+        "first-page": "595",
+        "DOI": "10.1146/annurev-arplant-043014-115619",
+        "article-title": "The intracellular dynamics of circadian clocks reach for the light of ecology and evolution Ann",
+        "volume": "67",
+        "year": "2016",
+        "journal-title": "Rev. Plant Biol"
+      },
+      {
+        "key": "2024080314055958000_105437v2.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.18.01418"
+      },
+      {
+        "key": "2024080314055958000_105437v2.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1307741110"
+      },
+      {
+        "key": "2024080314055958000_105437v2.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.114.247759"
+      },
+      {
+        "key": "2024080314055958000_105437v2.44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Muller, N.A. , Wijnen, C.L. , Srinivasan, A. , Ryngajllo, M. , Ofner, I. , Lin, T. , Ranjan, A. , West, D. , Maloof, J.N. , Sinha, N.R. , Huang, S. , Zamir, D. and Jimenez-Gomez, J.M. (2015) Domestication selected for deceleration of the circadian clock in cultivated tomato. Nat Genet.",
+        "DOI": "10.1038/ng.3447"
+      },
+      {
+        "key": "2024080314055958000_105437v2.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.109.072892"
+      },
+      {
+        "key": "2024080314055958000_105437v2.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pcp/pcm056"
+      },
+      {
+        "key": "2024080314055958000_105437v2.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pcp/pcp004"
+      },
+      {
+        "key": "2024080314055958000_105437v2.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pcp/pcp004"
+      },
+      {
+        "key": "2024080314055958000_105437v2.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pcp/pcp028"
+      },
+      {
+        "key": "2024080314055958000_105437v2.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.95.15.8660"
+      },
+      {
+        "key": "2024080314055958000_105437v2.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.pharmtox.010909.105621"
+      },
+      {
+        "key": "2024080314055958000_105437v2.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1243417"
+      },
+      {
+        "key": "2024080314055958000_105437v2.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/msb.2012.6"
+      },
+      {
+        "key": "2024080314055958000_105437v2.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/c3mb70459a"
+      },
+      {
+        "key": "2024080314055958000_105437v2.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.18.00804"
+      },
+      {
+        "key": "2024080314055958000_105437v2.56",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1038/s41477-018-0357-9",
+        "article-title": "Growth rate regulation is associated with developmental modification of source efficiency",
+        "volume": "5",
+        "year": "2019",
+        "journal-title": "Nat Plants"
+      },
+      {
+        "key": "2024080314055958000_105437v2.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.112.097188"
+      },
+      {
+        "key": "2024080314055958000_105437v2.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00392622"
+      },
+      {
+        "key": "2024080314055958000_105437v2.59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0709597104"
+      },
+      {
+        "key": "2024080314055958000_105437v2.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-8137.2006.01848.x"
+      },
+      {
+        "key": "2024080314055958000_105437v2.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.112.204842"
+      },
+      {
+        "key": "2024080314055958000_105437v2.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.18.01346"
+      },
+      {
+        "key": "2024080314055958000_105437v2.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2009.11.029"
+      },
+      {
+        "key": "2024080314055958000_105437v2.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.104.029504"
+      },
+      {
+        "key": "2024080314055958000_105437v2.65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.105.037994"
+      },
+      {
+        "key": "2024080314055958000_105437v2.66",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1038/nmeth.2089",
+        "article-title": "NIH Image to ImageJ: 25 years of image analysis",
+        "volume": "9",
+        "year": "2012",
+        "journal-title": "Nat. Meth"
+      },
+      {
+        "key": "2024080314055958000_105437v2.67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1105/tpc.19.00089"
+      },
+      {
+        "key": "2024080314055958000_105437v2.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.00669"
+      },
+      {
+        "key": "2024080314055958000_105437v2.69",
+        "doi-asserted-by": "crossref",
+        "first-page": "20130979",
+        "DOI": "10.1098/rsif.2013.0979",
+        "article-title": "Regulatory principles and experimental approaches to the circadian control of starch turnover",
+        "volume": "11",
+        "year": "2014",
+        "journal-title": "J Roy Soc Interface"
+      },
+      {
+        "key": "2024080314055958000_105437v2.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15252/msb.20177962"
+      },
+      {
+        "key": "2024080314055958000_105437v2.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15252/msb.20145766"
+      },
+      {
+        "key": "2024080314055958000_105437v2.72",
+        "doi-asserted-by": "crossref",
+        "first-page": "8305",
+        "DOI": "10.1038/s41598-017-08325-y",
+        "article-title": "Adjustment of the Arabidopsis circadian oscillator by sugar signalling dictates the regulation of starch metabolism",
+        "volume": "7",
+        "year": "2017",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "2024080314055958000_105437v2.73",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1146/annurev-arplant-050718-100241",
+        "article-title": "Starch: A Flexible, Adaptable Carbon Store Coupled to Plant Growth",
+        "volume": "71",
+        "year": "2020",
+        "journal-title": "Ann. Rev. Plant Biol"
+      },
+      {
+        "key": "2024080314055958000_105437v2.74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/mp/sst127"
+      },
+      {
+        "key": "2024080314055958000_105437v2.75",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Urquiza-Garc\u00eda, U. and Millar, A.J. (2021) Testing the inferred transcription rates of a dynamic, gene network model in absolute units. in silico Plants, 3.",
+        "DOI": "10.1093/insilicoplants/diab022"
+      },
+      {
+        "key": "2024080314055958000_105437v2.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-3040.2007.01763.x"
+      },
+      {
+        "key": "2024080314055958000_105437v2.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/35018085"
+      },
+      {
+        "key": "2024080314055958000_105437v2.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1071/AR05155"
+      },
+      {
+        "key": "2024080314055958000_105437v2.79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1165826"
+      },
+      {
+        "key": "2024080314055958000_105437v2.80",
+        "doi-asserted-by": "crossref",
+        "first-page": "2463",
+        "DOI": "10.1093/jxb/ery394",
+        "article-title": "A multi-model framework for the Arabidopsis life cycle",
+        "volume": "70",
+        "year": "2019",
+        "journal-title": "J.Exp.Bot"
+      },
+      {
+        "key": "2024080314055958000_105437v2.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1104/pp.109.151795"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/105437",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T22:22:55Z",
+      "timestamp": 1768429375000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/105437"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          6
+        ]
+      ]
+    },
+    "references-count": 81,
+    "URL": "https://doi.org/10.1101/105437",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          6
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

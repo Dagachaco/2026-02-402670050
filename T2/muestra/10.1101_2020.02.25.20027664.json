@@ -1,0 +1,621 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:09:37Z",
+      "timestamp": 1768547377572,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Respiratory Medicine",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To evaluate the spectrum of comorbidities and its impact on the clinical outcome in patients with coronavirus disease 2019 (COVID-19).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>Retrospective case studies</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Setting</jats:title>\n                  <jats:p>575 hospitals in 31 province/autonomous regions/provincial municipalities across China</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Participants</jats:title>\n                  <jats:p>\n                    1,590 laboratory-confirmed hospitalized patients. Data were collected from November 21\n                    <jats:sup>st</jats:sup>\n                    , 2019 to January 31\n                    <jats:sup>st</jats:sup>\n                    , 2020.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Main outcomes and measures</jats:title>\n                  <jats:p>\n                    Epidemiological and clinical variables (in particular, comorbidities) were extracted from medical charts. The disease severity was categorized based on the\n                    <jats:italic>American Thoracic Society</jats:italic>\n                    guidelines for community-acquired pneumonia. The primary endpoint was the composite endpoints, which consisted of the admission to intensive care unit (ICU), or invasive ventilation, or death. The risk of reaching to the composite endpoints was compared among patients with COVID-19 according to the presence and number of comorbidities.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    Of the 1,590 cases, the mean age was 48.9 years. 686 patients (42.7%) were females. 647 (40.7%) patients were managed inside Hubei province, and 1,334 (83.9%) patients had a contact history of Wuhan city. Severe cases accounted for 16.0% of the study population. 131 (8.2%) patients reached to the composite endpoints. 399 (25.1%) reported having at least one comorbidity. 269 (16.9%), 59 (3.7%), 30 (1.9%), 130 (8.2%), 28 (1.8%), 24 (1.5%), 21 (1.3%), 18 (1.1%) and 3 (0.2%) patients reported having hypertension, cardiovascular diseases, cerebrovascular diseases, diabetes, hepatitis B infections, chronic obstructive pulmonary disease, chronic kidney diseases, malignancy and immunodeficiency, respectively. 130 (8.2%) patients reported having two or more comorbidities. Patients with two or more comorbidities had significantly escalated risks of reaching to the composite endpoint compared with those who had a single comorbidity, and even more so as compared with those without (all\n                    <jats:italic>P</jats:italic>\n                    &lt;0.05). After adjusting for age and smoking status, patients with COPD (HR 2.681, 95%CI 1.424-5.048), diabetes (HR 1.59, 95%CI 1.03-2.45), hypertension (HR 1.58, 95%CI 1.07-2.32) and malignancy (HR 3.50, 95%CI 1.60-7.64) were more likely to reach to the composite endpoints than those without. As compared with patients without comorbidity, the HR (95%CI) was 1.79 (95%CI 1.16-2.77) among patients with at least one comorbidity and 2.59 (95%CI 1.61-4.17) among patients with two or more comorbidities.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Comorbidities are present in around one fourth of patients with COVID-19 in China, and predispose to poorer clinical outcomes.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Highlights</jats:title>\n                  <jats:sec>\n                    <jats:title>What is already known on this topic</jats:title>\n                    <jats:list list-type=\"simple\">\n                      <jats:list-item>\n                        <jats:label>-</jats:label>\n                        <jats:p>\n                          Since November 2019, the rapid outbreak of coronavirus disease 2019 (COVID-19) has recently become a public health emergency of international concern. There have been 79,331 laboratory-confirmed cases and 2,595 deaths globally as of February 25\n                          <jats:sup>th</jats:sup>\n                          , 2020\n                        </jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:label>-</jats:label>\n                        <jats:p>Previous studies have demonstrated the association between comorbidities and other severe acute respiratory diseases including SARS and MERS.</jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:label>-</jats:label>\n                        <jats:p>No study with a nationwide representative cohort has demonstrated the spectrum of comorbidities and the impact of comorbidities on the clinical outcomes in patients with COVID-19.</jats:p>\n                      </jats:list-item>\n                    </jats:list>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>What this study adds</jats:title>\n                    <jats:list list-type=\"simple\">\n                      <jats:list-item>\n                        <jats:label>-</jats:label>\n                        <jats:p>In this nationwide study with 1,590 patients with COVID-19, comorbidities were identified in 399 patients. Comorbidities of COVID-19 mainly included hypertension, cardiovascular diseases, cerebrovascular diseases, diabetes, hepatitis B infections, chronic obstructive pulmonary disease, chronic kidney diseases, malignancy and immunodeficiency.</jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:label>-</jats:label>\n                        <jats:p>The presence of as well as the number of comorbidities predicted the poor clinical outcomes (admission to intensive care unit, invasive ventilation, or death) of COVID-19.</jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:label>-</jats:label>\n                        <jats:p>Comorbidities should be taken into account when estimating the clinical outcomes of patients with COVID-19 on hospital admission.</jats:p>\n                      </jats:list-item>\n                    </jats:list>\n                  </jats:sec>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.25.20027664",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T16:45:14Z",
+      "timestamp": 1582821914000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 31,
+    "title": [
+      "Comorbidity and its impact on 1,590 patients with COVID-19 in China: A Nationwide Analysis"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Wei-jie",
+        "family": "Guan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wen-hua",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Heng-rui",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zi-sheng",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi-min",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiao-qing",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ru-chong",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-li",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-quan",
+        "family": "Ou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ping-yan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ling",
+        "family": "Sang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian-fu",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Cai-chen",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li-min",
+        "family": "Ou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bo",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shan",
+        "family": "Xiong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zheng-yi",
+        "family": "Ni",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hong",
+        "family": "Shan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-liang",
+        "family": "Lei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi-xiang",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ya-hua",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian-ming",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ji-yang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhong",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhi-jian",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shao-qin",
+        "family": "Qiu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chang-jiang",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shao-yong",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin-ling",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Feng",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shi-yue",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jin-ping",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nuo-fu",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nan-shan",
+        "family": "Zhong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian-xing",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.1",
+        "unstructured": "WHO main website. https://www.who.int (accessed February 25th, 2020)"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.2",
+        "unstructured": "World Health Organization. Novel Coronavirus (2019-nCoV) situation reports. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/ (Assessed on February 25th, 2020)"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CM9.0000000000000744"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m606"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1305584"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "e118",
+        "DOI": "10.2105/AJPH.2014.302197",
+        "article-title": "Association of age and comorbidity on 2009 influenza A pandemic H1N1-related intensive care unit stay in Massachusetts",
+        "volume": "104",
+        "year": "2014",
+        "journal-title": "Am J Public Health"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.3111/13696998.2012.752376",
+        "article-title": "The burden of influenza complications in different high-risk groups",
+        "volume": "16",
+        "year": "2013",
+        "journal-title": "J Med Economics"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/653204"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0210353",
+        "DOI": "10.1371/journal.pone.0210353",
+        "article-title": "Risk factors associated with severe outcomes in adult hospitalized patients according to influenza type and subtype",
+        "volume": "14",
+        "year": "2019",
+        "journal-title": "Plos One"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "486",
+        "DOI": "10.1016/j.jiph.2018.11.011",
+        "article-title": "Effect of vaccination, comorbidities and age on mortality and severe disease associated with influenza during the season 2016\u20132017 in a Spanish tertiary hospital",
+        "volume": "12",
+        "year": "2019",
+        "journal-title": "J Infect Public Health"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.289.21.JOC30885"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.16",
+        "first-page": "1",
+        "article-title": "Prevalence of comorbidities in cases of Middle East respiratory syndrome coronavirus: a retrospective study",
+        "volume": "5",
+        "year": "2018",
+        "journal-title": "Epidemiol Infect"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2016.06.015"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rahman A , Sarkar A. Risk Factors for Fatal Middle East Respiratory Syndrome Coronavirus Infections in Saudi Arabia: Analysis of the WHO Line List, 2013-2018. Am J Public Health. 2019;305186",
+        "DOI": "10.2105/AJPH.2019.305186"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "166",
+        "DOI": "10.3201/eid2601.190952",
+        "article-title": "Diabetes Mellitus, Hypertension, and Death among 32 Patients with MERS-CoV Infection, Saudi Arabia",
+        "volume": "26",
+        "year": "2020",
+        "journal-title": "Emerging Infect Dis"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "11307",
+        "DOI": "10.1038/s41598-017-10402-1",
+        "article-title": "Impact of Comorbidity on Fatality Rate of Patients with Middle East Respiratory Syndrome",
+        "volume": "7",
+        "year": "2017",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0165978",
+        "DOI": "10.1371/journal.pone.0165978",
+        "article-title": "A Comparative Study of Clinical Presentation and Risk Factors for Adverse Outcome in Patients Hospitalised with Acute Respiratory Disease Due to MERS Coronavirus or Other Causes",
+        "volume": "11",
+        "year": "2016",
+        "journal-title": "Plos One"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kww013"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.23",
+        "first-page": "e131774",
+        "article-title": "Comorbid diabetes results in immune dysregulation and enhanced disease severity following MERS-CoV infection",
+        "volume": "20",
+        "year": "2019",
+        "journal-title": "JCI Insight"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12889-016-3881-4"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.25",
+        "unstructured": "WHO. Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance. Jan 28, 2020. https://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected (accessed February 25th, 2020)"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1164/rccm.201908-1581ST"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "421",
+        "DOI": "10.1016/S2213-2600(18)30103-6",
+        "article-title": "Chronic obstructive pulmonary disease in China: a nationwide prevalence study",
+        "volume": "6",
+        "year": "2018",
+        "journal-title": "Lancet Respir Med"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-15-333"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.4103/jpbs.JPBS_33_17",
+        "article-title": "Developing an Integrated Treatment Pathway for a Post-Coronary Artery Bypass Grating (CABG) Geriatric Patient with Comorbid Hypertension and Type 1 Diabetes Mellitus for Treating Acute Hypoglycemia and Electrolyte Imbalance",
+        "volume": "9",
+        "year": "2017",
+        "journal-title": "J Pharm Bioallied Sci"
+      },
+      {
+        "key": "2020110910100649000_2020.02.25.20027664v1.30",
+        "doi-asserted-by": "crossref",
+        "first-page": "2515",
+        "DOI": "10.2147/COPD.S139948",
+        "article-title": "Contributions of COPD, asthma, and ten comorbid conditions to health care utilization and patient-centered outcomes among US adults with obstructive airway disease",
+        "volume": "12",
+        "year": "2017",
+        "journal-title": "Int J Chron Obstruct Pulmon Dis"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20027664",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:17Z",
+      "timestamp": 1768484057000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20027664"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.25.20027664",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1183/13993003.00547-2020",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

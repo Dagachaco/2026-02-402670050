@@ -1,0 +1,697 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:31:06Z",
+      "timestamp": 1768487466642,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 87,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2020-02-21T00:00:00Z",
+          "timestamp": 1582243200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) coronaviruses (CoVs) are zoonotic pathogens with high fatality rates and pandemic potential. Vaccine development has focussed on the principal target of the neutralizing humoral immune response, the spike (S) glycoprotein, which mediates receptor recognition and membrane fusion. Coronavirus S proteins are extensively glycosylated viral fusion proteins, encoding around 69-87 N-linked glycosylation sites per trimeric spike. Using a multifaceted structural approach, we reveal a specific area of high glycan density on MERS S that results in the formation of under-processed oligomannose-type glycan clusters, which was absent on SARS and HKU1 CoVs. We provide a comparison of the global glycan density of coronavirus spikes with other viral proteins including HIV-1 envelope, Lassa virus glycoprotein complex, and influenza hemagglutinin, where glycosylation plays a known role in shielding immunogenic epitopes. Consistent with the ability of the antibody-mediated immune response to effectively target and neutralize coronaviruses, we demonstrate that the glycans of coronavirus spikes are not able to form an efficacious high-density global shield to thwart the humoral immune response. Overall, our data reveal how differential organisation of viral glycosylation across class I viral fusion proteins influence not only individual glycan compositions but also the immunological pressure across the viral protein surface.</jats:p>",
+    "DOI": "10.1101/2020.02.20.957472",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2020-02-21T23:54:16Z",
+      "timestamp": 1582329256000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Vulnerabilities in coronavirus glycan shields despite extensive glycosylation"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7952-1268",
+        "authenticated-orcid": false,
+        "given": "Yasunori",
+        "family": "Watanabe",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Zachary T.",
+        "family": "Berndsen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jayna",
+        "family": "Raghwani",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gemma E.",
+        "family": "Seabright",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Joel D.",
+        "family": "Allen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jason S.",
+        "family": "McLellan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ian A.",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Thomas A.",
+        "family": "Bowden",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7153-3769",
+        "authenticated-orcid": false,
+        "given": "Andrew B.",
+        "family": "Ward",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1072-2694",
+        "authenticated-orcid": false,
+        "given": "Max",
+        "family": "Crispin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-018-0118-9"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1143"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.4",
+        "first-page": "1",
+        "article-title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+        "volume": "6736",
+        "year": "2020",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1408636"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1401505"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12985-016-0544-0"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1118391"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1112.041293"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1080/14760584.2018.1506702",
+        "article-title": "Prospects for a MERS-CoV spike vaccine",
+        "volume": "17",
+        "year": "2018",
+        "journal-title": "Expert Rev. Vaccines"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "841",
+        "DOI": "10.1080/22221751.2019.1624482",
+        "article-title": "Antibodies and vaccines against Middle East respiratory syndrome coronavirus",
+        "volume": "8",
+        "year": "2019",
+        "journal-title": "Emerg. Microb. Infect"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10409230802058320"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2015.03.043"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature17200"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/bs.aivir.2019.08.002",
+        "article-title": "Structural insights into coronavirus entry",
+        "volume": "105",
+        "year": "2019",
+        "journal-title": "Adv. Virus Res"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms15092"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12005"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nsmb.3293"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2018.12.028"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2016.04.010"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature01470"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1146/annurev-biophys-060414-034156",
+        "article-title": "Structure and immune recognition of the HIV glycan shield",
+        "volume": "47",
+        "year": "2018",
+        "journal-title": "Annu. Rev. Biophys"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2017.06.015"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.81.6.1779"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v6031294"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1803990115"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1005276"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1480",
+        "DOI": "10.1016/j.bbagen.2019.05.012",
+        "article-title": "Exploitation of glycosylation in enveloped virus pathobiology",
+        "volume": "1863",
+        "year": "2019",
+        "journal-title": "Biochim. Biophys. Acta"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.sbi.2017.03.008"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms8479"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/glycob/cwh106"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.febslet.2004.04.045"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2018.07.080"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2015.05.017"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.38",
+        "doi-asserted-by": "crossref",
+        "first-page": "3693",
+        "DOI": "10.1038/s41467-018-06121-4",
+        "article-title": "Differential processing of HIV envelope glycans on the virus and soluble recombinant trimer",
+        "volume": "9",
+        "year": "2018",
+        "journal-title": "Nat. Commun"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2018.09.087"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2019.04.016"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1707304114"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.42",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1016/j.virol.2009.12.020",
+        "article-title": "Identification of N-linked carbohydrates from severe acute respiratory syndrome (SARS) spike glycoprotein",
+        "volume": "399",
+        "year": "2010",
+        "journal-title": "Virology"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2006.11.027"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4939-2438-7_1"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/vir.0.19505-0"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2016.02.058"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.78.21.12090-12095.2004"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00554-10"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1234150"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scitranslmed.3000799"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1186430"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2017.04.013"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/839217"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-018-36918-8"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.55",
+        "doi-asserted-by": "crossref",
+        "first-page": "2426",
+        "DOI": "10.1016/j.celrep.2019.04.082",
+        "article-title": "The chimpanzee SIV envelope trimer: structure and deployment as an HIV vaccine template",
+        "volume": "27",
+        "year": "2019",
+        "journal-title": "Cell Rep"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.str.2017.07.018"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/846071"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/cr.2016.152"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.59",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Burton, D. R. What are the most powerful immunogen design vaccine strategies? Reverse vaccinology 2.0 shows great promise. Cold Spring Harb. Perspect. Biol. 9, (2017).",
+        "DOI": "10.1101/cshperspect.a030262"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2007.05.022"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aam7260"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms4614"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nsmb.3051"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1108754108"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Altman, M. O. et al. Human influenza a virus hemagglutinin glycan evolution follows a temporal pattern to a glycan limit. MBio 10, (2019).",
+        "DOI": "10.1128/mBio.00204-19"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2019.04.003"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0401939101"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0403492101"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02463"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2019.01781"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.1002251"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.72",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Subbaraman, H. , Schanz, M. & Trkola, A. Broadly neutralizing antibodies: What is needed to move from a rare event in HIV-1 infection to vaccine efficacy? Retrovirology 15, (2018).",
+        "DOI": "10.1186/s12977-018-0433-2"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1107/S0907444904019158"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.74",
+        "doi-asserted-by": "crossref",
+        "first-page": "e37324",
+        "DOI": "10.7554/eLife.37324",
+        "article-title": "MERS-CoV spillover at the camel-human interface",
+        "volume": "7",
+        "year": "2018",
+        "journal-title": "eLife"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mss075"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.0040088"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msi103"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msj021"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bts580"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00285-007-0120-8"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.4193"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsb.2015.11.003"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.4169"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.42166"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsb.2006.07.003"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2015.03.050"
+      },
+      {
+        "key": "2024080320551878000_2020.02.20.957472v1.87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.20084"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.957472",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:02:55Z",
+      "timestamp": 1768435375000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.20.957472"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "references-count": 87,
+    "URL": "https://doi.org/10.1101/2020.02.20.957472",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

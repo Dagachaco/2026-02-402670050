@@ -1,0 +1,233 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T14:48:55Z",
+      "timestamp": 1770994135433,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 14,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              30
+            ]
+          ],
+          "date-time": "2020-01-30T00:00:00Z",
+          "timestamp": 1580342400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>Novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) outbreak in the city of Wuhan, China during December 2019, has now spread to various countries across the globe triggering a heightened containment effort. This human pathogen is a member of betacoronavirus genus carrying 30 kilobase of single positive-sense RNA genome. Understanding the evolution, zoonotic transmission, and source of this novel virus would help accelerating containment and prevention efforts. The present study reported detailed analysis of SARS-CoV-2 genome evolution and potential candidate peptides for vaccine development. This new coronavirus genotype might have been evolved from a bat-coronavirus by accumulating non-synonymous mutations, indels, and recombination events. Structural proteins Spike (S), and Membrane (M) had extensive mutational changes, whereas Envelope (E) and Nucleocapsid (N) proteins were very conserved suggesting differential selection pressures exerted on SARS-CoV-2 during evolution. Interestingly, SARS-CoV-2 Spike protein contains a 39 nucleotide sequence insertion relative to SARS-like bat-SL-CoVZC45/2017. Furthermore, we identified eight high binding affinity (HBA) CD4 T-cell epitopes in the S, E, M and N proteins, which can be commonly recognized by HLA-DR alleles of Asia and Asia-Pacific Region population. These immunodominant epitopes can be incorporated in universal subunit SARS-CoV-2 vaccine. Diverse HLA types and variations in the epitope binding affinity may contribute to the wide range of immunopathological outcomes of circulating virus in humans. Our findings emphasize the requirement for continuous surveillance of SARS-CoV-2 strains in live animal markets to better understand the viral adaptation to human host and to develop practical solutions to prevent the emergence of novel pathogenic SARS-CoV-2 strains.</jats:p>",
+    "DOI": "10.1101/2020.01.29.925867",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2020-01-30T20:06:22Z",
+      "timestamp": 1580414782000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+      "Insights into Cross-species Evolution of Novel Human Coronavirus SARS-CoV-2 and Defining Immune Determinants for Vaccine Development"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Arunachalam",
+        "family": "Ramaiah",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Vaithilingaraja",
+        "family": "Arumugaswami",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang et al. 2020. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet (2020) DOI:https://doi.org/10.1016/S0140-6736(20)30183-5",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.2",
+        "unstructured": "CDC. Accessed 26 January 2020. (2020) https://www.cdc.gov/coronavirus/types.html."
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1212.060401"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12250-016-3726-4"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.6",
+        "unstructured": "WHO. Emergencies preparedness, response. Pneumonia of unknown origin \u2013 China WHO. Disease outbreak news (2020). 5 January, Accessed 12 Jan 2020. (2020a.) Available at: https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.8",
+        "unstructured": "WHO. The Situation Report - 9. 29 January 2020. (2020b) Available at: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200129-sitrep-9-ncov.pdf?sfvrsn=9e51db96_2"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bib/bbx108"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msy096"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/msb.2011.75"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1000048"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.13",
+        "first-page": "D405",
+        "article-title": "2014. The immune epitope database (IEDB) 3.0",
+        "volume": "43",
+        "year": "2014",
+        "journal-title": "Nucl. Acids Res"
+      },
+      {
+        "key": "2024080323045529000_2020.01.29.925867v3.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0196240",
+        "DOI": "10.1371/journal.pone.0196240",
+        "article-title": "Complexity of type-specific 56 kDa antigen CD4 T-cell epitopes of Orientia tsutsugamushi strains causing scrub typhus in India",
+        "volume": "13",
+        "year": "2018",
+        "journal-title": "PLoS ONE"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.29.925867",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:58:10Z",
+      "timestamp": 1768435090000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.29.925867"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "references-count": 14,
+    "URL": "https://doi.org/10.1101/2020.01.29.925867",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

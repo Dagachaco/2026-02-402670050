@@ -1,0 +1,264 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:21Z",
+      "timestamp": 1768547241951,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 14,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Estimating the key epidemiological features of the novel coronavirus (2019-nCoV) epidemic proves to be challenging, given incompleteness and delays in early data reporting, in particular, the severe under-reporting bias in the epicenter, Wuhan, Hubei Province, China. As a result, the current literature reports widely varying estimates. We developed an alternative geo-stratified debiasing estimation framework by incorporating human mobility with case reporting data in three stratified zones, i.e., Wuhan, Hubei Province excluding Wuhan, and mainland China excluding Hubei. We estimated the latent infection ratio to be around 0.12% (18,556 people) and the basic reproduction number to be 3.24 in Wuhan before the city\u2019s lockdown on January 23, 2020. The findings based on this debiasing framework have important implications to prioritization of control and prevention efforts.</jats:p>\n                <jats:sec>\n                  <jats:title>One Sentence Summary</jats:title>\n                  <jats:p>A geo-stratified debiasing approach incorporating human movement data was developed to improve modeling of the 2019-nCoV epidemic.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.07.20021071",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2020-02-09T10:35:10Z",
+      "timestamp": 1581244510000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "title": [
+      "Incorporating Human Movement Data to Improve Epidemiological Estimates for 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhidong",
+        "family": "Cao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6819-0686",
+        "authenticated-orcid": false,
+        "given": "Qingpeng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xin",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dirk",
+        "family": "Pfeiffer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongbing",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Pei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhongwei",
+        "family": "Jia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9046-222X",
+        "authenticated-orcid": false,
+        "given": "Daniel Dajun",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Q. Li , X. Guan , P. Wu , X. Wang , L. Zhou , Y. Tong , R. Ren , K. S. M. Leung , E. H. Y. Lau , J. Y. Wong , X. Xing , N. Xiang , Y. Wu , C. Li , Q. Chen , D. Li , T. Liu , J. Zhao , M. Li , W. Tu , C. Chen , L. Jin , R. Yang , Q. Wang , S. Zhou , R. Wang , H. Liu , Y. Luo , Y. Liu , G. Shao , H. Li , Z. Tao , Y. Yang , Z. Deng , B. Liu , Z. Ma , Y. Zhang , G. Shi , T. T. Y. Lam , J. T. K. Wu , G. F. Gao , B. J. Cowling , B. Yang , G. M. Leung , Z. Feng , Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N. Engl. J. Med., NEJMoa2001316 (2020).",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.3",
+        "unstructured": "World Health Organization, \u201cNovel Coronavirus(2019-nCoV) Situation Report-7\u201d (2020), (available at https://www.who.int/publications-detail/global-surveillance-for-)."
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1016/S0140-6736(03)13875-5",
+        "article-title": "Uncertainty in SARS epidemiology [4]",
+        "volume": "362",
+        "year": "2003",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13335-1"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwh255"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature03063"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/currents.outbreaks.91afb5e0f279e7f29e7056095255b288"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.11",
+        "unstructured": "Ministry of Industry and Information Technology of the People\u2019s Republic of China. Regulations on the protection of personal information of telecommunications and Internet users. http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057729-/c4700145/content.html (accessed Jan 30, 2020)."
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.12",
+        "unstructured": "GSMA. GSMA guidelines on the protection of privacy in the use of mobile phone data for responding to the Ebola outbreak. https://www.gsma.com/mobilefordevelopment/resources/gsma-guidelines-on-the-protectionof-privacy-in-the-use-of-mobile-phone-data-for-responding-to-the-ebola-outbreak/ (accessed Jan 30, 2020)."
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Sugiyama , T. Suzuki , T. Kanamori . Density ratio estimation in machine learning. (Cambridge University Press, Cambridge, UK, 2012).",
+        "DOI": "10.1017/CBO9781139035613"
+      },
+      {
+        "key": "2020110610401241000_2020.02.07.20021071v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1098/rsif.2006.0161",
+        "article-title": "Comparative estimation of the reproduction number for pandemic influenza from daily case notification data",
+        "volume": "4",
+        "year": "2007",
+        "journal-title": "Journal of the Royal Society Interface"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.07.20021071",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:46Z",
+      "timestamp": 1768484026000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.07.20021071"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "references-count": 14,
+    "URL": "https://doi.org/10.1101/2020.02.07.20021071",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

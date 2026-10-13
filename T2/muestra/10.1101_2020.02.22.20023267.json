@@ -1,0 +1,178 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:34:09Z",
+      "timestamp": 1768545249365,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 8,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>The CoViD-19 outbreak has escalated to a pandemic in the last few weeks, with no signs of stopping. Pharmaceutical solutions based upon virologic studies, at this point, remain inconclusive. In contrast, this paper looks towards epidemiological models during this phase of viral growth, in particular, by providing a responsive, timely model of the R value based on the previous few days\u2019 results.</jats:p>\n                <jats:p>Such an R value, although bearing less statistical precision due to limited sampling, could allow R to become a more effective, responsive standalone measure of infectious transmission. It demonstrates that the R value can be used as a dynamic, time-dependent indicator without the use of curve-fitting, and also estimates the most recent R-value of the CoViD-19 outbreak to be about 4.29, based on the data from the previous 3 days.</jats:p>",
+    "DOI": "10.1101/2020.02.22.20023267",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T18:44:21Z",
+      "timestamp": 1582656261000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "A Novel Method for the Estimation of a Dynamic Effective Reproduction Number (Dynamic-R) in the CoViD-19 Outbreak"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yi Chen",
+        "family": "Chong",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.27.20018952"
+      },
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura, H. , & Chowell, G. (2009). The effective reproduction number as a prelude to statistical estimation of time-dependent epidemic trends. In Mathematical and Statistical Estimation Approaches in Epidemiology (pp. 103-121). Springer Netherlands. https://doi.org/10.1007/978-90-481-2313-1_5",
+        "DOI": "10.1007/978-90-481-2313-1_5"
+      },
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idm.2017.08.001"
+      },
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.08.20021253"
+      },
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "2539",
+        "DOI": "10.1038/s41598-019-39057-w",
+        "article-title": "Estimation of the effective reproduction number of influenza based on weekly reports in Miyazaki Prefecture",
+        "volume": "9",
+        "year": "2019",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "2020110711100535000_2020.02.22.20023267v1.8",
+        "unstructured": "\u5168\u56fd\u65b0\u51a0\u80ba\u708e\u75ab\u75ab\u5b9e\u65f6\u52a8\u6001 - \u4e01\u9999\u56ed\u00b7\u4e01\u9999\u533b\u751f. https://ncov.dxy.cn/ncovh5/view/pneumonia. Accessed February 15, 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.22.20023267",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:10Z",
+      "timestamp": 1768484050000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.22.20023267"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 8,
+    "URL": "https://doi.org/10.1101/2020.02.22.20023267",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

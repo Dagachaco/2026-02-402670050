@@ -1,0 +1,237 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2026-04-08T16:09:33Z",
+      "timestamp": 1775664573705,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Hematology",
+    "reference-count": 6,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>To explore the cellular immunity and cytokines status of NCP patients and to predict the correlation between the cellular immunity levels, cytokines and the severity of patients.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>123 NCP patients were divided into mild and severe groups. Peripheral blood was collected, lymphocyte subsets and cytokines were detected. Correlation analysis was performed on the lymphocyte subsets and cytokines, and the differences between the indexes of the two groups were analyzed.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>102 mild and 21 severe patients were included. Lymphocyte subsets were reduced in two groups. The proportion of CD8 + T reduction in the mild and severe group was 28.43% and 61.9%, respectively; The proportion of B cell reduction was 25.49% and 28.57%; The proportion of NK cell reduction was 34.31% and 47.62%; The detection value of IL-6 was 0 in 55.88% of the mild group, mild group has a significantly lower proportion of patients with IL-6 higher than normal than severe group; There was no significant linear correlation between the lymphocyte subsets and cytokines, while significant differences were noticed between the two groups in CD4 + T, CD8 + T, IL-6 and IL-10.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Low levels of CD4+T and CD8+T are common in severe NCP. IL-6 and IL-10 levels were higher in severe patients. T cell subsets and cytokines can be used as one of the basis for predicting the transition from mild to severe. Large number of samples are still needed to confirm the \u201cwarning value\u201d of CD4 + T, CD8 + T IL-6 and IL-10.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.10.20021832",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T13:15:10Z",
+      "timestamp": 1581513310000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 316,
+    "title": [
+      "Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia (NCP)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Suxin",
+        "family": "Wan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Qingjie",
+        "family": "Yi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shibing",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinglong",
+        "family": "Lv",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xianxiang",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lian",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chunhui",
+        "family": "Lang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qing",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kaihu",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhengjun",
+        "family": "Yi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mao",
+        "family": "Qiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianglin",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bangshuo",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yongping",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110611500914000_2020.02.10.20021832v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110611500914000_2020.02.10.20021832v1.2",
+        "unstructured": "Huabiao Chen . Study on immune response of SARS coronavirus-specific cytotoxic T lymphocytes. Second Military Medical University, 2005: 1\u201395."
+      },
+      {
+        "key": "2020110611500914000_2020.02.10.20021832v1.3",
+        "unstructured": "Kun Xue . Effect of atypical influenza virus infection on NK cell activity [D]. China Medical University, 2014."
+      },
+      {
+        "key": "2020110611500914000_2020.02.10.20021832v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110611500914000_2020.02.10.20021832v1.5",
+        "unstructured": "Diagnosis and treatment of pneumonia with a new coronavirus infection (trial version 5)."
+      },
+      {
+        "key": "2020110611500914000_2020.02.10.20021832v1.6",
+        "unstructured": "Beijing Union Medical College Hospital on the \u201cnew coronavirus infected pneumonia\u201d treatment proposal (V2.0)"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.10.20021832",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:50Z",
+      "timestamp": 1768484030000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.10.20021832"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 6,
+    "URL": "https://doi.org/10.1101/2020.02.10.20021832",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

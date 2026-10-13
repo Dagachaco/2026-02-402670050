@@ -1,0 +1,359 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2026-02-07T18:46:57Z",
+      "timestamp": 1770490017842,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 12,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>Global airline networks play a key role in the global importation of emerging infectious diseases. Detailed information on air traffic between international airports has been demonstrated to be useful in retrospectively validating and prospectively predicting case emergence in other countries. In this paper, we use a well-established metric known as effective distance on the global air traffic data from IATA to quantify risk of emergence for different countries as a consequence of direct importation from China, and compare it against arrival times for the first 24 countries. Using this model trained on official first reports from WHO, we estimate time of arrival (ToA) for all other countries. We then incorporate data on airline suspensions to recompute the effective distance and assess the effect of such cancellations in delaying the estimated arrival time for all other countries. Finally we use the infectious disease vulnerability indices to explain some of the estimated reporting delays.</jats:p>",
+    "DOI": "10.1101/2020.02.20.20025882",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:36:20Z",
+      "timestamp": 1582518980000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 24,
+    "title": [
+      "Evaluating the impact of international airline suspensions on the early global spread of COVID-19"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Aniruddha",
+        "family": "Adiga",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Srinivasan",
+        "family": "Venkatramanan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "James",
+        "family": "Schlitt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Akhil",
+        "family": "Peddireddy",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Allan",
+        "family": "Dickerman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrei",
+        "family": "Bura",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew",
+        "family": "Warren",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Brian D",
+        "family": "Klahn",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chunhong",
+        "family": "Mao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dawen",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dustin",
+        "family": "Machi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Erin",
+        "family": "Raymond",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fanchao",
+        "family": "Meng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Golda",
+        "family": "Barrow",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Henning",
+        "family": "Mortveit",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiangzhuo",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jim",
+        "family": "Walke",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Joshua",
+        "family": "Goldstein",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mandy L",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mark",
+        "family": "Orr",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Przemyslaw",
+        "family": "Porebski",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pyrros A",
+        "family": "Telionis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard",
+        "family": "Beckman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stefan",
+        "family": "Hoops",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stephen",
+        "family": "Eubank",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Young Yun",
+        "family": "Baek",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bryan",
+        "family": "Lewis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Madhav",
+        "family": "Marathe",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chris",
+        "family": "Barrett",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Isaac I Bogoch , Alexander Watts , Andrea Thomas-Bachli , Carmen Huber , Moritz UG Kraemer , and Kamran Khan . Potential for global spread of a novel coronavirus from China. Journal of Travel Medicine, 2020.",
+        "DOI": "10.1093/jtm/taaa011"
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.2",
+        "unstructured": "Dirk Brockmann . Event Horizon \u2013 COVID-19, 2020. URL: http://rocs.hu-berlin.de/corona/."
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1245200"
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matteo Chinazzi , Jessica T Davis , Marco Ajelli , Corrado Gioannini , Maria Litvinova , Stefano Merler , Ana Pastore y Piontti , Luca Rossi , Kaiyuan Sun , C\u00e9cile Viboud , et al. The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.09.20021261"
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.5",
+        "unstructured": "Market IS data . International Air Transport Association (IATA). URL: https://www.iata.org."
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P.M. De Salazar , R. Niehus , A. Taylor , C.O. Buckee , and M. Lipsitch . Using predicted imports of 2019-nCoV cases to determine locations that may not be identifying all imported cases. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.04.20020495"
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Gilbert , G. Pullano , F. Pinotti , and Poletto C. and Boelle P.Y. and D\u2019Ortenzio E. Valdano, E. , and Eholie S.P. and Altmann M. Yazdanpanah, Y. , and B. Gutierrez . Preparedness and vulnerability of African countries against introductions of 2019-nCoV. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.05.20020792"
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.8",
+        "unstructured": "Shengjie Lai , Isaac Bogoch , Nick Ruktanonchai , Alexander Watts , Yu Li , Jianzing Yu , Xin Lv , Weizhong Yang , Hongjie Yu , Kamran Khan , et al. Assessing spread risk of Wuhan novel coronavirus within and beyond China, January-April 2020: a travel network-based modelling study. medRxiv, 2020."
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.9",
+        "unstructured": "Melinda Moore , Bill Gelfeld , and Christopher Paul Adeyemi Okunogbe . Infectious Disease Vulnerability Index. Rand Health Quarterly, 6(3), 2017."
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.10",
+        "unstructured": "World Health Organization. 2019 novel coronavirus (COVID-19) situation reports, 2020. URL: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports."
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18130/V3/Z6524P"
+      },
+      {
+        "key": "2021010304200544000_2020.02.20.20025882v2.12",
+        "unstructured": "J.T. Wu , K. Leung , and G.M. Leung . Forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: A modelling study. The Lancet, 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025882",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:08Z",
+      "timestamp": 1768484048000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025882"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 12,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025882",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

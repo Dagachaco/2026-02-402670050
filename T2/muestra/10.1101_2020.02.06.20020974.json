@@ -1,0 +1,482 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ],
+      "date-time": "2026-04-20T17:25:49Z",
+      "timestamp": 1776705949258,
+      "version": "3.51.2"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "group-title": "Respiratory Medicine",
+    "reference-count": 24,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since December 2019, acute respiratory disease (ARD) due to 2019 novel coronavirus (2019-nCoV) emerged in Wuhan city and rapidly spread throughout China. We sought to delineate the clinical characteristics of these cases.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    We extracted the data on 1,099 patients with laboratory-confirmed 2019-nCoV ARD from 552 hospitals in 31 provinces/provincial municipalities through January 29\n                    <jats:sup>th</jats:sup>\n                    , 2020.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    The median age was 47.0 years, and 41.90% were females. Only 1.18% of patients had a direct contact with wildlife, whereas 31.30% had been to Wuhan and 71.80% had contacted with people from Wuhan. Fever (87.9%) and cough (67.7%) were the most common symptoms. Diarrhea is uncommon. The median incubation period was 3.0 days (range, 0 to 24.0 days). On admission, ground-glass opacity was the typical radiological finding on chest computed tomography (50.00%). Significantly more severe cases were diagnosed by symptoms plus reverse-transcriptase polymerase-chain-reaction without abnormal radiological findings than non-severe cases (23.87% vs. 5.20%,\n                    <jats:italic>P</jats:italic>\n                    &lt;0.001). Lymphopenia was observed in 82.1% of patients. 55 patients (5.00%) were admitted to intensive care unit and 15 (1.36%) succumbed. Severe pneumonia was independently associated with either the admission to intensive care unit, mechanical ventilation, or death in multivariate competing-risk model (sub-distribution hazards ratio, 9.80; 95% confidence interval, 4.06 to 23.67).\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>The 2019-nCoV epidemic spreads rapidly by human-to-human transmission. Normal radiologic findings are present among some patients with 2019-nCoV infection. The disease severity (including oxygen saturation, respiratory rate, blood leukocyte/lymphocyte count and chest X-ray/CT manifestations) predict poor clinical outcomes.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.06.20020974",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2020-02-09T10:24:15Z",
+      "timestamp": 1581243855000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 583,
+    "title": [
+      "Clinical characteristics of 2019 novel coronavirus infection in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Wei-jie",
+        "family": "Guan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Zheng-yi",
+        "family": "Ni",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen-hua",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-quan",
+        "family": "Ou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian-xing",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hong",
+        "family": "Shan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-liang",
+        "family": "Lei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David S.C.",
+        "family": "Hui",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bin",
+        "family": "Du",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lan-juan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guang",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kwok-Yung",
+        "family": "Yuen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ru-chong",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun-li",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ping-yan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shi-yue",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jin-lin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zi-jing",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi-xiang",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ya-hua",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian-ming",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ji-yang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhong",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhi-jian",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shao-qin",
+        "family": "Qiu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chang-jiang",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shao-yong",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nan-shan",
+        "family": "Zhong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.9",
+        "unstructured": "WHO main website. https://www.who.int (accessed February 5th, 2020)"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.11",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. http://www.nhc.gov.cn (Assessed on February 6th, 2020)"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.13",
+        "unstructured": "New coronavirus pneumonia prevention and control program (2nd ed.) (in Chinese). 2020 (http://www.nhc.gov.cn/jkj/s3577/202001/c67cfe29ecf1470e8c7fc47d3b751e88.shtml). (accessed February 6th, 2020)"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.14",
+        "unstructured": "WHO. Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance. Jan 28, 2020. https://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected (accessed February 5th, 2020)"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Metlay JP , Waterer GW , Long AC , et al. Diagnosis and treatment of adults with community-acquired pneumonia: An official clinical practice guideline of the American Thoracic Society and Infectious Disease Society of America. Am J Respir Crit Care Med. 2019; 200:e45-e67",
+        "DOI": "10.1164/rccm.201908-1581ST"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.16",
+        "unstructured": "Laboratory diagnostics for novel coronavirus. WHO 2020 (https://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus) (accessed February 6th, 2020)"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "394",
+        "DOI": "10.1111/ina.12445",
+        "article-title": "Routes of transmission of influenza A H1N1, SARS CoV, and norovirus in air cabin: Comparative analyses",
+        "volume": "28",
+        "year": "2018",
+        "journal-title": "Indoor Air"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2015.08.027"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(15)60454-8"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.gastro.2003.08.001"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1306742"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1186/s12985-015-0448-4",
+        "article-title": "Prevalence of gastrointestinal symptoms in patients with influenza, clinical significance, and pathophysiology of human influenza viruses in faecal samples: what do we know?",
+        "volume": "12",
+        "year": "2015",
+        "journal-title": "Virol J"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.23",
+        "unstructured": "World Health Organization . Novel Coronavirus (2019-nCoV) situation reports. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/ (Assessed on February 6th, 2020)"
+      },
+      {
+        "key": "2020110612500785000_2020.02.06.20020974v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2019.02752"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.06.20020974",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:46Z",
+      "timestamp": 1768484026000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.06.20020974"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "references-count": 24,
+    "URL": "https://doi.org/10.1101/2020.02.06.20020974",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1056/NEJMoa2002032",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

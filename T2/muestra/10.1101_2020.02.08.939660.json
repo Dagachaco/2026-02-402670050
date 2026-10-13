@@ -1,0 +1,272 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:53:18Z",
+      "timestamp": 1768488798003,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              14
+            ]
+          ],
+          "date-time": "2020-02-14T00:00:00Z",
+          "timestamp": 1581638400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "abstract": "<jats:p>In numerous instances, tracking the biological significance of a nucleic acid sequence can be augmented through the identification of environmental niches in which the sequence of interest is present. Many metagenomic datasets are now available, with deep sequencing of samples from diverse biological niches. While any individual metagenomic dataset can be readily queried using web-based tools, meta-searches through all such datasets are less accessible. In this brief communication, we demonstrate such a meta-meta-genomic approach, examining close matches to the Wuhan coronavirus 2019-nCoV in all high-throughput sequencing datasets in the NCBI Sequence Read Archive accessible with the keyword \"virome\". In addition to the homology to bat coronaviruses observed in descriptions of the 2019-nCoV sequence (F. Wu et al. 2020, Nature, doi.org/10.1038/s41586-020-2008-3; P. Zhou et al. 2020, Nature, doi.org/10.1038/s41586-020-2012-7), we note a strong homology to numerous sequence reads in a metavirome dataset generated from the lungs of deceased Pangolins reported by Liu et al. (Viruses 11:11, 2019, http://doi.org/10.3390/v11110979). Our observations are relevant to discussions of the derivation of 2019-nCoV and illustrate the utility and limitations of meta-metagenomic search tools in effective and rapid characterization of potentially significant nucleic acid sequences.</jats:p>",
+    "DOI": "10.1101/2020.02.08.939660",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2020-02-15T01:24:21Z",
+      "timestamp": 1581729861000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Identification of a pangolin niche for a 2019-nCoV-like coronavirus through an extensive meta-metagenomic search"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Lamia",
+        "family": "Wahba",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Nimit",
+        "family": "Jain",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew Z",
+        "family": "Fire",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3278-296X",
+        "authenticated-orcid": false,
+        "given": "Massa J",
+        "family": "Shoura",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Karen L",
+        "family": "Artiles",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Matthew J",
+        "family": "McCoy",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dae Eun",
+        "family": "Jeong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v11110979"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-virology-110615-042301"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.273.5280.1380"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2018.03165"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bts280"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12859-019-2949-4"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bib/bbs017"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40168-018-0554-9"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.11",
+        "first-page": "11",
+        "article-title": "Viral Metagenomics Revealed Sendai Virus and Coronavirus Infection of Malayan Pangolins (Manis javanica)",
+        "volume": "11",
+        "year": "2019",
+        "journal-title": "Viruses"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.07.939207:2020.02.07.939207"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-virology-110615-042301"
+      },
+      {
+        "key": "2020021804051154000_2020.02.08.939660v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "104212",
+        "DOI": "10.1016/j.meegid.2020.104212",
+        "article-title": "Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event",
+        "volume": "79",
+        "year": "2020",
+        "journal-title": "Infection, Genetics and Evolution"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.939660",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:35Z",
+      "timestamp": 1768435235000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.08.939660"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.08.939660",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

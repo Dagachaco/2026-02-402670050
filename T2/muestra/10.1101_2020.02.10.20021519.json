@@ -1,0 +1,204 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:00Z",
+      "timestamp": 1768549200284,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 12,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Chinese government has taken strong measures in response to the epidemic of new coronavirus (2019-nCoV) from Jan.23, 2020. The number of confirmed infected individuals are still increasing rapidly. Estimating the accurate infected population and the future trend of epidemic spreading under control measures is significant and urgent. There have been reports external icon of spread from an infected patient with no symptoms to a close contact, which means the incubation individuals may has the possibility of infectiousness. However, the traditional transmission model, Susceptible-Exposed-Infectious-Recovered (SEIR) model, assumes that the exposed individual is being infected but without infectiousness. Thus, the estimating infected populations based on SEIR model from the existing literatures seems too far more than the official reported data.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Here, we inferred that the epidemic could be spread by exposed (incubation) individuals. Then, we provide a new Exposed-identified-Recovered (EIR) model, and simulated the epidemic spreading processes from free propagation phase to extremely control phase. Then, we estimate of the size of the epidemic and forecast the future development of the epidemics under strong prevention interventions. According to the spread characters of 2019-nCov, we construct a novel EIR compartment system dynamics model. This model integrates two phases of the epidemic spreading: before intervention and after intervention. We assume that 2019-nCov is firstly spread without intervention then the government started to take strong quarantine measures. Use the latest reported data from National Health Commission of the People\u2019s Republic of China, we estimate the basic parameters of the model and the basic reproduction number of 2019-nCov. Then, based on this model, we simulate the future spread of the epidemics. Both the infected population and the spreading trend of 2019-nCov under different prevention policy scenarios are estimated. The epidemic spreading trends under different quarantine rate and action starting date of prevention policy are simulated and compared.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>In our baseline scenario, the government has taken strict prevention actions, and the estimate numbers fit the official numbers very well. Simulation results tells that, if the prevention measures are relaxed or the action starting date of prevention measures is later than Jan. 23, 2020, the peak of identified individuals would be greatly increased, and the elimination date also would be delayed. We estimate the reproductive number for 2019-nCoV was 2.7. And simulation of the baseline scenario tells that, the peak infected individuals will be 49093 at Feb.16, 2020 and the epidemic spreading will be eliminated at the end of March 2020. The simulation results also tell that the quarantine rate and the starting date of intervention action policy have great effect on the epidemic spreading. Specifically, if the quarantine rate is reduced from 100% to less than 63%, which is the threshold of the quarantine rate to control the epidemic spreading, the epidemic spreading would never be eliminated out. And, if the starting date of intervention is delayed for 1 day than the date Jan. 23, the peak infected population will increase about 6351 individuals. If the delayed period is 3 days or 7 days, the increasing number would be 21621 or 65929 individuals, thus the peak infected number would up to 70714 and 115022 individuals.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>Given that 2019-nCoV could be controlled under the strong prevention measures of what China has taken and it will take about three months. The confirmed infected individuals will still keep quick increasing for a generation period (27 days, equal to the sum of exposed period and identified period) after the start time point of control. The strong prevention measures should be insisted until the epidemics is wiped out. Other domestic places and overseas have confirmed infected individuals should take strong interventions immediately. Generally, earlier strong prevention measures could efficiently mitigate the outbreaks in other cities all over the world has confirmed individuals of epidemic of 2019-nCoV.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.10.20021519",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T09:35:12Z",
+      "timestamp": 1581500112000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Simulating the infected population and spread trend of 2019-nCov under different policy by EIR model"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2082-0087",
+        "authenticated-orcid": false,
+        "given": "Hao",
+        "family": "Xiong",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2262-1508",
+        "authenticated-orcid": false,
+        "given": "Huili",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.1",
+        "unstructured": "Li, Q. , et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine, 2020."
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.2",
+        "unstructured": "Koenig, K. , C.K. Bey and E.C. McDonald , 2019-nCoV: The Identify-Isolate-Inform (3I) Tool Applied to a Novel Emerging Coronavirus. Western Journal of Emergency Medicine: Integrating Emergency Care with Population Health, 2020."
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.3",
+        "unstructured": "Huang, C. , et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, 2020."
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, J.T. , K. Leung and G.M. Leung , Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet, 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read, J.M. , et al., Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv, 2020.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.6",
+        "unstructured": "Centers for Disease Control and Prevention. 2019 Coronavirus, Wuhan, China. Available at: https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html. Accessed January 24, 2020."
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.7",
+        "unstructured": "Wuhan Municipal Health Commission. Updated Interpretation of experts about the Novel Emerging atypical pneumonia. Available at: http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036"
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bogoch, I.I. , et al., Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. Journal of Travel Medicine, 2020.",
+        "DOI": "10.1093/jtm/taaa008"
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.9",
+        "article-title": "Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV",
+        "year": "2020",
+        "journal-title": "arXiv preprint"
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.10",
+        "unstructured": "Zhao, S. , et al., Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases, 2020."
+      },
+      {
+        "key": "2020110611250693000_2020.02.10.20021519v1.11",
+        "unstructured": "Imai, N. , et al., Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. 2020."
+      },
+      {
+        "issue": "2",
+        "key": "2020110611250693000_2020.02.10.20021519v1.12",
+        "first-page": "89",
+        "article-title": "Improving the evidence base for decision making during a pandemic: the example of 2009 influenza A/H1N1",
+        "volume": "9",
+        "year": "2011",
+        "journal-title": "Biosecurity and bioterrorism: biodefense strategy, practice, and science"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.10.20021519",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:49Z",
+      "timestamp": 1768484029000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.10.20021519"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 12,
+    "URL": "https://doi.org/10.1101/2020.02.10.20021519",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:31:42Z",
+      "timestamp": 1768545102146,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 25,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract and Findings</jats:title>\n                <jats:p>\n                  Confirmed infection cases in mainland China were analyzed using the data up to January 28, 2020 (first\n                  <jats:bold>13 days</jats:bold>\n                  of reliable confirmed cases). In addition, all available data up to February 3 were processed the same way. For the first period the cumulative number of cases followed an exponential function. However, from January 28, we discerned a downward deviation from the exponential growth. This slower-than-exponential growth was also confirmed by a steady decline of the effective reproduction number. A backtrend analysis suggested the original basic reproduction number\n                  <jats:italic>\n                    R\n                    <jats:sub>0</jats:sub>\n                  </jats:italic>\n                  to be about 2.4 \u2013 2.5. We used a simple logistic growth model that fitted very well with\n                  <jats:bold>\n                    <jats:italic>all</jats:italic>\n                    data\n                  </jats:bold>\n                  reported until the time of writing. Using this model and the first set of data, we estimate that\n                  <jats:bold>the maximum cases</jats:bold>\n                  will be about 21,000 reaching this level in mid-February. Using all available data the maximum number of cases is somewhat higher at 29,000 but its dynamics does not change. These predictions do not account for any possible other secondary sources of infection.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.04.20020461",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T18:45:14Z",
+      "timestamp": 1580928314000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "title": [
+      "Forecasting the Wuhan coronavirus (2019-nCoV) epidemics using a simple (simplistic) model"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3708-0262",
+        "authenticated-orcid": false,
+        "given": "Slav W.",
+        "family": "Hermanowicz",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/37.3-4.193"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40249-017-0288-0"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.19.911669"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/4590706"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.6",
+        "unstructured": "Imai, N. , Cori, A. , Dorigatti, I. , Baguelin, M. , Donnelly, C. , Riley, S. , & Ferguson, N. M. (2020). Report 3: Transmissibility of 2019-nCoV Retrieved from London, UK: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-2019-nCoV-transmissibility.pdf"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.7",
+        "unstructured": "Imai, N. , Dorigatti, I. , Cori, A. , Donnelly, C. , Riley, S. , & Ferguson, N. M. (2020). Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China Retrieved from London, UK: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.8",
+        "unstructured": "Imai, N. , Dorigatti, I. , Cori, A. , Riley, S. , & Ferguson, N. M. (2020). Report 1: Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China Retrieved from London, UK: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-17-01-2020.pdf"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jowett, D. , Browning, J. A. , & Haning, B. C. (1974). NONLINEAR DISEASE PROGRESS CURVES.",
+        "DOI": "10.1007/978-3-642-96220-2_6"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.publhealth.25.102802.124353"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.26.20018754"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.25.919787"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Majumder, M. , & Mandl, K. D. (2020). Early Transmissibility Assessment of a Novel Coronavirus in Wuhan, China (January 26, 2020). SSRN. doi:http://dx.doi.org/10.2139/ssrn.3524675",
+        "DOI": "10.2139/ssrn.3524675"
+      },
+      {
+        "issue": "2",
+        "key": "2020110509150758000_2020.02.04.20020461v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "332",
+        "DOI": "10.1111/j.2517-6161.1960.tb00379.x",
+        "article-title": "THE LOGISTIC PROCESS - TABLES OF THE STOCHASTIC EPIDEMIC CURVE AND APPLICATIONS",
+        "volume": "22",
+        "year": "1960",
+        "journal-title": "Journal of the Royal Statistical Society Series B-Statistical Methodology"
+      },
+      {
+        "issue": "2",
+        "key": "2020110509150758000_2020.02.04.20020461v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.3390/jcm9020330",
+        "article-title": "The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Journal of Clinical Medicine"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.916726"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.phyto.38.1.71"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "issue": "3",
+        "key": "2020110509150758000_2020.02.04.20020461v1.21",
+        "first-page": "2000044",
+        "article-title": "Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.25.919688"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.25.919688"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.916395"
+      },
+      {
+        "key": "2020110509150758000_2020.02.04.20020461v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.04.20020461",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:43Z",
+      "timestamp": 1768484023000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.04.20020461"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 25,
+    "URL": "https://doi.org/10.1101/2020.02.04.20020461",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

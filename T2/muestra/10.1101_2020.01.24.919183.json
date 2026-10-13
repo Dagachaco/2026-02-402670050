@@ -1,0 +1,473 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T11:48:12Z",
+      "timestamp": 1773920892174,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          25
+        ]
+      ]
+    },
+    "group-title": "Pathology",
+    "reference-count": 37,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              25
+            ]
+          ],
+          "date-time": "2020-01-25T00:00:00Z",
+          "timestamp": 1579910400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                  Emerging and re-emerging infectious diseases, such as SARS, MERS, Zika and highly pathogenic influenza present a major threat to public health\n                  <jats:sup>1\u20133</jats:sup>\n                  . Despite intense research effort, how, when and where novel diseases appear are still the source of considerable uncertainly. A severe respiratory disease was recently reported in the city of Wuhan, Hubei province, China. At the time of writing, at least 62 suspected cases have been reported since the first patient was hospitalized on December 12\n                  <jats:sup>nd</jats:sup>\n                  2019. Epidemiological investigation by the local Center for Disease Control and Prevention (CDC) suggested that the outbreak was associated with a sea food market in Wuhan. We studied seven patients who were workers at the market, and collected bronchoalveolar lavage fluid (BALF) from one patient who exhibited a severe respiratory syndrome including fever, dizziness and cough, and who was admitted to Wuhan Central Hospital on December 26\n                  <jats:sup>th</jats:sup>\n                  2019. Next generation metagenomic RNA sequencing\n                  <jats:sup>4</jats:sup>\n                  identified a novel RNA virus from the family\n                  <jats:italic>Coronaviridae</jats:italic>\n                  designed WH-Human-1 coronavirus (WHCV).\n                </jats:p>\n                <jats:p>\n                  Phylogenetic analysis of the complete viral genome (29,903 nucleotides) revealed that WHCV was most closely related (89.1% nucleotide similarity similarity) to a group of Severe Acute Respiratory Syndrome (SARS)-like coronaviruses (genus\n                  <jats:italic>Betacoronavirus</jats:italic>\n                  , subgenus\n                  <jats:italic>Sarbecovirus</jats:italic>\n                  ) previously sampled from bats in China and that have a history of genomic recombination. This outbreak highlights the ongoing capacity of viral spill-over from animals to cause severe disease in humans.\n                </jats:p>",
+    "DOI": "10.1101/2020.01.24.919183",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2020-01-26T02:15:12Z",
+      "timestamp": 1580004912000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 90,
+    "title": [
+      "Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Fan",
+        "family": "Wu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Su",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bin",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan-Mei",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhi-Gang",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhao-Wu",
+        "family": "Tao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jun-Hua",
+        "family": "Tian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuan-Yuan",
+        "family": "Pei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ming-Li",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu-Ling",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fa-Hui",
+        "family": "Dai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qi-Min",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiao-Jiao",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Edward C.",
+        "family": "Holmes",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong-Zhen",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature05775"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(16)00006-4"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature20167"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-018-0012-7"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2505.181076"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1023",
+        "DOI": "10.1016/S1473-3099(19)30291-9",
+        "article-title": "Characterisation of infectious Ebola virus from the ongoing outbreak to guide response activities in the Democratic Republic of the Congo: a phylogenetic and in vitro analysis",
+        "volume": "19",
+        "year": "2019",
+        "journal-title": "Lancet. Infect. Dis"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv033"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.virol.2014.10.017",
+        "article-title": "Discovery, diversity and evolution of novel coronaviruses sampled from rodents in China",
+        "volume": "474",
+        "year": "2015",
+        "journal-title": "Virology"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1006698"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01085-07"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1809667116"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02582-15"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btq467"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm.3985"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.18",
+        "first-page": "20290",
+        "article-title": "Severe respiratory illness caused by a novel coronavirus, in a patient transferred to the United Kingdom from the Middle East, September 2012",
+        "volume": "17",
+        "year": "2012",
+        "journal-title": "Euro. Surveill"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3181/00379727-121-30734"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.58.6.2268"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1024"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.79.2.884-895.2005"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1118391"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0506735102"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.25",
+        "first-page": "e00764",
+        "article-title": "Discovery of a highly divergent coronavirus in the Asian house shrew from China illuminates the origin of the Alphacoronaviruses",
+        "volume": "91",
+        "year": "2017",
+        "journal-title": "J. Virol"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btu170"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nbt.1883"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btp692"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.1923"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.30",
+        "first-page": "2978",
+        "article-title": "The Sequence Alignment/Map format and SAMtools",
+        "volume": "15",
+        "year": "2009",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mst010"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1093/sysbio/syq010",
+        "article-title": "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0",
+        "volume": "59",
+        "year": "2010",
+        "journal-title": "Syst.Biol"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msr121"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.34",
+        "doi-asserted-by": "crossref",
+        "first-page": "152",
+        "DOI": "10.1128/JVI.73.1.152-160.1999",
+        "article-title": "Full-length human immunodeficiency virus type 1 genomes from subtype C-infected seroconverters in India, with evidence of intersubtype recombination",
+        "volume": "73",
+        "year": "1999",
+        "journal-title": "J. Virol"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh340"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky427"
+      },
+      {
+        "key": "2024080322293567000_2020.01.24.919183v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M603275200"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.24.919183",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:24Z",
+      "timestamp": 1768435044000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.24.919183"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          25
+        ]
+      ]
+    },
+    "references-count": 37,
+    "URL": "https://doi.org/10.1101/2020.01.24.919183",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          14
+        ]
+      ],
+      "date-time": "2026-04-14T14:14:51Z",
+      "timestamp": 1776176091795,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The outbreak of novel coronavirus pneumonia (NCP) caused by 2019-nCoV spread rapidly, and elucidating the diagnostic accuracy of different respiratory specimens is crucial for the control and treatment of this disease.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Respiratory samples including nasal swabs, throat swabs, sputum and bronchoalveolar lavage fluid (BALF) were collected from Guangdong CDC confirmed NCP patients, and viral RNAs were detected using a CFDA approved detection kit. Results were analyzed in combination with sample collection date and clinical information.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>Except for BALF, the sputum possessed the highest positive rate (74.4%\u223c88.9%), followed by nasal swabs (53.6%\u223c73.3%) for both severe and mild cases during the first 14 days after illness onset (d.a.o). For samples collected \u2265 15 d.a.o, sputum and nasal swabs still possessed a high positive rate ranging from 42.9%\u223c61.1%. The positive rate of throat swabs collected \u2265 8 d.a.o was low, especially in samples from mild cases. Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of cases 02, 07 and 13 showed typical viral pneumonia with ground-glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs. Detection of viral RNAs in BLAF is necessary for diagnosis and monitoring of viruses in severe cases. CT scan could serve as an important make up for the diagnosis of NCP.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>National Science and Technology Major Project, Sanming Project of Medicine and China Postdoctoral Science Foundation.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.11.20021493",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T09:35:10Z",
+      "timestamp": 1581500110000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 321,
+    "title": [
+      "Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yang",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Minghui",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chenguang",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fuxiang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinxiu",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mingxia",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhaoqin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Xing",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinli",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ling",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gary",
+        "family": "Wong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haixia",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weibo",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mingfeng",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kai",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianming",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qianting",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Juanjuan",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zheng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yingxia",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothe C , Schunk M , Sothmann P , et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Phan LT , Nguyen TV , Luong QC , et al. Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holshue ML , DeBolt C , Lindquist S , et al. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.5",
+        "unstructured": "China NHCotPsRo. Daily briefing on novel coronavirus cases in China. 2020. http://en.nhc.gov.cn/2020-02/05/c_76219.htm (accessed Feb. 05 2020)."
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.6",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.7",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020."
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "issue": "3",
+        "key": "2020110614350504000_2020.02.11.20021493v2.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1016/j.jinf.2019.01.005",
+        "article-title": "Comparison between human infections caused by highly and low pathogenic H7N9 avian influenza viruses in Wave Five: Clinical and virological findings",
+        "volume": "78",
+        "year": "2019",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bi Y , Tan S , Yang Y , et al. Clinical and immunological characteristics of human infections with H5N6 avian influenza virus. Clin Infect Dis 2018.",
+        "DOI": "10.1093/cid/ciy681"
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.11",
+        "unstructured": "Zhou P , Yang X-L , Wang X-G , et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020."
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lei J , Li J , Li X , Qi X. CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology 2020: 200236.",
+        "DOI": "10.1148/radiol.2020200236"
+      },
+      {
+        "key": "2020110614350504000_2020.02.11.20021493v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu F , Zhao S , Yu B , et al. A new coronavirus associated with human respiratory disease in China. Nature 2020.",
+        "DOI": "10.1038/s41586-020-2008-3"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.11.20021493",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:51Z",
+      "timestamp": 1768484031000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.11.20021493"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.11.20021493",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.xinn.2020.100061",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

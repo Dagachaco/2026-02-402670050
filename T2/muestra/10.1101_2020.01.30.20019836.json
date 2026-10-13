@@ -1,0 +1,220 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2026-03-06T00:28:42Z",
+      "timestamp": 1772756922756,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objectives</jats:title>\n                  <jats:p>Latest epidemic data of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infected Pneumonia (COVID-19) was collected and a detailed statistical analysis was carried out to make comparison with 2003-SARS in order to provide scientific reference for the prevention and control of COVID-19.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>The information of COVID-19 and 2003-SARS from websites of NHCPRC and the World Health Organization was collected, and then the transmission dynamics of the two kinds of infectious diseases were analyzed. The information of 853 confirmed COVID-19 patients obtained from the website of health committees of 18 provinces. A descriptive epidemiological analysis method was employed to carefully analyze the epidemic characteristics. Subsequently, the COVID-19 epidemic data in Wuhan and other inland regions of China was analyzed separately and compared. A multivariate function model was constructed based on the confirmed COVID-19 case data.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The growth rate of new cases and deaths of COVID-19 were significantly faster than those of 2003-SARS. The number of confirmed cases in Wuhan and other inland areas both showed increasing trends. 853 confirmed COVID-19 cases aged 1 months to 94 years and the average age was (45.05 \u00b1 17.22) years. The gender ratio (M: F) was 1.12: 1.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>The fatality rate of COVID-19 is lower than that of 2003-SARS and the cure rate is higher. The age of COVID-19 patients is mainly concentrated in the 30-50 years old (60.61%). The harm of the first-generation COVID-19 patients is higher than that of secondary cases.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.30.20019836",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2020-02-02T11:29:15Z",
+      "timestamp": 1580642955000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Transmission and epidemiological characteristics of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infected Pneumonia (COVID-19): preliminary evidence obtained in comparison with 2003-SARS"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Rongqiang",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Hui",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fengying",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bei",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiling",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiangwen",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Limei",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.1",
+        "unstructured": "WHO. Novel Coronavirus (2019-nCoV) SITUATION REPORT - 5 25 JANUARY 2020. Available at: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200125-sitrep-5-2019-ncov.pdf?sfvrsn=429b143d_4. 2020."
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.2",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China, Update on pneumonia outbreak of new coronavirus infection. 28th January, 2020. Available at: http://www.nhc.gov.cn/xcs/yqtb/202001/1c259a68d81d40abb939a0781c1fe237.shtml."
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.3",
+        "unstructured": "Qun Li , Xuhua Guan , Peng Wu , etc. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med, 2020 Jan 29[Online ahead of print]."
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4238/2015.December.1.15"
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2017.03.022"
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.7",
+        "unstructured": "World Health Organization. SARS (Severe Acute Respiratory Syndrome). 2019. accessed 25th January, 2020 https://www.who.int/ith/diseases/sars/en/."
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2021010305200469000_2020.01.30.20019836v4.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2017.03.022"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.30.20019836",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:38Z",
+      "timestamp": 1768484018000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.30.20019836"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.01.30.20019836",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

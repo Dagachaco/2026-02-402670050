@@ -1,0 +1,231 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2026-02-08T00:50:05Z",
+      "timestamp": 1770511805047,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 18,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The novel coronavirus (COVID-19), first detected in Wuhan, China in December 2019, has spread to 28 countries/regions with over 43,000 confirmed cases. Much about this outbreak is still unknown. At this early stage of the epidemic, it is important to investigate alternative sources of information to understand its dynamics and spread. With updated real time domestic traffic, this study aims to integrate recent evidence of international evacuees extracted from Wuhan between Jan. 29 and Feb. 2, 2020 to infer the dynamics of the COVD-19 outbreak in Wuhan. In addition, a modified SEIR model was used to evaluate the empirical support for the presence of asymptomatic transmissions. Based on the data examined, this study found little evidence for the presence of asymptomatic transmissions. However, it is still too early to rule out its presence conclusively due to sample size and other limitations. The updated basic reproductive number was found to be 2.12 on average with a 95% credible interval of [2.04, 2.18]. It is smaller than previous estimates probably because the new estimate factors in the social and non-pharmaceutical mitigation implemented in Wuhan through the evacuee dataset. Detailed predictions of infected individuals exported both domestically and internationally were produced. The estimated case confirmation rate has been low but has increased steadily to 23.37% on average. The findings of this study depend on the validity of the underlying assumptions, and continuing work is needed, especially in monitoring the current infection status of Wuhan residents.</jats:p>",
+    "DOI": "10.1101/2020.02.15.20023440",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T23:15:24Z",
+      "timestamp": 1582067724000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 33,
+    "title": [
+      "Evaluating new evidence in the early dynamics of the novel coronavirus COVID-19 outbreak in Wuhan, China with real time domestic traffic and potential asymptomatic transmissions"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4533-5333",
+        "authenticated-orcid": false,
+        "given": "Can",
+        "family": "Zhou",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(20)30067-0"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan, J. F.-W. , Yuan, S. , Kok, K.-H. , To, K. K.-W. , Chu, H. , Yang, J. , \u2026 Poon, R. W.- S. (2020). A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2501.171901"
+      },
+      {
+        "issue": "6",
+        "key": "2020110808250628000_2020.02.15.20023440v2.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "997",
+        "DOI": "10.1007/s11222-013-9416-2",
+        "article-title": "Understanding predictive information criteria for Bayesian models",
+        "volume": "24",
+        "year": "2014",
+        "journal-title": "Statistics and Computing"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, Q. , Guan, X. , Wu, P. , Wang, X. , Zhou, L. , Tong, Y. , \u2026 Wong, J. Y. (2020). Early transmission dynamics in Wuhan, China, of novel coronavirus\u2013infected pneumonia. New England Journal of Medicine.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.7",
+        "unstructured": "Nishiura, H. , Jung, S.-m. , Linton, N. M. , Kinoshita, R. , Yang, Y. , Hayashi, K. , \u2026 Akhmetzhanov, A. R. (2020). The extent of transmission of novel coronavirus in Wuhan, China, 2020. In: Multidisciplinary Digital Publishing Institute."
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.8",
+        "unstructured": "Nishiura, H. , Kobayashi, T. , Yang, Y. , Hayashi, K. , Miyama, T. , Kinoshita, R. , \u2026 Suzuki, A. (2020). The Rate of Underascertainment of Novel Coronavirus (2019- nCoV) Infection: Estimation Using Japanese Passengers Data on Evacuation Flights. In: Multidisciplinary Digital Publishing Institute."
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.9",
+        "unstructured": "Petzold, L. , & Hindmarsh, A. (1997). LSODA (Livermore solver of ordinary differential equations). Computing and Mathematics Research Division, Lawrence Livermore National Laboratory, Livermore, CA, 24."
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Phan, L. T. , Nguyen, T. V. , Luong, Q. C. , Nguyen, T. V. , Nguyen, H. T. , Le, H. Q. , \u2026 Pham, Q. D. (2020). Importation and human-to-human transmission of a novel coronavirus in Vietnam. New England Journal of Medicine.",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.11",
+        "unstructured": "R Development Core Team. (2016). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing. Retrieved from http://www.R-project.org"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read, J. M. , Bridgen, J. R. , Cummings, D. A. , Ho, A. , & Jewell, C. P. (2020). Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.13",
+        "unstructured": "Rossum, G. (1995). Python reference manual."
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothe, C. , Schunk, M. , Sothmann, P. , Bretzel, G. , Froeschl, G. , Wallrauch, C. , \u2026 Guggemos, W. (2020). Transmission of 2019-nCoV infection from an asymptomatic contact in Germany. New England Journal of Medicine.",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.15",
+        "unstructured": "World Health Organization. (2020). Novel Coronavirus (2019-nCoV): situation report, 3."
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, J. T. , Leung, K. , & Leung, G. M. (2020). Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.17",
+        "unstructured": "Xinhua News Agency. (2020). 2020 Chunyun started with 3 trillion people-times traffic. Retrieved from http://www.xinhuanet.com/fortune/2020-01/10/c_1125444131.htm"
+      },
+      {
+        "key": "2020110808250628000_2020.02.15.20023440v2.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao, S. , Lin, Q. , Ran, J. , Musa, S. S. , Yang, G. , Wang, W. , \u2026 He, D. (2020). Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases.",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.15.20023440",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:57Z",
+      "timestamp": 1768484037000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.15.20023440"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 18,
+    "URL": "https://doi.org/10.1101/2020.02.15.20023440",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

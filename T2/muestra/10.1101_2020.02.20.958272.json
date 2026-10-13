@@ -1,0 +1,473 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2026-04-23T04:17:13Z",
+      "timestamp": 1776917833118,
+      "version": "3.51.2"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "group-title": "Biophysics",
+    "reference-count": 46,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2020-02-21T00:00:00Z",
+          "timestamp": 1582243200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>The respiratory syndrome caused by a new type of coronavirus has been emerging from China and caused more than one million death globally since December 2019. This new virus, called severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) uses the same receptor called Angiotensin-converting enzyme 2 (ACE2) to attack humans as the coronavirus that caused the severe acute respiratory syndrome (SARS) seventeen years ago. Both viruses recognize ACE2 through the spike proteins (S-protein) on their surfaces. It was found that the S-protein from the SARS coronavirus (SARS-CoV) bind stronger to ACE2 than SARS-CoV-2. However, function of a bio-system is often under kinetic, rather than thermodynamic, control. To address this issue, we constructed a structural model for complex formed between ACE2 and the S-protein from SARS-CoV-2, so that the rate of their association can be estimated and compared with the binding of S-protein from SARS-CoV by a multiscale simulation method. Our simulation results suggest that the association of new virus to the receptor is slower than SARS, which is consistent with the experimental data obtained very recently. We further integrated this difference of association rate between virus and receptor into a mathematical model which describes the life cycle of virus in host cells and its interplay with the innate immune system. Interestingly, we found that the slower association between virus and receptor can result in longer incubation period, while still maintaining a relatively higher level of viral concentration in human body. Our computational study therefore provides, from the molecular level, one possible explanation that this new pandemic by far spread much faster than SARS.</jats:p>",
+    "DOI": "10.1101/2020.02.20.958272",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2020-02-21T18:35:18Z",
+      "timestamp": 1582310118000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "A Multiscale and Comparative Model for Receptor Binding of 2019 Novel Coronavirus and the Implication of its Life Cycle in Host Cells"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhaoqian",
+        "family": "Su",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yinghao",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "issue": "10223",
+        "key": "2024080320584447000_2020.02.20.958272v2.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1016/S0140-6736(20)30183-5",
+        "article-title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+        "volume": "395",
+        "year": "2020",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "issue": "10223",
+        "key": "2024080320584447000_2020.02.20.958272v2.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "514",
+        "DOI": "10.1016/S0140-6736(20)30154-9",
+        "article-title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+        "volume": "395",
+        "year": "2020",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "issue": "4",
+        "key": "2024080320584447000_2020.02.20.958272v2.3",
+        "first-page": "P7",
+        "article-title": "Novel Wuhan (2019-nCoV) Coronavirus",
+        "volume": "201",
+        "year": "2020",
+        "journal-title": "American journal of respiratory and critical care medicine"
+      },
+      {
+        "issue": "10221",
+        "key": "2024080320584447000_2020.02.20.958272v2.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1016/S0140-6736(20)30186-0",
+        "article-title": "Emerging understandings of 2019-nCoV",
+        "volume": "395",
+        "year": "2020",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.6",
+        "unstructured": "Lu, R. , et al., Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet (London, England), 2020: p. S0140-6736(20)30251\u20138."
+      },
+      {
+        "issue": "5",
+        "key": "2024080320584447000_2020.02.20.958272v2.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.3390/v11050455",
+        "article-title": "Characteristics of the Life Cycle of Porcine Deltacoronavirus (PDCoV) In Vitro: Replication Kinetics, Cellular Ultrastructure and Virion Morphology, and Evidence of Inducing Autophagy",
+        "volume": "11",
+        "year": "2019",
+        "journal-title": "Viruses"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.20095"
+      },
+      {
+        "issue": "2",
+        "key": "2024080320584447000_2020.02.20.958272v2.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.15171/ijoem.2020.1921",
+        "article-title": "The Novel Coronavirus: A Bird\u2019s Eye View",
+        "volume": "11",
+        "year": "2020",
+        "journal-title": "The international journal of occupational and environmental medicine"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25711"
+      },
+      {
+        "issue": "2",
+        "key": "2024080320584447000_2020.02.20.958272v2.11",
+        "first-page": "139",
+        "article-title": "Special Expert Group for Control of the Epidemic of Novel Coronavirus Pneumonia of the Chinese Preventive Medicine, A., An update on the epidemiological characteristics of novel coronavirus pneumonia (COVID-19)",
+        "volume": "41",
+        "year": "2020",
+        "journal-title": "Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp2002125"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25707"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/viro.2000.0757"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v4061011"
+      },
+      {
+        "issue": "1",
+        "key": "2024080320584447000_2020.02.20.958272v2.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1146/annurev-virology-110615-042301",
+        "article-title": "Structure, Function, and Evolution of Coronavirus Spike Proteins",
+        "volume": "3",
+        "year": "2016",
+        "journal-title": "Annual review of virology"
+      },
+      {
+        "issue": "5742",
+        "key": "2024080320584447000_2020.02.20.958272v2.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1864",
+        "DOI": "10.1126/science.1116480",
+        "article-title": "Structure of SARS coronavirus spike receptor-binding domain complexed with receptor",
+        "volume": "309",
+        "year": "2005",
+        "journal-title": "Science (New York, N.Y.)"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro2090"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bti431"
+      },
+      {
+        "issue": "1",
+        "key": "2024080320584447000_2020.02.20.958272v2.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1049/sb:20045017",
+        "article-title": "SmartCell, a framework to simulate cellular processes that combines stochastic approximation with diffusion and localisation: analysis of simple networks",
+        "volume": "1",
+        "year": "2004",
+        "journal-title": "Syst Biol (Stevenage)"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btl271"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1011354107"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "McGuffee, S.R. and A.H. Elcock , Diffusion, Crowding & Protein Stability in a Dynamic Molecular Model of the Bacterial Cytoplasm. Plos Computational Biology, 2010. 6(3).",
+        "DOI": "10.1371/journal.pcbi.1000694"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.physchem.59.032607.093537"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2015.01.027"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wrapp, D. , et al., Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science (New York, N.Y.), 2020: p. eabb2507.",
+        "DOI": "10.1101/2020.02.11.944462"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0959-440X(02)00311-1"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0033583510000120"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0966-842X(99)01487-0"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.immuni.2011.05.003"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2013.02.054"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbamcr.2012.03.005"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbamcr.2013.01.010"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.35",
+        "unstructured": "Heymann, D.L. , et al., COVID-19: what is next for public health? Lancet (London, England), 2020: p. S0140-6736(20)30374\u20133."
+      },
+      {
+        "issue": "10223",
+        "key": "2024080320584447000_2020.02.20.958272v2.36",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1016/S0140-6736(20)30211-7",
+        "article-title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",
+        "volume": "395",
+        "year": "2020",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nprot.2010.5"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan, Y. , et al., Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. Journal of virology, 2020: p. JVI.00127\u201320.",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ci300579r"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.str.2011.04.006"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.42",
+        "doi-asserted-by": "crossref",
+        "first-page": "46622",
+        "DOI": "10.1038/srep46622",
+        "article-title": "Predicting Protein-protein Association Rates using Coarse-grained Simulation and Machine Learning",
+        "volume": "7",
+        "year": "2017",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "issue": "10",
+        "key": "2024080320584447000_2020.02.20.958272v2.43",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1005805",
+        "DOI": "10.1371/journal.pcbi.1005805",
+        "article-title": "General principles of binding between cell surface receptors and multi-specific ligands: A computational study",
+        "volume": "13",
+        "year": "2017",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "issue": "1",
+        "key": "2024080320584447000_2020.02.20.958272v2.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1039/C5MB00612K",
+        "article-title": "Elucidating the general principles of cell adhesion with a coarse-grained simulation model",
+        "volume": "12",
+        "year": "2016",
+        "journal-title": "Mol Biosyst"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "054112",
+        "DOI": "10.1063/1.4863992",
+        "article-title": "A coarse-grained model for the simulations of biomolecular interactions in cellular environments",
+        "volume": "140",
+        "year": "2014",
+        "journal-title": "Journal of Chemical Physics"
+      },
+      {
+        "key": "2024080320584447000_2020.02.20.958272v2.46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gillespie, D.T. , Stochastic simulation of chemical kinetics, in Annual Review of Physical Chemistry. 2007, Annual Reviews: Palo Alto. p. 35\u201355.",
+        "DOI": "10.1146/annurev.physchem.58.032806.104637"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.958272",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:02:47Z",
+      "timestamp": 1768435367000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.20.958272"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "references-count": 46,
+    "URL": "https://doi.org/10.1101/2020.02.20.958272",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

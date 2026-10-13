@@ -1,0 +1,393 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:31:27Z",
+      "timestamp": 1768545087815,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 38,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  A novel coronavirus (SARS-CoV-2) has recently emerged as a global threat. As the epidemic progresses, many disease modelers have focused on estimating the basic reproductive number\n                  <jats:italic>\u211b</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  \u2013 the average number of secondary cases caused by a primary case in an otherwise susceptible population. The modeling approaches and resulting estimates of\n                  <jats:italic>\u211b</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  vary widely, despite relying on similar data sources. Here, we present a novel statistical framework for comparing and combining different estimates of\n                  <jats:italic>\u211b</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  across a wide range of models by decomposing the basic reproductive number into three key quantities: the exponential growth rate\n                  <jats:italic>r</jats:italic>\n                  , the mean generation interval\n                  <jats:inline-formula>\n                    <jats:alternatives>\n                      <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"20019877v4_inline1.gif\"/>\n                    </jats:alternatives>\n                  </jats:inline-formula>\n                  , and the generation-interval dispersion\n                  <jats:italic>\u03ba</jats:italic>\n                  . We then apply our framework to early estimates of\n                  <jats:italic>\u211b</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  for the SARS-CoV-2 outbreak. We show that many early\n                  <jats:italic>\u211b</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  estimates are overly confident. Our results emphasize the importance of propagating uncertainties in all components of\n                  <jats:italic>\u211b</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  , including the shape of the generation-interval distribution, in efforts to estimate\n                  <jats:italic>\u211b</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  at the outset of an epidemic.\n                </jats:p>",
+    "DOI": "10.1101/2020.01.30.20019877",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2020-02-02T11:25:10Z",
+      "timestamp": 1580642710000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 33,
+    "title": [
+      "Reconciling early-outbreak estimates of the basic reproductive number and its uncertainty: framework and applications to the novel coronavirus (SARS-CoV-2) outbreak"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Sang Woo",
+        "family": "Park",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin M.",
+        "family": "Bolker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David",
+        "family": "Champredon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David J. D.",
+        "family": "Earn",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Joshua S.",
+        "family": "Weitz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bryan T.",
+        "family": "Grenfell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jonathan",
+        "family": "Dushoff",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anderson, R. M. and R. M. May (1991). Infectious diseases of humans: dynamics and control. Oxford university press.",
+        "DOI": "10.1093/oso/9780198545996.001.0001"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.2",
+        "unstructured": "Bedford, T. , R. Neher , J. Hadfield , E. Hodcroft , M. Ilcisin , and N. M\u00fcller (2020). Genomic analysis of nCoV spread. Situation report 2020-01-23. https://nextstrain.org/narratives/ncov/sit-rep/2020-01-23. Accessed 24, January, 2020."
+      },
+      {
+        "issue": "150",
+        "key": "2021010305050502000_2020.01.30.20019877v4.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "20180670",
+        "DOI": "10.1098/rsif.2018.0670",
+        "article-title": "Estimation in emerging epidemics: Biases and remedies",
+        "volume": "16",
+        "year": "2019",
+        "journal-title": "J R Soc Interface"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.4",
+        "unstructured": "Centers for Disease Control and Prevention (2020). 2019 Novel Coronavirus (2019-nCoV), Wuhan, China. https://www.cdc.gov/coronavirus/2019-ncov/summary.html. Accessed 29, January, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2015.2026"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00178324"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0600816103"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fisman, D. N. , T. S. Hauck , A. R. Tuite , and A. L. Greer (2013). An IDEA for short term outbreak projection: nearcasting using the basic reproduction number. PloS One 8 (12).",
+        "DOI": "10.1371/journal.pone.0083622"
+      },
+      {
+        "issue": "3",
+        "key": "2021010305050502000_2020.01.30.20019877v4.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "515",
+        "DOI": "10.1214/06-BA117A",
+        "article-title": "Prior distributions for variance parameters in hierarchical models (comment on article by Browne and Draper)",
+        "volume": "1",
+        "year": "2006",
+        "journal-title": "Bayesian analysis"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/ss/1177011136"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-5564(02)00111-6"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang, C. , Y. Wang , X. Li , L. Ren , J. Zhao , Y. Hu , L. Zhang , G. Fan , J. Xu , X. Gu , et al. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.13",
+        "unstructured": "Imai, N. , A. Cori , I. Dorigatti , M. Baguelin , C. A. Donelly , S. Riley , and N. M. Ferguson (2020). Report 3: Transmissibility of 2019-nCoV. https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-2019-nCoV-transmissibility.pdf. Accessed 26, January, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.14",
+        "unstructured": "Imai, N. , I. Dorigatti , A. Cori , C. A. Donelly , S. Riley , and N. M. Ferguson (2020). Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf. Accessed 3, February, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2015.0347"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, Q. , X. Guan , P. Wu , X. Wang , L. Zhou , Y. Tong , R. Ren , K. S. Leung , E. H. Lau , J. Y. Wong , et al. (2020). Early transmission dynamics in Wuhan, China, of novel coronavirus\u2013 infected pneumonia. N Engl J Med.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.17",
+        "unstructured": "Liu, T. , J. Hu , M. Kang , L. Lin , H. Zhong , J. Xiao , G. He , T. Song , Q. Huang , Z. Rong , A. Deng , W. Zeng , X. Tan , S. Zeng , Z. Zhu , J. Li , D. Wan , J. Lu , H. Deng , J. He , and W. Ma (2020). Transmission dynamics of 2019 novel coronavirus (2019-nCoV). https://www.biorxiv.org/content/10.1101/2020.01.25.919787v1. Accessed 27, January, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11538-013-9918-2"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11538-005-9047-7"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.20",
+        "unstructured": "Majumder, M. and K. D. Mandl (2020). Early transmissibility assessment of a novel coronavirus in Wuhan, China. https://papers.ssrn.com/sol3/papers.cfm?abstract id=3524675. Accessed 27, January, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1016/j.epidem.2018.12.002",
+        "article-title": "A practical generation-interval-based approach to inferring the strength of epidemics from their speed",
+        "volume": "27",
+        "year": "2019",
+        "journal-title": "Epidemics"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.22",
+        "unstructured": "Read, J. M. , J. R. Bridgen , D. A. Cummings , A. Ho , and C. P. Jewell (2020a). Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1. Accessed 26, January, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.23",
+        "unstructured": "Read, J. M. , J. R. Bridgen , D. A. Cummings , A. Ho , and C. P. Jewell (2020b). Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2. Accessed 5, February, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.24",
+        "unstructured": "Riou, J. and C. L. Althaus (2020a). Pattern of early human-to-human transmission of wuhan 2019-nCoV. https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1. Accessed 26, January, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000058"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00285-007-0112-8"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mbs.2006.10.010"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.epidem.2019.01.003",
+        "article-title": "Assessing reporting delays and the effective reproduction number: The Ebola epidemic in DRC, May 2018\u2013January 2019",
+        "volume": "26",
+        "year": "2019",
+        "journal-title": "Epidemics"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.jtbi.2016.08.016",
+        "article-title": "Stochasticity and the limits to confidence when estimating R >0 of Ebola and other emerging infectious diseases",
+        "volume": "408",
+        "year": "2016",
+        "journal-title": "J Theor Biol"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wearing, H. J. , P. Rohani , and M. J. Keeling (2005). Appropriate models for the management of infectious diseases. PLoS Med 2 (7).",
+        "DOI": "10.1371/journal.pmed.0020174"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.32",
+        "unstructured": "World Health Organization (2020a). Coronavirus disease 2019 (COVID-19) Situation Report - 38. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200227-sitrep-38-covid-19.pdf?sfvrsn=9f98940c 2. Accessed February 27, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.33",
+        "unstructured": "World Health Organization (2020b). Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases. https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-in-suspected-human-cases-20200117. Accessed February 4, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.34",
+        "unstructured": "World Health Organization (2020c). Novel Coronavirus (2019-nCoV) Situation Report \u22126. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200126-sitrep-6-2019-ncov.pdf?sfvrsn=beaeee0c 4. Accessed January 26, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.35",
+        "unstructured": "World Health Organization (2020d). Pneumonia of unknown cause \u2013 China. https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/. Accessed January 30, 2020."
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, J. T. , K. Leung , and G. M. Leung (2020). Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao, S. , Q. Lin , J. Ran , S. S. Musa , G. Yang , W. Wang , Y. Lou , D. Gao , L. Yang , D. He , et al. (2020). Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. Int J Infect Dis.",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2021010305050502000_2020.01.30.20019877v4.38",
+        "unstructured": "Zhao, S. , J. Ran , S. S. Musa , G. Yang , Y. Lou , D. Gao , L. Yang , and D. He (2020). Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. https://www.biorxiv.org/content/10.1101/2020.01.23.916395v1. Accessed 26, January, 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.30.20019877",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:38Z",
+      "timestamp": 1768484018000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.30.20019877"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 38,
+    "URL": "https://doi.org/10.1101/2020.01.30.20019877",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1098/rsif.2020.0144",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:08:16Z",
+      "timestamp": 1768547296214,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Backgrounds</jats:title>\n                  <jats:p>An ongoing outbreak of novel coronavirus pneumonia (Covid-19) hit Wuhan and hundreds of cities, 29 territories in global. We present a method for scale estimation in dynamic while most of the researchers used static parameters.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We use historical data and SEIR model for important parameters assumption. And according to the time line, we use dynamic parameters for infection topology network building. Also, the migration data is used for Non-Wuhan area estimation which can be cross validated for Wuhan model. All data are from public.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The estimated number of infections is 61,596 (95%CI: 58,344.02-64,847.98) by 25 Jan in Wuhan. And the estimation number of the imported cases from Wuhan of Guangzhou was 170 (95%CI: 161.27-179.26), infections scale in Guangzhou is 315 (95%CI: 109.20-520.79), while the imported cases is 168 and the infections scale is 339 published by authority.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Using dynamic network model and dynamic parameters for different time periods is an effective way for infections scale modeling.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.20.20023572",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T15:05:19Z",
+      "timestamp": 1582556719000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Novel Coronavirus 2019 (Covid-19) epidemic scale estimation: topological network-based infection dynamics model"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Keke",
+        "family": "Tang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yining",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meilian",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.1",
+        "first-page": "61",
+        "article-title": "A novel coronavirus genome identified in a cluster of pneumonia cases\u2014Wuhan, China 2019\u2212 2020",
+        "volume": "2.4",
+        "year": "2020",
+        "journal-title": "China CDC Weekly"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.2",
+        "unstructured": "Huang, Chaolin , et al. \u201cClinical features of patients infected with 2019 novel coronavirus in Wuhan, China.\u201d The Lancet (2020)."
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, Joseph T. , Kathy Leung , and Gabriel M. Leung . \u201cNowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study.\u201d The Lancet (2020).",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.4",
+        "unstructured": "Li, Qun , et al. \u201cEarly transmission dynamics in Wuhan, China, of novel coronavirus\u2013infected pneumonia.\u201d New England Journal of Medicine (2020)."
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read, Jonathan M. , et al. \u201cNovel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions.\u201d medRxiv (2020).",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang Y , Lu Q , Liu M , et al. Epidemiological and clinical features of the 2019 novel coronavirus outbreak in China[J]. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1007.030647"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.8",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. The latest news on Health Emergency Office. 2020. http://www.nhc.gov.cn/yjb/pqt/new_list.shtml"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.9",
+        "unstructured": "Baidu\u2019s Migration Index. Baidu Inc. http://qianxi.baidu.com/"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.10",
+        "unstructured": "Guangzhou Statistic Bureau"
+      },
+      {
+        "key": "2020110808101118000_2020.02.20.20023572v2.11",
+        "unstructured": "Xiao , Liu , et al. \u201cThe Report of Urban Migrant Polulations Social Integation in China\u201d"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20023572",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:06Z",
+      "timestamp": 1768484046000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20023572"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.02.20.20023572",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

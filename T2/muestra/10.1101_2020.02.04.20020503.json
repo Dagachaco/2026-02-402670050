@@ -1,0 +1,357 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:55:37Z",
+      "timestamp": 1768546537028,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 40,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  We developed a computational tool to assess the risks of novel coronavirus outbreaks outside of China. We estimate the dependence of the risk of a major outbreak in a country from imported cases on key parameters such as: (i) the evolution of the cumulative number of cases in mainland China outside the closed areas; (ii) the connectivity of the destination country with China, including baseline travel frequencies, the effect of travel restrictions, and the efficacy of entry screening at destination; and (iii) the efficacy of control measures in the destination country (expressed by the local reproduction number\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>loc</jats:sub>\n                  ). We found that in countries with low connectivity to China but with relatively high\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>loc</jats:sub>\n                  , the most beneficial control measure to reduce the risk of outbreaks is a further reduction in their importation number either by entry screening or travel restrictions. Countries with high connectivity but low\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>loc</jats:sub>\n                  benefit the most from policies that further reduce\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>loc</jats:sub>\n                  . Countries in the middle should consider a combination of such policies. Risk assessments were illustrated for selected groups of countries from America, Asia, and Europe. We investigated how their risks depend on those parameters, and how the risk is increasing in time as the number of cases in China is growing.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.04.20020503",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T09:45:14Z",
+      "timestamp": 1580895914000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 36,
+    "title": [
+      "Risk Assessment of Novel Coronavirus COVID-19 Outbreaks Outside China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "P\u00e9ter",
+        "family": "Boldog",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Tam\u00e1s",
+        "family": "Tekeli",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zsolt",
+        "family": "Vizi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Attila",
+        "family": "D\u00e9nes",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ferenc A.",
+        "family": "Bartha",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gergely",
+        "family": "R\u00f6st",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.2",
+        "unstructured": "WHO. Statement Regarding Cluster of Pneumonia Cases in Wuhan, China; World Health Organization: Geneva, Switzerland, 2020. Available online: https://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.3",
+        "unstructured": "WHO. Novel Coronavirus\u2014Thailand (ex-China); World Health Organization: Geneva, Switzerland, 2020. Available online: https://www.who.int/csr/don/14-january-2020-novel-coronavirus-thailand-ex-china/en (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.4",
+        "unstructured": "WHO. Novel Coronavirus (2019-nCoV) Situation Report\u20141; World Health Organization: Geneva, Switzerland, 2020. Available online: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.5",
+        "unstructured": "JHU IDD Team. 2019-nCoV Global Cases by Center for Systems Science and Engineering. JHU IDD 2020. Available online: https://docs.google.com/spreadsheets/d/1wQVypefm946ch4XDp37uZ-wartW4V7ILdg-qYiDXUHM/edit?usp=sharing (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.6",
+        "unstructured": "CDC. 2019 Novel Coronavirus. Prevention & Treatment. Cent. Disease Control Prev. 2020. Available online: {https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html} (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.7",
+        "unstructured": "NPR. Chinese Authorities Begin Quarantine Of Wuhan City As Coronavirus Cases Multiply. NPR 2020. Available online: https://www.npr.org/2020/01/23/798789671/chinese-authorities-begin-quarantine-of-wuhan-city-as-coronavirus-cases-multiply (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2020.01.010"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.9",
+        "unstructured": "Arnot, M. ; Mzezewa, T. The Coronavirus: What Travelers Need to Know; The New York Times: New York, NY, USA 2020. Available online: https://www.nytimes.com/2020/01/26/travel/Coronavirus-travel.html (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.10",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Work begins on mobile hospital in Wuhan. NHC 2020. Available online: http://en.nhc.gov.cn/2020-01/29/c_76034.htm (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.11",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Medics flood to Hubei to fight disease. NHC 2020. Available online: http://en.nhc.gov.cn/2020-01/29/c_76031.htm (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m56"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Moore, M. ; Gelfeld, B. ; Okunogbe, A.T. ; Christopher, P. Identifying Future Disease Hot Spots: Infectious Disease Vulnerability Index; RAND Corporation: Santa Monica, CA, USA, 2016. Available online: https://www.rand.org/pubs/research_reports/RR1605.html (accessed on 17 February 2020).",
+        "DOI": "10.7249/RR1605"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jtm/taaa008"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.15",
+        "unstructured": "Chinazzi, M. ; Davis, J.T. ; Gioannini, C. ; Litvinova, M. ; Pastore y Piontti, A. , Rossi, L. ; Xiong, X. ; Halloran, M.E. ; Longini, I.M. ; Vespignani, A. Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan City. Lab. Model. Biol. Soc.\u2013Techn. Syst. 2020. Available online: https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus6_.pdf (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.16",
+        "unstructured": "Imai, N. ; Dorigatti, I. ; Cori, A. ; Donnelly, C. ; Riley, S. ; Ferguson, N.M. Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. Imper. Coll. London 2020. Available online: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020388"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.19",
+        "unstructured": "Imai, N. ; Cori, A. ; Dorigatti, I. ; Baguelin, M. ; Donnelly C.A. ; Riley, S. ; Ferguson, N.M. Report 3: Transmissibility of 2019-nCoV. Imper. Coll. London 2020. Available online: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-2019-nCoV-transmissibility.pdf (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.917351"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.25.919787"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2139/ssrn.3524675"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.25",
+        "unstructured": "Kucharski, A. ; Russell, T. ; Diamond, C. ; CMMID nCoV Working Group; Funk, S., Eggo, R.M. Analysis of early transmission dynamics of nCoV in Wuhan. CMMID 2020. Available online: https://cmmid.github.io/ncov/wuhan_early_dynamics (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shen, M. ; Peng, Z. ; Xiao, Y. ; Zhang, L. Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioR\u03c7iv 2020. Available online: https://www.biorxiv.org/content/10.1101/2020.01.23.916726v1 (accessed on 17 February 2020).",
+        "DOI": "10.1101/2020.01.23.916726"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.27.20018986"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.26.20018754"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.30",
+        "unstructured": "Zheng, Q. ; Meredith, H. ; Grantz, K. ; Bi, Q. ; Jones, F. ; Lauer S. ; JHU IDD Team. Real-time estimation of the novel coronavirus incubation time. JHU IDD 2020. Available online: https://github.com/HopkinsIDD/ncov_incubation (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0083622"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.32",
+        "unstructured": "EpiRisk. Available online: http://epirisk.net (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Quilty, B. ; Clifford, S. ; CMMID nCoV Working Group; Flasche, S., Eggo, R.M. Effectiveness of airport screening at detecting travellers infected with 2019-nCoV. CMMID 2020. Available online: https://cmmid.github.io/ncov/airport_screening_report/airport_screening_preprint_2020_01_28.pdf (accessed on 17 February 2020).",
+        "DOI": "10.1101/2020.01.31.20019265"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mbs.2010.01.006"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086478"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.30.20019877"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.0020174"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.38",
+        "unstructured": "Lauer S. ; Zlojutro, A. ; Rey, D. ; Dong, E. ; JHU IDD Team; UNSW Sydney rCITI Team. Update January 31: Modeling the Spreading Risk of 2019-nCoV. JHU IDD 2020. Available online: https://systems.jhu.edu/research/public-health/ncov-model-2 (accessed on 17 February 2020)."
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020419"
+      },
+      {
+        "key": "2020110511250627000_2020.02.04.20020503v2.40",
+        "unstructured": "Bolyai Institute, University of Szeged. Risk assessment of novel coronavirus 2019-nCoV outbreaks outside China. Github 2020. Available online: https://github.com/zsvizi/corona-virus-2020 (accessed on 17 February 2020)."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.04.20020503",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:44Z",
+      "timestamp": 1768484024000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.04.20020503"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 40,
+    "URL": "https://doi.org/10.1101/2020.02.04.20020503",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3390/jcm9020571",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

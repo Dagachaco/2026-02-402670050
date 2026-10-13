@@ -1,0 +1,208 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:01:11Z",
+      "timestamp": 1768546871278,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>This paper focuses on the formulation of a deterministic COVID-19 transmission model by considering the exposed and recovered populations with immunity. The scenario of the simulation is depicted based on the patient zero in Malaysia. The transmission model is found to be able to predict the next confirmed case given a single case is introduced in a fully susceptible population. The mathematical model is developed based on the SEIR model which has susceptible, exposed, infectious and recovered populations. The system of equations which were obtained were solved numerically and the simulation results were analyzed. The analysis includes the impact of the disease if no control is taken.</jats:p>",
+    "DOI": "10.1101/2020.02.07.20021188",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T15:55:22Z",
+      "timestamp": 1581436522000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Transmission Dynamics of COVID-19 in Malaysia Prior to the Movement Control Order"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0508-4277",
+        "authenticated-orcid": false,
+        "given": "J",
+        "family": "Labadin",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "B.H",
+        "family": "Hong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.1",
+        "unstructured": "WHO (2020). First case of novel coronavirus outside of China confirmed. Retrieved March 25 2020, from https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.2",
+        "unstructured": "Imai, N. , Dorigatti, I. , Cori, A. , Donnelly, C. , Riley, S. , & Ferguson, N. M. (2020). Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. Imperial College London."
+      },
+      {
+        "issue": "2",
+        "key": "2020120106550699000_2020.02.07.20021188v2.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "388",
+        "DOI": "10.3390/jcm9020388",
+        "article-title": "Estimating the unreported number of novel coronavirus (2019-nCoV) cases in China in the first half of January 2020: a data-driven Modelling analysis of the early outbreak",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Journal of clinical medicine"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.4",
+        "unstructured": "The Star. (2020, Jan 23). Wuhan virus: Wuhan under quarantine, says M\u2019sian Health Ministry. Retrieved Feb 7, 2020, from https://www.thestar.com.my/news/nation/2020/01/23/wuhan-virus-wuhan-under-quarantine-says-m039sian-health-ministry"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.5",
+        "unstructured": "The Star. (2020, Jan 23). After Wuhan, govt imposes travel ban on travellers from Zhejiang and Jiangsu. Retrieved Feb 7, 2020, from https://www.thestar.com.my/news/nation/2020/02/09/after-wuhan-govt-imposes-travel-ban-on-travellers-from-zhejiang-and-jiangsu"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.6",
+        "unstructured": "DOSM. (2019, Nov 14).Demographic Statistics Third Quarter 2019, Malaysia. Retrieved 3 February 2020, from https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=430&bul_id=YkdwYkZYOVQ5WFJ4dXhEelNpbGRmZz09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000062"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read, J. M. , Bridgen, J. R. , Cummings, D. A. , Ho, A. , & Jewell, C. P. (2020). Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.9",
+        "unstructured": "The Star. (2020, Feb 4). First Malaysian tests positive for Wuhan coronavirus. Retrieved Feb 5, 2020, from https://www.thestar.com.my/news/nation/2020/02/04/first-malaysian-tests-positive-for-wuhan-coronavirus"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.10",
+        "unstructured": "RStudio Team (2019). RStudio: Integrated Development for R. RStudio, Inc., Boston, MA URL http://www.rstudio.com/"
+      },
+      {
+        "issue": "2",
+        "key": "2020120106550699000_2020.02.07.20021188v2.11",
+        "first-page": "taaa021",
+        "article-title": "The reproductive number of COVID-19 is higher compared to SARS coronavirus",
+        "volume": "27, Issue",
+        "year": "2020",
+        "journal-title": "Journal of Travel Medicine"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.12",
+        "unstructured": "The Star. (2020, Mar 16). Malaysia announces movement control order after spike in Covid-19 cases (updated). Retrieved Mar 18, 2020, from https://www.thestar.com.my/news/nation/2020/03/16/malaysia-announces-restricted-movement-measure-after-spike-in-covid-19-cases"
+      },
+      {
+        "key": "2020120106550699000_2020.02.07.20021188v2.13",
+        "unstructured": "Banasiak, J. MODELS AND METHODS IN MATHEMATICAL EPIDEMIOLOGY."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.07.20021188",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:47Z",
+      "timestamp": 1768484027000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.07.20021188"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.07.20021188",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

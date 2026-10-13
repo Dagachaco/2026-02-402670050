@@ -1,0 +1,213 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:21Z",
+      "timestamp": 1768547241971,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 10,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>On January 23, 2020, a quarantine was imposed on travel in and out of Wuhan, where the 2019 novel coronavirus (2019-nCoV) outbreak originated from. Previous analyses estimated the basic epidemiological parameters using symptom onset dates of the confirmed cases in Wuhan and outside China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We obtained information on the 46 coronavirus cases who traveled from Wuhan before January 23 and have been subsequently confirmed in Hong Kong, Japan, Korea, Macau, Singapore, and Taiwan as of February 5, 2020. Most cases have detailed travel history and disease progress. Compared to previous analyses, an important distinction is that we used this data to informatively simulate the infection time of each case using the symptom onset time, previously reported incubation interval, and travel history. We then fitted a simple exponential growth model with adjustment for the January 23 travel ban to the distribution of the simulated infection time. We used a Bayesian analysis with diffuse priors to quantify the uncertainty of the estimated epidemiological parameters. We performed sensitivity analysis to different choices of incubation interval and the hyperparameters in the prior specification.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>We found that our model provides good fit to the distribution of the infection time. Assuming the travel rate to the selected countries and regions is constant over the study period, we found that the epidemic was doubling in size every 2.9 days (95% credible interval [CrI], 2 days\u20144.1 days). Using previously reported serial interval for 2019-nCoV, the estimated basic reproduction number is 5.7 (95% CrI, 3.4\u20149.2). The estimates did not change substantially if we assumed the travel rate doubled in the last 3 days before January 23, when we used previously reported incubation interval for severe acute respiratory syndrome (SARS), or when we changed the hyperparameters in our prior specification.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Our estimated epidemiological parameters are higher than an earlier report using confirmed cases in Wuhan. This indicates the 2019-nCoV could have been spreading faster than previous estimates.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.06.20020941",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2020-02-09T10:15:10Z",
+      "timestamp": 1581243310000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9902-2768",
+        "authenticated-orcid": false,
+        "given": "Qingyuan",
+        "family": "Zhao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yang",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dylan S",
+        "family": "Small",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "#cr-split#-2020110613100916000_2020.02.06.20020941v1.1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carpenter, B. , Gelman, A. , Hoffman, M. D. , Lee, D. , Goodrich, B. , Betancourt, M. , Brubaker, M. , Guo, J. , Li, P. , & Riddell, A. (2017). Stan: A Probabilistic Programming Language. Journal of Statistical Software",
+        "DOI": "10.18637/jss.v076.i01"
+      },
+      {
+        "key": "#cr-split#-2020110613100916000_2020.02.06.20020941v1.1.2",
+        "unstructured": "Vol 1, Issue 1 (2017). https://www.jstatsoft.org/v076/i01"
+      },
+      {
+        "issue": "9371",
+        "key": "2020110613100916000_2020.02.06.20020941v1.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1761",
+        "DOI": "10.1016/S0140-6736(03)13410-1",
+        "article-title": "Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong",
+        "volume": "361",
+        "year": "2003",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2020110613100916000_2020.02.06.20020941v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li, Q. , Guan, X. , Wu, P. , Wang, X. , Zhou, L. , Tong, Y. , Ren, R. , Leung, K. S. M. , Lau, E. H. Y. , Wong, J. Y. , Xing, X. , Xiang, N. , Wu, Y. , Li, C. , Chen, Q. , Li, D. , Liu, T. , Zhao, J. , Liu, M. , \u2026 Feng, Z. (2020). Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine. https://doi.org/10.1056/NEJMoa2001316",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "issue": "5627",
+        "key": "2020110613100916000_2020.02.06.20020941v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1966 LP",
+        "DOI": "10.1126/science.1086616",
+        "article-title": "Transmission Dynamics and Control of Severe Acute Respiratory Syndrome",
+        "volume": "300",
+        "year": "2003",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2020110613100916000_2020.02.06.20020941v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read, J. M. , Bridgen, J. R. E. , Cummings, D. A. T. , Ho, A. , & Jewell, C. P. (2020). Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. MedRxiv, 2020.01.23.20018549. https://doi.org/10.1101/2020.01.23.20018549",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "#cr-split#-2020110613100916000_2020.02.06.20020941v1.6.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "van Buuren, S. , & Groothuis-Oudshoorn, K. (2011). mice: Multivariate Imputation by Chained Equations in R. Journal of Statistical Software",
+        "DOI": "10.18637/jss.v045.i03"
+      },
+      {
+        "key": "#cr-split#-2020110613100916000_2020.02.06.20020941v1.6.2",
+        "unstructured": "Vol 1, Issue 3 (2011). https://www.jstatsoft.org/v045/i03"
+      },
+      {
+        "key": "2020110613100916000_2020.02.06.20020941v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu, J. T. , Leung, K. , & Leung, G. M. (2020). Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet (London, England), 0(0). https://doi.org/10.1016/S0140-6736(20)30260-9",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110613100916000_2020.02.06.20020941v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao, S. , Lin, Q. , Ran, J. , Musa, S. S. , Yang, G. , Wang, W. , Lou, Y. , Gao, D. , Yang, L. , He, D. , & Wang, M. H. (2020). Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases. https://doi.org/10.1016/J.IJID.2020.01.050",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.06.20020941",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:46Z",
+      "timestamp": 1768484026000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.06.20020941"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "references-count": 10,
+    "URL": "https://doi.org/10.1101/2020.02.06.20020941",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          9
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

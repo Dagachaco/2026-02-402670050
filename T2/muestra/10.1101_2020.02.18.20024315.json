@@ -1,0 +1,325 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:07Z",
+      "timestamp": 1768549207331,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The 2019 novel Coronavirus (COVID-19) emerged in Wuhan, China in December 2019 and has been spreading rapidly in China. Decisions about its pandemic threat and the appropriate level of public health response depend heavily on estimates of its basic reproduction number and assessments of interventions conducted in the early stages of the epidemic.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    We conducted a mathematical modeling study using five independent methods to assess the basic reproduction number (R0) of COVID-19, using data on confirmed cases obtained from the China National Health Commission for the period 10\n                    <jats:sup>th</jats:sup>\n                    January \u2013 8\n                    <jats:sup>th</jats:sup>\n                    February. We analyzed the data for the period before the closure of Wuhan city (10\n                    <jats:sup>th</jats:sup>\n                    January \u2013 23\n                    <jats:sup>rd</jats:sup>\n                    January) and the post-closure period (23\n                    <jats:sup>rd</jats:sup>\n                    January \u2013 8\n                    <jats:sup>th</jats:sup>\n                    February) and for the whole period, to assess both the epidemic risk of the virus and the effectiveness of the closure of Wuhan city on spread of COVID-19.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>Before the closure of Wuhan city the basic reproduction number of COVID-19 was 4.38 (95% CI: 3.63 \u2013 5.13), dropping to 3.41 (95% CI: 3.16 \u2013 3.65) after the closure of Wuhan city. Over the entire epidemic period COVID-19 had a basic reproduction number of 3.39 (95% CI: 3.09 \u2013 3.70), indicating it has a very high transmissibility.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>COVID-19 is a highly transmissible virus with a very high risk of epidemic outbreak once it emerges in metropolitan areas. The closure of Wuhan city was effective in reducing the severity of the epidemic, but even after closure of the city and the subsequent expansion of that closure to other parts of Hubei the virus remained extremely infectious. Emergency planners in other cities should consider this high infectiousness when considering responses to this virus.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>National Natural Science Foundation of China, China Medical Board, National Science and Technology Major Project of China</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.18.20024315",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T18:29:18Z",
+      "timestamp": 1582223358000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Estimation of the epidemic properties of the 2019 novel coronavirus: A mathematical modeling study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Jinghua",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yijing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stuart",
+        "family": "Gilmour",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mengying",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Daisuke",
+        "family": "Yoneoka",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ying",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xinyi",
+        "family": "You",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Gu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chun",
+        "family": "Hao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liping",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhicheng",
+        "family": "Du",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dong Roman",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuantao",
+        "family": "Hao",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.1",
+        "unstructured": "World Health Organization. Novel Coronavirus (2019-nCoV) Situation Report 20. Geneva, Switzerland, 2020."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.2",
+        "unstructured": "International Health Regulations Emergency Committee. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). In: Houssin D , editor. Geneva, Switzerland: World Health Organization; 2020."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.3",
+        "unstructured": "Wuhan Novel Coronavirus Pneumonia Infection Response Command Centre. Wuhan City Novel Coronavirus Pneumonia Infection Prevention and Control Command Centre Notice Number 2. Wuhan, China: Hubei Provincial Government; 2020."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.4",
+        "unstructured": "Daily. WpaoH. Suspension of public transport in 8 regions of Hubei Province. Wuhan, China: Hubei Provincial Government; 2020."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.5",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.6",
+        "unstructured": "Vynnycky E , White RG . An introduction to infectious disease modelling. New York: Oxford University Press; 2010."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Lin Q , Ran J , et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases 2020.",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.8",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine 2020."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.9",
+        "unstructured": "Imai N , Cori A , Dorigatti I , et al. Report 3: Transmissibility of 2019-nCoV25 January, 2020, 2020. https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/ (accessed."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.10",
+        "unstructured": "Hubei Provincial Bureau of Statistics. 2019 Statistical Yearbook 2019. http://tjj.hubei.gov.cn/tjsj/sjkscx/tjnj/qstjnj/ (accessed 10 Feb 2020)."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.11",
+        "unstructured": "Baidu migration. 2020. http://qianxi.baidu.com/ (accessed 10 Feb 2020)."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.12",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Efforts to Prevent and Control the 2019-nCoV Epidemic. Daily briefing, 2020. http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml (accessed 9 February, 2020)."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1016/j.ijid.2019.08.028",
+        "article-title": "Epidemiological features and trends of influenza incidence in mainland China: A population-based surveillance study from 2005 to 2015",
+        "volume": "89",
+        "year": "2019",
+        "journal-title": "International Journal of Infectious Diseases"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3136"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0002185"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwh255"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1472-6947-12-147"
+      },
+      {
+        "issue": "47",
+        "key": "2020110811151553000_2020.02.18.20024315v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "873",
+        "DOI": "10.1098/rsif.2009.0386",
+        "article-title": "The construction of next-generation matrices for compartmental epidemic models",
+        "volume": "7",
+        "year": "2010",
+        "journal-title": "Journal of the Royal Society, Interface / the Royal Society"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trstmh.2005.10.014"
+      },
+      {
+        "issue": "2",
+        "key": "2020110811151553000_2020.02.18.20024315v1.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "332",
+        "DOI": "10.1080/03610918.2013.777455",
+        "article-title": "Understanding the Hastings Algorithm",
+        "volume": "44",
+        "year": "2015",
+        "journal-title": "Communications in Statistics - Simulation and Computation"
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.22",
+        "unstructured": "McCullagh P , Nelder JA . Generalized linear models. 2nd ed. Boca Raton: Chapman & Hall/CRC; 1998."
+      },
+      {
+        "key": "2020110811151553000_2020.02.18.20024315v1.23",
+        "unstructured": "World Health Organization. Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases: : interim guidance. https://apps.who.int/iris/rest/bitstreams/1266309/retrieve (accessed 12 Feb 2020)."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20024315",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:02Z",
+      "timestamp": 1768484042000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20024315"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.18.20024315",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

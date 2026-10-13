@@ -1,0 +1,245 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          18
+        ]
+      ],
+      "date-time": "2026-01-18T11:58:01Z",
+      "timestamp": 1768737481821,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 21,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                  The recent outbreak of COVID-19 in Mainland China is characterized by a distinctive algebraic, sub-exponential increase of confirmed cases with time during the early phase of the epidemic, contrasting an initial exponential growth expected for an unconstrained outbreak with sufficiently large reproduction rate. Although case counts vary significantly between affected provinces in Mainland China, the scaling law\n                  <jats:italic>\n                    t\n                    <jats:sup>\u03bc</jats:sup>\n                  </jats:italic>\n                  is surprisingly universal, with a range of exponents\n                  <jats:italic>\u03bc</jats:italic>\n                  = 2.1 \u00b1 0.3. The universality of this behavior indicates that, in spite of social, regional, demographical, geographical, and socio-economical heterogeneities of affected Chinese provinces, this outbreak is dominated by fundamental mechanisms that are not captured by standard epidemiological models. We show that the observed scaling law is a direct consequence of containment policies that effectively deplete the susceptible population. To this end we introduce a parsimonious model that captures both, quarantine of symptomatic infected individuals as well as population wide isolation in response to mitigation policies or behavioral changes. For a wide range of parameters, the model reproduces the observed scaling law in confirmed cases and explains the observed exponents. Quantitative fits to empirical data permit the identification of peak times in the number of asymptomatic or oligo-symptomatic, unidentified infected individuals, as well as estimates of local variations in the basic reproduction number. The model implies that the observed scaling law in confirmed cases is a direct signature of effective contaiment strategies and/or systematic behavioral changes that affect a substantial fraction of the susceptible population. These insights may aid the implementation of containment strategies in potential export induced COVID-19 secondary outbreaks elsewhere or similar future outbreaks of other emergent infectious diseases.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.18.20024414",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T18:25:15Z",
+      "timestamp": 1582223115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 69,
+    "title": [
+      "Effective containment explains sub-exponential growth in confirmed cases of recent COVID-19 outbreak in Mainland China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7414-8823",
+        "authenticated-orcid": false,
+        "given": "Benjamin F.",
+        "family": "Maier",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Dirk",
+        "family": "Brockmann",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jon Cohen . Scientists are racing to model the next moves of a coronavirus that\u2019s still hard to predict. Science, February 2020.",
+        "DOI": "10.1126/science.abb2161"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.2",
+        "unstructured": "Jeremy Hsu . Here\u2019s How Computer Models Simulate the Future Spread of New Coronavirus. Scientific American, February 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.3",
+        "unstructured": "Tanya Lewis . China\u2019s Citywide Quarantines: Are They Ethical and Effective? Scientific American, January 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.4",
+        "unstructured": "WHO. Novel Coronavirus (2019-nCoV) Situation Report - 11, January 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nanshan Chen , Min Zhou , Xuan Dong , Jieming Qu , Fengyun Gong , Yang Han , Yang Qiu , Jingli Wang , Ying Liu , Yuan Wei , Jia\u2019an Xia , Ting Yu , Xinxin Zhang , and Li Zhang . Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet, January 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shi Zhao , Qianyin Lin , Jinjun Ran , Salihu S. Musa , Guangpu Yang , Weiming Wang , Yijun Lou , Daozhou Gao , Lin Yang , Daihai He , and Maggie H. Wang . Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases, 92:214\u2013217, March 2020.",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.7",
+        "unstructured": "CDC. 2019 Novel Coronavirus (2019-nCoV), February 2020. https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html, accessed: Feb. 13th 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.8",
+        "unstructured": "Center For Systems Science And Engineering Johns Hopkins University. CSSEGISandData/COVID-19, February 2020. https://github.com/CSSEGISandData/COVID-19 accessed: Feb. 13th 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Qun Li , Xuhua Guan , Peng Wu , Xiaoye Wang , Lei Zhou , Yeqing Tong , Ruiqi Ren , Kathy S.M. Leung , Eric H.Y. Lau , Jessica Y. Wong , Xuesen Xing , Nijuan Xiang , Yang Wu , Chao Li , Qi Chen , Dan Li , Tian Liu , Jing Zhao , Man Liu , Wenxiao Tu , Chuding Chen , Lianmei Jin , Rui Yang , Qi Wang , Suhua Zhou , Rui Wang , Hui Liu , Yinbo Luo , Yuan Liu , Ge Shao , Huan Li , Zhongfa Tao , Yang Yang , Zhiqiang Deng , Boxi Liu , Zhitao Ma , Yanping Zhang , Guoqing Shi , Tommy T.Y. Lam , Joseph T. Wu , George F. Gao , Benjamin J. Cowling , Bo Yang , Gabriel M. Leung , and Zijian Feng . Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine, January 2020.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.10",
+        "article-title": "Network-Based Prediction of the 2019-nCoV Epidemic Outbreak in the Chinese Province Hubei"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.11",
+        "article-title": "Hengartner, and Ruian Ke. The Novel Coronavirus, 2019-nCoV, is Highly Contagious and More In-fectious Than Initially Estimated",
+        "journal-title": "arXiv:2002.03268 [q-bio], February 2020"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.12",
+        "article-title": "A Time Delay Dynamic System with External Source for the Local Outbreak of 2019-nCoV",
+        "journal-title": "arXiv:2002.02590 [physics, q-bio], February 2020"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.13",
+        "unstructured": "WHO. Novel Coronavirus (2019-nCoV) Situation Report - 7, January 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.14",
+        "unstructured": "Nectar Gan , Natalie Thomas , and David Culver . Over 1,700 frontline medics likely infected with coronavirus in China presenting new crisis for the government. CNN, February 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.15",
+        "unstructured": "Georg Fahrion , Kristina Gnirke , Veronika Hackenbroch , Martin Hesse , Martin U. M\u00fcller, Katharina Gra\u00e7a Peters, Michael Sauga, and Bernhard Zand. How the Coronavirus Made Globalization a Deadly Threat. SPIEGEL International, February 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.16",
+        "unstructured": "Caroline Rosales and Alisa Schr\u00f6ter . Wuhan: Zwei, die nicht mehr rauskommen. Die Zeit, January 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matthew James Keeling and Pejman Rohani . Modeling infectious diseases in humans and animals. Princeton University Press, Princeton, 2008. OCLC: ocn163616681.",
+        "DOI": "10.1515/9781400841035"
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.18",
+        "unstructured": "Adam J. Kucharski , Timothy W. Russell , Charlie Diamond , CMMID nCoV working Group, Sebastian Funk, and Rosalind M. Eggo. Early dynamics of transmission and control of 2019-nCoV: a mathematical modelling study. medRxiv, page 2020.01.31.20019901, February 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.19",
+        "unstructured": "Jonathan M. Read , Jessica RE Bridgen , Derek AT Cummings , Antonia Ho , and Chris P. Jewell . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv, page 2020.01.23.20018549, January 2020."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.20",
+        "unstructured": "GeoNames. GeoNames, 2019. https://geonames.org accessed: Nov. 1st 2019."
+      },
+      {
+        "key": "2020110811101220000_2020.02.18.20024414v1.21",
+        "unstructured": "Benjamin F. Maier. benmaier/COVID19CaseNumberModel, February 2020. https://github.com/benmaier/COVID19CaseNumberModel, accessed: Feb 18th 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20024414",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:02Z",
+      "timestamp": 1768484042000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20024414"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 21,
+    "URL": "https://doi.org/10.1101/2020.02.18.20024414",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1126/science.abb4557",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

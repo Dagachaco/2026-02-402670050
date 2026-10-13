@@ -1,0 +1,388 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2026-04-08T22:38:59Z",
+      "timestamp": 1775687939118,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Psychiatry and Clinical Psychology",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>BACKGROUND</jats:title>\n                  <jats:p>The outbreak of COVID-19 has laid unprecedented psychological stress on health workers (HWs). We aimed to assess the immediate psychological impact on HWs at Tongji Hospital in Wuhan, China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>METHODS</jats:title>\n                  <jats:p>We conducted a single-center, cross-sectional survey of HWs via online questionnaires between February 8th and 10th, 2020. We evaluated stress, depression and anxiety by Impact of Event Scale-Revised (IES-R), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder 7-item (GAD-7), respectively. We also designed a questionnaire to assess the effect of psychological protective measures taken by Tongji Hospital. Multivariate logistic regression was used to identify predictors of acute stress, depression, and anxiety.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>RESULTS</jats:title>\n                  <jats:p>We received 5062 completed questionnaires (response rate, 77.1 percent). 1509 (29.8 percent), 681 (13.5 percent) and 1218 (24.1 percent) HWs reported stress, depression and anxiety symptoms. Women (hazard ratio[HR], 1.31; P=0.032), years of working&gt; 10 years (HR, 2.02; P&lt;0.001), concomitant chronic diseases (HR, 1.51; P&lt;0.001), history of mental disorders (HR, 3.27; P&lt;0.001), and family members or relatives confirmed or suspected (HR, 1.23; P=0.030) were risk factors for stress, whereas care provided by hospital and department administrators(odds ratio [OR], 0.76; P=0.024) and full coverage of all departments with protective measures (OR, 0.69; P=0.004) were protective factors.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>CONCLUSIONS</jats:title>\n                  <jats:p>Women and those who have more than 10 years of working, concomitant chronic diseases, history of mental disorders, and family members or relatives confirmed or suspected are susceptible to stress, depression and anxiety among HWs during the COVID-19 pandemic. Psychological protective measures implemented by the hospital could be helpful.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.20.20025338",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T14:44:21Z",
+      "timestamp": 1582555461000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 138,
+    "title": [
+      "COVID-19 in Wuhan: Immediate Psychological Impact on 5062 Health Workers"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhou",
+        "family": "Zhu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shabei",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hui",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zheng",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianhong",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guo",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinfeng",
+        "family": "Miao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chenyan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuan",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenzhe",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Suiqiang",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yebin",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Junbo",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jihong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.1",
+        "unstructured": "Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE. 2020. (https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6.)"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kang L , Li Y , Hu S , et al. The mental health of medical workers in Wuhan, China dealing with the 2019 novel coronavirus. The lancet Psychiatry 2020.",
+        "DOI": "10.1016/S2215-0366(20)30047-X"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1317",
+        "DOI": "10.1001/jamainternmed.2018.3713",
+        "article-title": "Association Between Physician Burnout and Patient Safety, Professionalism, and Patient Satisfaction: A Systematic Review and Meta-analysis",
+        "volume": "178",
+        "year": "2018",
+        "journal-title": "JAMA internal medicine"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "S25",
+        "DOI": "10.1097/ACM.0b013e3181b37b8f",
+        "article-title": "The effects of acute stress on performance: implications for health professions education",
+        "volume": "84",
+        "year": "2009",
+        "journal-title": "Academic medicine : journal of the Association of American Medical Colleges"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1694",
+        "DOI": "10.1186/s12889-019-7909-4",
+        "article-title": "Cluster-randomised trial evaluating a complex intervention to improve mental health and well-being of employees working in hospital - a protocol for the SEEGEN trial",
+        "volume": "19",
+        "year": "2019",
+        "journal-title": "BMC public health"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1016/j.socscimed.2019.05.007",
+        "article-title": "Occupational variation in burnout among medical staff: Evidence for the stress of higher status",
+        "volume": "232",
+        "year": "2019",
+        "journal-title": "Social science & medicine (1982)"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000012416"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.9",
+        "unstructured": "Guidelines for Emergency Psychological Crisis Interventions during the COVID-19 Epidemic (in Chinese). 2020. (http://www.gov.cn/zhengce/zhengceku/2020-01/27/content_5472433.htm.)"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.10",
+        "unstructured": "WHO Global Strategy on Diet, Physical Activity and Health. Global recommendations on physical activity for health. 2018. (http://www.who.int/dietphysicalactivity/factsheet_recommendations/en/.)"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1525-1497.2001.016009606.x"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-146-5-200703060-00004"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bjsports-2015-095560"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2017.16326"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.15",
+        "first-page": "1245",
+        "article-title": "The immediate psychological and occupational impact of the 2003 SARS outbreak in a teaching hospital",
+        "volume": "168",
+        "year": "2003",
+        "journal-title": "CMAJ : Canadian Medical Association journal = journal de l\u2019Association medicale canadienne"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "793",
+        "DOI": "10.1503/cmaj.1031077",
+        "article-title": "Psychosocial effects of SARS on hospital staff: survey of a large tertiary care institution",
+        "volume": "170",
+        "year": "2004",
+        "journal-title": "CMAJ : Canadian Medical Association journal = journal de l\u2019Association medicale canadienne"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.mlr.0000167181.36730.cc"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1146/annurev-clinpsy-050817-084811",
+        "article-title": "Risk Factors for Depression: An Autobiographical Review",
+        "volume": "14",
+        "year": "2018",
+        "journal-title": "Annual review of clinical psychology"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "100772",
+        "DOI": "10.1016/j.yfrne.2019.100772",
+        "article-title": "Stress-induced disturbances along the gut microbiota-immune-brain axis and implications for mental health: Does sex matter?",
+        "volume": "54",
+        "year": "2019",
+        "journal-title": "Frontiers in neuroendocrinology"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "e263",
+        "DOI": "10.2196/jmir.7564",
+        "article-title": "Web-Based Interventions to Improve Mental Health, General Caregiving Outcomes, and General Health for Informal Caregivers of Adults With Chronic Conditions Living in the Community: Rapid Evidence Review",
+        "volume": "19",
+        "year": "2017",
+        "journal-title": "Journal of medical Internet research"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.21",
+        "unstructured": "Summary of probable SARS cases with onset of illness from 1 November 2002 to 31 July 2003. 2004. (https://www.who.int/csr/sars/country/table2003_09_23/en/.)"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.22",
+        "first-page": "145",
+        "article-title": "The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China",
+        "volume": "41",
+        "author": "The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team",
+        "year": "2020",
+        "journal-title": "Chinese Journal of Epidemiology"
+      },
+      {
+        "key": "2020111111050558000_2020.02.20.20025338v2.23",
+        "first-page": "302",
+        "article-title": "The psychological impact of the SARS epidemic on hospital employees in China: exposure, risk perception, and altruistic acceptance of risk",
+        "volume": "54",
+        "year": "2009",
+        "journal-title": "Canadian journal of psychiatry Revue canadienne de psychiatrie"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025338",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:06Z",
+      "timestamp": 1768484046000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025338"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025338",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.eclinm.2020.100443",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

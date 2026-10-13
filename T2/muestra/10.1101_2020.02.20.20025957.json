@@ -1,0 +1,218 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2026-03-23T11:07:13Z",
+      "timestamp": 1774264033309,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Health Systems and Quality Improvement",
+    "reference-count": 3,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The rapid spread of Coronavirus disease 2019 (COVID-19) presents China with a critical challenge. As normal capacity of the Chinese hospitals is exceeded, healthcare professionals struggling to manage this unprecedented crisis face the difficult question of how best to coordinate the medical resources used in highly separated locations. Responding rapidly to this crisis, the National Telemedicine Center of China (NTCC), located in Zhengzhou, Henan Province, has established the Emergency Telemedicine Consultation System (ETCS), a telemedicine-enabled outbreak alert and response network. ETCS is built upon a doctor-to-doctor (D2D) approach, in which health services can be accessed remotely through terminals across hospitals. The system architecture of ETCS comprises three major architectural layers: (1) telemedicine service platform layer, (2) telemedicine cloud layer, and (3) telemedicine service application layer. Our ETCS has demonstrated substantial benefits in terms of the effectiveness of consultations and remote patient monitoring, multidisciplinary care, and prevention education and training.</jats:p>",
+    "DOI": "10.1101/2020.02.20.20025957",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:35:32Z",
+      "timestamp": 1582518932000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 44,
+    "title": [
+      "From Isolation to Coordination: How Can Telemedicine Help Combat the COVID-19 Outbreak?"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yunkai",
+        "family": "Zhai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yichuan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1334-4481",
+        "authenticated-orcid": false,
+        "given": "Minhao",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2334-0246",
+        "authenticated-orcid": false,
+        "given": "Jody Hoffer",
+        "family": "Gittell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuai",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Baozhan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fangfang",
+        "family": "Cui",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xianying",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5788-9387",
+        "authenticated-orcid": false,
+        "given": "Xiaojun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110810551379000_2020.02.20.20025957v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110810551379000_2020.02.20.20025957v1.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "813",
+        "DOI": "10.1056/NEJMp1604223",
+        "article-title": "From AIDS to opioids\u2014how to combat an epidemic",
+        "volume": "375",
+        "year": "2016",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2020110810551379000_2020.02.20.20025957v1.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1701",
+        "DOI": "10.1111/1475-6773.12578",
+        "article-title": "Rethinking autonomy: Relationships as a source of resilience in a changing healthcare system",
+        "volume": "51",
+        "year": "2016",
+        "journal-title": "Health Serv Res"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025957",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:08Z",
+      "timestamp": 1768484048000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025957"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 3,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025957",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

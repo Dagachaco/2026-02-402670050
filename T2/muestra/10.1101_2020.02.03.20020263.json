@@ -1,0 +1,631 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:14Z",
+      "timestamp": 1768544054740,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 91,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Human Coronaviruses (HCoVs), including severe acute respiratory syndrome coronavirus (SARS-CoV), Middle east respiratory syndrome coronavirus (MERS-CoV), and 2019 novel coronavirus (2019-nCoV), lead global epidemics with high morbidity and mortality. However, there are currently no effective drugs targeting 2019-nCoV. Drug repurposing, represented as an effective drug discovery strategy from existing drugs, could shorten the time and reduce the cost compared to\n                  <jats:italic>de novo</jats:italic>\n                  drug discovery. In this study, we present an integrative, antiviral drug repurposing methodology implementing a systems pharmacology-based network medicine platform, quantifying the interplay between the HCoV-host interactome and drug targets in the human protein-protein interaction network. Phylogenetic analyses of 15 HCoV whole genomes reveal that 2019-nCoV has the highest nucleotide sequence identity with SARS-CoV (79.7%) among the six other known pathogenic HCoVs. Specifically, the envelope and nucleocapsid proteins of 2019-nCoV are two evolutionarily conserved regions, having the sequence identities of 96% and 89.6%, respectively, compared to SARS-CoV. Using network proximity analyses of drug targets and known HCoV-host interactions in the human protein-protein interactome, we computationally identified 135 putative repurposable drugs for the potential prevention and treatment of HCoVs. In addition, we prioritized 16 potential anti-HCoV repurposable drugs (including melatonin, mercaptopurine, and sirolimus) that were further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines. Finally, we showcased three potential drug combinations (including sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the \u2018\n                  <jats:italic>Complementary Exposure\u2019</jats:italic>\n                  pattern: the targets of the drugs both hit the HCoV-host subnetwork, but target separate neighborhoods in the human protein-protein interactome network. In summary, this study offers powerful network-based methodologies for rapid identification of candidate repurposable drugs and potential drug combinations toward future clinical trials for HCoVs.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.03.20020263",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T18:45:14Z",
+      "timestamp": 1580928314000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Network-based Drug Repurposing for Human Coronavirus"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yadi",
+        "family": "Zhou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yuan",
+        "family": "Hou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiayu",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yin",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "William",
+        "family": "Martin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Feixiong",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrd.2015.37"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.0757"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/82_2017_25"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMms1706744."
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp1500848"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4939-8868-6_15"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bib/bbw051"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.molmed.2016.09.006"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrd.2016.230"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-018-05116-5"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1005074"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/mSystems.00303-18"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.physrep.2019.12.004"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.03036-14"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scitranslmed.3005471"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scitranslmed.3010286"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2016.07.004"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm.4184"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1002503"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-019-10744-6"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btz418"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/C9SC04336E"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-019-09186-x"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1257601"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2016.09.001"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-019-10280-3"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou P , Yang X , Wang X , Hu B , Zhang L , Zhang W , Si H , Zhu Y , Li B , Huang C , Chen H , Chen J , Luo Y , Guo H , Jiang R , Liu M , Chen Y , Shen X , Wang X , Zheng X , Zhao K , Chen Q , Deng F , Liu L , Yan B , Zhan F , Wang Y , Xiao G , Shi Z. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. 2020, bioRxiv available: https://www.biorxiv.org/content/10.1101/2020.01.22.914952v2.full.pdf.",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0065045"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1132939"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2019.08.005"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.03011-14"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature18615"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00321-13"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.42037"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/1568026043387818"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1042/CS20050299"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cix645"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2015.06.007"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3851/IMP2965"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/vim.2007.0108"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02415-12"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/gutjnl-2014-308971"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCM.0b013e3182a2727d"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40265-017-0830-1"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrc2292"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/095632020901900402"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2014.12.011"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.76.10.5233-5250.2002"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10787-006-0002-5"
+      },
+      {
+        "issue": "55",
+        "key": "2020110509150667000_2020.02.03.20020263v1.54",
+        "first-page": "479",
+        "article-title": "The development of anti-inflammatory drugs for infectious diseases",
+        "volume": "10",
+        "year": "2010",
+        "journal-title": "Discov Med"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1824-7288-39-61"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/187221412799015317"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jpi.12186"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1600-079X.2006.00407.x"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jpi.12010"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurjhf/hfp023"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nbt.2391"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.03659-14"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/0022-1317-73-12-3285"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10549-011-1556-5"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0194868"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2011.02.008"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2006.04.014"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41419-017-0053-0"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btaa010"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bfgp/elx026"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00210-016-1252-4"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1004163"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v10020055"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5415/apallergy.2013.3.2.136"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.rmcr.2017.04.010"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-019-13940-6"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msy096"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkw377"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkt1068"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkv1230"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkr777"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkl999"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkt1143"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh131"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkv1290"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msu167"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1004497"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2172-6-2"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/mBio.00165-13"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-018-08015-x"
+      },
+      {
+        "key": "2020110509150667000_2020.02.03.20020263v1.91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/scitranslmed.3001318"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.20020263",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:42Z",
+      "timestamp": 1768484022000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.03.20020263"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 91,
+    "URL": "https://doi.org/10.1101/2020.02.03.20020263",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1038/s41421-020-0153-3",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:52Z",
+      "timestamp": 1768544092449,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 26,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>COVID-19 caused by a novel coronavirus SARS-CoV-2 emerged in Wuhan, Hubei province since December 2019, and caused a rapid outbreak throughout China and globally. Cities outside Hubei are also facing great challenge and require implementing of effective and feasible strategy in precision diagnosing novel coronavirus pneumonia (NCP).</jats:p>\n                <jats:p>\n                  We described a multicenter prospective study on diagnostic strategy of suspected NCP patients from January 22\n                  <jats:sup>nd</jats:sup>\n                  to February 9\n                  <jats:sup>th</jats:sup>\n                  , 2020 in Eastern China cities. Nasopharyngeal swabs were collected from the patients. The epidemiological characteristics, clinical symptoms, laboratory assessments, and computed tomographic (CT) scans were obtained. Pathogen screen were performed including RT-PCR, multiplex PCR, rapid flu antigen tests and mNGS.\n                </jats:p>\n                <jats:p>We enrolled 53 suspected NCP patients, among whom 20 were laboratory-confirmed. Fourteen (70%) and 3 (15%) patients were positive for the first and second SARS-CoV-2 RT-PCR test, respectively. All NCP patients were positive for mNGS. Chest CT images and the symptoms of early stage NCP patients were similar to other viral pneumonia patients. We identified 11 of 20 co-infections in NCP cases, including regular respiratory virus, fungi and bacteria synchronously. Genomic analysis showed that 8 of 10 cases had no mutation in virus genome, while 2 cases had only one single mutation in N gene.</jats:p>\n                <jats:p>Our study discovered that a combination of chest CT, SARS-CoV-2 RT-PCR and multi-plex PCR is recommended in regions outside Hubei province. Co-infection of other pathogens with SARS-CoV-2 exists and should be acknowledged. Repeated sampling, change of specimen type or metagenomics sequencing could further facilitate during critical clinical cases.</jats:p>",
+    "DOI": "10.1101/2020.02.13.20022673",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2020-02-17T11:45:14Z",
+      "timestamp": 1581939914000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 39,
+    "title": [
+      "Optimizing diagnostic strategy for novel coronavirus pneumonia, a multi-center study in Eastern China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Jing-Wen",
+        "family": "Ai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Hao-Cheng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Teng",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mengqi",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi-Qi",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Han-Yue",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xian",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhongliang",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guo-Qing",
+        "family": "Zang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen-Jing",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong-Jun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "De-Sheng",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ming-Zhe",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing-Ying",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jia-Zhen",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen-Hong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.1",
+        "unstructured": "Centre for Health Protection of the Hong Kong Special Administrative Region Government. CHP provides further information on cluster of pneumonia cases in Wuhan.. In. https://www.info.gov.hk/gia/general/202001/12/P2020011200710.htm."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.2",
+        "unstructured": "J. C. Chinese researchers reveal draft genome of virus implicated in Wuhan pneumonia outbreak. In. Washington, DC: American Association for the Advancement of Science https://www.sciencemag.org/news/2020/01/chinese-researchers-reveal-draft-genome-virus-implicated-wuhan-pneumonia-outbreak."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.4",
+        "unstructured": "WHO names deadly virus from China as \u2018COVID-19\u2019. In. https://guardian.ng/news/who-names-deadly-virus-from-china-as-covid-19/."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3346/jkms.2020.35.e61"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.7",
+        "unstructured": "Wang C , Horby PW , Hayden FG , Gao GF . A novel coronavirus outbreak of global health concern. Lancet. 2020:S0140-6736(0120)30185-30189."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1623"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.9",
+        "unstructured": "Chan JF-W , Yuan S , Kok K-H , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020:S0140-6736(0120)30154-30159."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.10",
+        "unstructured": "In. https://www.cnn.com/2020/02/12/asia/princess-diamond-cruise-crew-intl-hnk/index.html."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.11",
+        "unstructured": "Guan W-j , Ni Z-y , Hu Y , et al. Clinical characteristics of 2019 novel coronavirus infection in China. British Medical Journal. 2020."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.12",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020:S0140-6736(0120)30183-30185."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.13",
+        "unstructured": "Xinhua News. \u226a \u65b0 \u95fb 1+1 \u226b : \u767d \u5ca9 \u677e \u5bf9 \u8bdd \u738b \u8fb0 \u9662 \u58eb. 2020.2.5. http://www.chinanews.com/shipin/2020/02-05/news846924.shtml.2020.2.5."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.14",
+        "unstructured": "2020 National Health Commision of the People\u2019s Republic of China. New coronavirus pneumonia prevention and control program (the fifth edition).. In. http://www.nhc.gov.cn/yzygj/s7653p/202002/3b09b894ac9b4204a79db5b8912d4440.shtml.."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.15",
+        "unstructured": "World Health Organization. Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance. In. https://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected."
+      },
+      {
+        "issue": "5",
+        "key": "2020110711350568000_2020.02.13.20022673v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1016/j.jinf.2019.08.012",
+        "article-title": "Incremental value of metagenomic next generation sequencing for the diagnosis of suspected focal infection in adults",
+        "volume": "79",
+        "year": "2019",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkg500"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msy096"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.19",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020:S0140-6736(0120)30211-30217."
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41576-019-0113-7"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1803396"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0062083"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1401268"
+      },
+      {
+        "key": "2020110711350568000_2020.02.13.20022673v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "issue": "1",
+        "key": "2020110711350568000_2020.02.13.20022673v1.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1361",
+        "DOI": "10.1080/22221751.2019.1664939",
+        "article-title": "CRISPR-based rapid and ultra-sensitive diagnostic test for Mycobacterium tuberculosis",
+        "volume": "8",
+        "year": "2019",
+        "journal-title": "Emerg Microbes Infect"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.13.20022673",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:55Z",
+      "timestamp": 1768484035000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.13.20022673"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "references-count": 26,
+    "URL": "https://doi.org/10.1101/2020.02.13.20022673",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

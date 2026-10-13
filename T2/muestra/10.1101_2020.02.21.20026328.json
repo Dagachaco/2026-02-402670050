@@ -1,0 +1,392 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          28
+        ]
+      ],
+      "date-time": "2026-03-28T10:09:12Z",
+      "timestamp": 1774692552785,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 22,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The COVID-19 epidemic originated in Wuhan City of Hubei Province in December 2019 and has spread throughout China. Understanding the fast evolving epidemiology and transmission dynamics of the outbreak beyond Hubei would provide timely information to guide intervention policy.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    We collected individual information on 8,579 laboratory-confirmed cases from official publically sources reported outside Hubei in mainland China, as of February 17, 2020. We estimated the temporal variation of the demographic characteristics of cases and key time-to-event intervals. We used a Bayesian approach to estimate the dynamics of the net reproduction number (\n                    <jats:italic>Rt</jats:italic>\n                    ) at the provincial level.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    The median age of the cases was 44 years, with an increasing of cases in younger age groups and the elderly as the epidemic progressed. The delay from symptom onset to hospital admission decreased from 4.4 days (95%CI: 0.0-14.0) until January 27 to 2.6 days (0.0-9.0) from January 28 to February 17. The mean incubation period was estimated at 5.2 days (1.8-12.4) and the mean serial interval at 5.1 days (1.3-11.6). The epidemic dynamics in provinces outside Hubei was highly variable, but consistently included a mix of case importations and local transmission. We estimate that the epidemic was self-sustained for less than three weeks with\n                    <jats:italic>Rt</jats:italic>\n                    reaching peaks between 1.40 (1.04-1.85) in Shenzhen City of Guangdong Province and 2.17 (1.69-2.76) in Shandong Province. In all the analyzed locations (n=10)\n                    <jats:italic>Rt</jats:italic>\n                    was estimated to be below the epidemic threshold since the end of January.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Our findings suggest that the strict containment measures and movement restrictions in place may contribute to the interruption of local COVID-19 transmission outside Hubei Province. The shorter serial interval estimated here implies that transmissibility is not as high as initial estimates suggested.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.21.20026328",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T15:35:16Z",
+      "timestamp": 1582558516000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+      "Evolving epidemiology of novel coronavirus diseases 2019 and possible interruption of local transmission outside Hubei Province in China: a descriptive and modeling study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Juanjuan",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Maria",
+        "family": "Litvinova",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaowei",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xinghui",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mei",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lan",
+        "family": "Yi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xinhua",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qianhui",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuxia",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiling",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Juan",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kaiyuan",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "suffix": "Jr",
+        "given": "Ira M.",
+        "family": "Longini",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "M. Elizabeth",
+        "family": "Halloran",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin J.",
+        "family": "Cowling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stefano",
+        "family": "Merler",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Cecile",
+        "family": "Viboud",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Alessandro",
+        "family": "Vespignani",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marco",
+        "family": "Ajelli",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongjie",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.1",
+        "unstructured": "Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel Coronavirus. 2020. http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf (accessed Feb 18 2020)."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.2",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Update on COVID-19 as of 24:00 on February 17, 2020. 2020. http://www.nhc.gov.cn/xcs/yqtb/202002/261f72a74be14c4db6e1b582133cf4b7.shtml (accessed Feb 18 2020)."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.3",
+        "unstructured": "World Health Organization. Coronavirus disease 2019 (COVID-19) Situation Report \u2013 28 2020. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200217-sitrep-28-covid-19.pdf?sfvrsn=a19cf2ad_2 (accessed Feb 18 2020)."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.4",
+        "unstructured": "World Health Organization. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). 2020. https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov) (accessed Feb 18 2020)."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.5",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) \u2014 China, 2020. China CDC Weekly 2020; 2(x).",
+        "DOI": "10.46234/ccdcw2020.032"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.7",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Diagnosis and treatment guideline on pneumonia infection with 2019 novel coronavirus (the fifth trial edition). 2020. http://www.nhc.gov.cn/xcs/zhengcwj/202002/d4b895337e19445f8d728fcaf1e3e13a.shtml (accessed Feb 18 2020)."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1811115115"
+      },
+      {
+        "issue": "16",
+        "key": "2020110910002487000_2020.02.21.20026328v1.9",
+        "first-page": "1481",
+        "volume": "371",
+        "author": "World Health Organization Ebola Response Team",
+        "year": "2014",
+        "journal-title": "Ebola virus disease in West Africa--the first 9 months of the epidemic and forward projections. N Engl J Med"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.11",
+        "unstructured": "Ministry of Education of the People\u2019s Republic of China. Notice of the Ministry of Education on the postponement of the spring semester of 2020. 2020. http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202001/t20200127_416672.html (accessed Feb 18 2020)."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000044"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Backer JA , Klinkenberg D , Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020. Euro Surveill 2020; 25(5).",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000062"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1410.080646"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1821298116"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.17",
+        "unstructured": "People\u2019s Government of Hubei Province. Notice of the General Office of the People\u2019s Government of Hubei Province on Extending the Spring Festival Holiday of 2020. 2020. https://hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202002/t20200201_2017564.shtml (accessed Feb 18 2020)."
+      },
+      {
+        "issue": "0",
+        "key": "2020110910002487000_2020.02.21.20026328v1.18",
+        "first-page": "E001",
+        "article-title": "2019-nCoV: new challenges from coronavirus",
+        "volume": "54",
+        "year": "2020",
+        "journal-title": "Chin J Prev Med"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yu P , Zhu J , Zhang Z , Han Y , Huang L. A familial cluster of infection associated with the 2019 novel coronavirus indicating potential person-to-person transmission during the incubation period. J Infect Dis 2020.",
+        "DOI": "10.1093/infdis/jiaa077"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zou L , Ruan F , Huang M , et al. SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMc2001737"
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.21",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Inclusion of 2019 novel coronavirus diseases (COVID-19) into statutory infectious disease management. 2020. http://www.nhc.gov.cn/jkj/s7916/202001/44a3b8245e8049d2837a4f27529cd386.shtml (accessed Feb 18 2020)."
+      },
+      {
+        "key": "2020110910002487000_2020.02.21.20026328v1.22",
+        "unstructured": "McNeice A. WHO chief praises containment efforts. 2020. http://www.chinadaily.com.cn/a/202001/31/WS5e3335fba310128217273bff.html (accessed Feb 18 2020)."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.21.20026328",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:10Z",
+      "timestamp": 1768484050000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.21.20026328"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 22,
+    "URL": "https://doi.org/10.1101/2020.02.21.20026328",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/s1473-3099(20)30230-9",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

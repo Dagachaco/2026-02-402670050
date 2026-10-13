@@ -1,0 +1,261 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:31:43Z",
+      "timestamp": 1768545103867,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 19,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The novel coronavirus (2019-nCoV) is a recently emerged human pathogen that has spread widely since January 2020. Initially, the basic reproductive number,\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  , was estimated to be 2.2 to 2.7. Here we provide a new estimate of this quantity. We collected extensive individual case reports and estimated key epidemiology parameters, including the incubation period. Integrating these estimates and high-resolution real-time human travel and infection data with mathematical models, we estimated that the number of infected individuals during early epidemic double every 2.4 days, and the\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  value is likely to be between 4.7 and 6.6. We further show that quarantine and contact tracing of symptomatic individuals alone may not be effective and early, strong control measures are needed to stop transmission of the virus.\n                </jats:p>\n                <jats:sec>\n                  <jats:title>One-sentence summary</jats:title>\n                  <jats:p>By collecting and analyzing spatiotemporal data, we estimated the transmission potential for 2019-nCoV.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.07.20021154",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T15:55:11Z",
+      "timestamp": 1581436511000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 115,
+    "title": [
+      "The Novel Coronavirus, 2019-nCoV, is Highly Contagious and More Infectious Than Initially Estimated"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Steven",
+        "family": "Sanche",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yen Ting",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chonggang",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ethan",
+        "family": "Romero-Severson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nick",
+        "family": "Hengartner",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5307-8934",
+        "authenticated-orcid": false,
+        "given": "Ruian",
+        "family": "Ke",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.1",
+        "unstructured": "Q. Li et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med, (2020)."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.2",
+        "unstructured": "WHO, Pneumonia of unknown cause \u2013 China (https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/; accessed January 30, 2020), (2020)."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. F. Chan et al., A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet, (2020).",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "#cr-split#-2020110610501063000_2020.02.07.20021154v1.4.1",
+        "unstructured": "WHO, Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). (https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+      },
+      {
+        "key": "#cr-split#-2020110610501063000_2020.02.07.20021154v1.4.2",
+        "unstructured": "accessed January 30, 2020), (2020)."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.5",
+        "unstructured": "J. T. Wu , K. Leung , G. M. Leung , Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet, (2020)."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.6",
+        "unstructured": "ChinaDailyNews, Railway corporation using big data to trace potential virus carrier. (https://www.chinadaily.com.cn/a/202001/30/WS5e329ca2a310128217273b89.html; accessed Feburary 1, 2020), (2020)."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.7",
+        "unstructured": "N. Imai et al., Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China (https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf; accessed Feburary 2, 2020), (2020)."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.8",
+        "unstructured": "N. Imai , I. Dorigatti , A. Cori , S. Riley , N. M. Ferguson , Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. (https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-17-01-2020.pdf; accessed Feburary 2, 2020), (2020)."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1177345"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2017.45"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.12",
+        "unstructured": "R. M. Anderson , R. M. May , Infectious Diseases of Humans: Dynamics and Control. Oxford science publications (Oxford University Press, 1991), pp. 768."
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Rothe et al., Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med, (2020).",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.0020174"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13410-1"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0307506101"
+      },
+      {
+        "key": "2020110610501063000_2020.02.07.20021154v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0611071104"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.07.20021154",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:47Z",
+      "timestamp": 1768484027000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.07.20021154"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 19,
+    "URL": "https://doi.org/10.1101/2020.02.07.20021154",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3201/eid2607.200282",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

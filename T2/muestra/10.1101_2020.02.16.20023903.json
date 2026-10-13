@@ -1,0 +1,388 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:04Z",
+      "timestamp": 1768549204558,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Since late December, 2019, an outbreak of pneumonia cases caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan, and continued to spread throughout China and across the globe. To date, few data on immunologic features of Coronavirus Disease 2019 (COVID-19) have been reported.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In this single-centre retrospective study, a total of 21 patients with pneumonia who were laboratory-confirmed to be infected with SARS-CoV-2 in Wuhan Tongji hospital were included from Dec 19, 2019 to Jan 27, 2020. The immunologic characteristics as well as their clinical, laboratory, radiological features were compared between 11 severe cases and 10 moderate cases.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    Of the 21 patients with COVID-19, only 4 (19%) had a history of exposure to the Huanan seafood market. 7 (33.3%) patients had underlying conditions. The average age of severe and moderate cases was 63.9 and 51.4 years, 10 (90.9%) severe cases and 7 (70.0%) moderate cases were male. Common clinical manifestations including fever (100%, 100%), cough (70%, 90%), fatigue (100%, 70%) and myalgia (50%, 30%) in severe cases and moderate cases. PaO2/FiO2 ratio was significantly lower in severe cases (122.9) than moderate cases (366.2). Lymphocyte counts were significantly lower in severe cases (0.7 \u00d7 10\u25a1/L) than moderate cases (1.1 \u00d7 10\u25a1/L). Alanine aminotransferase, lactate dehydrogenase levels, high-sensitivity C-reactive protein and ferritin were significantly higher in severe cases (41.4 U/L, 567.2 U/L, 135.2 mg/L and 1734.4 ug/L) than moderate cases (17.6 U/L, 234.4 U/L, 51.4 mg/L and 880.2 ug /L). IL-2R, TNF-\u03b1 and IL-10 concentrations on admission were significantly higher in severe cases (1202.4 pg/mL, 10.9 pg/mL and 10.9 pg/mL) than moderate cases (441.7 pg/mL, 7.5 pg/mL and 6.6 pg/mL). Absolute number of total T lymphocytes, CD4\n                    <jats:sup>+</jats:sup>\n                    T cells and CD8\n                    <jats:sup>+</jats:sup>\n                    T cells decreased in nearly all the patients, and were significantly lower in severe cases (332.5, 185.6 and 124.3 \u00d7 10\n                    <jats:sup>6</jats:sup>\n                    /L) than moderate cases (676.5, 359.2 and 272.0 \u00d7 10\n                    <jats:sup>6</jats:sup>\n                    /L). The expressions of IFN-\u03b3 by CD4\n                    <jats:sup>+</jats:sup>\n                    T cells tended to be lower in severe cases (14.6%) than moderate cases (23.6%).\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>\n                    The SARS-CoV-2 infection may affect primarily T lymphocytes, particularly CD4\n                    <jats:sup>+</jats:sup>\n                    T cells, resulting in significant decrease in number as well as IFN-\u03b3 production, which may be associated with disease severity. Together with clinical characteristics, early immunologic indicators including diminished T lymphocytes and elevated cytokines may serve as potential markers for prognosis in COVID-19.\n                  </jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.16.20023903",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2020-02-19T14:48:24Z",
+      "timestamp": 1582123704000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 113,
+    "title": [
+      "Clinical and immunologic features in severe and moderate forms of Coronavirus Disease 2019"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Guang",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Di",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong",
+        "family": "Cao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Da",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongwu",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoyun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huilong",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haijing",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoping",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Minxia",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shiji",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianxin",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meifang",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shusheng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoping",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianping",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qin",
+        "family": "Ning",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gralinski LE , Menachery VD . Return of the Coronavirus: 2019-nCoV. Viruses 2020; 12(2).",
+        "DOI": "10.3390/v12020135"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.5",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.7",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020."
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.8",
+        "first-page": "2020",
+        "volume": "20",
+        "author": "WHO",
+        "year": "2020",
+        "journal-title": "Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nanshan Chen MZ , Xuan Dong , Jieming Qu , Fengyun Gong , Yang Han , Yang Qiu , Jingli Wang , Ying Liu , Yuan Wei , Jia\u2019an Xia , Ting Yu ,, Xinxin Zhang LZ . Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.1401490"
+      },
+      {
+        "issue": "2",
+        "key": "2020110712050502000_2020.02.16.20023903v1.11",
+        "first-page": "119",
+        "article-title": "Immunological responses against SARS-coronavirus infection in humans",
+        "volume": "1",
+        "year": "2004",
+        "journal-title": "Cell Mol Immunol"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1615/CritRevImmunol.v18.i6.50"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nri1270"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M13-2486"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jiv381"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01281-09"
+      },
+      {
+        "issue": "3",
+        "key": "2020110712050502000_2020.02.16.20023903v1.17",
+        "first-page": "217",
+        "article-title": "[Clinical pathology and pathogenesis of severe acute respiratory syndrome]",
+        "volume": "17",
+        "year": "2003",
+        "journal-title": "Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1323279111"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jiv380"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan Y , Shang J , Graham R , Baric RS , Li F. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J Virol 2020.",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2004.07.014"
+      },
+      {
+        "issue": "2",
+        "key": "2020110712050502000_2020.02.16.20023903v1.22",
+        "first-page": "311",
+        "article-title": "Hematological findings in SARS patients and possible mechanisms (review)",
+        "volume": "14",
+        "year": "2004",
+        "journal-title": "Int J Mol Med"
+      },
+      {
+        "key": "2020110712050502000_2020.02.16.20023903v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1600-065X.1982.tb00431.x"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.20023903",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:59Z",
+      "timestamp": 1768484039000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.16.20023903"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.16.20023903",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1172/jci137244",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

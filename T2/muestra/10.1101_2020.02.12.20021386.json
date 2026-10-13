@@ -1,0 +1,326 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T04:50:28Z",
+      "timestamp": 1772254228069,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 26,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>BACKGROUND</jats:title>\n                  <jats:p>The ongoing worldwide outbreak of the 2019-nCoV is markedly similar to the severe acute respiratory syndrome (SARS) outbreak 17 years ago. During the 2002-2003 SARS outbreak, healthcare workers formed a special population of patients. Although virus-specific IgG play important roles in virus neutralization and prevention against future infection, limited information is available regarding the long term persistence of IgG after infection with SARS-like coronavirus.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>METHODS</jats:title>\n                  <jats:p>A long-term prospective cohort study followed 34 SARS-CoV-infected healthcare workers from a hospital with clustered infected cases during the 2002-2003 SARS outbreak in Guangzhou, China, with a 13-year follow-up. Serum samples were collected annually from 2003-2015. Twenty SARS-CoV-infected and 40 non-infected healthcare workers were enrolled in 2015, and their serum samples were collected. All sera were tested for IgG antibodies with ELISA using whole virus and a recombinant nucleocapsid protein of SARS-CoV, as a diagnostic antigen.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>RESULTS</jats:title>\n                  <jats:p>Anti SARS-CoV IgG was found to persist for up to 12 years. IgG titers typically peaked in 2004, declining rapidly from 2004-2006, and then continued to decline at a slower rate. IgG titers in SARS-CoV-infected healthcare workers remained at a significantly high level until 2015. Patients treated with corticosteroids at the time of infection were found to have lower IgG titers than those without.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>CONCLUSIONS</jats:title>\n                  <jats:p>IgG antibodies against SARS-CoV can persist for at least 12 years. The presence of SARS-CoV IgG might provide protection against SARS-CoV and other betacoronavirus. This study provides valuable information regarding humoral immune responses against SARS-CoV and the 2019-nCoV.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.12.20021386",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ],
+      "date-time": "2020-02-14T18:15:15Z",
+      "timestamp": 1581704115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 53,
+    "title": [
+      "Long-Term Persistence of IgG Antibodies in SARS-CoV Infected Healthcare Workers"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Xiaoqin",
+        "family": "Guo",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Zhongmin",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chaohui",
+        "family": "Duan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zeliang",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guoling",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mengfeng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiahai",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMra032498"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "721",
+        "DOI": "10.1186/s12879-014-0721-y",
+        "article-title": "Spatial pattern of severe acute respiratory syndrome in-out flow in 2003 in Mainland China",
+        "volume": "14",
+        "year": "2014",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3855/jidc.3084"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.5",
+        "first-page": "986",
+        "volume": "52",
+        "author": "Centers for Disease C, Prevention",
+        "year": "2003",
+        "journal-title": "Prevalence of IgG antibody to SARS-associated coronavirus in animal traders--Guangdong Province, China, 2003. MMWR Morbidity and mortality weekly report"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2004.06.005"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1101.040138"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.8",
+        "unstructured": "Organization WH. China\u2019s latest SARS outbreak has been contained, but biosafety concerns remain - Update 7, 18 May 2004. 2007."
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "714",
+        "DOI": "10.1016/S0140-6736(03)14250-X",
+        "article-title": "Canadian officials watch SARS-like mystery bug",
+        "volume": "362",
+        "year": "2003",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1087139"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.12",
+        "unstructured": "Fields B , Knipe D , Howley P. Fields virology. 5th. Philadelphia: Wolters Kluwer Health/Lippincott Wilkins & Williams; 2007."
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2006.140402"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365548.2011.560184"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/500469"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.18",
+        "first-page": "343",
+        "article-title": "A three-year follow-up study on sera specific antibody in severe acute respiratory syndrome cases after the onset of illness",
+        "volume": "28",
+        "year": "2007",
+        "journal-title": "Zhonghua Liu Xing Bing Xue Za Zhi"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc070348"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.20",
+        "unstructured": "Wang H , Jiang S , Wang E , Zhou X , Li Y , Zhao M. Follow-up study on serological detection of anti-SARS-CoV IgG/IgM antibody and its significance. Infectious Disease Information 2009:235\u20137."
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "2195",
+        "DOI": "10.1097/00029330-200712020-00007",
+        "article-title": "Comparison of effectiveness of whole viral, N and N199 proteins, by ELISA for the rapid diagnosis of severe acute respiratory syndrome coronavirus",
+        "volume": "120",
+        "year": "2007",
+        "journal-title": "Chinese Medical Journal"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.22",
+        "first-page": "1487",
+        "article-title": "Misdiagnostic analysis of clinically diagnosed severe acute respiratory syndrome after following up 197 convalescent patients",
+        "volume": "118",
+        "year": "2005",
+        "journal-title": "Chin Med J (Engl)"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1107.041165"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(04)15729-2"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/421019"
+      },
+      {
+        "key": "2020110612350839000_2020.02.12.20021386v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0111988"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20021386",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:52Z",
+      "timestamp": 1768484032000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20021386"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "references-count": 26,
+    "URL": "https://doi.org/10.1101/2020.02.12.20021386",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

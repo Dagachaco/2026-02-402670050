@@ -1,0 +1,444 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T11:50:08Z",
+      "timestamp": 1768477808316,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          13
+        ]
+      ]
+    },
+    "group-title": "Neuroscience",
+    "reference-count": 52,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              13
+            ]
+          ],
+          "date-time": "2017-07-13T00:00:00Z",
+          "timestamp": 1499904000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Many believe that the brain implements probabilistic reasoning and that it represents information via some form of population (distributed) code. Most prior probabilistic population coding (PPC) theories share basic properties: 1) continuous-valued units; 2) fully/densely distributed codes; 3) graded synap-ses; 4) rate coding; 5) units have innate low-complexity, usually unimodal, tuning functions (TFs); and 6) units are intrinsically noisy and noise is generally considered harmful. I describe a radically different theory that assumes: 1) binary units; 2) sparse distributed codes (SDC); 3)\n                  <jats:italic>functionally</jats:italic>\n                  binary synapses; 4) a novel,\n                  <jats:italic>atemporal</jats:italic>\n                  , combinatorial spike code; 5) units initially have flat TFs (all weights zero); and 6) noise is a resource generated/used, normatively, to cause similar inputs to map to similar codes. The theory, Sparsey, was introduced 25+ years ago as: a) an explanation of the physical/computational relationship of episodic and semantic memory for the spatiotemporal (sequential) pattern domain; and b) a canonical, mesoscale cortical probabilistic circuit/algorithm possessing fixed-time, unsupervised, single-trial, non-optimization-based, unsupervised learning and fixed-time best-match (approximate) retrieval; but was not described as an alternative to PPC-type theories. Here, we show that: a) the active SDC in a Sparsey coding field (CF) simultaneously represents not only the likelihood of the single most likely input but the likelihoods of all hypotheses stored in the CF; and b) the whole explicit distribution can be sent, e.g., to a downstream CF, via a set of simultaneous single spikes from the neurons comprising the active SDC.\n                </jats:p>",
+    "DOI": "10.1101/162941",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2017-07-14T01:10:17Z",
+      "timestamp": 1499994617000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Radically New Theory of how the Brain Represents and Computes with Probabilities"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1725-910X",
+        "authenticated-orcid": false,
+        "given": "Gerard (Rod)",
+        "family": "Rinkus",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080314032266000_162941v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pouget, A. , et al., Probabilistic brains: knowns and unknowns. Nat Neurosci, 2013. 16(9)",
+        "DOI": "10.1038/nn.3495"
+      },
+      {
+        "key": "2024080314032266000_162941v2.2",
+        "unstructured": "Pitkow, X. and D.E. angelaki , How the brain might work: Statistics flow in redundant population codes. (submitted), 2016."
+      },
+      {
+        "issue": "1",
+        "key": "2024080314032266000_162941v2.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1146/annurev-neuro-071013-014017",
+        "article-title": "Neural Coding of Uncertainty and Probability",
+        "volume": "37",
+        "year": "2014",
+        "journal-title": "Ann. Rev. Neuroscience"
+      },
+      {
+        "key": "2024080314032266000_162941v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tins.2012.03.008"
+      },
+      {
+        "key": "2024080314032266000_162941v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Georgopoulos, A. , et al., On the relations between the direction of two-dimensional arm movements and cell discharge in primate motor cortex. The J. of Neuroscience, 1982. 2(11).",
+        "DOI": "10.1523/JNEUROSCI.02-11-01527.1982"
+      },
+      {
+        "key": "2024080314032266000_162941v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pouget, A. , P. Dayan , and R. Zemel , Info. Proc. with pop. codes. Nat Rev Neuro, 2000. 1(2)",
+        "DOI": "10.1038/35039062"
+      },
+      {
+        "key": "2024080314032266000_162941v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.neuro.26.041002.131112"
+      },
+      {
+        "key": "2024080314032266000_162941v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/089976698300017818"
+      },
+      {
+        "key": "2024080314032266000_162941v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn1691"
+      },
+      {
+        "key": "2024080314032266000_162941v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ma, W.J. , et al., Bayesian inference with probabilistic pop. codes. Nat Neuro, 2006. 9(11)",
+        "DOI": "10.1038/nn1790"
+      },
+      {
+        "key": "2024080314032266000_162941v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Boerlin, M. & S. Den\u00e8ve , Spike-Based Pop. Coding and Work. Mem. PLOS CB, 2011. 7(2)",
+        "DOI": "10.1371/journal.pcbi.1001080"
+      },
+      {
+        "key": "2024080314032266000_162941v2.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sanger, T.D. , Neural population codes. Current Opin. in Neurobio., 2003. 13(2)",
+        "DOI": "10.1016/S0959-4388(03)00034-5"
+      },
+      {
+        "key": "2024080314032266000_162941v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1068/p010371"
+      },
+      {
+        "key": "2024080314032266000_162941v2.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cox, D.D. and J.J. DiCarlo , Does Learned Shape Selectivity in Inferior Temporal Cortex Automatically Generalize Across Retinal Position? J. Neurosci., 2008. 28(40)",
+        "DOI": "10.1523/JNEUROSCI.2142-08.2008"
+      },
+      {
+        "key": "2024080314032266000_162941v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nandy, Anirvan , et al., The Fine Structure of Shape Tuning in Area V4. Neuron, 2013. 78(6)",
+        "DOI": "10.1016/j.neuron.2013.04.016"
+      },
+      {
+        "key": "2024080314032266000_162941v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12742"
+      },
+      {
+        "key": "2024080314032266000_162941v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2016.07.026"
+      },
+      {
+        "key": "2024080314032266000_162941v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.2974-11.2011"
+      },
+      {
+        "key": "2024080314032266000_162941v2.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yen, S.-C. , J. Baker , and C.M. Gray , Heterogeneity in the Responses of Adjacent Neurons to Natural Stimuli in Cat Striate Cortex. Journal of Neurophysiology, 2007. 97(2)",
+        "DOI": "10.1152/jn.00747.2006"
+      },
+      {
+        "key": "2024080314032266000_162941v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.2620"
+      },
+      {
+        "key": "2024080314032266000_162941v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.5153-10.2011"
+      },
+      {
+        "key": "2024080314032266000_162941v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.conb.2016.01.010"
+      },
+      {
+        "key": "2024080314032266000_162941v2.23",
+        "unstructured": "Hebb, D.O. , The organization of behavior; a neuropsychological theory. 1949, NY: Wiley."
+      },
+      {
+        "key": "2024080314032266000_162941v2.24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yuste, R. , From the neuron doctrine to neural networks. Nat Rev Neurosci, 2015. 16(8)",
+        "DOI": "10.1038/nrn3962"
+      },
+      {
+        "key": "2024080314032266000_162941v2.25",
+        "first-page": "doctrine",
+        "article-title": "Towards neural po",
+        "volume": "55",
+        "year": "2019",
+        "journal-title": "Curr Op Neurobio"
+      },
+      {
+        "key": "2024080314032266000_162941v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.conb.2016.03.002"
+      },
+      {
+        "key": "2024080314032266000_162941v2.27",
+        "unstructured": "Rinkus, G. , A Combinatorial Neural Network Exhibiting Episodic and Semantic Memory Properties for Spatio-Temporal Patterns, in Cognitive & Neural Systems. 1996, Boston U."
+      },
+      {
+        "key": "2024080314032266000_162941v2.28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rinkus, G. , A cortical sparse distributed coding model linking mini- and macrocolumn-scale functionality. Frontiers in Neuroanatomy, 2010. 4.",
+        "DOI": "10.3389/fnana.2010.00017"
+      },
+      {
+        "key": "2024080314032266000_162941v2.29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rinkus, G.J. , Sparsey^TM: Spatiotemporal Event Recognition via Deep Hierarchical Sparse Distributed Codes. Frontiers in Computational Neuroscience, 2014. 8.",
+        "DOI": "10.3389/fncom.2014.00160"
+      },
+      {
+        "key": "2024080314032266000_162941v2.30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Buzs\u00e1ki, G. , Neural Syntax: Cell Assemblies, Synapsembles, Neuron, 2010. 68(3)",
+        "DOI": "10.1016/j.neuron.2010.09.023"
+      },
+      {
+        "key": "2024080314032266000_162941v2.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Watrous, A.J. , et al., More than spikes: common oscillatory mechanisms for content specific neural representations during perception and memory. Curr. Opin. in Neurobio., 2015. 31",
+        "DOI": "10.1016/j.conb.2014.07.024"
+      },
+      {
+        "key": "2024080314032266000_162941v2.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature13162"
+      },
+      {
+        "key": "2024080314032266000_162941v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.neuro.051508.135603"
+      },
+      {
+        "key": "2024080314032266000_162941v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1113/jphysiol.1962.sp006837"
+      },
+      {
+        "key": "2024080314032266000_162941v2.35",
+        "unstructured": "Rinkus, G. , (sub\u2019d CCN) The Classical Tuning Function is an Artifact of a Neuron\u2019s Participations in Multiple Cell Assemblies. 2023."
+      },
+      {
+        "key": "2024080314032266000_162941v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1113/jphysiol.1986.sp016112"
+      },
+      {
+        "key": "2024080314032266000_162941v2.37",
+        "first-page": "5",
+        "article-title": "Locus coeruleus-evoked responses in behaving rats: A clue to the role of noradrenaline in memory",
+        "volume": "35",
+        "year": "1994",
+        "journal-title": "Brain Research Bulletin"
+      },
+      {
+        "key": "2024080314032266000_162941v2.38",
+        "unstructured": "Rinkus, G. , Population Coding using Familiarity-Contingent Noise (poster), in AREADNE 2008: Research in Encoding And Decoding of Neural Ensembles. 2008: Santorini, GR."
+      },
+      {
+        "key": "2024080314032266000_162941v2.39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rinkus, G. A cortical theory of super-efficient probabilistic inference based on sparse distributed representations. in CNS 2013. 2013. Paris.",
+        "DOI": "10.1186/1471-2202-14-S1-P324"
+      },
+      {
+        "key": "2024080314032266000_162941v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/222960a0"
+      },
+      {
+        "key": "2024080314032266000_162941v2.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1113/jphysiol.1969.sp008820"
+      },
+      {
+        "key": "2024080314032266000_162941v2.42",
+        "unstructured": "Rajkumar, V. & X. Pitkow , Inference by Reparameterization in Neural Pop. Codes. 2016."
+      },
+      {
+        "key": "2024080314032266000_162941v2.43",
+        "unstructured": "Bengio, Y. , Deep Learning of Representations: Looking Forward, in Statistical Language and Speech Processing: First International Conference, SLSP 2013, Tarragona, Spain, July 29-31, 2013. Proceedings, A.-H. Dediu , et al., Editors. 2013, Springer Berlin Heidelberg."
+      },
+      {
+        "key": "2024080314032266000_162941v2.44",
+        "unstructured": "Salakhutdinov, R. and G. Hinton . Semantic Hashing. in SIGIR workshop on Information Retrieval and applications of Graphical Models. 2007."
+      },
+      {
+        "key": "2024080314032266000_162941v2.45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Salakhutdinov, R. & G. Hinton , Semantic hashing. Int\u2019l J. Approx. Reasoning, 2009. 50(7)",
+        "DOI": "10.1016/j.ijar.2008.11.006"
+      },
+      {
+        "key": "2024080314032266000_162941v2.46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Grauman, K. and R. Fergus , Learning Binary Hash Codes for Large-Scale Image Search, in Machine Learning for Computer Vision, R. Cipolla , S. Battiato , and G.M. Farinella , Editors. 2013, Springer Berlin Heidelberg: Berlin, Heidelberg. p. 49\u201387.",
+        "DOI": "10.1007/978-3-642-28661-2_3"
+      },
+      {
+        "key": "2024080314032266000_162941v2.47",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, J. , et al., Learning to Hash for Indexing Big Data - A Survey. Proc IEEE, 2016. 104(1)",
+        "DOI": "10.1109/JPROC.2015.2487976"
+      },
+      {
+        "key": "2024080314032266000_162941v2.48",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kohn, A. , et al., Correlations and Neuronal Pop. Information. Ann. Rev. Neuro., 2016. 39",
+        "DOI": "10.1146/annurev-neuro-070815-013851"
+      },
+      {
+        "key": "2024080314032266000_162941v2.49",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cohen, M.R. & A. Kohn , Measuring and interpreting neuronal corr. Nat Neuro, 2011. 14(7)",
+        "DOI": "10.1038/nn.2842"
+      },
+      {
+        "key": "2024080314032266000_162941v2.50",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schneidman, E. , Towards design princ. of neural pop. codes. Curr Op Neurobio., 2016. 37",
+        "DOI": "10.1016/j.conb.2016.03.001"
+      },
+      {
+        "key": "2024080314032266000_162941v2.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/NECO_a_00459"
+      },
+      {
+        "issue": "1",
+        "key": "2024080314032266000_162941v2.52",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1038/nn.4455",
+        "article-title": "Correlations demystified",
+        "volume": "20",
+        "year": "2017",
+        "journal-title": "Nat Neurosci"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/162941",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T22:28:16Z",
+      "timestamp": 1768429696000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/162941"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          13
+        ]
+      ]
+    },
+    "references-count": 52,
+    "URL": "https://doi.org/10.1101/162941",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

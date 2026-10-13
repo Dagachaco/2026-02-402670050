@@ -1,0 +1,249 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:33:07Z",
+      "timestamp": 1768545187853,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 17,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To reconstruct the transmission trajectory of SARS-COV-2 and analyze the effects of control measures in China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Python 3.7.1 was used to write a SEIR class to model the epidemic procedure and a back propagation class to estimate the initial true infected number. The epidemic area in China was divided into three parts, Wuhan city, Hubei province (except Wuhan) and China (except Hubei) based on the different transmission pattern. A limitation factor for the medical resource was imposed to model the infected but not quarantined. Credible data source from Baidu Qianxi were used to assess the number of infected cases migrated from Wuhan to other areas.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    Basic reproduction number, R\n                    <jats:sub>0</jats:sub>\n                    , was 3.6 in the very early stage. The true infected number was 4508 in our model in Wuhan before January 22, 2020. By January 22 2020, it was estimated that 1764 infected cases migrated from Wuhan to other cities in Hubei province. Effective reproductive number, R, gradually decreased from 3.6 (Wuhan, stage 1), 3.4 (Hubei except Wuhan, stage 1) and 3.3 (China except Hubei, stage 1) to 0.67 (Wuhan, stage 4), 0.83 (Hubei except Wuhan, stage 2) and 0.63 (China except Hubei, stage 2), respectively. Especially after January 23, 2020 when Wuhan City was closed, the infected number showed a turning point in Wuhan. By early April, there would be 42073, 21342 and 13384 infected cases in Wuhan, Hubei (except Wuhan) and China (except Hubei) respectively, and there would be 2179, 633 and 107 death in Wuhan, Hubei (except Wuhan) and China (except Hubei) respectively.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>A series of control measures in China have effectively prevented the spread of COVID-19, and the epidemic will end in early April.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.16.20023770",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T23:05:11Z",
+      "timestamp": 1582067111000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Study on SARS-COV-2 transmission and the effects of control measures in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Bo",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Hongwei",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fang",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Martin Enserink. Update: \u2018A bit chaotic.\u2019 Christening of new coronavirus and its disease name create confusion. sciencemag. 2020 Feb 12 [Cited 2020 February 17]. Available from: https://www.sciencemag.org/news/2020/02/bit-chaotic-christening-new-coronavirus-and-its-disease-name-create-confusion",
+        "DOI": "10.1126/science.abb2806"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.3",
+        "article-title": "Potential of large \u2018first generation\u2019 human-to-human transmission of 2019-nCoV",
+        "year": "2020",
+        "journal-title": "J Med Virol"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "e56",
+        "DOI": "10.3346/jkms.2020.35.e56",
+        "article-title": "The Fight against the 2019-nCoV Outbreak: an Arduous March Has Just Begun",
+        "volume": "35",
+        "year": "2020",
+        "journal-title": "J Korean Med Sci"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.10",
+        "article-title": "Novel Wuhan (2019-nCoV) Coronavirus",
+        "year": "2020",
+        "journal-title": "Am J Respir Crit Care Med"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.12",
+        "unstructured": "Cohen J. Chinese researchers reveal draft genome of virus implicated in Wuhan pneumonia outbreak. American Association for the Advancement of Science. 2020 Jan 11 [Cited 2020 February 12]. Available from:https://www.sciencemag.org/news/2020/01/chinese-researchers-reveal-draft-genome-virus-implicated-wuhan-pneumonia-outbreak"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cohen J. Mining coronavirus genomes for clues to the outbreak\u2019s origins [cited 2013 Oct 5]. Database: GISAID [Internet]. Available from: https://www.sciencemag.org/news/2020/01/mining-coronavirus-genomes-clues-outbreak-s-origins",
+        "DOI": "10.1126/science.abb1256"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou P , Yang XL , Wang XG , Hu B , Zhang L , Zhang W , et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv. 2020. https://doi.org/:10.1101/2020.01.22.914952",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.15",
+        "article-title": "Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross-species transmission from snake to human",
+        "year": "2020",
+        "journal-title": "J Med Virol"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5582/bst.2020.01020"
+      },
+      {
+        "key": "2020110711200996000_2020.02.16.20023770v1.17",
+        "article-title": "The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020",
+        "year": "2020",
+        "journal-title": "J Clin Med"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.20023770",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:59Z",
+      "timestamp": 1768484039000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.16.20023770"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.1101/2020.02.16.20023770",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1371/journal.pone.0242649",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

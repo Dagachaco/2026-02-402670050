@@ -1,0 +1,363 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T20:07:43Z",
+      "timestamp": 1772741263038,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 34,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>A novel coronavirus (2019-nCoV) emerged in Wuhan City, China, at the end of 2019 and has caused an outbreak of human-to-human transmission with a Public Health Emergency of International Concern declared by the World Health Organization on January 30, 2020.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Aim</jats:title>\n                  <jats:p>We aimed to estimate the potential risk and geographic range of Wuhan novel coronavirus (2019-nCoV) spread within and beyond China from January through to April, 2020.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>A series of domestic and international travel network-based connectivity and risk analyses were performed, by using de-identified and aggregated mobile phone data, air passenger itinerary data, and case reports.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The cordon sanitaire of Wuhan is likely to have occurred during the latter stages of peak population numbers leaving the city before Lunar New Year (LNY), with travellers departing into neighbouring cities and other megacities in China. We estimated that 59,912 air passengers, of which 834 (95% UI: 478 - 1349) had 2019-nCoV infection, travelled from Wuhan to 382 cities outside of mainland China during the two weeks prior to Wuhan\u2019s lockdown. The majority of these cities were in Asia, but major hubs in Europe, the US and Australia were also prominent, with strong correlation seen between predicted importation risks and reported cases. Because significant spread has already occurred, a large number of airline travellers (3.3 million under the scenario of 75% travel reduction from normal volumes) may be required to be screened at origin high-risk cities in China and destinations across the globe for the following three months of February to April, 2020 to effectively limit spread beyond its current extent.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Further spread of 2019-nCoV within China and international exportation is likely to occur. All countries, especially vulnerable regions, should be prepared for efforts to contain the 2019-nCoV infection.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.04.20020479",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T18:45:12Z",
+      "timestamp": 1580928312000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 86,
+    "title": [
+      "Assessing spread risk of Wuhan novel coronavirus within and beyond China, January-April 2020: a travel network-based modelling study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Shengjie",
+        "family": "Lai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Isaac I.",
+        "family": "Bogoch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nick W",
+        "family": "Ruktanonchai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Alexander",
+        "family": "Watts",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xin",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weizhong",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongjie",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kamran",
+        "family": "Khan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7270-941X",
+        "authenticated-orcid": false,
+        "given": "Andrew J",
+        "family": "Tatem",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "issue": "4",
+        "key": "2020111109400630000_2020.02.04.20020479v2.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.46234/ccdcw2020.017",
+        "article-title": "A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases \u2014 Wuhan, China 2019\u22122020",
+        "volume": "2",
+        "year": "2020",
+        "journal-title": "China CDC Weekly"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.6",
+        "unstructured": "World Health Organization. Novel coronavirus (2019-nCoV) 2020 [Accessed 30 January 2020]. Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.7",
+        "unstructured": "Office of Wuhan Statistics. Wuhan Data [Accessed 25 January 2020]. Available from: http://www.wuhandata.gov.cn/whData/index.html."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.8",
+        "unstructured": "National Health Commission of the People\u2019s Repulic of China. Updates on pneumonia of new coronavirus infections as of January 31, 2020 [Accessed 1 January 2020]. Available from: http://www.nhc.gov.cn/xcs/yqtb/202002/84faf71e096446fdb1ae44939ba5c528.shtml."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.9",
+        "unstructured": "CGTN. Five million people left Wuhan before the lockdown, where did they go? [Accessed 27 January 2020]. Available from: https://news.cgtn.com/news/2020-01-27/5-million-people-left-Wuhan-before-the-lockdown-where-did-they-go--NACCu9wItW/index.html."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2302.151710"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41564-019-0376-y"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.12",
+        "unstructured": "National Bureau of Statistics of China. China Statistical Yearbook 2014 [Accessed 15 January 2020]. Available from: http://www.stats.gov.cn/english/Statisticaldata/AnnualData/."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/2302.161095"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.14",
+        "unstructured": "Ministry of Health of Singapore. Updates on 2019 Novel Coronavirus (2019-nCoV) Local Situation [Accessed 4 February 2020]. Available from: https://www.moh.gov.sg/2019-ncov-wuhan."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.15",
+        "unstructured": "Japanese Ministry of Health LaW. Present situation of new type coronavirus infectious disease [Accessed 4 February 2020]. Available from: https://www.mhlw.go.jp/stf/newpage_09290.html."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.16",
+        "unstructured": "Coronavirus: German evacuation flight from China carried two infected people [Accessed 4 February 2020]. Available from: https://www.dw.com/en/coronavirus-german-evacuation-flight-from-china-carried-two-infected-people/a-52229955."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.17",
+        "unstructured": "Current outbreak of new coronavirus infection in Korea [Accessed 4 February 2020]. Available from: http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&page=1&CONT_SEQ=352684."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/inthealth/ihu006"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(14)61828-6"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0031182012000352"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jtm/taz019"
+      },
+      {
+        "issue": "11",
+        "key": "2020111109400630000_2020.02.04.20020479v2.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0006743.",
+        "DOI": "10.1371/journal.pntd.0006743",
+        "article-title": "Seasonal and interannual risks of dengue introduction from South-East Asia into China, 2005-2015",
+        "volume": "12",
+        "year": "2018",
+        "journal-title": "Plos Neglected Tropical Diseases"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(16)30270-5"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-020-00166-6"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp2000929"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1097"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jtm/taaa011"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.32",
+        "unstructured": "Lai S , Bogoch II , Watts A , Khan K , Li Z , Tatem A. Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China 2020 [Accessed 1 February 2020]. Available from: https://www.worldpop.org/events/china."
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020111109400630000_2020.02.04.20020479v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000057"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.04.20020479",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:43Z",
+      "timestamp": 1768484023000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.04.20020479"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 34,
+    "URL": "https://doi.org/10.1101/2020.02.04.20020479",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.dsm.2022.08.004",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          26
+        ]
+      ],
+      "date-time": "2026-03-26T11:37:03Z",
+      "timestamp": 1774525023183,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 12,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>2019-Novel coronavirus (2019-nCoV) outbreaks create challenges for hospital laboratories because thousands of samples must be evaluated each day. Sample types, interpretation methods, and corresponding laboratory standards must be established. The possibility of other infections should be assessed to provide a basis for clinical classification, isolation, and treatment. Accordingly, in the present study, we evaluated the testing methods for 2019-nCoV and co-infections.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We used a fluorescence-based quantitative PCR kit urgently distributed by the Chinese CDC to detect 8274 close contacts in the Wuhan region against two loci on the 2019-nCoV genome. We also analyzed 613 patients with fever who underwent multiple tests for 13 respiratory pathogens; 316 subjects were also tested for 2019-nCoV.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>Among the 8274 subjects, 2745 (33.2%) had 2019-nCoV infection; 5277 (63.8%) subjects showed negative results in the 2019-nCoV nucleic acid test (non-2019-nCoV); and 252 cases (3.0%) because only one target was positive, the diagnosis was not definitive. Eleven patients who originally had only one positive target were re-examined a few days later; 9 patients (81.8%) were finally defined as 2019-nCoV-positive, and 2 (18.2%) were finally defined as negative. The positive rates of nCoV-NP and nCovORF1ab were 34.7% and 34.7%, respectively. nCoV-NP-positive only and nCovORF1ab-positive cases accounted for 1.5% and 1.5%, respectively. In the 316 patients with multiple respiratory pathogens, 104 were positive for 2019-nCov and 6/104 had co-infection with coronavirus (3/104), influenza A virus (2/104), rhinovirus (2/104), and influenza A H3N2 (1/104); the remaining 212 patients had influenza A virus (11/202), influenza A H3N2 (11/202), rhinovirus (10/202), respiratory syncytial virus (7/202), influenza B virus (6/202), metapneumovirus (4/202), and coronavirus (2/202).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>Clinical testing methods for 2019-nCoV require improvement. Importantly, 5.8% of 2019-nCoV infected and 18.4% of non-2019-nCoV-infected patients had other pathogen infections. It is important to treat combined infections and perform rapid screening to avoid cross-contamination of patients. A test that quickly and simultaneously screens as many pathogens as possible is needed.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>No founding was received</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Research in context</jats:title>\n                  <jats:sec>\n                    <jats:title>Evidence before this study</jats:title>\n                    <jats:p>We searched PubMed for articles published up to January 31, 2020 using the keywords \u201c2019 novel coronavirus\u201d or \u201c2019-nCoV\u201d. No published study on the characteristics of 2019-nCoV tests or 2019-nCoV co-infections was found. We only noted recent laboratory findings for other tests of patients infected with 2019-nCoV.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Added value of this study</jats:title>\n                    <jats:p>Positive detection of nCoV-NP or nCovORF1ab is presented, and individuals with/without 2019-nCoV infections or with inconclusive results were identified. Patients with inconclusive results may be diagnosed with 2019-nCoV infection or found to be negative for the infection after resampling and retesting in the next few days. Approximately 5.8% of the subjects diagnosed with 2019-nCoV had co-infection.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Implications of all the available evidence</jats:title>\n                    <jats:p>Management of the population showing inconclusive results should be given attention; additionally, such results can be minimized by improving the sampling, sample pretreatment, and testing methodologies. When diagnosing 2019-nCoV subjects, the possibility of co-infection should be considered. Finally, better clinical detection methods are needed to simultaneously screen as many pathogens as possible.</jats:p>\n                  </jats:sec>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.12.20022327",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T15:15:15Z",
+      "timestamp": 1581606915000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 88,
+    "title": [
+      "Clinical diagnosis of 8274 samples with 2019-novel coronavirus in Wuhan"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ming",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Qing",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wanzhou",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bin",
+        "family": "Qiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jingwei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongyun",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shupeng",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Junchi",
+        "family": "Mei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zegang",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yayun",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fangyuan",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhihua",
+        "family": "Lv",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jingtao",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoqian",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lina",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zunen",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Di",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhiliang",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tiangang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pingan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yongqing",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.1",
+        "unstructured": "China NHCo. Epidemic Bulletin. 2020. http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml."
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.2",
+        "unstructured": "WHO. Novel coronavirus (2019-nCoV) situation. 2020. http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667."
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.3",
+        "unstructured": "Zhou P , Yang X-L , Wang X-G , et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. 2020: 2020.01.22.914952."
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.5",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet (London, England) 2020."
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF-W , Yuan S , Kok K-H , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet (London, England) 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.7",
+        "unstructured": "CDC C. China CDC Primers and probes for detection 2019-nCoV 2020. http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html."
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41590-018-0231-y"
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet (London, England) 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.10",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. The New England journal of medicine 2020."
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2019.02752"
+      },
+      {
+        "key": "2020110808150422000_2020.02.12.20022327v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1305584"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20022327",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:53Z",
+      "timestamp": 1768484033000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20022327"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 12,
+    "URL": "https://doi.org/10.1101/2020.02.12.20022327",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

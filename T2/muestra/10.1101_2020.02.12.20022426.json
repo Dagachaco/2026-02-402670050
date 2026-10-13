@@ -1,0 +1,403 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:03Z",
+      "timestamp": 1768549203178,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 35,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          22
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>We evaluated if interventions aimed at air travellers can delay local SARS-CoV-2 community transmission in a previously unaffected country.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We simulated infected air travellers arriving into countries with no sustained SARS-CoV-2 transmission or other introduction routes from affected regions. We assessed the effectiveness of syndromic screening at departure and/or arrival &amp; traveller sensitisation to the COVID-2019-like symptoms with the aim to trigger rapid self-isolation and reporting on symptom onset to enable contact tracing. We assumed that syndromic screening would reduce the number of infected arrivals and that traveller sensitisation reduces the average number of secondary cases. We use stochastic simulations to account for uncertainty in both arrival and secondary infections rates, and present sensitivity analyses on arrival rates of infected travellers and the effectiveness of traveller sensitisation. We report the median expected delay achievable in each scenario and an inner 50% interval.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Under baseline assumptions, introducing exit and entry screening in combination with traveller sensitisation can delay a local SARS-CoV-2 outbreak by 8 days (50% interval: 3-14 days) when the rate of importation is 1 infected traveller per week at time of introduction. The additional benefit of entry screening is small if exit screening is effective: the combination of only exit screening and traveller sensitisation can delay an outbreak by 7 days (50% interval: 2-13 days). In the absence of screening, with less effective sensitisation, or a higher rate of importation, these delays shrink rapidly to less than 4 days.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Syndromic screening and traveller sensitisation in combination may have marginally delayed SARS-CoV-2 outbreaks in unaffected countries.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.12.20022426",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T15:05:12Z",
+      "timestamp": 1581606312000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Effectiveness of interventions targeting air travellers for delaying local outbreaks of SARS-CoV-2"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3774-3882",
+        "authenticated-orcid": false,
+        "given": "Samuel",
+        "family": "Clifford",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0701-7860",
+        "authenticated-orcid": false,
+        "given": "Carl A.B.",
+        "family": "Pearson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Petra",
+        "family": "Klepac",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7770-0537",
+        "authenticated-orcid": false,
+        "given": "Kevin",
+        "family": "Van Zandvoort",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9094-3728",
+        "authenticated-orcid": false,
+        "given": "Billy J.",
+        "family": "Quilty",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "CMMID COVID-19 working group",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0362-6717",
+        "authenticated-orcid": false,
+        "given": "Rosalind M.",
+        "family": "Eggo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5808-2606",
+        "authenticated-orcid": false,
+        "given": "Stefan",
+        "family": "Flasche",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.g6202"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2471/BLT.12.114777"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-10-82"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bitar D , Goubar A , Desenclos JC . International travels and fever screening during epidemics: a literature review on the effectiveness and potential use of non-contact infrared thermometers. Euro Surveill Bull Eur Sur Mal Transm Eur Commun Dis Bull. 2009 Feb 12;14(6).",
+        "DOI": "10.2807/ese.14.06.19115-en"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gostic K , Gomez AC , Mummah RO , Kucharski AJ , Lloyd-Smith JO . Estimated effectiveness of symptom and risk screening to prevent the spread of COVID-19. eLife. 2020 24;9.",
+        "DOI": "10.7554/eLife.55570"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Quilty BJ , Clifford S , Flasche S , Eggo RM , CMMID nCoV working group. Effectiveness of airport screening at detecting travellers infected with novel coronavirus (2019-nCoV). Euro Surveill Bull Eur Sur Mal Transm Eur Commun Dis Bull. 2020;25(5).",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000080"
+      },
+      {
+        "issue": "13",
+        "key": "2020120106350611000_2020.02.12.20022426v3.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1243",
+        "DOI": "10.1001/jama.2020.2467",
+        "article-title": "COVID-19 in Singapore\u2014Current Experience: Critical Global Issues That Require Attention and Action",
+        "volume": "323",
+        "year": "2020",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2214-109X(20)30074-7"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.9",
+        "unstructured": "Fukuda K , World Health Organization, editors. Pandemic influenza preparedness and response: a WHO guidance document. Geneva: World Health Organization; 2009. 58 p."
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Du Z , Wang L , Cauchemez S , Xu X , Wang X , Cowling BJ , et al. Risk for Transportation of Coronavirus Disease from Wuhan to Other Cities in China. Emerg Infect Dis [Internet]. 2020 May 20 [cited 2020 Apr 19];26(5). Available from: https://wwwnc.cdc.gov/eid/article/26/5/20-0146_article",
+        "DOI": "10.3201/eid2605.200146"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.2376"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mbs.2008.02.009"
+      },
+      {
+        "issue": "1",
+        "key": "2020120106350611000_2020.02.12.20022426v3.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1038/s41467-017-02344-z",
+        "article-title": "Characterizing the dynamics underlying global spread of epidemics",
+        "volume": "9",
+        "year": "2018",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "issue": "4",
+        "key": "2020120106350611000_2020.02.12.20022426v3.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1057/jors.2013.148",
+        "article-title": "A simulation case study to improve staffing decisions at mass immunization clinics for pandemic influenza",
+        "volume": "65",
+        "year": "2014",
+        "journal-title": "J Oper Res Soc"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hartfield M , Alizon S. Introducing the Outbreak Threshold in Epidemiology. PLoS Pathog [Internet]. 2013 Jun 6 [cited 2020 Apr 19];9(6). Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3680036/",
+        "DOI": "10.1371/journal.ppat.1003277"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ferretti L , Wymant C , Kendall M , Zhao L , Nurtay A , Abeler-D\u00f6rner L , et al. Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing. Science. 2020 Mar 31;eabb6936.",
+        "DOI": "10.1101/2020.03.08.20032946"
+      },
+      {
+        "issue": "10225",
+        "key": "2020120106350611000_2020.02.12.20022426v3.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "689",
+        "DOI": "10.1016/S0140-6736(20)30260-9",
+        "article-title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study",
+        "volume": "395",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.19",
+        "unstructured": "Wang W , Fu H , Yan J. reda: Recurrent Event Data Analysis [Internet]. 2019 [cited 2020 Apr 19] Available from: https://CRAN.R-project.org/package=reda"
+      },
+      {
+        "issue": "4",
+        "key": "2020120106350611000_2020.02.12.20022426v3.20",
+        "first-page": "2000058",
+        "article-title": "Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.21",
+        "unstructured": "R Core Team. R: A Language and Environment for Statistical Computing [Internet]. R Foundation for Statistical Computing; Available from: https://www.R-project.org/"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.23",
+        "first-page": "67",
+        "article-title": "Centre for the Mathematical Modelling of Infectious Diseases COVID-19 Working Group",
+        "volume": "5",
+        "year": "2020",
+        "journal-title": "Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China. Wellcome Open Res"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.24",
+        "unstructured": "Kalakou S , Moura F , Medeiros V. Analysis of airport configuration and passenger behaviour. In 2015. Available from: https://www.researchgate.net/publication/338900751"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Derjany P , Namilae S , Mubayi A , Scotch M , Srinivasan A. Effect of pedestrian movement on the spread of infectious diseases during air travel: a modeling study. In National Science Foundation; 2017.",
+        "DOI": "10.2514/6.2018-0419"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lee VJ , Chiew CJ , Khong WX . Interrupting transmission of COVID-19: lessons from containment efforts in Singapore. J Travel Med [Internet]. [cited 2020 Apr 19]; Available from: https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa039/5804843",
+        "DOI": "10.1093/jtm/taaa039"
+      },
+      {
+        "issue": "10226",
+        "key": "2020120106350611000_2020.02.12.20022426v3.27",
+        "first-page": "755",
+        "volume": "395",
+        "author": "The Lancet",
+        "year": "2020",
+        "journal-title": "COVID-19: too little, too late? Lancet Lond Engl"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2002616117"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.29",
+        "unstructured": "World Health Organisation. Critical preparedness, readiness and response actions for COVID-19 [Internet]. [cited 2020 Apr 19]. Available from: https://www.who.int/publications-detail/critical-preparedness-readiness-and-response-actions-for-covid-19"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.30",
+        "unstructured": "Grantz, K , Metcalf, J , Lessler, J. Dispersion vs. Control [Internet]. [cited 2020 Feb 12]. Available from: https://hopkinsidd.github.io/nCoV-Sandbox/DispersionExploration.html"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.31",
+        "unstructured": "Pogkas D , Sam C , Whiteaker C. Flights Worldwide Suspended by the Coronavirus Outbreak. Bloomberg [Internet]. 2020 Mar 13 [cited 2020 Apr 19]; Available from: https://www.bloomberg.com/graphics/2020-china-coronavirus-airlines-business-effects/"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Grasselli G , Pesenti A , Cecconi M. Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy: Early Experience and Forecast During an Emergency Response. JAMA [Internet]. 2020 Mar 13 [cited 2020 Apr 20]; Available from: https://jamanetwork.com/journals/jama/fullarticle/2763188",
+        "DOI": "10.1001/jama.2020.4031"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.33",
+        "unstructured": "World Health Organisation. Coronavirus disease 2019 (COVID-19) Situation Report - 34 [Internet]. World Health Organization; 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200223-sitrep-34-covid-19.pdf"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.34",
+        "unstructured": "World Health Organisation. Coronavirus disease 2019 (COVID-19) Situation Report - 41 [Internet]. World Health Organization; 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf"
+      },
+      {
+        "key": "2020120106350611000_2020.02.12.20022426v3.35",
+        "unstructured": "World Health Organisation. Novel Coronavirus(2019-nCoV) Situation Report - 21 [Internet]. World Health Organization; 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200210-sitrep-21-ncov.pdf"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20022426",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:53Z",
+      "timestamp": 1768484033000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20022426"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 35,
+    "URL": "https://doi.org/10.1101/2020.02.12.20022426",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1093/jtm/taaa068",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

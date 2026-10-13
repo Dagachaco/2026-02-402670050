@@ -1,0 +1,437 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2026-04-10T14:25:09Z",
+      "timestamp": 1775831109410,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Computed tomography (CT) is the preferred imaging method for diagnosing 2019 novel coronavirus (COVID19) pneumonia. Our research aimed to construct a system based on deep learning for detecting COVID-19 pneumonia on high resolution CT, relieve working pressure of radiologists and contribute to the control of the epidemic.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>For model development and validation, 46,096 anonymous images from 106 admitted patients, including 51 patients of laboratory confirmed COVID-19 pneumonia and 55 control patients of other diseases in Renmin Hospital of Wuhan University (Wuhan, Hubei province, China) were retrospectively collected and processed. Twenty-seven consecutive patients undergoing CT scans in Feb, 5, 2020 in Renmin Hospital of Wuhan University were prospectively collected to evaluate and compare the efficiency of radiologists against 2019-CoV pneumonia with that of the model.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>The model achieved a per-patient sensitivity of 100%, specificity of 93.55%, accuracy of 95.24%, PPV of 84.62%, and NPV of 100%; a per-image sensitivity of 94.34%, specificity of 99.16%, accuracy of 98.85%, PPV of 88.37%, and NPV of 99.61% in retrospective dataset. For 27 prospective patients, the model achieved a comparable performance to that of expert radiologist. With the assistance of the model, the reading time of radiologists was greatly decreased by 65%.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>The deep learning model showed a comparable performance with expert radiologist, and greatly improve the efficiency of radiologists in clinical practice. It holds great potential to relieve the pressure of frontline radiologists, improve early diagnosis, isolation and treatment, and thus contribute to the control of the epidemic.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.25.20021568",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T07:14:40Z",
+      "timestamp": 1582787680000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 155,
+    "title": [
+      "Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Jun",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Lianlian",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liang",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dexin",
+        "family": "Gong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yilin",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shan",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yonggui",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiao",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Biqing",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kuo",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huiling",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zehua",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Youming",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yijie",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lilei",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Honggang",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.1016/j.ijid.2020.01.009",
+        "article-title": "The continuing COVID-19 epidemic threat of novel coronaviruses to global health-The latest 2019 novel coronavirus outbreak in Wuhan, China",
+        "volume": "91",
+        "year": "2020",
+        "journal-title": "International journal of infectious diseases: IJID: official publication of the International Society for Infectious Diseases"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.5",
+        "unstructured": "Guan H , Xiong Y , Shen N , et. Clinical and thin section CT features of patients with COVID-19 pneumonia in Wuhan. Radiologic Practice 2020."
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.7",
+        "unstructured": "National Health and Health Commission of China. http://www.nhc.gov.cn/yzygj/s7652m/202002/e84bd30142ab4d8982326326e4db22ea.shtml"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.8",
+        "unstructured": "National Health and Health Commission of China. http://en.nhc.gov.cn/2020-02/13/c_76512.htm"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.9",
+        "unstructured": "Health Commission of Hubei Province. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200216_2038684.shtml"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.10",
+        "first-page": "42",
+        "volume-title": "China Health Statistical Yearbook 2018",
+        "volume": "34",
+        "author": "China Ministry of Health",
+        "year": "2018"
+      },
+      {
+        "issue": "10210",
+        "key": "2020110615250479000_2020.02.25.20021568v2.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1709",
+        "DOI": "10.1016/S0140-6736(19)32501-2",
+        "article-title": "Deep learning and medical diagnosis",
+        "volume": "394",
+        "year": "2019",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2468-1253(19)30413-3"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/gutjnl-2018-317366"
+      },
+      {
+        "issue": "2",
+        "key": "2020110615250479000_2020.02.25.20021568v2.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "332",
+        "DOI": "10.1016/j.gie.2019.09.016",
+        "article-title": "Comparing blind spots of unsedated ultrafine, sedated, and unsedated conventional gastroscopy with and without artificial intelligence: a prospective, single-blind, 3-parallel-group, randomized, single-center trial",
+        "volume": "91",
+        "year": "2020",
+        "journal-title": "Gastrointestinal endoscopy"
+      },
+      {
+        "issue": "2",
+        "key": "2020110615250479000_2020.02.25.20021568v2.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "428",
+        "DOI": "10.1016/j.gie.2019.11.026",
+        "article-title": "A novel artificial intelligence system for the assessment of bowel preparation (with video)",
+        "volume": "91",
+        "year": "2020",
+        "journal-title": "Gastrointestinal Endoscopy"
+      },
+      {
+        "issue": "06",
+        "key": "2020110615250479000_2020.02.25.20021568v2.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "522",
+        "DOI": "10.1055/a-0855-3532",
+        "article-title": "A deep neural network improves endoscopic detection of early gastric cancer without blind spots",
+        "volume": "51",
+        "year": "2019",
+        "journal-title": "Endoscopy"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.17",
+        "unstructured": "The Central People\u2019s Government of the People\u2019s Republic of China. The Law of the People\u2019s Republic of China on Infectious Disease Prevention and Control. http://www.gov.cn/banshi/2005-08/01/content_19023.htm"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.18",
+        "unstructured": "Centers for Disease Control and Prevention. https://www.cdc.gov/corona-virus/COVID-19/lab/rt-pcr-detection-instructions.html"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Deng J , Dong W , Socher R , et al. ImageNet: A large-scale hierarchical image database. In: 2009 IEEE Conference on Computer Vision and Pattern Recognition 2009;p.248\u2013255.",
+        "DOI": "10.1109/CVPR.2009.5206848"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou Z , Siddiquee M M R , Tajbakhsh N , et al. Unet++: A nested u-net architecture for medical image segmentation. Springer Cham 2018;3\u201311.",
+        "DOI": "10.1007/978-3-030-00889-5_1"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.21",
+        "unstructured": "The National Health and Health Commission of China. http://en.nhc.gov.cn/2020-02/07/c_76323.htm"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cheng V C C , Wong S C , To K K W , et al. Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. Journal of Hospital Infection 2020.",
+        "DOI": "10.1016/j.jhin.2020.01.010"
+      },
+      {
+        "issue": "2",
+        "key": "2020110615250479000_2020.02.25.20021568v2.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.3390/jcm9020462",
+        "article-title": "Estimation of the Transmission Risk of the 2019-nCoV and Its Implication for Public Health Interventions",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Journal of Clinical Medicine"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riou J , Althaus C L. Pattern of early human-to-human transmission of Wuhan 2019-nCoV. bioRxiv 2020.",
+        "DOI": "10.1101/2020.01.23.917351"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Prasse B , Achterberg M A , Ma L , et al. Network-Based Prediction of the 2019-nCoV Epidemic Outbreak in the Chinese Province Hubei. arXiv 2020.",
+        "DOI": "10.1007/s41109-020-00274-2"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Boldog P , Tekeli T , Vizi Z , et al. Risk assessment of novel coronavirus 2019-nCoV outbreaks outside China. medRxiv 2020.",
+        "DOI": "10.1101/2020.02.04.20020503"
+      },
+      {
+        "issue": "6",
+        "key": "2020110615250479000_2020.02.25.20021568v2.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "954",
+        "DOI": "10.1038/s41591-019-0447-x",
+        "article-title": "End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography",
+        "volume": "25",
+        "year": "2019",
+        "journal-title": "Nature medicine"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chae K J , Jin G Y , Ko S B , et al. Deep Learning for the Classification of Small (\u2264 2 cm) Pulmonary Nodules on CT Imaging: A Preliminary Study. Academic radiology 2019.",
+        "DOI": "10.1016/j.acra.2019.05.018"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen Z M , Fu J F , Shu Q , et al. Diagnosis and treatment recommendations for pediatric respiratory infection caused by the 2019 novel coronavirus. World Journal of Pediatrics 2020:1\u20137.",
+        "DOI": "10.1007/s12519-020-00345-5"
+      },
+      {
+        "key": "2020110615250479000_2020.02.25.20021568v2.30",
+        "unstructured": "Health Commission of Hubei Province. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200215_2028355.shtml"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20021568",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:16Z",
+      "timestamp": 1768484056000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20021568"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.25.20021568",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1038/s41598-020-76282-0",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

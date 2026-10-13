@@ -1,0 +1,313 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:32:15Z",
+      "timestamp": 1768487535508,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Evolutionary Biology",
+    "reference-count": 28,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              20
+            ]
+          ],
+          "date-time": "2020-02-20T00:00:00Z",
+          "timestamp": 1582156800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Coronavirus disease 2019 (COVID-19) is a global health concern as it continues to spread within China and beyond. The causative agent of this disease, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), belongs to the genus\n                  <jats:italic>Betacoronavirus</jats:italic>\n                  which also includes severe acute respiratory syndrome related coronavirus (SARSr-CoV) and Middle East respiratory syndrome related coronavirus (MERSr-CoV). Codon usage of viral genes are believed to be subjected to different selection pressures in different host environments. Previous studies on codon usage of influenza A viruses can help identify viral host origins and evolution trends, however, similar studies on coronaviruses are lacking. In this study, global correspondence analysis (CA), within-group correspondence analysis (WCA) and between-group correspondence analysis (BCA) were performed among different genes in coronavirus viral sequences. The amino acid usage pattern of SARS-CoV-2 was generally found similar to bat and human SARSr-CoVs. However, we found greater synonymous codon usage differences between SARS-CoV-2 and its phylogenetic relatives on spike and membrane genes, suggesting these two genes of SARS-CoV-2 are subjected to different evolutionary pressures.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.15.950568",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:25:14Z",
+      "timestamp": 1582219514000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Multivariate Analyses of Codon Usage of SARS-CoV-2 and other betacoronaviruses"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7541-4262",
+        "authenticated-orcid": false,
+        "given": "Haogao",
+        "family": "Gu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Daniel",
+        "family": "Chu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Malik",
+        "family": "Peiris",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Leo L.M.",
+        "family": "Poon",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.3",
+        "unstructured": "WHO. Novel coronavirus \u2013 Republic of Korea (ex-China). Geneva: World Health Organization. (2020)."
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.molbev.a026087"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2008.08.008"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0959-437X(98)80038-5"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkf565"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/dnares/dsn028"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.13.945485"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.12",
+        "unstructured": "Gu, H. & Poon, L. L. Bioconductor - SynMut. (2019). Available at: https://doi.org/doi:10.18129/B9.bioc.SynMut. (Accessed: 24th January 2020)"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v022.i04"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.14",
+        "first-page": "351",
+        "article-title": "Analyse de l\u2019inertie intraclasse par l\u2019analyse d\u2019un tableau de correspondance",
+        "volume": "8",
+        "year": "1983",
+        "journal-title": "Cah. l\u2019Analyse des donn\u00e9es"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-2836(82)90515-0"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-540-35306-5_10"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/c2018-0-02165-9"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biosystems.2005.03.002"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gu, H. , Fan, R. L. Y. , Wang, D. & Poon, L. L. M. Dinucleotide evolutionary dynamics in influenza A virus. Virus Evol. 5, (2019).",
+        "DOI": "10.1093/ve/vez038"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.genet.42.110807.091442"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2148-10-253"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virusres.2014.11.005"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0168-1702(02)00309-X"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virusres.2004.01.006"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v2081803"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/CMR.00017-06"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/viro.2000.0757"
+      },
+      {
+        "key": "2024080320172762000_2020.02.15.950568v3.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25682"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.15.950568",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:01:47Z",
+      "timestamp": 1768435307000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.15.950568"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 28,
+    "URL": "https://doi.org/10.1101/2020.02.15.950568",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:08:14Z",
+      "timestamp": 1768547294087,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Since the first case of Novel Coronavirus (2019-nCov) was identified in December 2019 in Wuhan City, China, the number of cases continues to grow across China and multiple cases have been exported to other countries. The cumulative number of reported deaths is at 637 as of February 7, 2020. Here we statistically estimated the time-delay adjusted death risk for Wuhan as well as for China excluding Wuhan to interpret the current severity of the epidemic in China. We found that the latest estimates of the death risk in Wuhan could be as high as 20% in the epicenter of the epidemic whereas we estimate it \u223c1% in the relatively mildly-affected areas. Because the elevated death risk estimates are likely associated with a breakdown of the medical/health system, enhanced public health interventions including social distancing and movement restrictions should be effectively implemented to bring the epidemic under control.</jats:p>",
+    "DOI": "10.1101/2020.02.19.20025163",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:36:30Z",
+      "timestamp": 1582518990000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Estimating the risk of 2019 Novel Coronavirus death during the course of the outbreak in China, 2020"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2748-6560",
+        "authenticated-orcid": false,
+        "given": "Kenji",
+        "family": "Mizumoto",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Gerardo",
+        "family": "Chowell",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.1",
+        "unstructured": "World Health Organization. Summary of probable SARS cases with onset of illness from 1 November 2002 to 31 July 2003 [cited 2020 Feb 7]. https://www.who.int/csr/sars/country/table2004_04_21/en/"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5193(03)00228-5"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwi230"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.4",
+        "first-page": "1260",
+        "volume": "384",
+        "year": "2014",
+        "journal-title": "Case fatality rate for Ebola virus disease in west Africa.Lancet"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jewell NP , Lei X , Ghani AC , Donnelly CA , Leung GM , Ho LM et al. Non-parametric estimation of the case fatality ratio with competing risks data: an application to Severe Acute Respiratory Syndrome (SARS). Stat Med.;26(9):1982\u20131998.",
+        "DOI": "10.1002/sim.2691"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b2840"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.7",
+        "unstructured": "The State Council, The People\u2019s Republic of China. [cited 2020 Feb 7]. http://www.gov.cn/"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.8",
+        "unstructured": "Health Commission of Hubei Province, China. [cited 2020 Feb 7]. http://wjw.hubei.gov.cn/"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.9",
+        "unstructured": "Health Commission of Wuhan City, Hubei Province, China [cited 2020 Feb 7] http://wjw.hubei.gov.cn/"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0006852"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2017.22.46.17-00710"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gamerman, D. & Lopes, H. F. Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Interference. 2nd edn (Chapman & Hall/CRC, 2006).",
+        "DOI": "10.1201/9781482296426"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/ss/1177011136"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kai Kupferschmidt. Study claiming new coronavirus can be transmitted by people without symptoms was flawed. Feb.3,2020, 5:30 PM Available from: https://www.sciencemag.org/news/2020/02/paper-non-symptomatic-patient-transmitting-coronavirus-wrong [Accessed February 4, 2020]",
+        "DOI": "10.1126/science.abb1524"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.16",
+        "unstructured": "Ministory of Health, Labour and Welfare, Japan. Available from https://www.mhlw.go.jp/index.html [in Japanese]"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-015-0450-0"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12976-019-0112-6"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-015-0468-3"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2015.08.005"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.21",
+        "unstructured": "Gale A , Bhattacharya S. Japan Reports 41 New Coronavirus Infections on Quarantined Cruise Liner. The wall street Journal. Feb. 7, 2020. https://www.wsj.com/articles/japan-reports-41-new-coronavirus-infections-on-quarantined-cruise-liner-11581045439"
+      },
+      {
+        "issue": "8",
+        "key": "2020110811301121000_2020.02.19.20025163v1.22",
+        "first-page": "834",
+        "volume": "177",
+        "year": "2013",
+        "journal-title": "Infection fatality risk of the pandemic A(H1N1)2009 virus in Hong Kong Am J Epidemiol"
+      },
+      {
+        "key": "2020110811301121000_2020.02.19.20025163v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000207"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.19.20025163",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:05Z",
+      "timestamp": 1768484045000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.19.20025163"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.19.20025163",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:21Z",
+      "timestamp": 1768547241938,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 18,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>After the outbreak of novel coronavirus (2019-nCoV) starting in late 2019, a number of researchers have reported the predicted the virus transmission dynamics. However, under the strict control policy the novel coronavirus does not spread naturally outside Hubei Province, and none of the prediction closes to the real situation.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods and findings</jats:title>\n                  <jats:p>We used the traditional SEIR model, fully estimated the effect of control measures, to predict the virus transmission in Wuhan, the capital city of Hubei Province, and Beijing. We forecast that the outbreak of 2019-nCoV would reach its peak around March 6\u00b110 in Wuhan and March 20\u00b116 in Beijing, respectively. The infectious population in Beijing would be much less (only 0.3%) than those in Wuhan at the peak of this transmission wave. The number of confirmed cases in cities inside Hubei Province grow exponentially, whereas those in cities outside the province increase linearly.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>The unprecedented province lockdown substantially suspends the national and global outbreak of 2019-nCoV.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.09.20021477",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T16:45:14Z",
+      "timestamp": 1581439514000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "title": [
+      "The lockdown of Hubei Province causing different transmission dynamics of the novel coronavirus (2019-nCoV) in Wuhan and Beijing"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4514-0149",
+        "authenticated-orcid": false,
+        "given": "Xinhai",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xumao",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuehua",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abb1079"
+      },
+      {
+        "issue": "6",
+        "key": "2020110614252133000_2020.02.09.20021477v2.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1016/S1473-3099(09)70130-6",
+        "article-title": "Preparation for a pandemic: influenza A H1N1",
+        "volume": "9",
+        "year": "2009",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000275"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.puhe.2009.11.003"
+      },
+      {
+        "issue": "9681",
+        "key": "2020110614252133000_2020.02.09.20021477v2.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2107",
+        "DOI": "10.1016/S0140-6736(09)61143-0",
+        "article-title": "H1N1, public health security, bioethics, and human rights",
+        "volume": "373",
+        "year": "2009",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jech.2005.034082"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JR , Cummings DA , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.8",
+        "unstructured": "Leung K , Wu J , Leung G. Nowcasting and forecasting the Wuhan 2019-nCoV outbreak. Preprint published by the School of Public Health of the University of Hong Kong. 2020."
+      },
+      {
+        "issue": "4",
+        "key": "2020110614252133000_2020.02.09.20021477v2.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "599",
+        "DOI": "10.1137/S0036144500371907",
+        "article-title": "The mathematics of infectious diseases",
+        "volume": "42",
+        "year": "2000",
+        "journal-title": "Siam Review"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwr411"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Lin Q , Ran J , Musa SS , Yang G , Wang W , et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases. 2020. doi: https://doi.org/10.1016/j.ijid.2020.01.050.",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu T , Hu J , Kang M , Lin L , Zhong H , Xiao J , et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv. 2020.",
+        "DOI": "10.2139/ssrn.3526307"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tang B , Wang X , Li Q , Bragazzi NL , Tang S , Xiao Y , et al. Estimation of the transmission risk of 2019-ncov and its implication for public health interventions. Available at SSRN 3525558. 2020.",
+        "DOI": "10.2139/ssrn.3525558"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Backer JA , Klinkenberg D , Wallinga J. The incubation period of 2019-nCoV infections among travellers from Wuhan, China. medRxiv. 2020.",
+        "DOI": "10.1101/2020.01.27.20018986"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.15",
+        "unstructured": "WHO. Q&A on coronaviruses: How long is the incubation period? 2020 [2020-2-5]. Available from: https://www.who.int/news-room/q-a-detail/q-a-coronaviruses."
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.16",
+        "unstructured": "He X. The local infection of novel coronavirus in Beijing Beijing Business Newspaper. 2020 Feb. 3, 2020."
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothe C , Schunk M , Sothmann P , Bretzel G , Froeschl G , Wallrauch C , et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. New Engl J Med. 2020.",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110614252133000_2020.02.09.20021477v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abb1524"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.09.20021477",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:48Z",
+      "timestamp": 1768484028000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.09.20021477"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 18,
+    "URL": "https://doi.org/10.1101/2020.02.09.20021477",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

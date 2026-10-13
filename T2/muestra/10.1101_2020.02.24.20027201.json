@@ -1,0 +1,325 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:09:08Z",
+      "timestamp": 1768547348167,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Nephrology",
+    "reference-count": 24,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Importance</jats:title>\n                  <jats:p>The outbreak of highly contagious COVID-19 has posed a serious threat to human health, especially for those with underlying diseases. However, Impacts of COVID-19 epidemic on HD center and HD patients have not been reported.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To summery an outbreak of COVID-19 epidemic in HD center.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Design, Setting, and Participants</jats:title>\n                  <jats:p>We reviewed the epidemic course from the first laboratory-confirmed case of COVID-19 infection on January 14 to the control of the epidemic on March 12 in the HD center of Renmin Hospital of Wuhan University. Total 230 HD patients and 33 medical staff were included in this study</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Exposures</jats:title>\n                  <jats:p>COVID-19.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Main Outcomes and Measures</jats:title>\n                  <jats:p>Epidemiological, clinical, laboratory, and radiological characteristics and outcomes data were collected and analyzed. 19 COVID-19 HD patients, 19 non-COVID-19 HD patients and 19 healthy volunteers were enrolled for further study about the effect of SARS-CoV-2 infection on host immune responses.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>42 out of 230 HD patients (18.26%) and 4 out of 33 medical staffs (12.12%) were diagnosed with COVID-19 from the outbreak to March 12, 2020. 13 HD patients (5.65%), including 10 COVID-19 diagnosed, died during the epidemic. Only 2 deaths of the COVID-19 HD patients were associated with pneumonia/lung failure. Except 3 patients were admitted to ICU for severe condition (8.11%), including 2 dead, most COVID-19 diagnosed patients presented mild or none-respiratory symptoms. Multiple lymphocyte populations in HD patients were significantly decreased. HD patients with COVID-19 even displayed more remarkable reduction of serum inflammatory cytokines than other COVID-19 patients.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions and Relevance</jats:title>\n                  <jats:p>HD patients are the highly susceptible population and HD centers are high risk area during the outbreak of COVID-19 epidemic. HD Patients with COVID-19 are mostly clinical mild and unlikely progress to severe pneumonia due to the impaired cellular immune function and incapability of mounting cytokines storm. More attention should be paid to prevent cardiovascular events, which may be the collateral impacts of COVID-19 epidemic on HD patients.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.24.20027201",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:45:20Z",
+      "timestamp": 1582663520000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 103,
+    "title": [
+      "COVID-19 in hemodialysis (HD) patients: Report from one HD center in Wuhan, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3052-5222",
+        "authenticated-orcid": false,
+        "given": "Yiqiong",
+        "family": "Ma",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9804-8103",
+        "authenticated-orcid": false,
+        "given": "Bo",
+        "family": "Diao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1122-3552",
+        "authenticated-orcid": false,
+        "given": "Xifeng",
+        "family": "Lv",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4316-1544",
+        "authenticated-orcid": false,
+        "given": "Wei",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7209-9201",
+        "authenticated-orcid": false,
+        "given": "Jili",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9330-4315",
+        "authenticated-orcid": false,
+        "given": "Lei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sihao",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6879-7931",
+        "authenticated-orcid": false,
+        "given": "Bo",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1131-7455",
+        "authenticated-orcid": false,
+        "given": "Huiming",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu, N. , et al., A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med, 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m641"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Eurosurveillance, E.T. , Latest updates on COVID-19 from the European Centre for Disease Prevention and Control. Euro Surveill, 2020. 25(6).",
+        "DOI": "10.2807/1560-7917.ES.2020.25.6.2002131"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.4",
+        "unstructured": "World Health Organization, WHO characterizes COVID-19 as a pandemic."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.5",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China, COVID-19 epidemic situation report. 2020."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.6",
+        "unstructured": "World Health Organization, Coronavirus disease 2019 (COVID-19) Situation Report\u201452."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.8",
+        "unstructured": "Guan, W.J. , et al., Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med, 2020."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schwartz, D.A. and A.L. Graham , Potential Maternal and Infant Outcomes from (Wuhan) Coronavirus 2019-nCoV Infecting Pregnant Women: Lessons from SARS, MERS, and Other Human Coronavirus Infections. Viruses, 2020. 12(2).",
+        "DOI": "10.3390/v12020194"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, J. , et al., A contingency plan for the management of the 2019 novel coronavirus outbreak in neonatal intensive care units. Lancet Child Adolesc Health, 2020.",
+        "DOI": "10.1016/S2352-4642(20)30040-7"
+      },
+      {
+        "issue": "2",
+        "key": "2021010323000702000_2020.02.24.20027201v3.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1111/imm.12947",
+        "article-title": "End-stage renal disease, dialysis, kidney transplantation and their impact on CD4(+) T-cell differentiation",
+        "volume": "155",
+        "year": "2018",
+        "journal-title": "Immunology"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.12",
+        "unstructured": "National Health Commission of China, New coronavirus pneumonia prevention and control program (5th edition).."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.13",
+        "unstructured": "National Health Commission, New coronavirus pneumonia prevention and control program (6th edition). 2020.."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.14",
+        "unstructured": "National Health Commission of China, New coronavirus pneumonia prevention and control program (7th edition).."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, M. , et al., Clinical diagnosis of 8274 samples with 2019-novel coronavirus in Wuhan. medRxiv, 2020: p. 2020.02.12.20022327.",
+        "DOI": "10.1101/2020.02.12.20022327"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.16",
+        "unstructured": "Huang, C. , et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. 2020. p. 497-506."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, D. , et al., Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA, 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.18",
+        "unstructured": "Chen, H. , et al., Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records. The Lancet."
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liang, W. , et al., Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China. Lancet Oncol, 2020.",
+        "DOI": "10.1016/S1470-2045(20)30096-6"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pan, F. , et al., Time Course of Lung Changes On Chest CT During Recovery From 2019 Novel Coronavirus (COVID-19) Pneumonia. Radiology, 2020: p. 200370.",
+        "DOI": "10.1148/radiol.2020200370"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ASN.0000131522.16404.1F"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.22",
+        "first-page": "S206",
+        "article-title": "Molecular aspects of T- and B-cell function in uremia",
+        "volume": "78",
+        "year": "2001",
+        "journal-title": "Kidney Int Suppl"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ndt/14.12.2807"
+      },
+      {
+        "key": "2021010323000702000_2020.02.24.20027201v3.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1053/j.jrn.2011.10.020"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027201",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:14Z",
+      "timestamp": 1768484054000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027201"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 24,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027201",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

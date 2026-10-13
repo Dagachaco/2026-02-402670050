@@ -1,0 +1,400 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:16:22Z",
+      "timestamp": 1768544182126,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "group-title": "Genetic and Genomic Medicine",
+    "reference-count": 38,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Faced with the current large-scale public health emergency, collecting, sorting, and analyzing biomedical information related to the \u201ccoronavirus\u201d should be done as quickly as possible to gain a global perspective, which is a basic requirement for strengthening epidemic control capacity. However, for human researchers studying the viruses and the hosts, the vast amount of information available cannot be processed effectively and in a timely manner, particularly when the scientific understanding may be limited, which can further lower the information processing efficiency. We present TWIRLS, a method that can automatically acquire, organize, and classify information. Additionally, independent functional data sources can be added to build an inference system using a machine-based approach, which can provide relevant knowledge to help human researchers quickly establish subject cognition and to make more effective decisions. TWIRLS can automatically analyze more than three million words in more than 14,000 literature articles in only 4 hours. Combining with generalized gene interaction databases creates a data interface that can help researchers to further analyze the information. Using the TWIRLS system, we found that an important regulatory factor angiotensin-converting enzyme 2 (ACE2) may be involved in the host pathological changes on binding to the coronavirus after infection. After triggering functional changes in ACE2/AT2R, an imbalance in the steady-state cytokine regulatory axis involving the Renin-Angiotensin System and IP-10 leads to a cytokine storm.</jats:p>",
+    "DOI": "10.1101/2020.02.24.20025437",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T07:25:13Z",
+      "timestamp": 1582788313000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "TWIRLS, an automated topic-wise inference method based on massive literature, suggests a possible mechanism via ACE2 for the pathological changes in the human host after coronavirus infection"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Xiaoyang",
+        "family": "Ji",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Chunming",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yubo",
+        "family": "Zhai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhonghai",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chunli",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yiqing",
+        "family": "Xue",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guangming",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gang",
+        "family": "Niu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.1",
+        "unstructured": "Zhou P , Yang X-L , Wang X-G , et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin [J]. Nature, 2020, 1\u20134."
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A novel coronavirus from patients with pneumonia in China, 2019 [J]. New England Journal of Medicine, 2020,",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "CHAN J F-W , Yuan S , Kok K-H , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster [J]. The Lancet, 2020,",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study [J]. The Lancet, 2020,",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.5",
+        "unstructured": "Wei Z , Rong-Hui D , Bei L , et al. Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes [M]. 2020."
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pan F , Ye T , Sun P , et al. Time Course of Lung Changes On Chest CT During Recovery From 2019 Novel Coronavirus (COVID-19) Pneumonia [J]. Radiology, 2020, 200370.",
+        "DOI": "10.1148/radiol.2020200370"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.7",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China [J]. The Lancet, 2020,"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan S , Yi Q , Fan S , et al. Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia (NCP) [J]. medRxiv, 2020,",
+        "DOI": "10.1101/2020.02.10.20021832"
+      },
+      {
+        "issue": "1",
+        "key": "2020110810551309000_2020.02.24.20025437v1.9",
+        "first-page": "1",
+        "article-title": "Automatic vs. manual curation of a multi-source chemical dictionary: the impact on text mining [J]",
+        "volume": "2",
+        "year": "2010",
+        "journal-title": "Journal of cheminformatics"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cook H V , Jensen L J. A guide to dictionary-based text mining [M]. Bioinformatics and Drug Discovery. Springer. 2019: 73\u201389.",
+        "DOI": "10.1007/978-1-4939-9089-4_5"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2013.03.006"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12005"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M002615200"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/en.2004-0443"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wrapp D , Wang N , Corbett K S , et al. Cryo-EM Structure of the 2019-nCoV Spike in the Prefusion Conformation [J]. bioRxiv, 2020, 2020.02.11.944462.",
+        "DOI": "10.1101/2020.02.11.944462"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01542-10"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.03372-12"
+      },
+      {
+        "issue": "1",
+        "key": "2020110810551309000_2020.02.24.20025437v1.19",
+        "first-page": "167",
+        "article-title": "Host envelope glycoprotein processing proteases are indispensable for entry into human cells by seasonal and highly pathogenic avian influenza viruses [J]",
+        "volume": "3",
+        "year": "2009",
+        "journal-title": "Journal of molecular and genetic medicine: an international journal of biomedical research"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01118-06"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Skeggs L , Dorer F , Levine M , et al. The biochemistry of the renin-angiotensin system [J]. Advances in experimental medicine and biology, 1980, 130(1-27.",
+        "DOI": "10.1007/978-1-4615-9173-3_1"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Corvol P , Eyries M , Soubrier F. Peptidyl-dipeptidase A/angiotensin I-converting enzyme [M]. Handbook of proteolytic enzymes. Elsevier. 2004: 332\u201346.",
+        "DOI": "10.1016/B978-0-12-079611-3.50090-2"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.RES.87.5.e1"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMcibr022472"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature03712"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.270.32.18719"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/377744a0"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/HYPERTENSIONAHA.116.06591"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1172/JCI7451"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ndt/gfg223"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/er.18.5.662"
+      },
+      {
+        "issue": "12",
+        "key": "2020110810551309000_2020.02.24.20025437v1.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "3933",
+        "DOI": "10.1002/j.1460-2075.1990.tb07614.x",
+        "article-title": "A family of constitutive C/EBP-like DNA binding proteins attenuate the IL-1 alpha induced, NF kappa B mediated trans-activation of the angiotensinogen gene acute-phase response element [J]",
+        "volume": "9",
+        "year": "1990",
+        "journal-title": "The EMBO Journal"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/HYPERTENSIONAHA.107.102152"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1523-1755.62.s82.4.x"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1182/blood-2002-09-2785"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1291/hypres.31.1257"
+      },
+      {
+        "issue": "3",
+        "key": "2020110810551309000_2020.02.24.20025437v1.37",
+        "doi-asserted-by": "crossref",
+        "first-page": "616",
+        "DOI": "10.1161/HYPERTENSIONAHA.112.197046",
+        "article-title": "Why do we need a selective angiotensin II type 2 receptor agonist? [J]",
+        "volume": "60",
+        "year": "2012",
+        "journal-title": "Hypertension"
+      },
+      {
+        "key": "2020110810551309000_2020.02.24.20025437v1.38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhe Xu , Lei Shi , Yijin Wang , Jiyuan Zhang , et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome [J]. The Lancet, 2020.",
+        "DOI": "10.1016/S2213-2600(20)30076-X"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20025437",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:13Z",
+      "timestamp": 1768484053000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20025437"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "references-count": 38,
+    "URL": "https://doi.org/10.1101/2020.02.24.20025437",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1002/ddr.21717",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

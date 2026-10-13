@@ -1,0 +1,210 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:02:06Z",
+      "timestamp": 1768546926332,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 6,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                  In late December 2019, Chinese authorities reported a cluster of pneumonia cases of unknown aetiology in Wuhan, China\n                  <jats:sup>1</jats:sup>\n                  . A novel strain of coronavirus named Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was isolated and identified on 2 January 2020\n                  <jats:sup>2</jats:sup>\n                  . Human-to-human transmission have been confirmed by a study of a family cluster and have occurred in health-care workers\n                  <jats:sup>3,4</jats:sup>\n                  . Until 10 February 2020, 42638 cases of 2019 novel coronavirus disease (COVID-19) have been confirmed in China, of which 31728 came from Hubei Province (Figure). Wenzhou, as a southeast coastal city with the most cases outside Hubei Province, its policy control and epidemic projections have certain references for national and worldwide epidemic prevention and control. We described the epidemiologic characteristics of COVID-19 in Wenzhou and made a transmission model to predict the expected number of cases in the coming days.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.25.20024398",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ],
+      "date-time": "2020-02-29T11:24:23Z",
+      "timestamp": 1582975463000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Highland of COVID-19 outside Hubei: epidemic characteristics, control and projections of Wenzhou, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Liangde",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1896-2561",
+        "authenticated-orcid": false,
+        "given": "Jian",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yaru",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guosi",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fan",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianzhong",
+        "family": "Su",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jia",
+        "family": "Qu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "issue": "4",
+        "key": "2020110810551089000_2020.02.25.20024398v1.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.46234/ccdcw2020.017",
+        "article-title": "A novel coronavirus genome identified in a cluster of pneumonia cases\u2014Wuhan, China 2019\u2212 2020",
+        "volume": "2",
+        "year": "2020",
+        "journal-title": "China CDC Weekly"
+      },
+      {
+        "key": "2020110810551089000_2020.02.25.20024398v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A novel coronavirus from patients with pneumonia in China, 2019. New England Journal of Medicine. 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110810551089000_2020.02.25.20024398v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus\u2013Infected Pneumonia in Wuhan, China. JAMA. 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110810551089000_2020.02.25.20024398v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF-W , Yuan S , Kok K-H , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110810551089000_2020.02.25.20024398v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110810551089000_2020.02.25.20024398v1.6",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine. 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20024398",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:16Z",
+      "timestamp": 1768484056000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20024398"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "references-count": 6,
+    "URL": "https://doi.org/10.1101/2020.02.25.20024398",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

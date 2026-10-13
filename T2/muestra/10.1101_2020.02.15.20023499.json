@@ -1,0 +1,251 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:54Z",
+      "timestamp": 1768547274292,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>There is large uncertainty around the case fatality risk (CFR) for COVID-19 in China. Therefore, we considered symptomatic cases outside of China (countries/settings with 20+ cases) and the proportion who are in intensive care units (4.0%, 14/349 on 13 February 2020). Given what is known about CFRs for ICU patients with severe respiratory conditions from a meta-analysis, we estimated a CFR of 1.37% (95%CI: 0.57% to 3.22%) for COVID- 19 cases outside of China.</jats:p>",
+    "DOI": "10.1101/2020.02.15.20023499",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T23:27:15Z",
+      "timestamp": 1582068435000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Estimating the Case Fatality Risk of COVID-19 using Cases from Outside China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Nick",
+        "family": "Wilson",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Amanda",
+        "family": "Kvalsvig",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lucy Telfar",
+        "family": "Barnard",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael G",
+        "family": "Baker",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cowling BJ , Leung GM . Epidemiological research priorities for public health control of the ongoing global novel coronavirus (2019-nCoV) outbreak. Euro Surveill. 2020.",
+        "DOI": "10.2807/1560-7917.ES.2020.25.6.2000110"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , Zhu F , Liu X , Zhang J , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.3",
+        "unstructured": "World Health Organization. Coronavirus disease 2019 (COVID-19) Situation Report \u2013 24. (13 February 2020). [Accessed 13 Feb 2020]. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200213-sitrep-24-covid-19.pdf?sfvrsn=9a7406a4_4."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.4",
+        "unstructured": "Xinghui K. Coronavirus: \u2018some people may succumb\u2019, says Singapore as cases hit 50. This Week in Asia (12 February 2020). [Accessed 13 Feb 2020]. Available from: https://www.scmp.com/week-asia/health-environment/article/3050308/coronavirus-some-people-may-succumb-says-singapore."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.5",
+        "unstructured": "Duddu P. Coronavirus in Thailand: dealing with the 2019-nCoV (Covid-19) outbreak and impact. Pharmaceutical Technology (13 February 2020). [Accessed 13 Feb 2020]. Available from: https://www.pharmaceutical-technology.com/features/coronavirus-affected-countries-thailand-measures-impact-tourism/."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.6",
+        "unstructured": "Ministry of Health LaW. About the present situation of new type coronavirus infectious disease and correspondence of Ministry of Health, Labor and Welfare (February 12, 1921 version). [Accessed 13 February 2020]. Available from: https://www.mhlw.go.jp/stf/newpage_09450.html?fbclid=IwAR3t1NdoMXaCg2r5m3u9Bsxx3NezQQYuF2Avsgsr74yJ6eFQfjUI13wwLlM."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.7",
+        "unstructured": "Chang R. Coronavirus infections in S. Korea rise to 23 after 4 more confirmed cases. TBS eFM News (6 February 2020). [Accessed 13 Feb 2020]. Available from: http://tbs.seoul.kr/eFm/newsView.do?typ_800=N&idx_800=2383979&seq_800=."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.8",
+        "unstructured": "AFP. Japan cruise ship virus cases jump to 218. Bangkok Post (13 February 2020). [Accessed 13 Feb 2020]. Available from: https://www.bangkokpost.com/world/1856719/japan-cruise-ship-virus-cases-jump-to-218#cxrecs_s."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.9",
+        "unstructured": "AFP. Japan cruise ship coronavirus cases climb to 174. Bangkok Post (12 February 2020). [Accessed 13 Feb 2020]. Available from: https://www.bangkokpost.com/world/1855919/japan-cruise-ship-coronavirus-cases-climb-to-174."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.218"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1164/201001-0037OC"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cis636"
+      },
+      {
+        "issue": "4",
+        "key": "2020110710451108000_2020.02.15.20023499v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1007/s00134-013-2829-8",
+        "article-title": "Macrolide-based regimens in absence of bacterial co-infection in critically ill H1N1 patients with primary viral pneumonia",
+        "volume": "39",
+        "year": "2013",
+        "journal-title": "Intensive Care Med"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1005372"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pntd.0003846"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.16",
+        "unstructured": "World Health Organization. Middle East respiratory syndrome coronavirus (MERS- CoV). [Accessed 13 Feb 2020]. Available from: https://www.who.int/emergencies/mers-cov/en/."
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amepre.2006.04.005"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e3182a67448"
+      },
+      {
+        "key": "2020110710451108000_2020.02.15.20023499v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15585/mmwr.rr6602a1"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.15.20023499",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:58Z",
+      "timestamp": 1768484038000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.15.20023499"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.15.20023499",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

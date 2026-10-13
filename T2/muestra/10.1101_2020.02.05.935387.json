@@ -1,0 +1,639 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:08:42Z",
+      "timestamp": 1768489722383,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 56,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              13
+            ]
+          ],
+          "date-time": "2020-02-13T00:00:00Z",
+          "timestamp": 1581552000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Since the outbreak of the coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the public health worldwide has been greatly threatened. The development of an effective treatment for this infection is crucial and urgent but is hampered by the incomplete understanding of the viral infection mechanism and the lack of specific antiviral agents. We previously reported that teicoplanin, a glycopeptide antibiotic that has been commonly used in the clinic to treat bacterial infection, significantly restrained the cell entry of Ebola virus, SARS-CoV and MERS-CoV by specifically inhibiting the activity of cathepsin L (CTSL). Here, we found that the cleavage sites of CTSL on the Spike of SARS-CoV-2 were highly conserved among all the variants. The treatment with teicoplanin suppressed the proteolytic activity of CTSL on Spike and prevented the cellular infection of different pseudotyped SARS-CoV-2 viruses. Teicoplanin potently prevented the entry of authentic SARS-CoV-2 into the cellular cytoplasm with an IC\n                  <jats:sub>50</jats:sub>\n                  of 2.038 \u03bcM for the Wuhan-Hu-1 reference strain and an IC\n                  <jats:sub>50</jats:sub>\n                  of 2.116 \u03bcM for the SARS-CoV-2 (D614G) variant. The pre-treatment of teicoplanin also prevented SARS-CoV-2 infection in hACE2 mice. In summary, our data reveal that CTSL is required for both SARS-CoV-2 and SARS-CoV infection and demonstrate the therapeutic potential of teicoplanin for universal anti-CoVs intervention.\n                </jats:p>\n                <jats:sec>\n                  <jats:title>Importance</jats:title>\n                  <jats:p>Disease prevention and treatment are two important countermeasures to end the coronavirus disease 2019 (COVID-19). However, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of COVID-19, evolves all the time, resulting in the emerging of many epidemic SARS-CoV-2 mutants, which significantly impairs the effectiveness of early strain-based vaccines and antibodies. Developing universal vaccines and broad-spectrum antiviral drugs are essential to confront SARS-CoV-2 mutants including those may emerge in the future. Our study reported here showed that the cleavage sites of cellular cathepsin L (CTSL) are highly conserved among all the SARS-CoV-2 mutants and SARS-CoV. The CTSL inhibitor teicoplanin not only inhibited the cell entry of two live SARS-CoV-2 strains and various pseudotyped viruses but also prevented live virus infection in animal models. Based on our previous finding that teicoplanin also inhibited SARS-CoV and MERS-CoV infection, we believe that teicoplanin possesses the potential to become a universal anti-CoVs drug.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.05.935387",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T14:45:15Z",
+      "timestamp": 1581605115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 55,
+    "title": [
+      "Glycopeptide antibiotic teicoplanin inhibits cell entry of SARS-CoV-2 by suppressing the proteolytic activity of cathepsin L"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Fei",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ting",
+        "family": "Pan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Feng",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ruosu",
+        "family": "Ying",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jun",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huimin",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Junsong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weiwei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yingtong",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yaochang",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rong",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xu",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xi",
+        "family": "Lv",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qianyu",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Anqi",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fan",
+        "family": "Zou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bingfeng",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fengyu",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoping",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Linghua",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kai",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xin",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hui",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yiwen",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiancai",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-018-0118-9"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25681"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2013.05.005"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2015.06.003"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0506735102"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMra032498"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13077-2"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30212-9"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)302518"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1080/22221751.2020.1719902",
+        "article-title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Emerg Microbes Infect"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abd2161"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1542",
+        "DOI": "10.3390/microorganisms9071542",
+        "article-title": "SARS-CoV-2 Spike Mutations, L452R, T478K, E484Q and P681R, in the Second Wave of COVID-19 in Maharashtra, India",
+        "volume": "9",
+        "year": "2021",
+        "journal-title": "Microorganisms"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2021.07.28.454085:2021.07.28.454085"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2021.05.08.21256619:2021.05.08.21256619"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2021.03.31.437925:2021.03.31.437925"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "109292",
+        "DOI": "10.1016/j.celrep.2021.109292",
+        "article-title": "Recurrent emergence of SARS-CoV-2 spike deletion H69/V70 and its role in the Alpha variant B.1.1.7",
+        "volume": "35",
+        "year": "2021",
+        "journal-title": "Cell Reports"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2021.04.09.21255206:2021.04.09.21255206"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "438",
+        "DOI": "10.1038/s41586-021-03402-9",
+        "article-title": "Detection of a SARS-CoV-2 variant of concern in South Africa",
+        "volume": "592",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2021.03.24.436620:2021.03.24.436620"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/viro.2000.0757"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "1620",
+        "DOI": "10.1038/s41467-020-15562-9",
+        "article-title": "Characterization of spike glycoprotein of SARS-CoV-2 on virus entry and its immune cross-reactivity with SARS-CoV",
+        "volume": "11",
+        "year": "2020",
+        "journal-title": "Nature Communications"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2003138117"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2020.02.052"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02232-10"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02062-10"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0179177"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0503203102"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0809524106"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M508381200"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0505577102"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M116.716100"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2013.09.028"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00415-08"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.42",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1038/s41586-021-03237-4",
+        "article-title": "Loss of furin cleavage site attenuates SARS-CoV-2 pathogenesis",
+        "volume": "591",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.43",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1016/j.cell.2020.10.028",
+        "article-title": "Genome-wide CRISPR Screens Reveal Host Factors Critical for SARS-CoV-2 Infection",
+        "volume": "184",
+        "year": "2021",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "961",
+        "DOI": "10.1038/s41467-021-21213-4",
+        "article-title": "A genome-wide CRISPR screen identifies host factors that regulate SARS-CoV-2 entry",
+        "volume": "12",
+        "year": "2021",
+        "journal-title": "Nature Communications"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1038/s41392-021-00558-8",
+        "article-title": "Cathepsin L plays a key role in SARS-CoV-2 infection in humans and humanized mice and is a promising target for new drug development",
+        "volume": "6",
+        "year": "2021",
+        "journal-title": "Signal Transduction and Targeted Therapy"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v4061011"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.immuni.2020.11.015"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2007016"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.8630"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.50",
+        "first-page": "11",
+        "article-title": "Therapeutically administered ribonucleoside analogue MK-4482/EIDD-2801 blocks SARS-CoV-2 transmission in ferrets",
+        "volume": "6",
+        "year": "2021",
+        "journal-title": "Nature Microbiology"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.51",
+        "doi-asserted-by": "crossref",
+        "first-page": "451",
+        "DOI": "10.1038/s41586-021-03312-w",
+        "article-title": "SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801",
+        "volume": "591",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41422-020-0282-0"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.53",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1186/1743-422X-2-69",
+        "article-title": "Chloroquine is a potent inhibitor of SARS coronavirus infection and spread",
+        "volume": "2",
+        "year": "2005",
+        "journal-title": "Virology Journal"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7164/antibiotics.31.276"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7164/antibiotics.37.615"
+      },
+      {
+        "key": "2024080318554117000_2020.02.05.935387v2.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0025-7125(16)30042-6"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.05.935387",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:43Z",
+      "timestamp": 1768435243000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.05.935387"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 56,
+    "URL": "https://doi.org/10.1101/2020.02.05.935387",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

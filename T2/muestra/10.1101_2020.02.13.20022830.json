@@ -1,0 +1,195 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:32:31Z",
+      "timestamp": 1768545151021,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 6,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The total number of COVID-19 patients since the outbreak of this infection in Wuhan, China has reached 40000 and are still growing. To facilitate triage or identification of the large number of COVID-19 patients from other patients with similar symptoms in designated fever clinics, we set to identify a practical marker that could be conveniently utilized by first-line health-care workers in clinics. To do so, we performed a case-control study by analyzing clinical and laboratory findings between PCR-confirmed SARS-CoV-2 positive patients (n=52) and SARS-CoV-2 negative patients (n=53). The patients in two cohorts all had similar symptoms, mainly fever and respiratory symptoms. The rates of patients with leukocyte counts (normal or decreased number) or lymphopenia (two parameters suggested by current National and WHO COVID-19 guidelines) had no differences between these two cohorts, while the rate of eosinopenia (decreased number of eosinophils) in SARS-CoV-2 positive patients (79%) was much higher than that in SARS-CoV-2 negative patients (36%). When the symptoms were combined with eosinopenia, this combination led to a diagnosis sensitivity and specificity of 79% and 64%, respectively, much higher than 48% and 53% when symptoms were combined with leukocyte counts (normal or decreased number) and/ or lymphopenia. Thus, our analysis reveals that eosinopenia may be a potentially more reliable laboratory predictor for SARS-CoV-2 infection than leukocyte counts and lymphopenia recommended by the current guidelines.</jats:p>",
+    "DOI": "10.1101/2020.02.13.20022830",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2020-02-17T21:25:16Z",
+      "timestamp": 1581974716000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 25,
+    "title": [
+      "A simple laboratory parameter facilitates early identification of COVID-19 patients"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Qilin",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xiuli",
+        "family": "Ding",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Geqing",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhi",
+        "family": "Geng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fenghua",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zheng",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110712000732000_2020.02.13.20022830v1.1",
+        "unstructured": "National Health Commission of China. The latest situation of the COVID-19 epidemic (up to February 11th). http://www.nhc.gov.cn/xcs/yqtb/202002/395f075a5f3a411f80335766c65b0487.shtml. Accessed February 12, 2020."
+      },
+      {
+        "key": "2020110712000732000_2020.02.13.20022830v1.2",
+        "unstructured": "National Health Commission of China. Clinical Diagnosis and treatment Guidance of 2019 novel coronavirus (2019-nCoV) caused pneumonia (5th edition). http://www.nhc.gov.cn/xcs/zhengcwj/202002/3b09b894ac9b4204a79db5b8912d4440.shtml. Accessed February 5, 2020."
+      },
+      {
+        "key": "2020110712000732000_2020.02.13.20022830v1.3",
+        "unstructured": "WHO. Clinical management of severe acute respiratory infection when novel coronavirus (ncov) infection is suspected. https://www.who.int/emergencies/diseases/novel-"
+      },
+      {
+        "key": "2020110712000732000_2020.02.13.20022830v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13412-5"
+      },
+      {
+        "key": "2020110712000732000_2020.02.13.20022830v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(15)60454-8"
+      },
+      {
+        "key": "2020110712000732000_2020.02.13.20022830v1.6",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.13.20022830",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:55Z",
+      "timestamp": 1768484035000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.13.20022830"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "references-count": 6,
+    "URL": "https://doi.org/10.1101/2020.02.13.20022830",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

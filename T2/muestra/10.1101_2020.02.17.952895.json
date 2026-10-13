@@ -1,0 +1,339 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T01:50:07Z",
+      "timestamp": 1768528207450,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "group-title": "Genomics",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2020-02-21T00:00:00Z",
+          "timestamp": 1582243200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The spread of the novel coronavirus (SARS-CoV-2) has triggered a global emergency, that demands urgent solutions for detection and therapy to prevent escalating health, social and economic impacts. The spike protein (S) of this virus enables binding to the human receptor ACE2, and hence presents a prime target for vaccines preventing viral entry into host cells\n                  <jats:sup>1</jats:sup>\n                  . The S proteins from SARS-CoV-1 and SARS-CoV-2 are similar\n                  <jats:sup>2</jats:sup>\n                  , but structural differences in the receptor binding domain (RBD) preclude the use of SARS-CoV-1\u2013specific neutralizing antibodies to inhibit SARS-CoV-2\n                  <jats:sup>3</jats:sup>\n                  . Here we used comparative pangenomic analysis of all sequenced\n                  <jats:italic>Betacoronaviruses</jats:italic>\n                  to reveal that, among all core gene clusters present in these viruses, the envelope protein E shows a variant shared by SARS and SARS-Cov2 with two completely-conserved key functional features, an ion-channel and a PDZ-binding Motif (PBM). These features trigger a cytokine storm that activates the inflammasome, leading to increased edema in lungs causing the acute respiratory distress syndrome (ARDS)\n                  <jats:sup>4-6</jats:sup>\n                  , the leading cause of death in SARS-CoV-1 and SARS-CoV-2 infection\n                  <jats:sup>7,8</jats:sup>\n                  . However, three drugs approved for human use may inhibit SARS-CoV-1 and SARS-CoV-2 Protein E, either acting upon the ion channel (Amantadine and Hexamethylene amiloride\n                  <jats:sup>9,10</jats:sup>\n                  ) or the PBM (SB203580\n                  <jats:sup>5</jats:sup>\n                  ), thereby potentially increasing the survival of the host, as already demonstrated for SARS-CoV-1in animal models. Hence, blocking the SARS protein E inhibits development of ARDS\n                  <jats:italic>in vivo</jats:italic>\n                  . Given that our results demonstrate that the protein E subcluster for the SARS clade is\n                  <jats:italic>quasi</jats:italic>\n                  -identical for the key functional regions of SARS-CoV-1 and SARS-CoV-2, we conclude that use of approved drugs shown to act as SARS E protein inhibitors can help prevent further casualties from COVID-2019 while vaccines and other preventive measures are being developed.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.17.952895",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2020-02-22T05:25:14Z",
+      "timestamp": 1582349114000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Functional pangenome analysis suggests inhibition of the protein E as a readily available therapy for COVID-2019"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Intikhab",
+        "family": "alam",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Allan",
+        "family": "Kamau",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Maxat",
+        "family": "Kulmanov",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stefan T.",
+        "family": "Arold",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1755-2819",
+        "authenticated-orcid": false,
+        "given": "Arnab",
+        "family": "Pain",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Takashi",
+        "family": "Gojobori",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Carlos M.",
+        "family": "Duarte",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-virology-110615-042301"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.abb2507"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1004077"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1004320"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v7062750"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-2600(20)30076-X"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2006.05.028"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bpc.2017.11.002"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2020.02.001"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkx977"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0065-3527(06)66005-3"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/mBio.02325-17"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0008342"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11373-005-9043-9"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02576-13"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btz595"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-33012-9_34"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01467-06"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00304-08"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.03566-14"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12985-019-1182-0"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000045"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12688/f1000research.22211.2"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cbic.202000047"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0082210"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41587-019-0036-z"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky427"
+      },
+      {
+        "key": "2024080320293248000_2020.02.17.952895v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/prot.24065"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.17.952895",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:02:53Z",
+      "timestamp": 1768435373000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.17.952895"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.17.952895",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:27Z",
+      "timestamp": 1768549227103,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 21,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The recent outbreak of infections by the 2019 novel coronavirus (2019-nCoV), the third zoonotic CoV has raised great public health concern. The demand for rapid and accurate diagnosis of this novel pathogen brought significant clinical and technological challenges. Currently, metagenomic next-generation sequencing (mNGS) and reverse-transcription PCR (RT-PCR) are the most widely used molecular diagnostics for 2019-nCoV.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>2019-nCoV infections were confirmed in 52 specimens by mNGS. Genomic information was analyzed and used for the design and development of an isothermal, CRISPR-based diagnostic for the novel virus. The diagnostic performance of CRISPR-nCoV was assessed and also compared across three technology platforms (mNGS, RT-PCR and CRISPR)</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    2019-nCoVs sequenced in our study were conserved with the Wuhan strain, and shared certain genetic similarity with\n                    <jats:italic>SARS-CoV</jats:italic>\n                    . A high degree of variation in the level of viral RNA was observed in clinical specimens. CRISPR-nCoV demonstrated a near single-copy sensitivity and great clinical sensitivity with a shorter turn-around time than RT-PCR.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>CRISPR-nCoV presents as a promising diagnostic option for the emerging pathogen.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.22.20025460",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:36:08Z",
+      "timestamp": 1582518968000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 33,
+    "title": [
+      "Development and Evaluation of A CRISPR-based Diagnostic For 2019-novel Coronavirus"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Tieying",
+        "family": "Hou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Weiqi",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Minling",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenjing",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lili",
+        "family": "Ren",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jingwen",
+        "family": "Ai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ji",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yalong",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuejing",
+        "family": "Gou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yongjun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaorui",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hang",
+        "family": "Su",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bing",
+        "family": "Gu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianwei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Teng",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A novel coronavirus from patients with pneumonia in China, 2019 [J]. NEW ENGL J MED, 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.2",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia[J]. NEW ENGL J MED, 2020."
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu J T , Leung K , Leung G M. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study[J]. The Lancet, 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Phan L T , Nguyen T V , Luong Q C , et al. Importation and human-to-human transmission of a novel coronavirus in Vietnam[J]. NEW ENGL J MED, 2020.",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothe C , Schunk M , Sothmann P , et al. Transmission of 2019-nCoV infection from an asymptomatic contact in Germany[J]. NEW ENGL J MED, 2020.",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holshue M L , DeBolt C , Lindquist S , et al. First case of 2019 novel coronavirus in the United States[J]. NEW ENGL J MED, 2020.",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "issue": "3",
+        "key": "2021010303450967000_2020.02.22.20025460v2.7",
+        "first-page": "2000045",
+        "article-title": "Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR[J]",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.8",
+        "unstructured": "Lu R , Zhao X , Li J , et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding[J]. The Lancet, 2020."
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.9",
+        "unstructured": "Ren L L , Wang Y M , Wu Z Q , et al. Identification of a novel coronavirus causing severe pneumonia in human: a descriptive study[J]. Chinese Medical Journal, 2020."
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2016.03.003"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MMBR.69.4.635-664.2005"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01244-13"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1146/annurev-pathmechdis-012418-012751",
+        "article-title": "Clinical metagenomic next-generation sequencing for pathogen detection[J]",
+        "volume": "14",
+        "year": "2019",
+        "journal-title": "Annual Review of Pathology: Mechanisms of Disease"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1677/jme.0.0290023"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4161/rna.24022"
+      },
+      {
+        "issue": "6387",
+        "key": "2021010303450967000_2020.02.22.20025460v2.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1126/science.aar6245",
+        "article-title": "CRISPR-Cas12a target binding unleashes indiscriminate single-stranded DNase activity",
+        "volume": "360",
+        "year": "2018",
+        "journal-title": "Science (New York, NY)"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ai JW , Zhou X , Xu T , et al. CRISPR-based Rapid and Ultra-sensitive Diagnostic Test for Mycobacterium Tuberculosis. Emerging Microbes & Infections, 2019.",
+        "DOI": "10.1080/22221751.2019.1664939"
+      },
+      {
+        "issue": "6416",
+        "key": "2021010303450967000_2020.02.22.20025460v2.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "839",
+        "DOI": "10.1126/science.aav4294",
+        "article-title": "Programmed DNA destruction by miniature CRISPR-Cas14 enzymes",
+        "volume": "362",
+        "year": "2018",
+        "journal-title": "Science (New York, NY)"
+      },
+      {
+        "issue": "6387",
+        "key": "2021010303450967000_2020.02.22.20025460v2.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1126/science.aas8836",
+        "article-title": "Field-deployable viral diagnostics using CRISPR-Cas13",
+        "volume": "360",
+        "year": "2018",
+        "journal-title": "Science (New York, NY)"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Munster V J , Koopmans M , van Doremalen N , et al. A novel coronavirus emerging in China\u2014key questions for impact assessment[J]. NEW ENGL J MED, 2020.",
+        "DOI": "10.1056/NEJMp2000929"
+      },
+      {
+        "key": "2021010303450967000_2020.02.22.20025460v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aas8836"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.22.20025460",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:11Z",
+      "timestamp": 1768484051000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.22.20025460"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 21,
+    "URL": "https://doi.org/10.1101/2020.02.22.20025460",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1371/journal.ppat.1008705",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

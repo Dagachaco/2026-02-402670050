@@ -1,0 +1,438 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          14
+        ]
+      ],
+      "date-time": "2026-04-14T10:41:28Z",
+      "timestamp": 1776163288259,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The outbreak of 2019-nCoV in the central Chinese city of Wuhan at the end of 2019 poses unprecedent public health challenges to both China and the rest world\n                  <jats:sup>1</jats:sup>\n                  . The new coronavirus shares high sequence identity to SARS-CoV and a newly identified bat coronavirus\n                  <jats:sup>2</jats:sup>\n                  . While bats may be the reservoir host for various coronaviruses, whether 2019-nCoV has other hosts is still ambiguous. In this study, one coronavirus isolated from Malayan pangolins showed 100%, 98.2%, 96.7% and 90.4% amino acid identity with 2019-nCoV in the E, M, N and S genes, respectively. In particular, the receptor-binding domain of the S protein of the Pangolin-CoV is virtually identical to that of 2019-nCoV, with one amino acid difference. Comparison of available genomes suggests 2019-nCoV might have originated from the recombination of a Pangolin-CoV-like virus with a Bat-CoV-RaTG13-like virus. Infected pangolins showed clinical signs and histopathological changes, and the circulating antibodies reacted with the S protein of 2019-nCoV. The isolation of a coronavirus that is highly related to 2019-nCoV in the pangolins suggests that these animals have the potential to act as the intermediate host of 2019-nCoV. The newly identified coronavirus in the most-trafficked mammal could represent a continuous threat to public health if wildlife trade is not effectively controlled.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.17.951335",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:29:22Z",
+      "timestamp": 1582219762000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 106,
+    "title": [
+      "Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Kangpeng",
+        "family": "Xiao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Junqiong",
+        "family": "Zhai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yaoyu",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Niu",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xu",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie-Jian",
+        "family": "Zou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Na",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yaqiong",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaobing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuejuan",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhipeng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fanfan",
+        "family": "Shu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wanyi",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ziding",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rui-Ai",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ya-Jiang",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shi-Ming",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mian",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei-Jun",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qin-Hui",
+        "family": "Cai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fang-Hui",
+        "family": "Hou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yahong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wu",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lihua",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7660-5522",
+        "authenticated-orcid": false,
+        "given": "Yongyi",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu, N. et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med (2020).",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou, P. et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature (2020).",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.3",
+        "unstructured": "Wu, F. et al. A new coronavirus associated with human respiratory disease in China. Nature (2020)."
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "E59",
+        "DOI": "10.3390/v11010059",
+        "article-title": "From SARS to MERS, thrusting coronaviruses into the spotlight",
+        "volume": "11",
+        "year": "2019",
+        "journal-title": "Viruses"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aac8608"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu, R. et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet (2020).",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1118391"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0065-3527(06)66005-3"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1006698"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.12",
+        "unstructured": "Li, Q. et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med (2020)."
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu, P. , Chen, W. & Chen, J. P. Viral Metagenomics Revealed Sendai Virus and Coronavirus Infection of Malayan Pangolins (Manis javanica). Viruses 11 (2019).",
+        "DOI": "10.3390/v11110979"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.14",
+        "unstructured": "Xu, L. , Guan, J. , Lau, W. & Xiao, Y. An overview of pangolin trade in China. TRAFFIC Briefing Paper (2016)."
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.15",
+        "unstructured": "Pantel, S. & Chin, S. Y. Proceedings of the Workshop on Trade and Conservation of Pangolins Native to South and Southeast Asia: 30 June-2 July 2008, Singapore Zoo. (TRAFFIC Southeast Asia, 2009)."
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bty560"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btp698"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv033"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btq224"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btl446"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/14.9.817"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.73.1.152-160.1999"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ve/vev003"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku340"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ct400314y"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.27"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1517/17460441.2015.1032936"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ct300418h"
+      },
+      {
+        "key": "2020022210350479000_2020.02.17.951335v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-2836(03)00610-7"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.17.951335",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:02:34Z",
+      "timestamp": 1768435354000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.17.951335"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.17.951335",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:21Z",
+      "timestamp": 1768547241391,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 31,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>A novel coronavirus disease (COVID-19) outbreak due to SARS-CoV-2 infection occurred in China in late-December 2019. Facemask wearing is considered as one of the most cost-effective and important measures to prevent the transmission of SARS-CoV-2, but it became a social concern due to the recent global facemask shortage. China is the major facemask producer in the world, contributing to 50% of global production. However, even full productivity (20 million facemasks per day) does not seem to meet the need of a population of 1.4 billion in China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Policy review using government websites and shortage analysis using mathematical modelling based on data obtained from the National Health Commission (NHC), the Ministry of Industry and Information Technology (MIIT), the Center for Disease Control and Prevention (CDC) of the People\u2019s Republic of China, and Wuhan Bureau of Statistics.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>Supplies of facemasks in the whole of China would have been sufficient for both healthcare workers and the general population if the COVID-19 outbreak only occurred in Wuhan city or Hubei province. However, if the outbreak occurred in the whole of China, facemask supplies in China could last for 5 days if under the existing public health measures and a shortage of 853 million facemasks is expected by 30 Apr 2020. Assuming a gradually decreased import volume, we estimated that dramatic increase in productivity (42.7 times of the usual level) is needed to mitigate the facemask crisis by the end of April.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>In light of the COVID-19 outbreak in China, a shortage of facemasks and other medical resources can considerably compromise the efficacy of public health measures. Effective public health measures should also consider the adequacy and affordability of medical resources. Global collaboration should be strengthened to prevent the development of a global pandemic from a regional epidemic via easing the medical resources crisis in the affected countries.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Research in context</jats:title>\n                  <jats:sec>\n                    <jats:title>Evidence before this study</jats:title>\n                    <jats:p>We searched PubMed and Web of Science for articles in English, between 1 Jan 1980, and 1 Jan 2020, using the search terms 1) (infection OR infectious disease* OR outbreaks) AND (modelling); and 2) (mask* OR facemask* OR medical resource*) AND (infection OR infectious disease* OR outbreaks). Most relevant studies identified were performed to predict diseases spread and to determine the original infection source of previous epidemics like SARS and H7N9. However, few studies focused on the medical resources crisis during the outbreaks.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Added value of this study</jats:title>\n                    <jats:p>To the best of our knowledge, this is the first study to investigate the facemask shortage during the novel coronavirus pneumonia (COVID-19) outbreak in China. We have summarized in detail the management strategies implemented by the Chinese governments during the outbreaks. By considering three scenarios for the outbreak development, we simulated the facemasks availability from late-December 2019 to late-April 2020 and estimated the duration of sufficient facemask supplies. Our findings showed that if the COVID-19 outbreak occurred only in Wuhan city or Hubei province, facemask shortage would not appear with the existing public health measures. However, if the outbreak occurred in the whole of China, a shortage of facemask could be substantial assuming no alternative public health measures.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Implications of all the available evidence</jats:title>\n                    <jats:p>Our findings provide insight into the public health measures to confront medical resources crisis during infectious disease outbreaks. Effective public health measures should consider the adequacy and affordability of existing medical resources. Governments across the world should revisit their emergency plans for controlling infectious disease outbreaks by taking into account the supply of and demand for the medical resource. Global collaboration should be strengthened to prevent the development of a global pandemic from a regional epidemic via easing the medical resources crisis in the affected countries.</jats:p>\n                  </jats:sec>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.11.20020735",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T09:25:20Z",
+      "timestamp": 1581499520000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Facemask shortage and the coronavirus disease (COVID-19) outbreak: Reflection on public health measures"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2040-3945",
+        "authenticated-orcid": false,
+        "given": "Huailiang",
+        "family": "Wu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3931-5013",
+        "authenticated-orcid": false,
+        "given": "Jian",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1047-0287",
+        "authenticated-orcid": false,
+        "given": "Casper J. P.",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7650-1459",
+        "authenticated-orcid": false,
+        "given": "Zonglin",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8846-7515",
+        "authenticated-orcid": false,
+        "given": "Wai-Kit",
+        "family": "Ming",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Jung SM , Linton NM , et al. The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020. J Clin Med 2020; 9(2).",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.2",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-018-0118-9"
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.4",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.5",
+        "unstructured": "Wuhan Municipal Health Commission. Wuhan Municipal Health Commission briefing on the pneumonia epidemic situation, 13 February 2020 (in Chinese). 2020. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200214_2027187.shtml (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.6",
+        "unstructured": "National Health Commission of the People \u2018s Republic of China. Updates on pneumonia of new coronavirus infections as of February 13, 2020 (in Chinese). 2020. http://www.nhc.gov.cn/xcs/yqtb/202002/553ff43ca29d4fe88f3837d49d6b6ef1.shtml (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.7",
+        "unstructured": "World Health Organization. Novel Coronavirus (2019-nCoV) Situation Report - 24, 2020. 2020. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200213-sitrep-24-covid-19.pdf (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.8",
+        "unstructured": "World Health Organization. Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected. 2020. https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125 (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.9",
+        "unstructured": "Ministry of Industry and Information Technology of People \u2018s Republic of China. Facemasks shortage? Just now, the Ministry of Industry and Information Technology of People \u2018s Republic of China responded (in Chinese). 2020. http://www.miit.gov.cn/n973401/n7647394/n7647409/c7656383/content.html (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ming W , Huang J , Zhang C. Breaking down of the healthcare system: Mathematical modelling for controlling the novel coronavirus (2019-nCoV) outbreak in Wuhan, China. bioRxiv 2020.",
+        "DOI": "10.1101/2020.01.27.922443"
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b3675"
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.12",
+        "unstructured": "World Health Organization (WHO). WHO Director-General\u2019s opening remarks at the media briefing on 2019 novel coronavirus \u2013 7 February 2020. 2020. https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-2019-novel-coronavirus7-february-2020 (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.13",
+        "unstructured": "Ministry of Industry and Information Technology of People \u2018s Republic of China. Press conference on the situation of medical protective equipment during the outbreak of 2019-nCoV pneumonia (in Chinese). 2020. http://www.miit.gov.cn/n1146290/n1146402/c7660995/content.html (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.14",
+        "unstructured": "The General Administration of Customs of the People\u2019s Republic of China. China has imported 730 million facemasks since the New Year\u2019s eve (in Chinese). 2020. http://www.gov.cn/xinwen/2020-02/12/content_5477838.htm (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.15",
+        "unstructured": "Ministry of Industry and Information Technology of People \u2018s Republic of China. A large numbers of clothing enterprises changed to produce facemasks and protective clothes. 2020. http://www.miit.gov.cn/n973401/n7647394/n7647409/c7675791/content.html (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.16",
+        "unstructured": "Kucharski A , Russell T , Diamond C , et al. Analysis and projections of transmission dynamics of nCoV in Wuhan. 2020. https://cmmid.github.io/ncov/wuhan_early_dynamics/index.html (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu Q , Li D , Liu Z , et al. EPIDEMIC TRENDS ANALYSIS AND RISK ESTIMATION OF 2019-NCOV OUTBREAK. bioRxiv 2020.",
+        "DOI": "10.1101/2020.02.09.20021444"
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.18",
+        "unstructured": "National Health Commission of the People \u2018s Republic of China. Chinese Health Statistics Yearbook (2019 version) (in Chinese). China; 2019."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.19",
+        "unstructured": "National Bureau of Statistics of China. Main cities annual statistical data (in Chinese). 2019. http://data.stats.gov.cn/easyquery.htm?cn=E0105&zb=A02&reg=110000&sj=2018 (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.20",
+        "unstructured": "Wuhan Bureau of Statistics. Wuhan statistical bulletin on national economic and social development in 2018 (in Chinese). 2019. http://www.tjcn.org/tjgb/17hb/35881.html (accessed 14 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.21",
+        "unstructured": "National Health Commission of the People \u2018s Republic of China. The protocol for the novel coronavirus pneumonia (the second version) (in Chinese). 2020. http://www.nhc.gov.cn/jkj/s3577/202001/c67cfe29ecf1470e8c7fc47d3b751e88.shtml (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.22",
+        "unstructured": "Ministry of Education of the People\u2019s Republic of China. The announcement on the postponement of the spring semester of 2020. 2020. http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202001/t20200127_416672.html (accessed 17 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.23",
+        "unstructured": "World Heath Organization. WHO, China leaders discuss next steps in battle against coronavirus outbreak. 2020. https://www.who.int/news-room/detail/28-01-2020-who-china-leaders-discuss-next-steps-in-battle-against-coronavirus-outbreak (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.24",
+        "unstructured": "The General Administration of Customs of the People\u2019s Republic of China. Proper reservation and disinfection methods could prolong the using time and times of facemasks (in Chinese). 2020. http://www.gov.cn/xinwen/2020-02/06/content_5475327.htm (accessed 15 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.25",
+        "unstructured": "Song W , Pan B , Kan H , Xu Y , Yi Z. Evaluation of heat inactivation of virus contamination on medical mask. Journal of Microbes and Infections 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.26",
+        "unstructured": "Ministry of Industry and Information Technology of People \u2018s Republic of China. Chinese medical N95 mask daily productivity is only 600,000! Forward the appeal, please leave it to the medical staff (in Chinese). 2020. http://www.miit.gov.cn/n973401/n7647394/n7647409/c7663732/content.html (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0950268807009156"
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.28",
+        "unstructured": "CNBC. Panic buying of face masks is unwarranted and could pose risks for health workers, experts say. 2020. https://www.cnbc.com/2020/01/31/china-coronavirus-shortage-of-face-masks-could-pose-risks-for-healthcare-workers.html (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.29",
+        "unstructured": "National Health Commission of the People \u2018s Republic of China. The announcement of publishing the guidelines of protection of population at different risk levels for novel coronavirus and facemasks usage to prevent the novel coronavirus infection (in Chinese). 2020. http://www.nhc.gov.cn/jkj/s7916/202001/a3a261dabfcf4c3fa365d4eb07ddab34.shtml (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.30",
+        "unstructured": "Chinanews.com. Feb 21 maybe peak day for coronavirus outbreak: Yale expert. 2020. http://www.ecns.cn/news/2020-02-04/detail-ifztewca0596265.shtml (accessed 7 Feb 2020."
+      },
+      {
+        "key": "2020110614500682000_2020.02.11.20020735v2.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.11.20020735",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:51Z",
+      "timestamp": 1768484031000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.11.20020735"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 31,
+    "URL": "https://doi.org/10.1101/2020.02.11.20020735",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.eclinm.2020.100329",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

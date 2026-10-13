@@ -1,0 +1,278 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T11:48:12Z",
+      "timestamp": 1773920892188,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 19,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Short Abstract</jats:title>\n                <jats:p>We estimate the distribution of serial intervals for 468 confirmed cases of COVID-19 reported in 93 Chinese cities by February 8, 2020. The mean and standard deviation are 3.96 (95% CI 3.53-4.39) and 4.75 (95% CI 4.46-5.07) days, respectively, with 12.6% of reports indicating pre-symptomatic transmission.</jats:p>\n                <jats:sec>\n                  <jats:title>One sentence summary</jats:title>\n                  <jats:p>We estimate the distribution of serial intervals for 468 confirmed cases of COVID-19 reported in 93 Chinese cities by February 8, 2020.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.19.20025452",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:39:49Z",
+      "timestamp": 1582519189000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 63,
+    "title": [
+      "The serial interval of COVID-19 from publicly reported confirmed cases"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhanwei",
+        "family": "Du",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoke",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ye",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin J.",
+        "family": "Cowling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5828-8874",
+        "authenticated-orcid": false,
+        "given": "Lauren Ancel",
+        "family": "Meyers",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.1",
+        "unstructured": "WHO | Pneumonia of unknown cause \u2013 China. 2020 Jan 30 [cited 2020 Feb 18]; Available from: https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.2",
+        "unstructured": "Organization WH, Others. Coronavirus disease 2019 (COVID-19): situation report, 30. 2020; Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200219-sitrep-30-covid-19.pdf?sfvrsn=6e50645_2"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cowling BJ , Leung GM . Epidemiological research priorities for public health control of the ongoing global novel coronavirus (2019-nCoV) outbreak. Euro Surveill [Internet]. 2020 Feb 13; Available from:http://dx.doi.org/10.2807/1560-7917.ES.2020.25.6.2000110",
+        "DOI": "10.2807/1560-7917.ES.2020.25.6.2000110"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.4",
+        "unstructured": "Giesecke J. Modern infectious disease epidemiology. CRC Press; 2017."
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mbs.2006.10.010"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwu209"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.2123"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cowling BJ , Park M , Fang VJ , Wu P , Leung GM , Wu JT . Preliminary epidemiological assessment of MERS-CoV outbreak in South Korea, May to June 2015 [Internet]. Vol. 20, Eurosurveillance. 2015. Available from: http://dx.doi.org/10.2807/1560-7917.es2015.20.25.21163",
+        "DOI": "10.2807/1560-7917.ES2015.20.25.21163"
+      },
+      {
+        "issue": "2",
+        "key": "2020111212150779000_2020.02.19.20025452v4.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.3947/ic.2016.48.2.99",
+        "article-title": "Outbreaks of Middle East Respiratory Syndrome in Two Hospitals Initiated by a Single Patient in Daejeon, South Korea",
+        "volume": "48",
+        "year": "2016",
+        "journal-title": "Infect Chemother"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jung S-M , Akhmetzhanov AR , Hayashi K , Linton NM , Yang Y , Yuan B , et al. Real time estimation of the risk of death from novel coronavirus (2019-nCoV) infection: Inference using exported cases [Internet]. Available from: http://dx.doi.org/10.1101/2020.01.29.20019547",
+        "DOI": "10.1101/2020.01.29.20019547"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med [Internet]. 2020 Jan 29; Available from: http://dx.doi.org/10.1056/NEJMoa2001316",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tuite AR , Fisman DN . Reporting, Epidemic Growth, and Reproduction Numbers for the 2019 Novel Coronavirus (2019-nCoV) Epidemic [Internet]. Annals of Internal Medicine. 2020. Available from: http://dx.doi.org/10.7326/m20-0358",
+        "DOI": "10.7326/M20-0358"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet [Internet]. 2020 Jan 31; Available from: http://dx.doi.org/10.1016/S0140-6736(20)30260-9",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Gao D , Zhuang Z , Chong M , Cai Y , Ran J , et al. Estimating the serial interval of the novel coronavirus disease (COVID-19): A statistical analysis using the public data in Hong Kong from January 16 to February 15, 2020. medRxiv [Internet]. 2020; Available from: https://www.medrxiv.org/content/10.1101/2020.02.21.20026559v1.abstract",
+        "DOI": "10.21203/rs.3.rs-18805/v1"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Linton NM , Akhmetzhanov AR . Serial interval of novel coronavirus (2019-nCoV) infections [Internet]. Infectious Diseases (except HIV/AIDS). medRxiv; 2020. Available from: https://www.medrxiv.org/content/10.1101/2020.02.03.20019497v1.abstract",
+        "DOI": "10.1101/2020.02.03.20019497"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mbs.2008.02.007"
+      },
+      {
+        "key": "2020111212150779000_2020.02.19.20025452v4.19",
+        "unstructured": "Fit probability distribution object to data - MATLAB fitdist [Internet]. [cited 2020 Feb 19]. Available from: https://www.mathworks.com/help/stats/fitdist.html"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.19.20025452",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:06Z",
+      "timestamp": 1768484046000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.19.20025452"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 19,
+    "URL": "https://doi.org/10.1101/2020.02.19.20025452",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3201/eid2606.200357",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

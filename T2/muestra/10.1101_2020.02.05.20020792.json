@@ -1,0 +1,323 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:55:37Z",
+      "timestamp": 1768546537034,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 25,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The novel coronavirus (2019-nCoV) epidemic has spread to 23 countries from China. Local cycles of transmission already occurred in 7 countries following case importation. No African country has reported cases yet. The management and control of 2019-nCoV introductions heavily relies on country\u2019s health capacity. Here we evaluate the preparedness and vulnerability of African countries against their risk of importation of 2019-nCoV.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We used data on air travel volumes departing from airports in the infected provinces in China and directed to Africa to estimate the risk of introduction per country. We determined the country\u2019s capacity to detect and respond to cases with two indicators: preparedness, using the WHO International Health Regulation Monitoring and Evaluation Framework; and vulnerability, with the Infectious Disease Vulnerability Index. Countries were clustered according to the Chinese regions contributing the most to their risk.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>Countries at the highest importation risk (Egypt, Algeria, Republic of South Africa) have moderate to high capacity to respond to outbreaks. Countries at moderate risk (Nigeria, Ethiopia, Sudan, Angola, Tanzania, Ghana, Kenya) have variable capacity and high vulnerability. Three clusters of countries are identified that share the same exposure to the risk originating from the provinces of Guangdong, Fujian, and Beijing, respectively.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>Several countries in Africa are stepping up their preparedness to detect and cope with 2019-nCoV importations. Resources and intensified surveillance and capacity capacity should be urgently prioritized towards countries at moderate risk that may be ill-prepared to face the importation and to limit onward transmission.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>This study was partially supported by the ANR project DATAREDUX (ANR-19-CE46-0008-03) to VC; the EU grant MOOD (H2020-874850) to MG, CP, MK, PYB, VC.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.05.20020792",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2020-02-07T10:35:11Z",
+      "timestamp": 1581071711000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "Preparedness and vulnerability of African countries against introductions of 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Marius",
+        "family": "Gilbert",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Giulia",
+        "family": "Pullano",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Francesco",
+        "family": "Pinotti",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Eugenio",
+        "family": "Valdano",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chiara",
+        "family": "Poletto",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pierre-Yves",
+        "family": "Bo\u00eblle",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Eric",
+        "family": "D\u2019Ortenzio",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yazdan",
+        "family": "Yazdanpanah",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Serge Paul",
+        "family": "Eholie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mathias",
+        "family": "Altmann",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bernardo",
+        "family": "Gutierrez",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Moritz U.G.",
+        "family": "Kraemer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Vittoria",
+        "family": "Colizza",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "#cr-split#-2020110611350674000_2020.02.05.20020792v1.1.1",
+        "unstructured": "World Health Organization (WHO) Emergency Committee. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). Geneva:WHO"
+      },
+      {
+        "key": "#cr-split#-2020110611350674000_2020.02.05.20020792v1.1.2",
+        "unstructured": "30 January 2020. Available from: https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.2",
+        "unstructured": "European Centre for Disease Prevention and Control (ECDC) Geographical distribution of 2019-nCov cases globally. Situation update 1 February 13:00 CET. Available at: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.3",
+        "unstructured": "Le Monde . Coronavirus : l\u2019Afrique en \u00e9tat d\u2019alerte. 28 January 2020. Available at: https://www.lemonde.fr/afrique/article/2020/01/28/coronavirus-l-afrique-sur-ses-gardes_6027538_3212.html"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.4",
+        "unstructured": "World Health Organization, Regional Office for Africa. WHO ramps up preparedness for novel coronavirus in the African region. 31 January 2020. Available at: https://www.afro.who.int/news/who-ramps-preparedness-novel-coronavirus-african-region"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.5",
+        "first-page": "2000057",
+        "article-title": "Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jtm/taaa008"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.8",
+        "unstructured": "Chinazzi et al. Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan City. Available at: https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus__6_.pdf"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.9",
+        "unstructured": "Lai S , Bogoch II , Watts A , Khan K , Li Z , Tatem A. Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China. Available at: https://www.worldpop.org/resources/docs/china/WorldPop-coronavirus-spread-risk-analysis-v1-25Jan.pdf"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.10",
+        "unstructured": "World Health Organization. International Health Regulations (2005): State Party self-assessment annual reporting tool. Geneva: World Health Organization; 2018. https://apps.who.int/iris/handle/10665/272432."
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.11",
+        "unstructured": "EpiRisk. Available at: https://epirisk.net/"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.12",
+        "unstructured": "2018\u5e74\u6c11\u822a\u673a\u573a\u751f\u4ea7\u7edf\u8ba1\u516c\u62a5 (in Chinese). Civil Aviation Administration of China. 2019-03-05. Available at: http://www.caac.gov.cn/XXGK/XXGK/TJSJ/201903/P020190305338562571372.xls?COLLCC=3782305670&"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.13",
+        "unstructured": "Xu B , Gutierrez B , Hill S , Scarpino S , Loskill A , Wu J , et al. Epidemiological Data from the nCoV-2019 Outbreak: Early Descriptions from Publicly Available Data. 2020. Available at: https://github.com/beoutbreakprepared/nCoV2019"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.14",
+        "unstructured": "City Population. China: provinces and major cities. Available at: http://www.citypopulation.de/en/china/cities/"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.15",
+        "unstructured": "Manning CD , Sch\u00fctze H. Foundations of statistical natural language processing. Cambridge, Mass: MIT Press; 1999."
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.16",
+        "unstructured": "WHO Electronic State Parties Self-Assessment Annual Reporting Tool. Available at : https://extranet.who.int/e-spar"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Moore, M. , Gelfeld, B. , Okunogbe, A. , Paul, C. , Gelfeld, B. , 2016. Identifying future disease hot spots: infectious disease vulnerability index. RAND, Santa Monica, Calif. Available at: https://www.rand.org/pubs/research_reports/RR1605.html",
+        "DOI": "10.7249/RR1605"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.18",
+        "unstructured": "Jeune Afrique . Un Boeing de la Royal Air Maroc (illustration). Royal Air Maroc, RwandAir, Kenya Airways,\u2026 six des huit compagnies a\u00e9riennes africaines qui desservent la Chine, en proie \u00e0 une \u00e9pid\u00e9mie de coronavirus, ont d\u00e9cid\u00e9 de suspendre leurs liaisons. Ethiopian Airlines et Air Alg\u00e9rie ont choisi de maintenir leurs vols. 01 February 2020. Available at: https://www.jeuneafrique.com/889706/economie/coronavirus-lafrique-met-la-chine-en-quarantaine/"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.19",
+        "unstructured": "Zhou, Y. Quartz Africa. Available at: https://qz.com/africa/1675287/china-toafrica-fights-jumped-630-in-the-past-nine-years/"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nkengasong, J. China\u2019s response to a novel coronavirus stands in stark contrast to the 2002 SARS outbreak response. Nat Med (2020). https://doi.org/10.1038/s41591-020-0771-1",
+        "DOI": "10.1038/s41591-020-0771-1"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.21",
+        "unstructured": "Independent Online South Africa. 1 February 2020. Concerns that the deadly coronavirus may hit South Africa. Available at: https://www.iol.co.za/saturday-star/news/concerns-that-the-deadly-coronavirus-may-hit-south-africa-41867192"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.22",
+        "unstructured": "Capital Ethiopia. Screening for coronavirus begins at Bole International Airport. 27 January 2020. Available at: https://www.capitalethiopia.com/capital/screening-for-coronavirus-begins-at-bole-international-airport/"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.23",
+        "unstructured": "Nigeria Centre for Disease Control. 3rd February 2020| PUBLIC HEALTH ADVISORY TO NIGERIANS ON NOVEL CORONAVIRUS (#3). Available at: https://www.ncdc.gov.ng/news/222/3rd-february-2020%7C-public-health-advisory-to-nigerians-on-novel-coronavirus-%28%233%29"
+      },
+      {
+        "key": "2020110611350674000_2020.02.05.20020792v1.24",
+        "unstructured": "Nigeria Centre for Disease Control. The Nigeria Centre for Disease Control has successfully validated capacity to test for the novel #coronavirus in #Nigeria at our National Reference Laboratory (NRL). 3 February 2020. Available at: https://twitter.com/NCDCgov/status/1224306344330780672"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.05.20020792",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:45Z",
+      "timestamp": 1768484025000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.05.20020792"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "references-count": 25,
+    "URL": "https://doi.org/10.1101/2020.02.05.20020792",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/S0140-6736(20)30411-6",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          7
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

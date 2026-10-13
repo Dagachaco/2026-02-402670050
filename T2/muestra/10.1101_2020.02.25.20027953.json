@@ -1,0 +1,211 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:02:06Z",
+      "timestamp": 1768546926309,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:p>We examined 169 genomes of SARS-CoV-2 and found that they can be classified into two major genotypes, Type I and Type II. Type I can be further divided into Type IA and IB. Our phylogenetic analysis showed that the Type IA resembles the ancestral SARS-CoV-2 most. Type II was likely evolved from Type I and predominant in the infections. Our results suggest that Type II SARS-CoV-2 was the source of the outbreak in the Wuhan Huanan market and it was likely originated from a super-spreader. The outbreak caused by the Type I virus should have occurred somewhere else, because the patients had no direct link to the market. Furthermore, by analyzing three genomic sites that distinguish Type I and Type II strains, we found that synonymous changes at two of the three sites confer higher protein translational efficiencies in Type II strains than in Type I strains, which might explain why Type II strains are predominant, implying that Type II is more contagious (transmissible) than Type I. These findings could be valuable for the current epidemic prevention and control.</jats:p>",
+    "DOI": "10.1101/2020.02.25.20027953",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T07:35:36Z",
+      "timestamp": 1582788936000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Genomic variations of SARS-CoV-2 suggest multiple outbreak sources of transmission"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1919-3677",
+        "authenticated-orcid": false,
+        "given": "Liangsheng",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jian-Rong",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhenguo",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhenguo",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.1",
+        "unstructured": "Zhang L. , et al., Origin and evolution of the 2019 novel coronavirus. Clin Infect Dis, 2020."
+      },
+      {
+        "issue": "1",
+        "key": "2020111005450399000_2020.02.25.20027953v2.2",
+        "first-page": "154",
+        "article-title": "Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats",
+        "volume": "7",
+        "year": "2018",
+        "journal-title": "Emerg Microbes Infect"
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.3",
+        "unstructured": "Zhou, jP. , et al., A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, 2020."
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btw412"
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1748-7188-3-7"
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.6",
+        "first-page": "e9490",
+        "article-title": "FastTree 2--approximately maximum-likelihood trees for large alignments",
+        "volume": "i3",
+        "year": "2010",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.7",
+        "unstructured": "Lu, R. , et al., Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet."
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.8",
+        "unstructured": "Huang, C. , et al., Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet, 2020."
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.9",
+        "unstructured": "Li, Q. , et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine, 2020."
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh834"
+      },
+      {
+        "key": "2020111005450399000_2020.02.25.20027953v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bai, Y. , et al., Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA, 2020.",
+        "DOI": "10.1001/jama.2020.2565"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20027953",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:18Z",
+      "timestamp": 1768484058000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20027953"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.02.25.20027953",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

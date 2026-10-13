@@ -1,0 +1,420 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:08:33Z",
+      "timestamp": 1768547313514,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 47,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          24
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The 2019 coronavirus disease (COVID-19) represents a significant public health threat globally. Here we describe efforts to compare epidemic growth, size and peaking time for countries in Asia, Europe, North America, South America and Australia in the early epidemic phase.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Using the time series of cases reported from January 20, 2020 to February 13, 2020 and transportation data from December 1, 2019 to January 23, 2020 we have built a novel time-varying growth model to predict the epidemic trend in China. We extended our method, using cases reported from January 26, 2020 - or the date of the earliest case reported, to April 9, 2020 to predict future epidemic trend and size in 41 countries. We estimated the impact of control measures on the epidemic trend.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    Our time-varying growth model yielded high concordance in the predicted epidemic size and trend with the observed figures in C hina. Among the other 41 countries, the peak time has been observed in 28 countries before or around April 9, 2020; the peak date and epidemic size were highly consistent with our estimates. We predicted the remaining countries would peak in April or May 2020, except India in July and Pakistan in August. The epidemic trajectory would reach the plateau in May or June for the majority of countries in the current wave. Countries that could emerge to be new epidemic centers are India, Pakistan, Brazil, Mexico, and Russia with a prediction of 10\n                    <jats:sup>5</jats:sup>\n                    cases for these countries. The effective reproduction number\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>t</jats:italic>\n                    </jats:sub>\n                    displayed a downward trend with time across countries, revealing the impact of the intervention remeasures i.e. social distancing.\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>t</jats:italic>\n                    </jats:sub>\n                    remained the highest in the UK (median 2.62) and the US (median 2.19) in the fourth week after the epidemic onset.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>New epidemic centers are expected to continue to emerge across the whole world. Greater challenges such as those in the healthcare system would be faced by developing countries in hotspots. A domestic approach to curb the pandemic must align with joint international efforts to effectively control the spread of COVID-19. Our model promotes a reliable transmissibility characterization and epidemic forecasting using the incidence of cases in the early epidemic phase.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.21.20026468",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T19:45:12Z",
+      "timestamp": 1582659912000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Comparative Analysis of Early Dynamic Trends in Novel Coronavirus Outbreak: A Modeling Framework"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Huazhen",
+        "family": "Lin",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hong",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinyu",
+        "family": "Nie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiao",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.1",
+        "unstructured": "D. Wang , B. Hu , C. Hu , F. Zhu , X. Liu , J. Zhang , B. Wang , H. Xiang , Z. Cheng , Y. Xiong , et al., Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus\u2013infected pneumonia in wuhan, china, Jama."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.2",
+        "unstructured": "Q. Li , X. Guan , P. Wu , X. Wang , L. Zhou , Y. Tong , R. Ren , K. S. Leung , E. H. Lau , J. Y. Wong , et al., Early transmission dynamics in wuhan, china, of novel coronavirus\u2013infected pneumonia, New England Journal of Medicine."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.3",
+        "unstructured": "R. Lu , X. Zhao , J. Li , P. Niu , B. Yang , H. Wu , W. Wang , H. Song , B. Huang , N. Zhu , et al., Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding, The Lancet."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.4",
+        "unstructured": "P. Zhou , X.-L. Yang , X.-G. Wang , B. Hu , L. Zhang , W. Zhang , H.-R. Si , Y. Zhu , B. Li , C.-L. Huang , et al., A pneumonia outbreak associated with a new coronavirus of probable bat origin, Nature (2020) 1\u20134."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.5",
+        "unstructured": "D. K. Chu , Y. Pan , S. Cheng , K. P. Hui , P. Krishnan , Y. Liu , D. Y. Ng , C. K. Wan , P. Yang , Q. Wang , et al., Molecular diagnosis of a novel coronavirus (2019-ncov) causing an outbreak of pneumonia, Clinical Chemistry."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.6",
+        "unstructured": "Z. Wu , J. M. McGoogan , Characteristics of and important lessons from the coronavirus disease 2019 (covid-19) outbreak in china: summary of a report of 72 314 cases from the chinese center for disease control and prevention, Jama."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.7",
+        "unstructured": "K. Sun , J. Chen , C. Viboud , Early epidemiological analysis of the coronavirus disease 2019 outbreak based on crowdsourced data: a populationlevel observational study, The Lancet Digital Health."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086925"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.9",
+        "unstructured": "M. Gilbert , G. Pullano , F. Pinotti , E. Valdano , C. Poletto , P.-Y. Bo\u00eblle , E. D\u2019Ortenzio , Y. Yazdanpanah , S. P. Eholie , M. Altmann , et al., Preparedness and vulnerability of african countries against importations of covid-19: a modelling study, The Lancet."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.10",
+        "unstructured": "J. T. Wu , K. Leung , G. M. Leung , Nowcasting and forecasting the potential domestic and international spread of the 2019-ncov outbreak originating in wuhan, china: a modelling study, The Lancet."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "S. Zhao , Q. Lin , J. Ran , S. S. Musa , G. Yang , W. Wang , Y. Lou , D. Gao , L. Yang , D. He , et al., Preliminary estimation of the basic reproduction number of novel coronavirus (2019-ncov) in china, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak, International Journal of Infectious Diseases.",
+        "DOI": "10.1101/2020.01.23.916395"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.12",
+        "unstructured": "Y. Liu , A. A. Gayle , A. Wilder-Smith , J. Rockl\u00f6v , The reproductive number of covid-19 is higher compared to sars coronavirus, Journal of Travel Medicine."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. Riou , C. L. Althaus , Pattern of early human-to-human transmission of wuhan 2019 novel coronavirus (2019-ncov), december 2019 to january 2020, Eurosurveillance 25 (4).",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000058"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/72.1.45"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/ss/1063994968"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "issue": "1",
+        "key": "2020120107000522000_2020.02.21.20026468v2.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "344",
+        "DOI": "10.1186/s13071-019-3602-9",
+        "article-title": "Simple framework for realtime forecast in a data-limited situation: the zika virus (zikv) outbreaks in brazil from 2015 to 2016 as an example",
+        "volume": "12",
+        "year": "2019",
+        "journal-title": "Parasites & vectors"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1016/j.plrev.2016.07.005",
+        "article-title": "Mathematical models to characterize early epidemic growth: A review",
+        "volume": "18",
+        "year": "2016",
+        "journal-title": "Physics of life reviews"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.epidem.2016.01.002"
+      },
+      {
+        "issue": "1",
+        "key": "2020120107000522000_2020.02.21.20026468v2.20",
+        "first-page": "110",
+        "article-title": "Real-time estimates in early detection of sars",
+        "volume": "12",
+        "year": "2006",
+        "journal-title": "Emerging infectious diseases"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.21",
+        "unstructured": "M. Lipsitch , T. Cohen , B. Cooper , J. M. Robins , S. Ma , L. James , G. Gopalakrishna , S. K. Chew , C. C. Tan , M. H. Samore , other, Transmission dynamics and control of severe acute respiratory syndrome, Science."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.22",
+        "unstructured": "W.-j. Guan , Z.-y. Ni , Y. Hu , W.-h. Liang , C.-q. Ou , J.-x. He , L. Liu , H. Shan , C.-l. Lei , D. S. Hui , et al., Clinical characteristics of coronavirus disease 2019 in china, New England Journal of Medicine."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41421-020-0148-0"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.24",
+        "unstructured": "M. Shen , Z. Peng , Y. Xiao , L. Zhang , Modelling the epidemic trend of the 2019 novel coronavirus outbreak in china, bioRxiv."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.25",
+        "unstructured": "J. M. Read , J. R. Bridgen , D. A. Cummings , A. Ho , C. P. Jewell , Novel coronavirus 2019-ncov: early estimation of epidemiological parameters and epidemic predictions, medRxiv."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9030674"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.27",
+        "unstructured": "N. Imai , I. Dorigatti , A. Cori , C. Donnelly , S. Riley , N. M. Ferguson , Report 2: Estimating the potential total number of novel coronavirus cases in wuhan city, china, Imperial College London."
+      },
+      {
+        "issue": "2",
+        "key": "2020120107000522000_2020.02.21.20026468v2.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "388",
+        "DOI": "10.3390/jcm9020388",
+        "article-title": "Estimating the unreported number of novel coronavirus (2019-ncov) cases in china in the first half of january 2020: a data-driven modelling analysis of the early outbreak",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Journal of clinical medicine"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.29",
+        "unstructured": "N. Ferguson , D. Laydon , G. Nedjati Gilani , N. Imai , K. Ainslie , M. Baguelin , S. Bhatia , A. Boonyasiri , Z. Cucunuba Perez , G. Cuomo-Dannenburg , et al., Report 9: Impact of non-pharmaceutical interventions (npis) to reduce covid19 mortality and healthcare demand."
+      },
+      {
+        "issue": "123",
+        "key": "2020120107000522000_2020.02.21.20026468v2.30",
+        "doi-asserted-by": "crossref",
+        "first-page": "20160659",
+        "DOI": "10.1098/rsif.2016.0659",
+        "article-title": "Characterizing the reproduction number of epidemics with early subexponential growth dynamics",
+        "volume": "13",
+        "year": "2016",
+        "journal-title": "Journal of The Royal Society Interface"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.31",
+        "unstructured": "Liu, J. Hu, M. Kang, L. Lin, H. Zhong, J. Xiao, G. He, T. Song, Q. Huang, Z. R. and, Transmission dynamics of 2019 novel coronavirus (2019-ncov)."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.32",
+        "unstructured": "A. J. Kucharski , T. W. Russell , C. Diamond , Y. Liu , J. Edmunds , S. Funk , R. M. Eggo , F. Sun , M. Jit , J. D. Munday , N. Davies , A. Gimma , K. van Zandvoort , H. Gibbs , J. Hellewell , C. I. Jarvis , S. Clifford , B. J. Quilty , N. I. Bosse , S. Abbott , P. Klepac , S. Flasche , Early dynamics of transmission and control of covid-19: a mathematical modelling study, The Lancet Infectious Diseases doi:https://doi.org/10.1016/S1473-3099(20)30144-4. URL http://www.sciencedirect.com/science/article/pii/S1473309920301444"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.33",
+        "unstructured": "G. Qian , N. Yang , A. H. Y. Ma , L. Wang , G. Li , X. Chen , X. Chen , A covid-19 transmission within a family cluster by presymptomatic infectors in china, Clinical Infectious Diseases."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "W. E. Wei , Presymptomatic transmission of sars-cov-2\u2014singapore, january 23\u2013march 16, 2020, MMWR. Morbidity and Mortality Weekly Report 69.",
+        "DOI": "10.15585/mmwr.mm6914e1"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.35",
+        "article-title": "Pre-symptomatic transmission in the evolution of the covid-19 pandemic",
+        "journal-title": "arXiv preprint"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.36",
+        "unstructured": "A. Kimball , Asymptomatic and presymptomatic sars-cov-2 infections in residents of a long-term care skilled nursing facility\u2014king county, washington, march 2020, MMWR. Morbidity and mortality weekly report 69."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.2467"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1097"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.39",
+        "unstructured": "R. M. Anderson , H. Heesterbeek , D. Klinkenberg , T. D. Hollingsworth , How will country-based mitigation measures influence the course of the covid-19 epidemic?, The Lancet."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3136"
+      },
+      {
+        "issue": "5",
+        "key": "2020120107000522000_2020.02.21.20026468v2.41",
+        "doi-asserted-by": "crossref",
+        "first-page": "434",
+        "DOI": "10.1111/irv.12467",
+        "article-title": "Estimating and modelling the transmissibility of middle east respiratory syndrome coronavirus during the 2015 outbreak in the republic of korea",
+        "volume": "11",
+        "year": "2017",
+        "journal-title": "Influenza and other respiratory viruses"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1811115115"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "L. M. Bettencourt , R. M. Ribeiro , Real time bayesian estimation of the epidemic potential of emerging infectious diseases, PLoS One 3 (5).",
+        "DOI": "10.1371/journal.pone.0002185"
+      },
+      {
+        "issue": "4",
+        "key": "2020120107000522000_2020.02.21.20026468v2.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "268",
+        "DOI": "10.1089/hs.2019.0022",
+        "article-title": "Real-time epidemic forecasting: Challenges and opportunities",
+        "volume": "17",
+        "year": "2019",
+        "journal-title": "Health security"
+      },
+      {
+        "issue": "2",
+        "key": "2020120107000522000_2020.02.21.20026468v2.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "523",
+        "DOI": "10.3390/jcm9020523",
+        "article-title": "Real-time estimation of the risk of death from novel coronavirus (covid-19) infection: Inference using exported cases",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Journal of clinical medicine"
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.46",
+        "unstructured": "S. W. Hermanowicz , Forecasting the wuhan coronavirus (2019-ncov) epidemics using a simple (simplistic) model, medRxiv."
+      },
+      {
+        "key": "2020120107000522000_2020.02.21.20026468v2.47",
+        "doi-asserted-by": "crossref",
+        "unstructured": "E. Bendavid , et al., Covid-19 antibody seroprevalence in santa clara county, california, medRxiv, 2020.04.14.20062463 69.",
+        "DOI": "10.1101/2020.04.14.20062463"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.21.20026468",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:10Z",
+      "timestamp": 1768484050000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.21.20026468"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 47,
+    "URL": "https://doi.org/10.1101/2020.02.21.20026468",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

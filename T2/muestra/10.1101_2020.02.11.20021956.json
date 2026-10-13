@@ -1,0 +1,258 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2026-02-19T22:37:43Z",
+      "timestamp": 1771540663091,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Ophthalmology",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The emerging 2019 novel coronavirus (2019-nCoV) has pushed several countries into state of emergency all over the world. The possible transmission of 2019-nCoV by conjunctiva is controversial and has substantial public health implications.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>A retrospective cohort study was initiated to investigate the possible transmission of 2019-nCoV through aerosol contact with conjunctiva. We enrolled 67 cases of confirmed or suspected cases of novel coronavirus pneumonia (NCP) during 17\u201328 Jan 2020. Nasopharyngeal and conjunctival swabs were collected for real time RT-PCR analysis to detect 2019-nCoV.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>63 patients were identified as laboratory-confirmed NCP and the remaining four were suspected NCP. Conjunctival swab samples from one NCP patient yielded positive PCR results and two NCP patients yielded probable positive PCR results. None of the three patients had ocular symptoms. The only one NCP patient with conjunctivitis as the first symptom had negative conjunctival sac 2019-nCoV test. Conjunctival swab samples from the four suspected cases of NCIP were negative.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>2019-nCoV can be detected in the conjunctival sac of patients with NCP. Through clinical analysis, viral transmission via the conjunctival route was not supported by the data. Good clinical protection can effectively cut off the transmission path.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.11.20021956",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T13:05:17Z",
+      "timestamp": 1581512717000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 88,
+    "title": [
+      "Ophthalmologic evidence against the interpersonal transmission of 2019 novel coronavirus through conjunctiva"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yunyun",
+        "family": "Zhou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0593-4542",
+        "authenticated-orcid": false,
+        "given": "Yuyang",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yongqing",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7281-552X",
+        "authenticated-orcid": false,
+        "given": "Changzheng",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m408"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.2",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Pneumonia epidemic situation of new coronavirus infection on February 9, 2020. 2020. (Accessed February 10, 2020, at http://www.nhc.gov.cn/xcs/yqfkdt/202002/167a0e01b2d24274b03b2ca961107929.shtml.)"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.3",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet (London, England) 2020."
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.4",
+        "unstructured": "American Academy of Ophthalmology. Alert: Important coronavirus context for ophthalmologists. 2020. (Accessed January 28, 2020, at https://www.aao.org/headline/alert-important-coronavirus-context.)"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothe C , Schunk M , Sothmann P , et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang H , Kang Z , Gong H , et al. The digestive system is a potential route of 2019-nCov infection: a bioinformatics analysis based on single-cell transcriptomes. bioRxiv 2020:2020.01.30.927806.",
+        "DOI": "10.1101/2020.01.30.927806"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Benvenuto D , Giovannetti M , Ciccozzi A , Spoto S , Angeletti S , Ciccozzi M. The 2019-new coronavirus epidemic: evidence for virus evolution. J Med Virol 2020.",
+        "DOI": "10.1101/2020.01.24.915157"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan Y , Shang J , Graham R , Baric RS , Li F. Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J Virol 2020.",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.1570"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "122",
+        "DOI": "10.2174/1874364101711010122",
+        "article-title": "Many Faces of Renin-angiotensin System - Focus on Eye",
+        "volume": "11",
+        "year": "2017",
+        "journal-title": "Open Ophthalmol J"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0010717"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMra032498"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MMBR.00058-12"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.15",
+        "unstructured": "Peking University Hospital Wang Guangfa disclosed treatment status on Weibo and suspected infection without wearing goggles. 2020. (Accessed February 9, 2020, at http://www.bjnews.com.cn/news/2020/01/23/678189.html.)"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.16",
+        "unstructured": "Lu C-w , Liu X-f , Jia Z-f. 2019-nCoV transmission through the ocular surface must not be ignored. The Lancet."
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.17",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.18",
+        "unstructured": "Institute of Virus Disease Control and Prevention, China CDC. Primers and probes for detection of the novel coronavirus. 2020. (Accessed February 3, 2020, at http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html.)"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1024"
+      },
+      {
+        "key": "2020110613050919000_2020.02.11.20021956v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bjo.2003.035931"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.11.20021956",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:51Z",
+      "timestamp": 1768484031000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.11.20021956"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.11.20021956",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

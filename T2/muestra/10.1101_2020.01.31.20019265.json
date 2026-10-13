@@ -1,0 +1,247 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:31:27Z",
+      "timestamp": 1768545087840,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 14,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:p>As the number of novel coronavirus cases grows both inside and outside of China, public health authorities require evidence on the effectiveness of control measures such as thermal screening of arrivals at airports. We evaluated the effectiveness of exit and entry screening for 2019-nCoV infection. In our baseline scenario, we estimated that 46.5% (95%CI: 35.9 to 57.7) of infected travellers would not be detected, depending on the incubation period, sensitivity of exit and entry screening, and the proportion of cases which are asymptomatic. Airport screening is unlikely to detect a sufficient proportion of 2019-nCoV infected travellers to avoid entry of infected travellers. We developed an online tool so that results can be updated as new information becomes available.</jats:p>",
+    "DOI": "10.1101/2020.01.31.20019265",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2020-02-02T10:59:15Z",
+      "timestamp": 1580641155000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Effectiveness of airport screening at detecting travellers infected with 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9094-3728",
+        "authenticated-orcid": false,
+        "given": "Billy",
+        "family": "Quilty",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1485-2189",
+        "authenticated-orcid": false,
+        "given": "Sam",
+        "family": "Clifford",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "CMMID nCoV working group",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5808-2606",
+        "authenticated-orcid": false,
+        "given": "Stefan",
+        "family": "Flasche",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0362-6717",
+        "authenticated-orcid": false,
+        "given": "Rosalind M.",
+        "family": "Eggo",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.1",
+        "unstructured": "World Health Organisation. Novel Coronavirus (2019-nCoV) Situation Report-7 [Internet]. 2020 Jan. Report No.: 76. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200127-sitrep-7-2019--ncov.pdf?sfvrsn=98ef79f5_2"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.2",
+        "unstructured": "Imperial College London. News / Wuhan Coronavirus [Internet]. MRC Centre for Global Infectious Disease Analysis: News / Wuhan Coronavirus. 2020 [cited 2020 Jan 27]. Available from: http://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.3",
+        "unstructured": "Coronavirus Spurs China to Suspend Tours Abroad and Xi to Warn of a \u2018Grave Situation\u2019. The New York Times [Internet]. 2020 Jan 25 [cited 2020 Jan 27]; Available from: https://www.nytimes.com/2020/01/25/world/asia/china-coronavirus.html"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gostic KM , Kucharski AJ , Lloyd-Smith JO . Effectiveness of traveller screening for emerging pathogens is shaped by epidemiology and natural history of infection. eLife [Internet]. [cited 2020 Jan 27];4. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337724/",
+        "DOI": "10.7554/eLife.05564"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mabey D , Flasche S , Edmunds WJ . Airport screening for Ebola. BMJ [Internet]. 2014 Oct 14 [cited 2020 Jan 28];349. Available from: https://www.bmj.com/content/349/bmj.g6202",
+        "DOI": "10.1136/bmj.g6202"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.331.7527.1242"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.7",
+        "unstructured": "Traveller Screening GitHub Repository. https://github.com/bquilty25/airport_screening;"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.8",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N Engl J Med. 0(0):null."
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.9",
+        "unstructured": "Chan JF-W , Yuan S , Kok K-H , To KK-W , Chu H , Yang J , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. The Lancet [Internet]. 2020 Jan 24 [cited 2020 Jan 27];0(0). Available from: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/abstract"
+      },
+      {
+        "issue": "5",
+        "key": "2020110409000706000_2020.01.31.20019265v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "220",
+        "DOI": "10.5694/j.1326-5377.2004.tb05889.x",
+        "article-title": "Border screening for SARS in Australia: what has been learnt?",
+        "volume": "180",
+        "year": "2004",
+        "journal-title": "Med J Aust"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.11",
+        "unstructured": "CNN BKC. Airport screenings for the Wuhan coronavirus increase around the world [Internet]. CNN. [cited 2020 Jan 27]. Available from: https://www.cnn.com/travel/article/coronavirus-airport-screenings/index.html"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.12",
+        "unstructured": "Passengers arriving from Wuhan, China are being screened for the novel coronavirus | San Francisco International Airport [Internet]. FlySFO | San Francisco International Airport. [cited 2020 Jan 27]. Available from: https://www.flysfo.com/passengers-arriving-wuhan-china-are-being-screened-novel-coronavirus"
+      },
+      {
+        "key": "2020110409000706000_2020.01.31.20019265v1.13",
+        "unstructured": "Department of Health. https://www.gov.uk/guidance/wuhan-novel-coronavirus-information-for-the-public#advice-for-travellers-from-wuhan."
+      },
+      {
+        "issue": "4",
+        "key": "2020110409000706000_2020.01.31.20019265v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.1089/bsp.2004.2.265",
+        "article-title": "Factors Influencing Compliance with Quarantine in Toronto During the 2003 SARS Outbreak",
+        "volume": "2",
+        "year": "2004",
+        "journal-title": "Biosecurity Bioterrorism Biodefense Strategy Pract Sci"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.31.20019265",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:38Z",
+      "timestamp": 1768484018000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.31.20019265"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 14,
+    "URL": "https://doi.org/10.1101/2020.01.31.20019265",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.2807/1560-7917.es.2020.25.5.2000080",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:01:52Z",
+      "timestamp": 1768546912928,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 21,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>BACKGROUND</jats:title>\n                  <jats:p>The COVID-19 epidemic, first emerged in Wuhan during December 2019, has spread globally. While the mass population movement for Chinese New Year has significantly influenced spreading the disease, little direct evidence exists about the relevance to epidemic and its control of population movement from Wuhan, local emergency response, and medical resources in China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>METHODS</jats:title>\n                  <jats:p>\n                    Spearman\u2019s correlation analysis was performed between official data of confirmed COVID-19 cases from Jan 20\n                    <jats:sup>th</jats:sup>\n                    to Feb 19\n                    <jats:sup>th</jats:sup>\n                    , 2020 and real-time travel data and health resources data.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>RESULTS</jats:title>\n                  <jats:p>\n                    There were 74,675 confirmed COVID-19 cases in China by Feb 19\n                    <jats:sup>th</jats:sup>\n                    , 2020. The overall fatality rate was 2.84%, much higher in Hubei than in other regions (3.27% vs 0.73%). The index of population inflow from Hubei was positively correlated with total (Provincial r=0.9159, p&lt;0.001; City r=0.6311, p&lt;0.001) and primary cases (Provincial r=0.8702, p&lt;0.001; City r=0.6358, p&lt;0.001). The local health emergency measures (eg, city lockdown and traffic control) were associated with reduced infections nationwide. Moreover, the number of public health employees per capita was inversely correlated with total cases (r=\u22120.6295, p &lt;0.001) and infection rates (r =\u22120.4912, p &lt;0.01). Similarly, cities with less medical resources had higher fatality (r =\u22120.4791, p&lt;0.01) and lower cure rates (r = 0.5286, p&lt;0.01) among the confirmed cases.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>CONCLUSIONS</jats:title>\n                  <jats:p>The spread of the COVID-19 in China in its early phase was attributed primarily to population movement from Hubei, and effective governmental health emergency measures and adequate medical resources played important roles in subsequent control of epidemic and improved prognosis of affected individuals.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.24.20027623",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T17:45:13Z",
+      "timestamp": 1582825513000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Spread and control of COVID-19 in China and their associations with population movement, public health emergency measures, and medical resources"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Songmin",
+        "family": "Ying",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Fei",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xinwei",
+        "family": "Geng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhouyang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xufei",
+        "family": "Du",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haixia",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sisi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Min",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhehua",
+        "family": "Shao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yinfang",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Madiha Zahra",
+        "family": "Syeda",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fugui",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Luanqing",
+        "family": "Che",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bin",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jian",
+        "family": "Lou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shaobin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhengming",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wen",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ye",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhihua",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huahao",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.1",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.3",
+        "unstructured": "Lu R , Zhao X , Li J , et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet 2020."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.4",
+        "unstructured": "Zhou P , Yang XL , Wang XG , et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.5",
+        "unstructured": "WHO. Novel Coronavirus(2019-nCoV): Situation Report \u2013 22. 2020."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.6",
+        "unstructured": "ICTV. The Coronavirus Study Group (CSG) of International Committee on Taxonomy of Viruses (ICTV) announced the new name SARS-CoV-2 for 2019-nCoV."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cyto.2018.01.025"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2249.2004.02415.x"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhe Xu LS , Yijin Wang , Jiyuan Zhang , Lei Huang , Chao Zhang , et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine 2020.",
+        "DOI": "10.1016/S2213-2600(20)30076-X"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.12",
+        "unstructured": "Commission BCNH. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding (No 1). 2020. http://www.gov.cn/xinwen/2020-01/23/content_5471751.htm (accessed January 23, 2020."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.13",
+        "unstructured": "Chinadaily. 5 million-plus leave Wuhan: Mayor. https://www.chinadaily.com.cn/a/202001/27/WS5e2dcd01a310128217273551.html (accessed Jan 27 2020)."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ai S , Zhu G , Tian F , et al. Population movement, city closure and spatial transmission of the 2019-nCoV infection in China. medRxiv 2020.",
+        "DOI": "10.1101/2020.02.04.20020339"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.15",
+        "unstructured": "WHO. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). Jan 30. https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov) (accessed Jan 30 2020)."
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus- Infected Pneumonia in Wuhan, China. JAMA 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1016/j.envint.2018.02.005",
+        "article-title": "Evaluating effects of prenatal exposure to phthalate mixtures on birth weight: A comparison of three statistical approaches",
+        "volume": "113",
+        "year": "2018",
+        "journal-title": "Environ Int"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/resp.13196"
+      },
+      {
+        "key": "2020110911075108000_2020.02.24.20027623v1.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heymann DL , Shindo N. COVID-19: what is next for public health? The Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30374-3"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027623",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:15Z",
+      "timestamp": 1768484055000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027623"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 21,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027623",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

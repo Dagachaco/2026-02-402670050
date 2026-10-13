@@ -1,0 +1,246 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:01:46Z",
+      "timestamp": 1768546906568,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 16,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Importance</jats:title>\n                  <jats:p>To predict the diagnosed COVID-19 patients and the trend of the epidemic in China. It may give the public some scientific information to ease the fear of the epidemic.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>In December 2019, pneumonia infected with the novel coronavirus burst in Wuhan, China. We aimed to use a mathematical model to predict number of diagnosed patients in future to ease anxiety on the emergent situation.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>According to all diagnosis number from WHO website and combining with the transmission mode of infectious diseases, the mathematical model was fitted to predict future trend of outbreak.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Setting</jats:title>\n                  <jats:p>Our model was based on the epidemic situation in China, which could provide referential significance for disease prediction in other countries, and provide clues for prevention and intervention of relevant health authorities.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Participants</jats:title>\n                  <jats:p>In this retrospective, all diagnosis number from Jan 21 to Feb 10, 2020 reported from China was included and downloaded from WHO website.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Main Outcome(s) and Measure(s)</jats:title>\n                  <jats:p>\n                    We develop a simple but accurate formula to predict the next day diagnosis number:\n                    <jats:inline-formula>\n                      <jats:alternatives>\n                        <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"20025262v2_inline1.gif\"/>\n                      </jats:alternatives>\n                    </jats:inline-formula>\n                    ,where N\n                    <jats:sub>i</jats:sub>\n                    is the total diagnosed patient till the\n                    <jats:italic>i</jats:italic>\n                    th day, and\n                    <jats:italic>\u03b1</jats:italic>\n                    was estimated as 0.904 at Feb 10.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Based on this model, it is predicted that the rate of disease infection will decrease exponentially. The total number of infected people is limited; thus, the disease will have limited impact. However, new diagnosis will last to March.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions and Relevance</jats:title>\n                  <jats:p>Through the establishment of our model, we can better predict the trend of the epidemic in China.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.19.20025262",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:37:31Z",
+      "timestamp": 1582519051000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "A Note on COVID-19 Diagnosis Number Prediction Model in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yi",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xianhong",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meng",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoyu",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meng",
+        "family": "Hao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chaolin H. et al. Clinical features of patients infected with 2019 novelcoronavirus in Wuhan, China. The Lancet. ISSN0140-6736,(2020).",
+        "DOI": "10.1016/j.virusres.2020.198043"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "PaulesC I. et al. Coronavirus Infections\u2014More Than Just the Common Cold. JAMA.(2020)",
+        "DOI": "10.1001/jama.2020.0757"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H. et al. The extent of transmission of novel coronavirus in Wuhan, China, 2020. Journal Of Clinical Medicine, (2020).",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.4",
+        "unstructured": "Tao L. et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv 2020.01.25.919787;(2020)."
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N.et al . A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England Journal of Medicine, (2020).",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.6",
+        "unstructured": "https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020."
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1471-0528.16192"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.8",
+        "unstructured": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200122-sitrep-2-2019-ncov.pdf?sfvrsn=4d5bcbca_2."
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.9",
+        "unstructured": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200128-sitrep-8-ncov-cleared.pdf?sfvrsn=8b671ce5_2."
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S. et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases, (2020).",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.11",
+        "unstructured": "Li Q. et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013 Infected Pneumonia. New England Journal of Medicine, (2020)."
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.12",
+        "unstructured": "Mingwang S. et al. Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China. bioRxiv 2020.01.23.916726;(2020)"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.13",
+        "unstructured": "Tianmu C. et al. A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv 2020.01.19.911669;(2020)."
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.14",
+        "unstructured": "Shi Z , et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv 2020.01.23.916395;(2020)."
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "172",
+        "DOI": "10.1017/S0022172400034902",
+        "article-title": "Contributions to the mathematical theory of epidemics: IV. Analysis of experimental epidemics of the virus disease mouse ectromelia",
+        "volume": "37",
+        "year": "1937",
+        "journal-title": "J Hyg (Lond)"
+      },
+      {
+        "key": "2020111110500570000_2020.02.19.20025262v2.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chowell G. et al. Mathematical models to characterize early epidemic growth: A Review. Physics of Life Reviews, S1571064516300641,(2016).",
+        "DOI": "10.1016/j.plrev.2016.07.005"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.19.20025262",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:05Z",
+      "timestamp": 1768484045000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.19.20025262"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1101/2020.02.19.20025262",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

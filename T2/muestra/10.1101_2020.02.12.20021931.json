@@ -1,0 +1,202 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:32:10Z",
+      "timestamp": 1768545130524,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 10,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The epidemic outbreak cased by coronavirus 2019-nCoV is of great interest to researches because of the high rate of spread of the infection and the significant number of fatalities. A detailed scientific analysis of the phenomenon is yet to come, but the public is already interested in the questions of the duration of the epidemic, the expected number of patients and deaths. For long time predictions, the complicated mathematical models are necessary which need many efforts for unknown parameters identification and calculations. In this article, some preliminary estimates will be presented.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>Since the reliable long time data are available only for mainland China, we will try to predict the epidemic characteristics only in this area. We will estimate some of the epidemic characteristics and present the most reliable dependences for victim numbers, infected and removed persons versus time.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In this study we use the known SIR model for the dynamics of an epidemic, the known exact solution of the linear equations and statistical approach developed before for investigation of the children disease, which occurred in Chernivtsi (Ukraine) in 1988-1989.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The optimal values of the SIR model parameters were identified with the use of statistical approach. The numbers of infected, susceptible and removed persons versus time were predicted.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Simple mathematical model was used to predict the characteristics of the epidemic caused by coronavirus 2019-nCoV in mainland China. The further research should focus on updating the predictions with the use of fresh data and using more complicated mathematical models.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.12.20021931",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T14:45:25Z",
+      "timestamp": 1581605125000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 45,
+    "title": [
+      "Statistics based predictions of coronavirus 2019-nCoV spreading in mainland China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Igor",
+        "family": "Nesteruk",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.1",
+        "unstructured": "https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_Wuhan_coronavirus_outbreak. Retrieved February 10."
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shi Zhao , Qianyin Lin , Jinjun Ran , Salihu S Musa , Guangpu Yang , Weiming Wang , Yijun Lou , Daozhou Gao , and others. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases. Published online: January 30, 2020. DOI:https://doi.org/10.1016/j.ijid.2020.01.050",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "I. Nesteruk , Statistics based models for the dynamics of Chernivtsi children disease, AMMODIT Conference, Kyiv, Ukraine, January, 2017, Naukovi Visti NTUU KPI, 2017, No. 5, pp. 26\u201334, DOI: https://doi.org/10.20535/1810-0546.2017.5.108577",
+        "DOI": "10.20535/1810-0546.2017.5.108577"
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.5",
+        "first-page": "700",
+        "article-title": "A Contribution to the Mathematical Theory of Epidemics",
+        "volume": "115",
+        "year": "1927",
+        "journal-title": "J. Royal Statistical Society, Ser. A"
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J.D. Murray , Mathematical Biology I/II, Springer, New York, 2002.",
+        "DOI": "10.1007/b98868"
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.7",
+        "unstructured": "N.T.J Bailey , The Mathematical Theory of Epidemics. Griffin Book Co., 1957."
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/j.matcom.2016.01.003",
+        "article-title": "Comparison of mathematical models for the dynamics of the Chernivtsi children disease",
+        "volume": "123",
+        "year": "2016",
+        "journal-title": "Mathematics in computers and simulation"
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N.R. Draper and H. Smith , Applied Regression Analysis (3rd ed.), John Wiley, 1998.",
+        "DOI": "10.1002/9781118625590"
+      },
+      {
+        "key": "2020110611500499000_2020.02.12.20021931v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Waltman , Deterministic Threshold Models in the Theory of Epidemics, Lecture Notes in Biomathematics, v. 1, Springer, 1974.",
+        "DOI": "10.1007/978-3-642-80820-3"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20021931",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:53Z",
+      "timestamp": 1768484033000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20021931"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 10,
+    "URL": "https://doi.org/10.1101/2020.02.12.20021931",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.20535/ibb.2020.4.1.195074",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

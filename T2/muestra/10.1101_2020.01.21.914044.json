@@ -1,0 +1,337 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:46:46Z",
+      "timestamp": 1768488406625,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "group-title": "Systems Biology",
+    "reference-count": 25,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              24
+            ]
+          ],
+          "date-time": "2020-01-24T00:00:00Z",
+          "timestamp": 1579824000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          22
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The recent outbreak of pneumonia in Wuhan, China caused by the 2019 Novel Coronavirus (2019-nCoV) emphasizes the importance of detecting novel viruses and predicting their risks of infecting people. In this report, we introduced the VHP (Virus Host Prediction) to predict the potential hosts of viruses using deep learning algorithm. Our prediction suggests that 2019-nCoV has close infectivity with other human coronaviruses, especially the severe acute respiratory syndrome coronavirus (SARS-CoV), Bat SARS-like Coronaviruses and the Middle East respiratory syndrome coronavirus (MERS-CoV). Based on our prediction, compared to the Coronaviruses infecting other vertebrates, bat coronaviruses are assigned with more similar infectivity patterns with 2019-nCoVs. Furthermore, by comparing the infectivity patterns of all viruses hosted on vertebrates, we found mink viruses show a closer infectivity pattern to 2019-nCov. These consequences of infectivity pattern analysis illustrate that bat and mink may be two candidate reservoirs of 2019-nCov.These results warn us to beware of 2019-nCoV and guide us to further explore the properties and reservoir of it.</jats:p>\n                <jats:sec>\n                  <jats:title>One Sentence Summary</jats:title>\n                  <jats:p>\n                    It is of great value to identify whether a newly discovered virus has the risk of infecting human. Guo\n                    <jats:italic>et al</jats:italic>\n                    . proposed a virus host prediction method based on deep learning to detect what kind of host a virus can infect with DNA sequence as input. Applied to the Wuhan 2019 Novel Coronavirus, our prediction demonstrated that several vertebrate-infectious coronaviruses have strong potential to infect human. This method will be helpful in future viral analysis and early prevention and control of viral pathogens.\n                  </jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.21.914044",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2020-01-25T00:55:13Z",
+      "timestamp": 1579913713000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 62,
+    "title": [
+      "Host and infectivity prediction of Wuhan 2019 novel coronavirus using deep learning algorithm"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Qian",
+        "family": "Guo",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Mo",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chunhui",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peihong",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhencheng",
+        "family": "Fang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "tan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shufang",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yonghong",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6376-218X",
+        "authenticated-orcid": false,
+        "given": "Huaiqiu",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.1",
+        "unstructured": "Centers for Disease Control and Prevention, 2019 Novel Coronavirus (2019-nCoV), Wuhan, China (2019); https://www.cdc.gov/coronavirus/2019-nCoV/summary.html."
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.367.6475.234"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.3",
+        "unstructured": "GISAID, Newly discovered betacoronavirus, Wuhan 2019-2020 (2019); https://www.gisaid.org/."
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku1207"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.5",
+        "first-page": "1213",
+        "article-title": "Swine-origin influenza A (H3N2) virus infection in two children--Indiana and Pennsylvania",
+        "volume": "2011",
+        "year": "2011",
+        "journal-title": "Morb. Mortal. Wkly. Rep"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v8050116"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btx383"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkz956"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40168-017-0283-5"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)14630-2"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1085953"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.13",
+        "unstructured": "National Center for Biotechnology Information, Search database BtVs-BetaCoV/SC2013, complete genome, GenBank: KX285223.1; https://www.ncbi.nlm.nih.gov/nuccore/KJ473821.1."
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1024"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.3176"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.16",
+        "unstructured": "World Health Organization, Summary of probably SARS cases with onset of illness from 1 November 2002 to 31 July 2003 (2003); http://www.who.int/csr/sars/country/table2004_04_21/en/."
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.17",
+        "unstructured": "World Health Organization. Middle East Respiratory Syndrome Coronavirus (MERS-CoV), MERS Monthly Summary, November 2019 (2019); http://www.who.int/emergencies/mers-cov/en/."
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "giz066",
+        "DOI": "10.1093/gigascience/giz066",
+        "article-title": "PPR-Meta: a tool for identifying phages and plasmids from metagenomic fragments using deep learning",
+        "volume": "8",
+        "year": "2019",
+        "journal-title": "Gigascience"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0003373"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/msb.2011.75"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msy096"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btu153"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.3176"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv421"
+      },
+      {
+        "key": "2024080322005390000_2020.01.21.914044v4.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/13.5.555"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.21.914044",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:56:49Z",
+      "timestamp": 1768435009000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.21.914044"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "references-count": 25,
+    "URL": "https://doi.org/10.1101/2020.01.21.914044",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1038/s41598-021-96903-6",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

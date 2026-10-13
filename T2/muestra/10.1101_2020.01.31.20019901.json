@@ -1,0 +1,345 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T01:45:48Z",
+      "timestamp": 1773711948593,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 25,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>\n                    An outbreak of the novel coronavirus SARS-CoV-2 has led to 46,997 confirmed cases as of 13\n                    <jats:sup>th</jats:sup>\n                    February 2020. Understanding the early transmission dynamics of the infection and evaluating the effectiveness of control measures is crucial for assessing the potential for sustained transmission to occur in new areas.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We combined a stochastic transmission model with data on cases of novel coronavirus disease (COVID-19) in Wuhan and international cases that originated in Wuhan to estimate how transmission had varied over time during January and February 2020. Based on these estimates, we then calculated the probability that newly introduced cases might generate outbreaks in other areas.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>\n                    We estimated that the median daily reproduction number,\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>t</jats:italic>\n                    </jats:sub>\n                    , declined from 2.35 (95% CI: 1.15-4.77) one week before travel restrictions were introduced on 23\n                    <jats:sup>rd</jats:sup>\n                    January to 1.05 (95% CI: 0.413-2.39) one week after. Based on our estimates of\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>t</jats:italic>\n                    </jats:sub>\n                    ,we calculated that in locations with similar transmission potential as Wuhan in early January, once there are at least four independently introduced cases, there is a more than 50% chance the infection will establish within that population.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>Our results show that COVID-19 transmission likely declined in Wuhan during late January 2020, coinciding with the introduction of control measures. As more cases arrive in international locations with similar transmission potential to Wuhan pre-control, it is likely many chains of transmission will fail to establish initially, but may still cause new outbreaks eventually.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>Wellcome Trust (206250/Z/17/Z, 210758/Z/18/Z), HDR UK (MR/S003975/1), Gates Foundation (INV-003174), NIHR (16/137/109)</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.31.20019901",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2020-02-02T11:45:10Z",
+      "timestamp": 1580643910000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 317,
+    "title": [
+      "Early dynamics of transmission and control of COVID-19: a mathematical modelling study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Adam J",
+        "family": "Kucharski",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Timothy W",
+        "family": "Russell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Charlie",
+        "family": "Diamond",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "CMMID nCoV working group",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "John",
+        "family": "Edmunds",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2842-3406",
+        "authenticated-orcid": false,
+        "given": "Sebastian",
+        "family": "Funk",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rosalind M",
+        "family": "Eggo",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.1",
+        "unstructured": "World Health Organisation. Coronavirus disease 2019 (COVID-19). Situation Report 24. WHO; 2020."
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.2",
+        "unstructured": "nCoV-2019 Data Working Group. Epidemiological Data from the nCoV-2019 Outbreak: Early Descriptions from Publicly Available Data. 2020. XX ADD LINK XX"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Camacho A , Kucharski A , Aki-Sawyerr Y , White MA , Flasche S , Baguelin M , et al. Temporal Changes in Ebola Transmission in Sierra Leone and Implications for Control Requirements: a Real-time Modelling Study. PLoS Curr Outbreaks. 2014;7.",
+        "DOI": "10.1371/currents.outbreaks.406ae55e83ec0b5193e30856b9235ed2"
+      },
+      {
+        "issue": "372",
+        "key": "2020110511201071000_2020.01.31.20019901v2.4",
+        "first-page": "20160302",
+        "article-title": "The impact of control strategies and behavioural changes on the elimination of Ebola from Lofa County, Liberia",
+        "volume": "26",
+        "year": "2017",
+        "journal-title": "Philos Trans R Soc B Biol Sci"
+      },
+      {
+        "issue": "300",
+        "key": "2020110511201071000_2020.01.31.20019901v2.5",
+        "first-page": "1961",
+        "article-title": "Transmission Dynamics of the Etiological Agent of SARS in Hong Kong: Impact of Public Health Interventions",
+        "volume": "20",
+        "year": "2003",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/j.epidem.2017.09.001",
+        "article-title": "The RAPIDD ebola forecasting challenge: Synthesis and lessons learnt",
+        "volume": "22",
+        "year": "2018",
+        "journal-title": "Epidemics"
+      },
+      {
+        "issue": "3",
+        "key": "2020110511201071000_2020.01.31.20019901v2.7",
+        "first-page": "e212",
+        "article-title": "Delaying the International Spread of Pandemic Influenza",
+        "volume": "2",
+        "year": "2006",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2103.141892"
+      },
+      {
+        "issue": "371",
+        "key": "2020110511201071000_2020.01.31.20019901v2.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1481",
+        "DOI": "10.1056/NEJMoa1411100",
+        "article-title": "Ebola Virus Disease in West Africa \u2014 The First 9 Months of the Epidemic and Forward Projections",
+        "volume": "16",
+        "author": "WHO Ebola Response Team",
+        "year": "2014",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "4",
+        "key": "2020110511201071000_2020.01.31.20019901v2.10",
+        "first-page": "e6852",
+        "article-title": "Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic",
+        "volume": "31",
+        "year": "2009",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/17-STS631."
+      },
+      {
+        "issue": "10",
+        "key": "2020110511201071000_2020.01.31.20019901v2.12",
+        "first-page": "e1001527",
+        "article-title": "Assessing Optimal Target Populations for Influenza Vaccination Programmes: An Evidence Synthesis and Modelling Study",
+        "volume": "8",
+        "year": "2013",
+        "journal-title": "PLoS Med"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riou J , Althaus CL . Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020. Eurosurveillance [Internet]. 2020 Jan 30 [cited 2020 Jan 31];25(4). Available from: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.4.2000058",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000058"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.14",
+        "unstructured": "Imai N , Cori A , Dorigatti I , Baguelin M , Donnelly CA , Riley S. Report 3: Transmissibility of 2019-nCoV. :5."
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu T , Hu J , Kang M , Lin L , Zhong H , Xiao J , et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV) [Internet]. Systems Biology; 2020 Jan [cited 2020 Jan 31]. Available from: http://biorxiv.org/lookup/doi/10.1101/2020.01.25.919787",
+        "DOI": "10.2139/ssrn.3526307"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.16",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N Engl J Med. 2020 Jan 29;NEJMoa2001316."
+      },
+      {
+        "issue": "14",
+        "key": "2020110511201071000_2020.01.31.20019901v2.17",
+        "first-page": "541",
+        "article-title": "Capturing the time-varying drivers of an epidemic using stochastic dynamical systems",
+        "volume": "1",
+        "year": "2013",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.18",
+        "unstructured": "MOBS Lab. ituation Report Mainland China [Internet]. [cited 2020 Jan 31]. Available from: https://www.mobs-lab.org/2019ncov.html"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kucharski AJ , Althaus CL . The role of superspreading in Middle East respiratory syndrome coronavirus (MERS-CoV) transmission. Eurosurveillance [Internet]. 2015 Jun 25 [cited 2020 Jan 31];20(25). Available from: http://www.eurosurveillance.org/content/10.2807/1560-7917.ES2015.20.25.21167",
+        "DOI": "10.2807/1560-7917.ES2015.20.25.21167"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hellewell J , Abbott S , Gimma A , Bosse NI , Jarvis C. Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts. medRxiv, 2020. 02.08.20021162",
+        "DOI": "10.1101/2020.02.08.20021162"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.22",
+        "unstructured": "Imai N , Dorigatti I , Cori A , Donnelly C , Riley S , Ferguson NM . Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. 2020;6."
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pullano G , Pinotti F , Valdano E , Bo\u00eblle P-Y , Poletto C , Colizza V. Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020. Eurosurveillance [Internet]. 2020 Jan 30 [cited 2020 Jan 31];25(4). Available from: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.4.2000057",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000057"
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.24",
+        "unstructured": "Lai S , Bogoch II , Watts A , Khan K , Li Z , Tatem A. Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China:20."
+      },
+      {
+        "key": "2020110511201071000_2020.01.31.20019901v2.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothe C , Schunk M , Sothmann P , Bretzel G , Froeschl G , Wallrauch C , et al. Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. N Engl J Med. 2020 Jan 30;NEJMc2001468.",
+        "DOI": "10.1056/NEJMc2001468"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.31.20019901",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:39Z",
+      "timestamp": 1768484019000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.31.20019901"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 25,
+    "URL": "https://doi.org/10.1101/2020.01.31.20019901",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/S1473-3099(20)30144-4",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

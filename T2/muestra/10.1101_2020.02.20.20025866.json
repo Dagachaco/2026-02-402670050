@@ -1,0 +1,232 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:20Z",
+      "timestamp": 1768549220025,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The potential infectiousness of asymptomatic COVID-19 cases together with a substantial fraction of asymptomatic infections among all infections, have been highlighted in clinical studies. We conducted statistical modeling analysis to derive the delay-adjusted asymptomatic proportion of the positive COVID-19 infections onboard the Princess Cruises ship along with the timeline of infections. We estimated the asymptomatic proportion at 17.9% (95% CrI: 15.5%\u201320.2%), with most of the infections occurring before the start of the 2-week quarantine.</jats:p>",
+    "DOI": "10.1101/2020.02.20.20025866",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:37:01Z",
+      "timestamp": 1582519021000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Estimating the Asymptomatic Proportion of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2748-6560",
+        "authenticated-orcid": false,
+        "given": "Kenji",
+        "family": "Mizumoto",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Katsushi",
+        "family": "Kagaya",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Alexander",
+        "family": "Zarebski",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gerardo",
+        "family": "Chowell",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.1",
+        "unstructured": "World Health Organization (WHO). Novel Coronavirus (2019-nCoV) situation reports. Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Linton NM , Kobayashi T , Yang Y , Hayashi K , Akhmetzhanov AR , Jung SM , et al. Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv 2020.01.26.20018754; doi: https://doi.org/10.1101/2020.01.26.20018754",
+        "DOI": "10.1101/2020.01.26.20018754"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000062"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/20.2.454"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/heapol/czp008"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.6",
+        "unstructured": "Smallman-Raynor MR , Cliff AD , eds. Poliomyelitis: Emergence to Eradication. New York: Oxford University Press; 2006;32."
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2188/jea.JE20170040"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2018.23.24.1800239"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.9",
+        "unstructured": "The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) \u2014 China, 2020[J]. China CDC Weekly 2020."
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001899"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.11",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020. Pii: S0140-6736(20)30183-5."
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.12",
+        "unstructured": "Minister of Health, Labour and Welfare, Japan. Available from https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html [In Japanese]"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Kobayashi T , Miyama T , Suzuki A , Jung S , Hayashi K ,et al. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19) doi: https://doi.org/10.1101/2020.02.03.20020248",
+        "DOI": "10.1101/2020.02.03.20020248"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001737"
+      },
+      {
+        "key": "2020111110300774000_2020.02.20.20025866v2.15",
+        "unstructured": "Center for DIsease Control and Prevention, USA. Interim US Guidance for Risk Assessment and Public Health Management of Persons with Potential Coronavirus Disease 2019 (COVID-19) Exposure in Travel-associated or Community Settings.Updated February 8, 2020. Available from https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html [accessed March 2, 2020]"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025866",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:07Z",
+      "timestamp": 1768484047000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025866"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025866",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.2807/1560-7917.ES.2020.25.10.2000180",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:11Z",
+      "timestamp": 1768546631735,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 5,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The Coronavirus Disease 2019 (COVID-19) epidemic began in Wuhan, China in late 2019 and continues to spread globally, with exported cases confirmed in 28 countries at the time of writing. During the interval between February 19 and 23, 2020, Iran reported its first 43 cases with eight deaths. Three exported cases originating in Iran were identified, suggesting a underlying burden of disease in that country than is indicated by reported cases. A large epidemic in Iran could further fuel global dissemination of COVID-19. We sought to estimate COVID-19 outbreak size in Iran based on known exported case counts and air travel links between Iran and other countries, and to anticipate where infections originating in Iran may spread to next. We assessed interconnectivity between Iran and other countries using using International Air Transport Association (IATA) data. We used the methods of Fraser et al. to estimate the size of the underlying epidemic that would result in cases being observed in the United Arab Emirates (UAE), Lebanon, and Canada. Time at risk estimates were based on a presumed 6 week epidemic age, and length of stay data for visitors to Iran derived from the United Nations World Tourism Organization (UNWTO). We evaluated the relationship between the strength of travel links with Iran, and destination country rankings on the Infectious Disease Vulnerability Index (IDVI), a validated metric that estimates the capacity of a country to respond to an infectious disease outbreak. Scores range between 0-1, with higher scores reflecting greater capacity to manage infectious outbreaks. UAE, Lebanon, and Canada ranked 3rd, 21st, and 31st, respectively, for outbound air travel volume from Iran in February 2019. We estimated that 18,300 (95% confidence interval: 3770 to 53,470) COVID-19 cases would have had to occur in Iran, assuming an outbreak duration of 1.5 months in the country, in order to observe these three internationally exported cases reported at the time of writing. Results were robust under varying assumptions about undiagnosed case numbers in Syria, Azerbaijan and Iraq. Even if it were assumed that all cases were identified in all countries with certainty, the \"best case\" outbreak size was substantial (1820, 95% CI: 380-5320 cases), and far higher than reported case counts. Given the low volumes of air travel to countries with identified cases of COVID-19 with origin in Iran (such as Canada), it is likely that Iran is currently experiencing a COVID-19 epidemic of significant size for such exportations to be occurring. This is concerning, both for public health in Iran itself, and because of the high likelihood for outward dissemination of the epidemic to neighbouring countries with lower capacity to respond to infectious diseases epidemics.</jats:p>",
+    "DOI": "10.1101/2020.02.24.20027375",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T18:54:21Z",
+      "timestamp": 1582656861000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "title": [
+      "Estimation of COVID-2019 burden and potential for international dissemination of infection from Iran"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ashleigh R.",
+        "family": "Tuite",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Isaac I.",
+        "family": "Bogoch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ryan",
+        "family": "Sherbo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Alexander",
+        "family": "Watts",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David",
+        "family": "Fisman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kamran",
+        "family": "Khan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911500638000_2020.02.24.20027375v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bogoch II , Watts A , Thomas-Bachli A , et al. Potential for global spread of a novel coronavirus from China. J Travel Med. 2020 Jan 27. pii: taaa011. [Epub ahead of print].",
+        "DOI": "10.1093/jtm/taaa011"
+      },
+      {
+        "key": "2020110911500638000_2020.02.24.20027375v1.2",
+        "unstructured": "World Health Organization: Coronavirus disease 2019 (COVID-19) Situation Report \u2013 33 [Internet]. 22 February 2020 [cited 22 February 2020]. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200222-sitrep-33-covid-19.pdf?sfvrsn=c9585c8f_2"
+      },
+      {
+        "key": "2020110911500638000_2020.02.24.20027375v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1176062"
+      },
+      {
+        "key": "2020110911500638000_2020.02.24.20027375v1.4",
+        "unstructured": "United Nations World Tourism Organization (UNWTO) : Tourism Statistics: Iran, Islamic Republic Of: Country-specific: Basic indicators (Compendium) 2014 - 2018 (12.2019) [Internet]. 01 January 2020 [cited 22 February 2020]. Available from: https://www.e-unwto.org/doi/abs/10.5555/unwtotfb0364010020142018201912"
+      },
+      {
+        "key": "2020110911500638000_2020.02.24.20027375v1.5",
+        "unstructured": "United Nations, Encyclopedia of the Nations: Average length of stay of visitors - Tourism indicators - UNCTAD Handbook of Statistics - Country Comparison [Internet]. [cited 22 February 2020]. Available from: https://www.nationsencyclopedia.com/WorldStats/UNCTAD-average-length-stay-visitors.html"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.24.20027375",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:15Z",
+      "timestamp": 1768484055000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.24.20027375"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 5,
+    "URL": "https://doi.org/10.1101/2020.02.24.20027375",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.7326/m20-0696",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

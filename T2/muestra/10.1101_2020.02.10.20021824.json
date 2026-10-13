@@ -1,0 +1,313 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:21Z",
+      "timestamp": 1768547241419,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>BACKGROUNDS</jats:title>\n                  <jats:p>The ongoing new coronavirus (2019-nCoV) pneumonia outbreak is spreading in China and has not reached its peak. Five millions of people had emigrated from Wuhan before the city lockdown, which potentially represent a source of virus spreaders. Case distribution and its correlation with population emigration from Wuhan in early epidemic are of great importance for early warning and prevention of future outbreak.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>METHODS</jats:title>\n                  <jats:p>The officially reported cases of 2019-nCoV pneumonia were collected as of January 30, 2020. Time and location information of these cases were extracted analyzed with ArcGIS and WinBUGS. Population migration data of Wuhan City and Hubei province were extracted from Baidu Qianxi and analyzed for their correlation with case number.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>FINDINGS</jats:title>\n                  <jats:p>The 2019-nCoV pneumonia cases were predominantly distributed in Hubei and other provinces of South China. Hot spot provinces included Sichuan and Yunnan provinces that are adjacent to Hubei. While Wuhan city has the highest number of cases, the time risk is relatively stable. Numbers of cases in some cities are relatively low, but the time risks are continuously rising. The case numbers of different provinces and cities of Hubei province were highly correlated with the emigrated populations from Wuhan. Lockdown of 19 cities of Hubei province, and implementation of nationwide control measures efficiently prevented the exponential growth of case number.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>INTERPRETATION</jats:title>\n                  <jats:p>Population emigrated from Wuhan was the main infection source for other cities and provinces. Some cities with low case number but were in rapid increase. Due to the upcoming Spring Festival return transport wave, understanding of the trends of risks in different regions is of great significance for preparedness for both individuals and institutions.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>FUNDINGS</jats:title>\n                  <jats:p>National Key Research and Development Program of China, National Major Project for Control and Prevention of Infectious Disease in China, State Key Program of National Natural Science of China.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.10.20021824",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T13:25:11Z",
+      "timestamp": 1581513911000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zeliang",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Qi",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhongmin",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xi",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenjun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Cheng",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Conghui",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qianlin",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaohu",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiahai",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1118391"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02759"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QCO.0000000000000183"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-019-0205-6"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holshue ML , DeBolt C , Lindquist S , et al. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carlos WG , Dela Cruz CS , Cao B , Pasnick S , Jamil S. Novel Wuhan (2019-nCoV) Coronavirus. Am J Respir Crit Care Med 2020.",
+        "DOI": "10.1164/rccm.2014P7"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu H. Drug treatment options for the 2019-new coronavirus (2019-nCoV). Biosci Trends 2020.",
+        "DOI": "10.5582/bst.2020.01020"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.9",
+        "unstructured": "The L. Emerging understandings of 2019-nCoV. Lancet 2020."
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.10",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "issue": "17-18",
+        "key": "2020110612150835000_2020.02.10.20021824v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "2333",
+        "DOI": "10.1002/1097-0258(20000915/30)19:17/18<2333::AID-SIM573>3.0.CO;2-Q",
+        "article-title": "Space-time mixture modelling of public health data",
+        "volume": "19",
+        "year": "2000",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.12",
+        "unstructured": "Chen H Y LYL , Zhang N X. Spatial and Temporal Analysis of Neural Tube Defects in Yuanping County, Shanxi Province. Journal of Geo-infor-mation Science; (04): 70\u20138."
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Demirhan H , Kalaylioglu Z. Joint prior distributions for variance parameters in Bayesian analysis of normal hierarchical models. Journal of Multivariate Analysis 2015; 135.",
+        "DOI": "10.1016/j.jmva.2014.12.013"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00116466"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Richardson S , Thomson A , Best N , Elliott P. Interpreting Posterior Relative Risk Estimates in Disease-Mapping Studies. Environmental Health Perspectives; 112(9): 1016\u201325.",
+        "DOI": "10.1289/ehp.6740"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Jung SM , Linton NM , et al. The Extent of Transmission of Novel Coronavirus in Wuhan, China, 2020. J Clin Med 2020; 9(2).",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang W , Tang J , Wei F. Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan, China. J Med Virol 2020.",
+        "DOI": "10.1002/jmv.25689"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cheng VCC , Wong SC , To KKW , Ho PL , Yuen KY . Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China. J Hosp Infect 2020.",
+        "DOI": "10.1016/j.jhin.2020.01.010"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m351"
+      },
+      {
+        "key": "2020110612150835000_2020.02.10.20021824v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid0911.030421"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.10.20021824",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:50Z",
+      "timestamp": 1768484030000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.10.20021824"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.10.20021824",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1097/cm9.0000000000000782",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:03Z",
+      "timestamp": 1768549203220,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 25,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Recently the novel coronavirus (2019-nCov) pneumonia outbreak in China then the world, and the Number of infections and death continues to increases. Search Query performs well in forecasting the epidemics. It is still a question whether search engine data can forecast the drift and the inflexion in 2019-nCov pneumonia. Based on the Baidu Search Index, we propose three prediction models: composite Index, composite Index with filtering and suspected NCP(Novel Coronavirus Pneumonia). The result demonstrates that the predictive model of composite index with filtering performs the best while the model of suspected NCP has the highest forecast error. We further predict the out-of-the-set NCP confirmed cases and monitor that the next peak of new diagnoses will occur on February 16\n                  <jats:sup>th</jats:sup>\n                  and 17\n                  <jats:sup>th</jats:sup>\n                  .\n                </jats:p>",
+    "DOI": "10.1101/2020.02.12.20022400",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T12:55:12Z",
+      "timestamp": 1582030512000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Can Search Query Forecast successfully in China\u2019s novel coronavirus (2019-nCov) pneumonia?"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5582-0300",
+        "authenticated-orcid": false,
+        "given": "LI",
+        "family": "Xiaoxuan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "WU",
+        "family": "Qi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lv",
+        "family": "Bbenfu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "issue": "1",
+        "key": "2020110712250476000_2020.02.12.20022400v1.2",
+        "first-page": "1",
+        "article-title": "Accurate regional influenza epidemics tracking using Internet search data",
+        "volume": "9",
+        "year": "2019",
+        "journal-title": "Scientific reports"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.3",
+        "first-page": "1",
+        "article-title": "Combining search, social media, and traditional data sources to improve influenza surveillance",
+        "volume": "11",
+        "year": "2015",
+        "journal-title": "PLoS computational biology"
+      },
+      {
+        "issue": "1",
+        "key": "2020110712250476000_2020.02.12.20022400v1.4",
+        "first-page": "1",
+        "article-title": "Improved state-level influenza nowcasting in the United States leveraging Internet-based data and network approaches",
+        "volume": "10",
+        "year": "2019",
+        "journal-title": "Nature communications"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0210041"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0191962"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature07634"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1812594116"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1515373112"
+      },
+      {
+        "issue": "2",
+        "key": "2020110712250476000_2020.02.12.20022400v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "e12214",
+        "DOI": "10.2196/12214",
+        "article-title": "Improved Real-Time Influenza Surveillance: Using Internet Search Data in Eight Latin American Countries",
+        "volume": "5",
+        "year": "2019",
+        "journal-title": "JMIR public health and surveillance"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.11",
+        "article-title": "Early Detection of Influenza outbreaks in the United States",
+        "year": "2019",
+        "journal-title": "arXiv preprint"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pervaiz F , Pervaiz M , Rehman NA , Saif U. FluBreaks: early epidemic detection from Google flu trends. Journal of medical internet research. 2012 Sep;14(5).",
+        "DOI": "10.2196/jmir.2102"
+      },
+      {
+        "issue": "4",
+        "key": "2020110712250476000_2020.02.12.20022400v1.13",
+        "first-page": "45",
+        "article-title": "Application of SARS epidemic situation analysis and forecast based on gene expression programming[J]",
+        "volume": "33",
+        "year": "2007",
+        "journal-title": "Computer Engineering"
+      },
+      {
+        "issue": "1",
+        "key": "2020110712250476000_2020.02.12.20022400v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "276",
+        "DOI": "10.1186/1471-2105-15-276",
+        "article-title": "Comparison of ARIMA and Random Forest time series models for prediction of avian influenza H5N1 outbreaks",
+        "volume": "15",
+        "year": "2014",
+        "journal-title": "BMC bioinformatics"
+      },
+      {
+        "issue": "8",
+        "key": "2020110712250476000_2020.02.12.20022400v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "3033",
+        "DOI": "10.1007/s11227-015-1474-0",
+        "article-title": "An intelligent system for predicting and preventing MERS-CoV infection outbreak",
+        "volume": "72",
+        "year": "2016",
+        "journal-title": "The Journal of Supercomputing"
+      },
+      {
+        "issue": "1",
+        "key": "2020110712250476000_2020.02.12.20022400v1.16",
+        "first-page": "1",
+        "article-title": "Avian Influenza A (H7N9) and related Internet search query data in China[J]",
+        "volume": "9",
+        "year": "2019",
+        "journal-title": "Scientific reports"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, Huwen and Wang, Zezhou and Dong, Yinqiao and Chang, Ruijie and Xu, Chen and Yu, Xiaoyue and Zhang, Shuxian and Tsamlag, Lhakpa and Shang, Meili and Huang, Jinyan and Wang, Ying and Xu, Gang and Shen, Tian and Zhang, Xinxin and Cai, Yong , Estimating the Number of 2019 Novel Coronavirus Cases in Chinese Mainland (1/29/2020). Available at SSRN: https://ssrn.com/abstract=3529449",
+        "DOI": "10.2139/ssrn.3529449"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.18",
+        "unstructured": "Imai N , Cori A , Dorigatti I , et al. Report 3: Transmissibility of 2019-nCoV[J]. Reference Source, 2020."
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu T , Hu J , Kang M , et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV)[J]. 2020.",
+        "DOI": "10.2139/ssrn.3526307"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read J M , Bridgen J R E , Cummings D A T , et al. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions[J]. medRxiv, 2020.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000058"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Lin Q , Ran J , et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak[J]. International Journal of Infectious Diseases, 2020.",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Park S W , Champredon D , Earn D J D , et al. Reconciling early-outbreak preliminary estimates of the basic reproductive number and its uncertainty: a new framework and applications to the novel coronavirus (2019-nCoV) outbreak[J]. medRxiv, 2020.",
+        "DOI": "10.1101/2020.01.30.20019877"
+      },
+      {
+        "key": "2020110712250476000_2020.02.12.20022400v1.24",
+        "unstructured": "Kang M , Wu J , Ma W , et al. Evidence and characteristics of human-to-human transmission of 2019-nCoV[J]. medRxiv, 2020."
+      },
+      {
+        "issue": "6",
+        "key": "2020110712250476000_2020.02.12.20022400v1.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "114",
+        "DOI": "10.5897/AJBM2015.7945",
+        "article-title": "Tourism forecasting by search engine data with noise-processing[J]",
+        "volume": "10",
+        "year": "2016",
+        "journal-title": "African Journal of Business Management"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20022400",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:53Z",
+      "timestamp": 1768484033000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20022400"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 25,
+    "URL": "https://doi.org/10.1101/2020.02.12.20022400",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

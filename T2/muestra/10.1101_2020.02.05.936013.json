@@ -1,0 +1,364 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T04:17:44Z",
+      "timestamp": 1773289064165,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 27,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              13
+            ]
+          ],
+          "date-time": "2020-02-13T00:00:00Z",
+          "timestamp": 1581552000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The World Health Organization (WHO) has declared the 2019 novel coronavirus (2019-nCoV) infection outbreak a global health emergency. Currently, there is no effective anti-2019-nCoV medication. The sequence identity of the 3CL proteases of 2019-nCoV and SARS is 96%, which provides a sound foundation for structural-based drug repositioning (SBDR). Based on a SARS 3CL protease X-ray crystal structure, we construct a 3D homology structure of 2019-nCoV 3CL protease. Based on this structure and existing experimental datasets for SARS 3CL protease inhibitors, we develop an SBDR model based on machine learning and mathematics to screen 1465 drugs in the DrugBank that have been approved by the U.S. Food and Drug Administration (FDA). We found that many FDA approved drugs are potentially highly potent to 2019-nCoV.</jats:p>",
+    "DOI": "10.1101/2020.02.05.936013",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T14:54:22Z",
+      "timestamp": 1581605662000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "Potentially highly potent drugs for 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Duc Duy",
+        "family": "Nguyen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Kaifu",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiahui",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rui",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guo-Wei",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C Raina MacIntyre . Wuhan novel coronavirus 2019ncov\u2013update January 27th 2020. Global Biosecurity, 1(3), 2020.",
+        "DOI": "10.31646/gbio.51"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.2",
+        "unstructured": "Zhijian Xu , Cheng Peng , Yulong Shi , Zhengdan Zhu , Kaijie Mu , Xiaoyu Wang , and Weiliang Zhu . Nel-finavir was predicted to be a potential inhibitor of 2019 ncov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation. bioRxiv, 2020."
+      },
+      {
+        "issue": "1",
+        "key": "2024080318585632000_2020.02.05.936013v1.3",
+        "first-page": "1",
+        "article-title": "A standard database for drug repositioning",
+        "volume": "4",
+        "year": "2017",
+        "journal-title": "Scientific data"
+      },
+      {
+        "issue": "2",
+        "key": "2024080318585632000_2020.02.05.936013v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1051",
+        "DOI": "10.1038/cddis.2014.9",
+        "article-title": "Drugsurv: a resource for repositioning of approved and experimental drugs in oncology based on patient survival information",
+        "volume": "5",
+        "year": "2014",
+        "journal-title": "Cell death & disease"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.drudis.2013.11.005"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.6",
+        "unstructured": "Bhushan Patwardhan and Rathnam Chaguturu. Innovative Approaches in Drug Discovery: Ethnopharmacology, Systems Biology and Holistic Targeting. Academic Press, 2016."
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bib/bbv020"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.8",
+        "unstructured": "RCSB Protein Data Bank. Electronic resource. Mode of access: http://www.pdb.org/pdb/explore.do, 2014."
+      },
+      {
+        "issue": "1",
+        "key": "2024080318585632000_2020.02.05.936013v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1005929",
+        "DOI": "10.1371/journal.pcbi.1005929",
+        "article-title": "Representability of algebraic topology for biomolecules in machine learning based scoring and virtual screening",
+        "volume": "14",
+        "year": "2018",
+        "journal-title": "PLoS computational biology"
+      },
+      {
+        "issue": "3",
+        "key": "2024080318585632000_2020.02.05.936013v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "e3179",
+        "DOI": "10.1002/cnm.3179",
+        "article-title": "Differential geometry-based geometric learning of molecular datasets",
+        "volume": "35",
+        "year": "2019",
+        "journal-title": "International journal for numerical methods in biomedical engineering"
+      },
+      {
+        "issue": "2",
+        "key": "2024080318585632000_2020.02.05.936013v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.3390/v12020135",
+        "article-title": "Return of the coronavirus: 2019-nCoV",
+        "volume": "12",
+        "year": "2020",
+        "journal-title": "Viruses"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.12",
+        "unstructured": "Xintian Xu , Ping Chen , Jingfang Wang , Jiannan Feng , Hui Zhou , Xuan Li , Wu Zhong , and Pei Hao . Evolution of the novel coronavirus from the ongoing wuhan outbreak and modeling of its spike protein for risk of human transmission. SCIENCE CHINA Life Sciences, 2020."
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2005.09.004"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkr777"
+      },
+      {
+        "issue": "2",
+        "key": "2024080318585632000_2020.02.05.936013v1.15",
+        "first-page": "895",
+        "article-title": "Comparative assessment of scoring functions: The casf-2016 update",
+        "volume": "59",
+        "year": "2018",
+        "journal-title": "Journal of chemical information and modeling"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkx1037"
+      },
+      {
+        "issue": "4",
+        "key": "2024080318585632000_2020.02.05.936013v1.17",
+        "first-page": "596",
+        "article-title": "Size theory as a topological tool for computer vision",
+        "volume": "9",
+        "year": "1999",
+        "journal-title": "Pattern Recognition and Image Analysis"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.18",
+        "unstructured": "Herbert Edelsbrunner , David Letscher , and Afra Zomorodian . Topological persistence and simplification. In Proceedings 41st annual symposium on foundations of computer science, pages 454\u2013463. IEEE, 2000."
+      },
+      {
+        "issue": "02",
+        "key": "2024080318585632000_2020.02.05.936013v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1142/S0218654305000761",
+        "article-title": "Persistence barcodes for shapes",
+        "volume": "11",
+        "year": "2005",
+        "journal-title": "International Journal of Shape Modeling"
+      },
+      {
+        "issue": "8",
+        "key": "2024080318585632000_2020.02.05.936013v1.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "814",
+        "DOI": "10.1002/cnm.2655",
+        "article-title": "Persistent homology analysis of protein structure, flexibility, and folding",
+        "volume": "30",
+        "year": "2014",
+        "journal-title": "International journal for numerical methods in biomedical engineering"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.21",
+        "unstructured": "Fan RK Chung and Fan Chung Graham . Spectral graph theory. Number 92. American Mathematical Soc., 1997."
+      },
+      {
+        "issue": "1",
+        "key": "2024080318585632000_2020.02.05.936013v1.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1007/s10822-018-0146-6",
+        "article-title": "Mathematical deep learning for pose and binding affinity prediction and ranking in D3R Grand Challenges",
+        "volume": "33",
+        "year": "2019",
+        "journal-title": "Journal of computer-aided molecular design"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Duc Duy Nguyen , Kaifu Gao , Menglun Wang , and Guo-Wei Wei . MathDL: mathematical deep learning for D3R Grand Challenge 4. Journal of computer-aided molecular design, pages 1\u201317, 2019.",
+        "DOI": "10.1007/s10822-019-00237-5"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.24",
+        "unstructured": "Yoonjung Choi Sungsoo Park Keunsoo Kang Bo Ram Beck , Bonggun Shin . Predicting commercially available antiviral drugs that may act on the novel coronavirus (2019-nCoV), wuhan, china through a drug-target interaction deep learning model. bioRxiv, 2020."
+      },
+      {
+        "issue": "7",
+        "key": "2024080318585632000_2020.02.05.936013v1.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "3291",
+        "DOI": "10.1021/acs.jcim.9b00334",
+        "article-title": "Agl-score: Algebraic graph learning score for protein\u2013ligand binding scoring, ranking, docking, and screening",
+        "volume": "59",
+        "year": "2019",
+        "journal-title": "Journal of chemical information and modeling"
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.26",
+        "unstructured": "Tomasz Kaczynski , Konstantin Mischaikow , and Marian Mrozek . Computational homology, volume 157. Springer Science & Business Media, 2006."
+      },
+      {
+        "key": "2024080318585632000_2020.02.05.936013v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/jm0306430"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.05.936013",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:42Z",
+      "timestamp": 1768435242000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.05.936013"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 27,
+    "URL": "https://doi.org/10.1101/2020.02.05.936013",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

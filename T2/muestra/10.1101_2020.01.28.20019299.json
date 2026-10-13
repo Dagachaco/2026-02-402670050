@@ -1,0 +1,316 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T19:18:00Z",
+      "timestamp": 1768591080717,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 31,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>On January 23, 2020, China quarantined Wuhan to contain an emerging coronavirus (2019-nCoV). Here, we estimate the probability of 2019-nCoV importations from Wuhan to 369 cities throughout China before the quarantine. The expected risk exceeds 50% in 128 [95% CI 75 186] cities, including five large cities with no reported cases by January 26th.</jats:p>",
+    "DOI": "10.1101/2020.01.28.20019299",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2020-01-30T18:04:16Z",
+      "timestamp": 1580407456000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zhanwei",
+        "family": "Du",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Lin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Simon",
+        "family": "Cauchemez",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoke",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xianwen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin J.",
+        "family": "Cowling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lauren Ancel",
+        "family": "Meyers",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.1",
+        "unstructured": "Wuhan Municipal Health Commission. Wuhan Municipal Health Commission briefing on the pneumonia epidemic situation [Internet]. 2020 [cited 2020 Jan 11]. Available from: http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.2",
+        "unstructured": "News / Wuhan Coronavirus [Internet]. Imperial College London. [cited 2020 Jan 26]. Available from: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.339.6125.1264"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.4",
+        "unstructured": "WHO | Novel Coronavirus \u2013 Thailand (ex-China). 2020 Jan 16 [cited 2020 Jan 27]; Available from: https://www.who.int/csr/don/14-january-2020-novel-coronavirus-thailand-ex-china/en/"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1107.041165"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.6",
+        "unstructured": "2019nCOV [Internet]. MOBS Lab. [cited 2020 Jan 26]. Available from: https://www.mobs-lab.org/2019ncov.html"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N Engl J Med [Internet]. 2020 Jan 29; Available from: https://doi.org/10.1056/NEJMoa2001316",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.8",
+        "unstructured": "Most popular messaging apps 2019 | Statista [Internet]. Statista. [cited 2020 Jan 31]. Available from: https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF-W , Yuan S , Kok K-H , To KK-W , Chu H , Yang J , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet [Internet]. 2020 Jan 24; Available from: http://dx.doi.org/10.1016/S0140-6736(20)30154-9",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.10",
+        "unstructured": "Wuhan Municipal Health Commission [Internet]. [cited 2020 Jan 29]. Available from: http://wjw.wuhan.gov.cn/front/web/main/xwzx.html"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bogoch II , Watts A , Thomas-Bachli A , Huber C , Kraemer MUG , Khan K. Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel. J Travel Med [Internet]. 2020 Jan 14 [cited 2020 Jan 14]; Available from: https://academic.oup.com/jtm/advance-article-pdf/doi/10.1093/jtm/taaa008/31836818/taaa008.pdf",
+        "DOI": "10.1093/jtm/taaa008"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.12",
+        "unstructured": "Leung s. G , Wu J. Real-time nowcast and forecast on the extent of the Wuhan CoV outbreak, domestic and international spread. Available from: https://www.med.hku.hk/f/news/3543/7403/presentation_wuhan%20Coronavirus_20200121_final_1033.pdf"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.13",
+        "unstructured": "Lai S , Bogoch II , Watts A , Khan K , Li Z , Tatem A. Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China. Available from: https://www.worldpop.org/resources/docs/china/WorldPop-coronavirus-spread-risk-analysis-v1-25Jan.pdf"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet [Internet]. 2020 Jan 24; Available from: http://dx.doi.org/10.1016/S0140-6736(20)30183-5",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.15",
+        "unstructured": "Imperial College London, Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China [Internet]. Imperial College London. [cited 2020 Jan 25]. Available from: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(13)70304-9"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13410-1"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Backer JA , Klinkenberg D , Wallinga J. The incubation period of 2019-nCoV infections among travellers from Wuhan, China [Internet]. Infectious Diseases (except HIV/AIDS). medRxiv; 2020. Available from: https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v2",
+        "DOI": "10.1101/2020.01.27.20018986"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.19",
+        "unstructured": "Hay J. Turning nCoV case reports into infection incidence [Internet]. Github; [cited 2020 Jan 31]. Available from: https://github.com/jameshay218/case_to_infection"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.20",
+        "unstructured": "Real-time estimation of the novel coronavirus incubation time [Internet]. Github; [cited 2020 Jan 31]. Available from: https://github.com/HopkinsIDD/ncov_incubation"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.21",
+        "unstructured": "\u65b0\u578b\u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9\u306b\u95a2\u9023\u3057\u305f\u80ba\u708e\u306e\u60a3\u8005\u306e\u767a\u751f\u306b\u3064\u3044\u3066 [Internet]. [cited 2020 Jan 27]. Available from: https://www.mhlw.go.jp/stf/newpage_08906.html"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.22",
+        "unstructured": "2019-nCoV-epiData [Internet]. Github; [cited 2020 Jan 31]. Available from: https://github.com/BoXu123/2019-nCoV-epiData"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.23",
+        "unstructured": "MOBS Lab. Preliminary analysis of the 2019 nCOV outbreak in Wuhan city [Internet]. [cited 2020 Jan 31]. Available from: https://www.mobs-lab.org/2019ncov.html"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.24",
+        "unstructured": "Models of Infectious Disease Agent Study (MIDAS). Central resource of data and information in support of modeling research on the 2019 Novel Coronavirus (2019-nCoV) [Internet]. Google Docs. [cited 2020 Feb 2]. Available from: https://docs.google.com/document/d/1pL6ogED0Qix08V0zjJbbNVhf6yf-xBShWVxLbXKVLXI/edit"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.25",
+        "unstructured": "Genomic epidemiology of novel coronavirus (nCoV) [Internet]. [cited 2020 Feb 2]. Available from: https://nextstrain.org/ncov"
+      },
+      {
+        "issue": "1",
+        "key": "2021010305150555000_2020.01.28.20019299v3.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "218",
+        "DOI": "10.1038/s41467-017-02344-z",
+        "article-title": "Characterizing the dynamics underlying global spread of epidemics",
+        "volume": "9",
+        "year": "2018",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mbs.2008.02.009"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtbi.2007.12.001"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.29",
+        "unstructured": "Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel Coronavirus [Internet]. Available from: http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.30",
+        "unstructured": "Real-time estimation of the novel coronavirus incubation time [Internet]. Github; [cited 2020 Feb 3]. Available from: https://github.com/HopkinsIDD/ncov_incubation"
+      },
+      {
+        "key": "2021010305150555000_2020.01.28.20019299v3.31",
+        "unstructured": "Real-time surveillance of pneumonia epidemics in China [Internet]. [cited 2020 Jan 27]. Available from: https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579579384&enterid=1579579384&from=timeline&isappinstalled=0"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.28.20019299",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:35Z",
+      "timestamp": 1768484015000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.28.20019299"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "references-count": 31,
+    "URL": "https://doi.org/10.1101/2020.01.28.20019299",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

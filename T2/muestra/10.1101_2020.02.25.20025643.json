@@ -1,0 +1,269 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T09:47:41Z",
+      "timestamp": 1774604861457,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Aim</jats:title>\n                  <jats:p>The new coronavirus (COVID-19) pneumonia outbreaking at the end of 2019 is highly contagious. Crude mortality rate reached 49% in critical patients. Inflammation matters on disease progression. This study analyzed blood inflammation indicators among mild, severe and critical patients, helping to identify severe or critical patients early.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In this cross-sectional study, 100 patients were included and divided to mild, severe or critical groups. Correlation of peripheral blood inflammation-related indicators with disease criticality was analyzed. Cut-off values for critically ill patients were speculated through the ROC curve.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Significantly, disease severity was associated with age (R=-0.564, P&lt;0.001), interleukin-2 receptor (IL2R) (R=-0.534, P&lt;0.001), interleukin-6 (IL-6) (R=-0.535, P&lt;0.001), interleukin-8 (IL-8) (R=-0.308, P&lt;0.001), interleukin-10 (IL-10) (R=-0.422, P&lt;0.001), tumor necrosis factor \u03b1 (TNF\u03b1) (R=-0.322, P&lt;0.001), C-reactive protein (CRP) (R=-0.604, P&lt;0.001), ferroprotein (R=-0.508, P&lt;0.001), procalcitonin (R=-0.650, P&lt;0.001), white cell counts (WBC) (R=-0.54, P&lt;0.001), lymphocyte counts (LC) (R=0.56, P&lt;0.001), neutrophil count (NC) (R=-0.585, P&lt;0.001) and eosinophil counts (EC) (R=0.299, P=0.01).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>With following parameters such as age &gt;67.5 years, IL2R &gt;793.5U/mL, CRP &gt;30.7ng/mL, ferroprotein &gt;2252\u03bcg/L, WBC&gt;9.5*10^9/L or NC &gt;7.305*10^9/L, the progress of COVID-19 to critical stage should be closely observed and possibly prevented. Inflammation is closely related to severity of COVID-19, and IL-6, TNF\u03b1 and IL-8 might be promising therapeutic targets.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.25.20025643",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T17:15:42Z",
+      "timestamp": 1582823742000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 133,
+    "title": [
+      "Correlation Analysis Between Disease Severity and Inflammation-related Parameters in Patients with COVID-19 Pneumonia"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0757-2127",
+        "authenticated-orcid": false,
+        "given": "Jing",
+        "family": "Gong",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Hui",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qingsong",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhaoyi",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dingkun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenhua",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shenghao",
+        "family": "Tu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mingmin",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fuer",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0254-6450.2020.02.003"
+      },
+      {
+        "issue": "10",
+        "key": "2020110810450788000_2020.02.25.20025643v1.2",
+        "first-page": "020",
+        "article-title": "A new coronavirus associated with human respiratory disease in china [J]",
+        "volume": "3",
+        "year": "2020",
+        "journal-title": "Nature"
+      },
+      {
+        "issue": "20",
+        "key": "2020110810450788000_2020.02.25.20025643v1.3",
+        "first-page": "30251",
+        "article-title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: Implications for virus origins and receptor binding [J]",
+        "volume": "30",
+        "year": "2020",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in wuhan, china [J]. Jama, 2020,7(2761044).",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan S , Yi Q , Fan S , et al. Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized 2 patients with 2019 novel coronavirus pneumonia (NCP), medRxiv preprint 2020, doi: https://doi.org/10.1101/2020.02.16.20023671.",
+        "DOI": "10.1101/2020.02.16.20023671"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu J , Li S , Liu J , et al. Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients, medRxiv preprint 2020, doi: https://doi.org/10.1101/2020.02.16.20023671.",
+        "DOI": "10.1101/2020.02.16.20023671"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu Z , Shi L , Wang Y , et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome[J]. Lancet 2020, Doi : https://doi.org/10.1016/S2213-2600(20)30076-X",
+        "DOI": "10.1016/S2213-2600(20)30076-X"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.10",
+        "unstructured": "https://mp.weixin.qq.com/s/b8v40pNb1H3TkzlOeLoysw"
+      },
+      {
+        "key": "2020110810450788000_2020.02.25.20025643v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00134-015-3978-8"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20025643",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:16Z",
+      "timestamp": 1768484056000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20025643"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.02.25.20025643",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1186/s12879-020-05681-5",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

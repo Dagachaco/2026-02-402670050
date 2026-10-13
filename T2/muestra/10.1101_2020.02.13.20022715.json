@@ -1,0 +1,239 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2026-02-07T18:21:12Z",
+      "timestamp": 1770488472812,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To investigate the meteorological condition for incidence and spread of 2019-nCoV infection, to predict the epidemiology of the infectious disease, and to provide a scientific basis for prevention and control measures against the new disease.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>The meteorological factors during the outbreak period of the novel coronavirus pneumonia in Wuhan in 2019 were collected and analyzed, and were confirmed with those of Severe Acute Respiratory Syndrome (SARS) in China in 2003. Data of patients infected with 2019-nCoV and SARS coronavirus were collected from WHO website and other public sources.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>This study found that the suitable temperature range for 2019-nCoV survival is (13-24 \u00b0C), among which 19\u00b0C lasting about 60 days is conducive to the spread between the vector and humans; the humidity range is 50%-80%, of which about 75% humidity is conducive to the survival of the coronavirus; the suitable precipitation range is below 30 mm/month. Cold air and continuous low temperature over one week are helpful for the elimination of the virus. The prediction results show that with the approach of spring, the temperature in north China gradually rises, and the coronavirus spreads to middle and high latitudes along the temperature line of 13-19 \u00b0C. The population of new coronavirus infections is concentrated in Beijing, Tianjin, Hebei, Jiangsu, Zhejiang, Shanghai and other urban agglomerations. Starting from May 2020, the Beijing-Tianjin-Hebei urban agglomeration, the Central China Zhengzhou-Wuhan urban agglomeration, the eastern Jiangsu-Zhejiang-Shanghai urban agglomeration, and the southern Pearl River Delta urban agglomeration are all under a high temperature above 24 \u00b0C, which is not conducive to the survival and reproduction of coronaviruses, so the epidemic is expected to end.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>A wide range of continuous warm and dry weather is conducive to the survival of 2019-nCoV. The coming of spring, in addition to the original Wuhan-Zhengzhou urban agglomeration in central China, means that the prevention and control measures in big cities located in mid-latitude should be strengthened, especially the monitoring of transportation hubs. The Pearl River Delta urban agglomeration is a concentrated area of population in south China, with a faster temperature rise than those in mid-high latitudes, and thus the prevention in this area should be prioritized. From a global perspective, cities with a mean temperature below 24 \u00b0C are all high-risk cities for 2019-nCoV transmission before June.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.13.20022715",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T12:45:38Z",
+      "timestamp": 1582029938000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 36,
+    "title": [
+      "Analysis of meteorological conditions and prediction of epidemic trend of 2019-nCoV infection in 2020"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8555-0922",
+        "authenticated-orcid": false,
+        "given": "Jin",
+        "family": "Bu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Dong-Dong",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hui",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qian",
+        "family": "Yue",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gang",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-3156.2009.02349.x"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jech.2004.020180"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1445-5994.2007.01358.x"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.puhe.2006.09.023"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "issue": "3",
+        "key": "2020110711150746000_2020.02.13.20022715v1.7",
+        "first-page": "39",
+        "article-title": "Possible meteorological influence on the severe acute respiratory syndrome (SARS) community outbreak at Amoy Gardens, Hong Kong",
+        "volume": "70",
+        "year": "2007",
+        "journal-title": "J Environ Health"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajic.2005.12.006"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0253-9624.2020.0001"
+      },
+      {
+        "issue": "4",
+        "key": "2020110711150746000_2020.02.13.20022715v1.10",
+        "first-page": "261",
+        "article-title": "[Effect of environment and occupational hygiene factors of hospital infection on SARS outbreak]",
+        "volume": "22",
+        "year": "2004",
+        "journal-title": "Zhonghua Lao Dong Wei Sheng Zhi Ye Bing Za Zhi"
+      },
+      {
+        "key": "2020110711150746000_2020.02.13.20022715v1.11",
+        "unstructured": "Wang J. Health \u00b7 Environment \u00b7 Weather Beijing: Meteorological Press 1992:89."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.13.20022715",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:55Z",
+      "timestamp": 1768484035000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.13.20022715"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.02.13.20022715",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

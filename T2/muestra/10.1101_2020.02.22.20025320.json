@@ -1,0 +1,192 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T01:09:12Z",
+      "timestamp": 1777597752817,
+      "version": "3.51.4"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Oncology",
+    "reference-count": 4,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>In December 2019, an outbreak of atypical pneumonia known as 2019 novel coronavirus disease (COVID-19) occurred in Wuhan, China. This new type of pneumonia is characterized by rapid human-to-human transmission. Among the different disease types, cancer patients are often recalled to the hospital for treatment and disease surveillance, and the majority of cancer treatments such as chemotherapy and radiotherapy are immunosuppressive. This prompts us to consider if cancer patients were at an elevated risk of SARS-CoV-2 infection.</jats:p>\n                <jats:p>A total of 1,524 cancer patients who were managed at our tertiary cancer institution \u2013 Zhongnan hospital of Wuhan University were reviewed during the period of Dec 30, 2019 to Feb 17, 2020. It was found that cancer patients had an estimated 2-fold increased risk of COVID-19 than the general population. We identified twelve patients who were infected with SARS-CoV-2, with two recorded deaths (16.7%), albeit one patient passed away from a COVID-19 unrelated cause. Interestingly, only five of these patients were ongoing treatment at the time of contracting the virus, suggesting that hospital visitation was the likely factor contributing to the elevated incidence in cancer patients. Moreover, we also observed that the incidence of severe COVID-19 was not higher than in the general population. Consequently, for cancer patients who require treatment, proper isolation protocols must be in place to mitigate the risk of SARS-CoV-2 infection.</jats:p>",
+    "DOI": "10.1101/2020.02.22.20025320",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:05:35Z",
+      "timestamp": 1582661135000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 74,
+    "title": [
+      "SARS-CoV-2 transmission in cancer patients of a tertiary hospital in Wuhan"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2836-6373",
+        "authenticated-orcid": false,
+        "given": "Jing",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7106-9302",
+        "authenticated-orcid": false,
+        "given": "Wen",
+        "family": "Ouyang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1648-1473",
+        "authenticated-orcid": false,
+        "given": "Melvin L.K.",
+        "family": "Chua",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6623-9864",
+        "authenticated-orcid": false,
+        "given": "Conghua",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110812100492000_2020.02.22.20025320v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet (London, England) 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110812100492000_2020.02.22.20025320v1.2",
+        "first-page": "E006",
+        "volume": "43",
+        "author": "Expert consensus for bronchoscopy during the epidemic of 2019 Novel Coronavirus infection (Trial version",
+        "year": "2020",
+        "journal-title": "Chinese journal of tuberculosis and respiratory diseases"
+      },
+      {
+        "key": "2020110812100492000_2020.02.22.20025320v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. Jama 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110812100492000_2020.02.22.20025320v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1470-2045(09)70069-5"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.22.20025320",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:10Z",
+      "timestamp": 1768484050000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.22.20025320"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 4,
+    "URL": "https://doi.org/10.1101/2020.02.22.20025320",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1001/jamaoncol.2020.0980",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

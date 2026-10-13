@@ -1,0 +1,315 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2026-02-26T16:11:22Z",
+      "timestamp": 1772122282369,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Radiology and Imaging",
+    "reference-count": 18,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>A novel coronavirus (COVID-19) has emerged recently as an acute respiratory syndrome. The outbreak was originally reported in Wuhan, China, but has subsequently been spread world-widely. As the COVID-19 continues to spread rapidly across the world, computed tomography (CT) has become essentially important for fast diagnoses. Thus, it is urgent to develop an accurate computer-aided method to assist clinicians to identify COVID-19-infected patients by CT images.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Materials and Methods</jats:title>\n                  <jats:p>We collected chest CT scans of 88 patients diagnosed with the COVID-19 from hospitals of two provinces in China, 101 patients infected with bacteria pneumonia, and 86 healthy persons for comparison and modeling. Based on the collected dataset, a deep learning-based CT diagnosis system (DeepPneumonia) was developed to identify patients with COVID-19.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>\n                    The experimental results showed that our model can accurately identify the COVID-19 patients from others with an excellent AUC of 0.99 and recall (sensitivity) of 0.93. In addition, our model was capable of discriminating the COVID-19 infected patients and bacteria pneumonia-infected patients with an AUC of 0.95, recall (sensitivity) of 0.96. Moreover, our model could localize the main lesion features, especially the ground-glass opacity (GGO) that is of great help to assist doctors in diagnosis. The diagnosis for a patient could be finished in 30 seconds, and the implementation on Tianhe-2 supercompueter enables a parallel executions of thousands of tasks simultaneously. An online server is available for online diagnoses with CT images by\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://biomed.nscc-gz.cn/server/Ncov2019\">http://biomed.nscc-gz.cn/server/Ncov2019</jats:ext-link>\n                    .\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>The established models can achieve a rapid and accurate identification of COVID-19 in human samples, thereby allowing identification of patients.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.23.20026930",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T19:14:20Z",
+      "timestamp": 1582658060000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 113,
+    "title": [
+      "Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Song",
+        "family": "Ying",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9747-4285",
+        "authenticated-orcid": false,
+        "given": "Shuangjia",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiang",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaodong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ziwang",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianwen",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huiying",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ruixuan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yutian",
+        "family": "Chong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7746-5285",
+        "authenticated-orcid": false,
+        "given": "Jun",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8714-7472",
+        "authenticated-orcid": false,
+        "given": "Yunfei",
+        "family": "Zha",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6782-2813",
+        "authenticated-orcid": false,
+        "given": "Yuedong",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.2",
+        "unstructured": "WHO Homepage. Available at: https://www.who.int.accessed February 5th, 2020."
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.3",
+        "unstructured": "Lu R , Zhao X , Li J , et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet. 2020."
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.4",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early transmission dynamics in Wuhan, China, of novel coronavirus\u2013infected pneumonia. New England Journal of Medicine. 2020."
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A novel coronavirus from patients with pneumonia in China, 2019. New England Journal of Medicine. 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.7",
+        "unstructured": "WHO Reports, WHONC-ns. Available at: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/ (Assessed on February 6th, 2020)."
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chu DK , Pan Y , Cheng S , et al. Molecular diagnosis of a novel coronavirus (2019-nCoV) causing an outbreak of pneumonia. Clinical Chemistry. 2020.",
+        "DOI": "10.1093/clinchem/hvaa029"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lei J , Li J , Li X , Qi X. CT Imaging of the 2019 Novel Coronavirus (2019-nCoV) Pneumonia. Radiology. 2020:200236.",
+        "DOI": "10.1148/radiol.2020200236"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shi H , Han X , Zheng C. Evolution of CT Manifestations in a Patient Recovered from 2019 Novel Coronavirus (2019-nCoV) Pneumonia in Wuhan, China. Radiology. 2020:200269.",
+        "DOI": "10.1148/radiol.2020200269"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Song F , Shi N , Shan F , et al. Emerging Coronavirus 2019-nCoV Pneumonia. Radiology. 2020:200274.",
+        "DOI": "10.1148/radiol.2020200274"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.12",
+        "unstructured": "Bradski G , Kaehler A. Learning OpenCV: Computer vision with the OpenCV library. \u201cO\u2019Reilly Media, Inc.\u201d; 2008."
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "He K , Zhang X , Ren S , Sun J. Deep residual learning for image recognition. Paper presented at: Proceedings of the IEEE conference on computer vision and pattern recognition 2016.",
+        "DOI": "10.1109/CVPR.2016.90"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lin T-Y , Doll\u00e1r P , Girshick R , He K , Hariharan B , Belongie S. Feature pyramid networks for object detection. Paper presented at: Proceedings of the IEEE conference on computer vision and pattern recognition 2017.",
+        "DOI": "10.1109/CVPR.2017.106"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fu J , Zheng H , Mei T. Look closer to see better: Recurrent attention convolutional neural network for fine-grained image recognition. Paper presented at: Proceedings of the IEEE conference on computer vision and pattern recognition 2017.",
+        "DOI": "10.1109/CVPR.2017.476"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.16",
+        "unstructured": "LUNA 16. Available at.(Assessed on February 6th, 2020)."
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.17",
+        "article-title": "Densenet: Implementing efficient convnet descriptor pyramids",
+        "year": "2014",
+        "journal-title": "arXiv preprint"
+      },
+      {
+        "key": "2020110911150741000_2020.02.23.20026930v1.18",
+        "article-title": "Very deep convolutional networks for large-scale image recognition",
+        "year": "2014",
+        "journal-title": "arXiv preprint"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.23.20026930",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:12Z",
+      "timestamp": 1768484052000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.23.20026930"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 18,
+    "URL": "https://doi.org/10.1101/2020.02.23.20026930",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1109/tcbb.2021.3065361",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

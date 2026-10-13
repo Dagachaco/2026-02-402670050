@@ -1,0 +1,249 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:15:30Z",
+      "timestamp": 1768544130538,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The pneumonia caused by the 2019 novel coronavirus (SARS-CoV-2) is a highly infectious disease, which was occurred in Wuhan, Hubei Province, China in December 2019. As of February 13, 2020, a total of 59883 cases of COVID-19 in China have been confirmed and 1368 patients have died from the disease. However, the clinical characteristics of the dyed patients were still not clearly clarified. This study aims to summarize the clinical characteristics of death cases with COVID-19 and to identify critically ill patients of COVID-19 early and reduce their mortality.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>The clinical records, laboratory findings and radiologic assessments included chest X-ray or computed tomography were extracted from electronic medical records of 25 died patients with COVID-19 in Renmin Hospital of Wuhan University from Jan 14 to Feb 13, 2020. Two experienced clinicians reviewed and abstracted the data.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>The mean age of the dead was 71.48 \u00b1 12.42 years, the average course of the disease was 10.56 \u00b1 4.42 days, all patients eventually died of respiratory failure. All of those who died had underlying diseases, the most common of which was hypertension (16/25, 64%), followed by diabetes (10/25, 40%), heart diseases (8/25, 32%), kidney diseases (5/25, 20%), cerebral infarction (4/25, 16%), chronic obstructive pulmonary disease (COPD, 2/25, 8%), malignant tumors (2/25, 8%) and acute pancreatitis (1/25, 4%). The most common organ damage outside the lungs was the heart, followed by kidney and liver. In the patients\u2019 last examination before death, white blood cell and neutrophil counts were elevated in 17 patients (17/25, 68%) and 18 patients (18/25, 72%), lymphocyte counts were decreased in 22 patients (22/25, 88%). Most patients\u2019 PCT, CRP and SAA levels were elevated, the percentages were 90.5% (19/21), 85% (19/20) and 100% (21/21) respectively. The levels of the last test of neutrophils (15/16, 93.8%), PCT (11/11, 100%), CRP (11/13, 84.6%), cTnI (8/9, 88.9%), D-Dimer (11/12, 91.6%) and LDH (9/9, 100%) were increased as compared to the first test, while the levels of lymphocytes were decreased (14/16, 87.5%).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>The age and underlying diseases (hypertension, diabetes, etc.) were the most important risk factors for death of COVID-19 pneumonia. Bacterial infections may play an important role in promoting the death of patients. Malnutrition was common to severe patients. Multiple organ dysfunction can be observed, the most common organ damage was lung, followed by heart, kidney and liver. The rising of neutrophils, SAA, PCT, CRP, cTnI, D-Dimer and LDH levels can be used as indicators of disease progression, as well as the decline of lymphocytes counts.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.19.20025239",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T20:15:23Z",
+      "timestamp": 1582661723000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Clinical characteristics of 25 death cases with COVID-19: a retrospective review of medical records in a single medical center, Wuhan, China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Xun",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Luwen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shaonan",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fan",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Longkui",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiling",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bo",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4676-5856",
+        "authenticated-orcid": false,
+        "given": "Zuojiong",
+        "family": "Gong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.1",
+        "unstructured": "Zhu N , Zhang D , Wang W , Li X , Yang B , Song J , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 2020-01-24."
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , To KK , Chu H , Yang J , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. LANCET. 2020 2020-01-24.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.3",
+        "unstructured": "Phan LT , Nguyen TV , Luong QC , Nguyen TV , Nguyen HT , L. HQ, et al. Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam. N Engl J Med. 2020 2020-01-28."
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , Zhu F , Liu X , Zhang J , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 2020-02-07.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.5",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. LANCET. 2020 2020-01-24."
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/cdd.2017.24"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.7",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Update on novel coronavirus-infected pneumonia situation as of 24:00 on February 13, 2020. http://www.nhc.gov.cn/xcs/yqfkdt/202002/553ff43ca29d4fe88f3837d49d6b6ef1.shtml"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.8",
+        "unstructured": "Xu X , Chen P , Wang J , Feng J , Zhou H , Li X , et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. SCI CHINA LIFE SCI. 2020 2020-01-21."
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , Qu J , Gong F , Han Y , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. LANCET. 2020 2020-01-30.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.10",
+        "unstructured": "National Health Commission of China. New coronavirus pneumonia prevention and control program (4th edn). Jan 22, 2020. http://www.gov.cn/zhengce/zhengceku/2020-01/28/5472673/fles/0f96c10cc09d4d36a6f9a9f0b42d972b.pdf (accessed Feb 4, 2020; in Chinese)"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.11",
+        "first-page": "D7498",
+        "article-title": "Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections",
+        "volume": "10",
+        "year": "2017",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/hsz-2015-0149/j/bchm.just-accepted/hsz-2015-0149/hsz-2015-0149.xml"
+      },
+      {
+        "key": "2020110812301222000_2020.02.19.20025239v1.13",
+        "unstructured": "Frame NM , Kumanan M , Wales TE , Bandara A , Fandrich M , Straub JE , et al. Structural Basis for Lipid Binding and Function by an Evolutionarily Conserved Protein, Serum Amyloid A. J MOL BIOL. 2020 2020-02-06."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.19.20025239",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:05Z",
+      "timestamp": 1768484045000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.19.20025239"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.19.20025239",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.ijid.2020.03.053",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

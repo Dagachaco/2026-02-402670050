@@ -1,0 +1,271 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          13
+        ]
+      ],
+      "date-time": "2026-03-13T07:57:15Z",
+      "timestamp": 1773388635173,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>A novel human coronavirus (2019-nCoV) was identified in China in December, 2019. There is limited support for many of its key epidemiologic features, including the incubation period, which has important implications for surveillance and control activities. Here, we use data from public reports of 101 confirmed cases in 38 provinces, regions, and countries outside of Wuhan (Hubei province, China) with identifiable exposure windows and known dates of symptom onset to estimate the incubation period of 2019-nCoV. We estimate the median incubation period of 2019-nCoV to be 5.2 days (95% CI: 4.4, 6.0), and 97.5% of those who develop symptoms will do so within 10.5 days (95% CI: 7.3, 15.3) of infection. These estimates imply that, under conservative assumptions, 64 out of every 10,000 cases will develop symptoms after 14 days of active monitoring or quarantine. Whether this risk is acceptable depends on the underlying risk of infection and consequences of missed cases. The estimates presented here can be used to inform policy in multiple contexts based on these judgments.</jats:p>",
+    "DOI": "10.1101/2020.02.02.20020016",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2020-11-05T11:55:47Z",
+      "timestamp": 1604577347000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 128,
+    "title": [
+      "The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Stephen A.",
+        "family": "Lauer",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Kyra H.",
+        "family": "Grantz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qifang",
+        "family": "Bi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Forrest K.",
+        "family": "Jones",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qulu",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hannah",
+        "family": "Meredith",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew S.",
+        "family": "Azman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nicholas G",
+        "family": "Reich",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9741-8109",
+        "authenticated-orcid": false,
+        "given": "Justin",
+        "family": "Lessler",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.4",
+        "unstructured": "Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). [cited 31 Jan 2020]. Available: https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.5",
+        "unstructured": "Press Briefing by Members of the President\u2019s Coronavirus Task Force | The White House. In: The White House [Internet]. [cited 1 Feb 2020]. Available: https://www.whitehouse.gov/briefings-statements/press-briefing-members-presidents-coronavirus-task-force/"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.27.20018986"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.8",
+        "first-page": "285",
+        "article-title": "Investigation of a nosocomial outbreak of severe acute respiratory syndrome (SARS) in Toronto, Canada",
+        "volume": "169",
+        "year": "2003",
+        "journal-title": "CMAJ"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep35839"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(09)70069-6"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3659"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1093",
+        "DOI": "10.1038/s41598-018-19406-x",
+        "article-title": "Quantifying the Risk and Cost of Active Monitoring for Infectious Diseases",
+        "volume": "8",
+        "year": "2018",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5281/zenodo.3634050"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/nejmc2001468"
+      },
+      {
+        "key": "2020110508551177000_2020.02.02.20020016v1.15",
+        "unstructured": "Genomic epidemiology of novel coronavirus (nCoV). [cited 29 Jan 2020]. Available: https://nextstrain.org/ncov"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.02.20020016",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:40Z",
+      "timestamp": 1768484020000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.02.20020016"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.02.02.20020016",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.7326/m20-0504",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

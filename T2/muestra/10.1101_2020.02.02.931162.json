@@ -1,0 +1,267 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:50:33Z",
+      "timestamp": 1768488633419,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              4
+            ]
+          ],
+          "date-time": "2020-02-04T00:00:00Z",
+          "timestamp": 1580774400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  There is rising global concern for the recently emerged novel Coronavirus (2019-nCov). Full genomic sequences have been released by the worldwide scientific community in the last few weeks in order to understand the evolutionary origin and molecular characteristics of this virus. Taking advantage of all the genomic information currently available, we constructed a phylogenetic tree including also representatives of other\n                  <jats:italic>coronaviridae</jats:italic>\n                  , such as Bat coronavirus (BCoV) and SARS. We confirm high sequence similarity (&gt;99%) between all sequenced 2019-nCoVs genomes available, with the closest BCoV sequence sharing 96.2% sequence identity, confirming the notion of a zoonotic origin of 2019-nCoV. Despite the low heterogeneity of the 2019-nCoV genomes, we could identify at least two hyper-variable genomic hotspots, one of which is responsible for a Serine/Leucine variation in the viral ORF8-encoded protein. Finally, we perform a full proteomic comparison with other\n                  <jats:italic>coronaviridae</jats:italic>\n                  , identifying key aminoacidic differences to be considered for antiviral strategies deriving from previous anti-coronavirus approaches.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.02.931162",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2020-02-04T17:15:34Z",
+      "timestamp": 1580836534000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Genomic variance of the 2019-nCoV coronavirus"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Carmine",
+        "family": "Ceraolo",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7325-9908",
+        "authenticated-orcid": false,
+        "given": "Federico M.",
+        "family": "Giorgi",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-018-0118-9"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12985-019-1182-0"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12985-015-0422-1"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25688"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2017.22.13.30494"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky989"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh340"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.molbev.a040023"
+      },
+      {
+        "issue": "1",
+        "key": "2024080318333360000_2020.02.02.931162v2.11",
+        "first-page": "1",
+        "article-title": "FactoMineR: An R Package for Multivariate Analysis",
+        "volume": "1",
+        "year": "2008",
+        "journal-title": "J. Stat. Softw"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virusres.2007.10.009"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2017.05.006"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "627",
+        "DOI": "10.1007/978-1-4939-7000-1_26",
+        "volume-title": "Protein Crystallography",
+        "volume": "1607",
+        "year": "2017"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkg519"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1085658"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btp033"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msy096"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2408678"
+      },
+      {
+        "key": "2024080318333360000_2020.02.02.931162v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-2836(05)80360-2"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.02.931162",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:58:40Z",
+      "timestamp": 1768435120000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.02.931162"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.02.931162",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:53Z",
+      "timestamp": 1768544093430,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 16,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>A new type of novel coronavirus infection (COVID-19) occurred in Wuhan, Hubei Province. Previous investigations reported patients in Wuhan city often progressed into severe or critical and had a high mortality rate.The clinical characteristics of affected patients outside the epicenter of Hubei province are less well understood.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>All confirmed COVID-19 case treated in the Third People\u2019s Hospital of Shenzhen,from January 11, 2020 to February 6, 2020, were included in this study. We analyzed the epidemiological and clinical features of these cases to better inform patient management in normal hospital settings.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Among the 298 confirmed cases, 233(81.5%) had been to Hubei while 42(14%) had not clear epidemiological history. Only 192(64%) cases presented with fever as initial symptom. The lymphocyte count decreased in 38% patients after admission. The number (percent) of cases classified as non-severe and severe was 240(80.6%) and 58(19.4%) respectively. Thirty-two patients (10.7%) needed ICU care. Compared to the non-severe cases, severe cases were associated with older age, underlying diseases, as well as higher levels of CRP, IL-6 and ESR. The median (IRQ) duration of positive viral test were 14(10-19). Slower clearance of virus was associated with higher risk of progression to severe clinical condition. As of February 14, 2020, 66(22.1%) patients were discharged and the overall mortality rate remains 0.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>In a designated hospital outside the Hubei Province, COVID-19 patients were mainly characterized by mild symptoms and could be effectively manage by properly using the existing hospital system.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.17.20024018",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2020-02-19T14:47:24Z",
+      "timestamp": 1582123644000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 37,
+    "title": [
+      "COVID-19 in a Designated Infectious Diseases HospitalOutside Hubei Province,China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Qingxian",
+        "family": "Cai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Deliang",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pengcheng",
+        "family": "Ou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hong",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhibin",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhang",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yinan",
+        "family": "Su",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhenghua",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yiming",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhiwei",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qing",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yang",
+        "family": "Fu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jun",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.1",
+        "unstructured": "World Health Organization. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected: interim guidance. Published January 28, 2020. Accessed January 31, 2020. <https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected."
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.2",
+        "unstructured": "Qun Li, M.Med. , Xuhua Guan, Ph.D. , Peng Wu, Ph.D. , Xiaoye Wang, M.P.H. , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of medicine. January 29, 2020."
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chaolin Huang , Yeming Wang , Xingwang Li , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. Published: January 24, 2020 (Epub ahead of print).",
+        "DOI": "10.1016/j.virusres.2020.198043"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dawei Wang , Bo Hu , Chang Hu , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus\u2013Infected Pneumonia in Wuhan, China. JAMA. Published online February 7, 2020(Epub ahead of print).",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wei-jie Guan , Zheng-yi Ni , Yu Hu , et al. Clinical characteristics of 2019 novel coronavirus infection in China. doi : https://doi.org/10.1101/2020.02.06.20020974. (The preprint server for health sciences).",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1164/rccm.201908-1581ST",
+        "article-title": "Diagnosis and treatment of adults with community-acquired pneumonia: An official clinical practice guideline of the American Thoracic Society and Infectious Disease Society of America",
+        "volume": "200",
+        "year": "2019",
+        "journal-title": "Am J Respir Crit Care Med"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.8",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Handbook of Prevention and Treatment of the Pneumonia Caused by the Novel Coronavirus (2019-nCoV)Updated: February 6, 2020. (http://en.nhc.gov.cn/2020-02/06/c_76295.htm, accessed in Chinese)"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Na Zhu , Dingyu Zhang , Wenling Wang , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N. Engl. J. Med. January 24, 2020 (Epub ahead of print).",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "issue": "2",
+        "key": "2020110712100496000_2020.02.17.20024018v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "327",
+        "DOI": "10.3201/eid1002.030741",
+        "article-title": "Combining Clinical and Epidemiologic Features for Early Recognition of SARS",
+        "volume": "10",
+        "year": "2004",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.11",
+        "first-page": "43",
+        "article-title": "Immune responses in influenza A virus and human coronavirus infections: An ongoing battle between the virus and host",
+        "volume": "28",
+        "year": "2018",
+        "journal-title": "CurrOpinVirol"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiaoqiang Chai , Longfei Hu , Yan Zhang , et al. Specific ACE2 Expression in Cholangiocytes May Cause Liver Damage After 2019-nCoV Infection. biorxiv. doi : https://doi.org/10.1101/2020.02.03.931766.",
+        "DOI": "10.1101/2020.02.03.931766"
+      },
+      {
+        "issue": "2",
+        "key": "2020110712100496000_2020.02.17.20024018v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "334",
+        "DOI": "10.3201/eid1002.030761",
+        "article-title": "Clinical Description of a Completed Outbreak of SARS in Vietnam, February\u2013May, 2003",
+        "volume": "10",
+        "year": "2004",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(15)60454-8"
+      },
+      {
+        "issue": "2",
+        "key": "2020110712100496000_2020.02.17.20024018v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1042/CS20050188",
+        "article-title": "SARS: clinical presentation, transmission, pathogenesis and treatment options",
+        "volume": "110",
+        "year": "2006",
+        "journal-title": "Clin Sci (Lond)"
+      },
+      {
+        "key": "2020110712100496000_2020.02.17.20024018v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Michelle L. Holshue , Chas DeBolt , Scott Lindquist , et al. First Case of 2019 Novel Coronavirus in the United States. N. Engl. J. Med, January 31, 2020 (Epub ahead of print).",
+        "DOI": "10.1056/NEJMoa2001191"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.17.20024018",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:00Z",
+      "timestamp": 1768484040000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.17.20024018"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1101/2020.02.17.20024018",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1111/all.14309",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          19
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

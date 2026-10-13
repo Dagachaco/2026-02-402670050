@@ -1,0 +1,413 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2026-02-17T21:46:08Z",
+      "timestamp": 1771364768566,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 36,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:sec>\n                  <jats:title>BACKGROUND</jats:title>\n                  <jats:p>The outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has posed great threat to human health, which has been declared a public health emergency of international concern (PHEIC) by the WHO. T cells play a critical role in antiviral immunity but their numbers and functional state in COVID-19 patients remain largely unclear.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>METHODS</jats:title>\n                  <jats:p>\n                    We retrospectively reviewed the counts of total T cells, CD4\n                    <jats:sup>+</jats:sup>\n                    , CD8\n                    <jats:sup>+</jats:sup>\n                    T cell subsets, and serum cytokine concentration from inpatient data of 522 patients with laboratory-confirmed COVID-19, admitted into two hospitals in Wuhan from December 2019 to January 2020, and 40 healthy controls, who came to the hospitals for routine physical examination. In addition, the expression of T cell exhaustion markers PD-1 and Tim-3 were measured by flow cytometry in the peripheral blood of 14 COVID-19 cases.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>RESULTS</jats:title>\n                  <jats:p>\n                    The number of total T cells, CD4\n                    <jats:sup>+</jats:sup>\n                    and CD8\n                    <jats:sup>+</jats:sup>\n                    T cells were dramatically reduced in COVID-19 patients, especially among elderly patients (\u2a7e60 years of age) and in patients requiring Intensive Care Unit (ICU) care. Counts of total T cells, CD8\n                    <jats:sup>+</jats:sup>\n                    T cells or CD4\n                    <jats:sup>+</jats:sup>\n                    T cells lower than 800/\u03bcL, 300/\u03bcL, or 400/\u03bcL, respectively, are negatively correlated with patient survival. Statistical analysis demonstrated that T cell numbers are negatively correlated to serum IL-6, IL-10 and TNF-\u03b1 concentration, with patients in decline period showing reduced IL-6, IL-10 and TNF-\u03b1 concentrations and restored T cell counts. Finally, T cells from COVID-19 patients have significantly higher levels of the exhausted marker PD-1 as compared to health controls. Moreover, increasing PD-1 and Tim-3 expression on T cells could be seen as patients progressed from prodromal to overtly symptomatic stages, further indicative of T cell exhaustion.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>CONCLUSIONS</jats:title>\n                  <jats:p>\n                    T cell counts are reduced significantly in COVID-19 patients, and the surviving T cells appear functionally exhausted. Non-ICU patients, with total T cells, CD8\n                    <jats:sup>+</jats:sup>\n                    T cells CD4\n                    <jats:sup>+</jats:sup>\n                    T cells counts lower than 800/\u03bcL, 300/\u03bcL, and 400/\u03bcL, respectively, may still require aggressive intervention even in the immediate absence of more severe symptoms due to a high risk for further deterioration in condition.\n                  </jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.18.20024364",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T18:25:15Z",
+      "timestamp": 1582223115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 106,
+    "title": [
+      "Reduction and Functional Exhaustion of T Cells in Patients with Coronavirus Disease 2019 (COVID-19)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Bo",
+        "family": "Diao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Chenhui",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yingjun",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiewan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ying",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lifen",
+        "family": "Ning",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Min",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yueping",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zilin",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zeqing",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuzhang",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yongwen",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.2",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.3",
+        "unstructured": "Lu R , Zhao X , Li J , et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet 2020."
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.4",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020."
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.7",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. The latest situation of novel coronavirus pneumonia as of 24:00 on 17 February, 2020. http://www.nhc.gov.cn/xcs/yqtb/202002/261f72a74be14c4db6e1b582133cf4b7.shtml. (Date accessed: February 18, 2020; in Chinese)."
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4049/jimmunol.181.8.5490"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.9",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. The notice of launching guideline on diagnosis and treatment of the novel coronavirus pneumonia (NCP). 5th edition. http://www.nhc.gov.cn/yzygj/s7653p/202002/3b09b894ac9b4204a79db5b8912d4440/files/7260301a393845fc87fcf6dd52965ecb.pdf (Date accessed: February 18, 2020; in Chinese)."
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.10",
+        "unstructured": "Nina P , Mark S , Anh-Hue TT , et al. Characteristics of infectious disease. https://openstax.org/books/microbiology/pages/15-1-characteristics-of-infectious-disease. Microbiology November 2016."
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.11",
+        "unstructured": "Zhou P , Yang XL , Wang XG , et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020."
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nri3862"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0105-2896.2006.00382.x"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-immunol-030409-101212"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2013.05.014"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/imr.12823"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2007.10.031"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1172/JCI60331"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00281-017-0629-x"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.20255"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMra0707279"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(13)60903-4"
+      },
+      {
+        "issue": "4",
+        "key": "2020110811150609000_2020.02.18.20024364v1.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "2154",
+        "DOI": "10.4049/jimmunol.162.4.2154",
+        "article-title": "Increased TNF-alpha-induced apoptosis in lymphocytes from aged humans: changes in TNF-alpha receptor expression and activation of caspases",
+        "volume": "162",
+        "year": "1999",
+        "journal-title": "J Immunol"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.cdd.4401557"
+      },
+      {
+        "issue": "2",
+        "key": "2020110811150609000_2020.02.18.20024364v1.25",
+        "first-page": "S3",
+        "article-title": "Interleukin-6 and chronic inflammation",
+        "volume": "8",
+        "year": "2006",
+        "journal-title": "Arthritis research & therapy"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41577-018-0066-7"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/annrheumdis-2015-207628"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/annrheumdis-2015-207818"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1634/theoncologist.2018-0028"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/gutjnl-2012-302239"
+      },
+      {
+        "issue": "1",
+        "key": "2020110811150609000_2020.02.18.20024364v1.31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1322",
+        "DOI": "10.1038/s41467-017-01327-4",
+        "article-title": "VSIG4 inhibits proinflammatory macrophage activation by reprogramming mitochondrial pyruvate metabolism",
+        "volume": "8",
+        "year": "2017",
+        "journal-title": "Nature communications"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-immunol-041015-055318"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1492"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1084/jem.20061462"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang M , Cao R , Zhang L , et al. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res 2020.",
+        "DOI": "10.1038/s41422-020-0282-0"
+      },
+      {
+        "key": "2020110811150609000_2020.02.18.20024364v1.36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holshue ML , DeBolt C , Lindquist S , et al. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med 2020.",
+        "DOI": "10.1056/NEJMoa2001191"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20024364",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:02Z",
+      "timestamp": 1768484042000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20024364"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 36,
+    "URL": "https://doi.org/10.1101/2020.02.18.20024364",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3389/fimmu.2020.00827",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:47:05Z",
+      "timestamp": 1768488425327,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 16,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              24
+            ]
+          ],
+          "date-time": "2020-01-24T00:00:00Z",
+          "timestamp": 1579824000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>\n                  On December 31, 2019, the World Health Organization was notified about a cluster of pneumonia of unknown aetiology in the city of Wuhan, China. Chinese authorities later identified a new coronavirus (2019-nCoV) as the causative agent of the outbreak. As of January 23, 2020, 655 cases have been confirmed in China and several other countries. Understanding the transmission characteristics and the potential for sustained human-to-human transmission of 2019-nCoV is critically important for coordinating current screening and containment strategies, and determining whether the outbreak constitutes a public health emergency of international concern (PHEIC). We performed stochastic simulations of early outbreak trajectories that are consistent with the epidemiological findings to date. We found the basic reproduction number,\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  , to be around 2.2 (90% high density interval 1.4\u20143.8), indicating the potential for sustained human-to-human transmission. Transmission characteristics appear to be of a similar magnitude to severe acute respiratory syndrome-related coronavirus (SARS-CoV) and the 1918 pandemic influenza. These findings underline the importance of heightened screening, surveillance and control efforts, particularly at airports and other travel hubs, in order to prevent further international spread of 2019-nCoV.\n                </jats:p>",
+    "DOI": "10.1101/2020.01.23.917351",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2020-01-25T00:55:13Z",
+      "timestamp": 1579913713000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 40,
+    "title": [
+      "Pattern of early human-to-human transmission of Wuhan 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3808-2852",
+        "authenticated-orcid": false,
+        "given": "Julien",
+        "family": "Riou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5230-6760",
+        "authenticated-orcid": false,
+        "given": "Christian L.",
+        "family": "Althaus",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.1",
+        "unstructured": "Pneumonia of unknown cause - China. https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.2",
+        "unstructured": "Zheng-Li Shi , Peng Zhou , Xing-Lou Yang , Xian-Guang Wang , Ben Hu , Lei Zhang , Wei Zhang , Hao-Rui Si , Yan Zhu , Bei Li , Chao-Lin Huang , Hui-Dong Chen , Jing Chen , Yun Luo , Hua Guo , Ren-Di Jiang , Mei-Qin Liu , Ying Chen , Xu-Rui Shen , Xi Wang , Xiao-Shuang Zheng , Kai Zhao , Quan-Jiao Chen , Fei Deng , Lin-Lin Liu , Bing Yan , Fa-Xian Zhan , Yan-Yi Wang , and Gengfu Xiao . Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv, 2020."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.3",
+        "unstructured": "Wikipedia. 2019-20 outbreak of novel coronavirus 2019-nCoV. https://en.wikipedia.org/wiki/2019\\T1\\textendash20_outbreak_of_novel_coronavirus_2019-nCoV."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(15)70135-0"
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES2015.20.25.21167"
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.7",
+        "unstructured": "Andrew Rambaut. Preliminary phylogenetic analysis of 11 nCoV2019 genomes, 2020-01-19. http://virological.org/t/preliminary-phylogenetic-analysis-of-11-ncov2019-genomes-2020-01-19/329."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.8",
+        "unstructured": "Natsuko Imai , Ilaria Dorigatti , Anne Cori , Christl Donnelly , Steven Riley , and Neil M. Ferguson . Report 2: Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.9",
+        "unstructured": "R Core Team. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria, 2018."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwr122"
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.11",
+        "unstructured": "WHO panel puts off decision on whether to sound alarm on rapid spread of new virus. https://www.sciencemag.org/news/2020/01/who-panel-puts-decision-whether-sound-alarm-rapid-spread-new-virus. Accessed: 2020\u201301-23."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tianmu Chen , Jia Rui , Qiupeng Wang , Zeyu Zhao , Jing-An Cui , and Ling Yin . A mathematical model for simulating the transmission of wuhan novel coronavirus. bioRxiv, 2020.",
+        "DOI": "10.1101/2020.01.19.911669"
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.13",
+        "unstructured": "M. Chinazzi , J. T. Davis , A. Pastore y Piontti , X. Xiong , A. Vespignani , C. Gioannini , M. Litvinova , L. Rossi , M.E. Halloran , and I.M. Longini Jr. Preliminary assessment of the international spreading risk associated with the 2019 nCOV outbreak in Wuhan city. https://www.mobs-lab.org/2019ncov.html."
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peng Wu , Xinxin Hao , Eric H Y Lau , Jessica Y Wong , Kathy S M Leung , Joseph T Wu , Benjamin J Cowling , and Gabriel M Leung . Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in wuhan, china, as at 22 january 2020. Eurosurveillance, 25(3), 2020.",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000044"
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3346/jkms.2015.30.11.1701"
+      },
+      {
+        "key": "2024080322185467000_2020.01.23.917351v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1306742"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.23.917351",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:22Z",
+      "timestamp": 1768435042000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.23.917351"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1101/2020.01.23.917351",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:13Z",
+      "timestamp": 1768546633278,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 12,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>New coronavirus SARS-CoV-2 poses a big challenge for global public health in early 2020. Coronavirus Disease 2019 (COVID-19) caused by the virus rapidly spreads all over the world and takes thousands of lives in just two months. It is critical to refine the incidence and mortality risks of COVID-19 for the effective management of the general public and patients in the outbreak. In this report, we investigate the incidence and mortality risks of the infection by analyzing the age composition of 5319 infected patients, 76 fatal cases, and 1,144,648 individuals of the general public in China. Our result shows a relatively low incidence risk for young people but a very high mortality risk for seniors. Notably, mortality risk could be as high as 0.48 for people older than 80 years. Furthermore, our study suggests that a good medical service can effectively reduce the mortality rate of the viral infection to 1% or less.</jats:p>",
+    "DOI": "10.1101/2020.02.25.20027672",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T17:04:57Z",
+      "timestamp": 1582823097000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Age-dependent risks of Incidence and Mortality of COVID-19 in Hubei Province and Other Parts of China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Hongdou",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shuang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fan",
+        "family": "Zhong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wuyin",
+        "family": "Bao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yipeng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongyan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yungang",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13410-1"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-017-2712-2"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.10",
+        "unstructured": "China, NBoso, China Statistical Yearbook (2019)."
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.11",
+        "first-page": "145",
+        "volume": "41",
+        "author": "Team, TNCPERE",
+        "year": "2020",
+        "journal-title": "The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China. Publisher"
+      },
+      {
+        "key": "2020111110050712000_2020.02.25.20027672v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2213-2600(20)30079-5"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20027672",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:17Z",
+      "timestamp": 1768484057000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20027672"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 12,
+    "URL": "https://doi.org/10.1101/2020.02.25.20027672",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3389/fmed.2020.00190",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

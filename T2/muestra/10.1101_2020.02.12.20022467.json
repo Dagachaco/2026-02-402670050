@@ -1,0 +1,221 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2026-02-07T18:41:51Z",
+      "timestamp": 1770489711137,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 11,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:p>A novel coronavirus (COVID-19) was identified in Wuhan, Hubei Province, China, in December 2019 and has caused over 40,000 cases worldwide to date. Previous studies have supported an epidemiological hypothesis that cold and dry (low absolute humidity) environments facilitate the survival and spread of droplet-mediated viral diseases, and warm and humid (high absolute humidity) environments see attenuated viral transmission (i.e., influenza). How-ever, the role of absolute humidity in transmission of COVID-19 has not yet been established. Here, we examine province-level variability of the basic reproductive numbers of COVID-19 across China and find that changes in weather alone (i.e., increase of temperature and humidity as spring and summer months arrive in the North Hemisphere) will not necessarily lead to declines in COVID-19 case counts without the implementation of extensive public health interventions.</jats:p>",
+    "DOI": "10.1101/2020.02.12.20022467",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2020-02-17T17:16:37Z",
+      "timestamp": 1581959797000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 125,
+    "title": [
+      "The role of absolute humidity on transmission rates of the COVID-19 outbreak"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Wei",
+        "family": "Luo",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Maimuna S.",
+        "family": "Majumder",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Diambo",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Canelle",
+        "family": "Poirier",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kenneth D",
+        "family": "Mandl",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1504-9213",
+        "authenticated-orcid": false,
+        "given": "Marc",
+        "family": "Lipsitch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4206-418X",
+        "authenticated-orcid": false,
+        "given": "Mauricio",
+        "family": "Santillana",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu, N. , et al., A novel coronavirus from patients with pneumonia in China, 2019. New England Journal of Medicine, 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.2",
+        "unstructured": "World Health Organization. Novel coronavirus (2019-nCoV). Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019."
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.3",
+        "unstructured": "CGTN. Five million people left Wuhan before the lockdown, where did they go? Available from: https://news.cgtn.com/news/2020-01-27/5-million-people-left-Wuhan-before-the-lockdown-where-did-they-go\u2013NACCu9wItW/index.html."
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kws259"
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwq347"
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.6",
+        "unstructured": "Johns Hopkins Center for Systems Science and System website https://systems.jhu.edu/research/public-health/ncov/"
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.7",
+        "unstructured": "Li, Q. , et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. New England Journal of Medicine, 2020."
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.9",
+        "unstructured": "World Weather online. https://www.worldweatheronline.com/"
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.10",
+        "unstructured": "Iribarne, J.V. and W.L. Godson , Atmospheric thermodynamics. Vol. 6. 2012: Springer Science Business Media."
+      },
+      {
+        "key": "2020110711000839000_2020.02.12.20022467v1.11"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20022467",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:54Z",
+      "timestamp": 1768484034000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20022467"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "references-count": 11,
+    "URL": "https://doi.org/10.1101/2020.02.12.20022467",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

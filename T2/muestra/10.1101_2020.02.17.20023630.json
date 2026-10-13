@@ -1,0 +1,340 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:04Z",
+      "timestamp": 1768549204612,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 21,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Corona Virus Disease 2019 (COVID-19) due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in Wuhan city and rapidly spread throughout China since late December 2019. Crude case fatality ratio (CFR) with dividing the number of known deaths by the number of confirmed cases does not represent the true CFR and might be off by orders of magnitude. We aim to provide a precise estimate of the CFR of COVID-19 using statistical models at the early stage of the epidemic.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We extracted data from the daily released epidemic report published by the National Health Commission P. R. China from 20 Jan 2020, to 1 March 2020. Competing risk model was used to obtain the cumulative hazards for death, cure, and cure-death hazard ratio. Then the CFR was estimated based on the slope of the last piece in joinpoint regression model, which reflected the most recent trend of the epidemic.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>As of 1 March 2020, totally 80,369 cases were diagnosed as COVID-19 in China. The CFR of COVID-19 were estimated to be 70.9% (95% CI: 66.8%-75.6%) during Jan 20-Feb 2, 20.2% (18.6%-22.1%) during Feb 3-14, 6.9% (6.4%-7.4%) during Feb 15-23, 1.5% (1.4%-1.6%) during Feb 24-March 1 in Hubei province, and 20.3% (17.0%-25.3%) during Jan 20-28, 1.9% (1.8%-2.1%) during Jan 29-Feb 12, 0.9% (0.8%-1.1%) during Feb 13-18, 0.4% (0.4%-0.5%) during Feb 19-March 1 in other areas of China, respectively.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Based on analyses of public data, we found that the CFR in Hubei was much higher than that of other regions in China, over 3 times in all estimation. The CFR would follow a downwards trend based on our estimation from recently released data. Nevertheless, at early stage of outbreak, CFR estimates should be viewed cautiously because of limited data source on true onset and recovery time.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.17.20023630",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:15:36Z",
+      "timestamp": 1582218936000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Estimating the case fatality ratio of the COVID-19 epidemic in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6756-3575",
+        "authenticated-orcid": false,
+        "given": "Xing",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5044-9189",
+        "authenticated-orcid": false,
+        "given": "Zihui",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7737-580X",
+        "authenticated-orcid": false,
+        "given": "Yi",
+        "family": "Ning",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8412-2966",
+        "authenticated-orcid": false,
+        "given": "Chen",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rujin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiwen",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4674-0667",
+        "authenticated-orcid": false,
+        "given": "Heng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7835-3768",
+        "authenticated-orcid": false,
+        "given": "Chunming",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0573-8579",
+        "authenticated-orcid": false,
+        "given": "Yan",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Cheng",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Junqing",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuyan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3945-2990",
+        "authenticated-orcid": false,
+        "given": "Handong",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8514-9503",
+        "authenticated-orcid": false,
+        "given": "Shaodian",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7906-2797",
+        "authenticated-orcid": false,
+        "given": "Hongxin",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.4",
+        "unstructured": "News, I. SARS CoV-2 (formerly known as 2019-nCoV, or \u201cWuhan Coronavirus\u201d) COVID-19 Outbreak. Access on February 11, 2020. Available from: https://www.isar-icar.com/Coronavirus."
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.5",
+        "unstructured": "WHO. Novel Coronavirus (2019-nCoV) SITUATION REPORT-5 25 JANUARY 2020. Access on January 25, 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200125-sitrep-5-2019-ncov.pdf?sfvrsn=429b143d_4.2020."
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.6",
+        "unstructured": "News, B. Coronavirus disease named Covid-19. Access on February 11, 2020. Available from: https://www.bbc.com/news/world-asia-china-51466362."
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001272"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4414/smw.2020.20203"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.14",
+        "unstructured": "China, N.H.C.P.R. Outbreak Communication. Access on February 12, 2020. Available from: http://www.nhc.gov.cn/xcs/yqtb/202002/395f075a5f3a411f80335766c65b0487.shtml."
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.15",
+        "unstructured": "Marubini E V.M. , Analysing Survival Data from Clinical Trials and Observational Studies. 2004."
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ptr.1485"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwi230"
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.19",
+        "unstructured": "Ilaria Dorigatti, L.O. Report 4: Severity of 2019-novel coronavirus (nCoV). Access on February 10, 2020. Available from: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf."
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.20",
+        "unstructured": "Wuhan Headquarters of Epidemic Prevention and Control of 2019-nCov Pneumonia: Notice of Epidemic Prevention and Control of 2019-nCov Pneumonia (No. 1). Access on January 23, 2020. Available from: http://www.wuhan.gov.cn/hbgovinfo/zwgk_8265/tzgg/202001/t20200123_304065.html."
+      },
+      {
+        "key": "2020110816250504000_2020.02.17.20023630v5.21",
+        "unstructured": "China, N.H.C.P.R. The diagnosis and treatment scheme for the new coronavirus infections (pilot version 5). Access on February 8, 2020. Available from: http://www.nhc.gov.cn/xcs/zhengcwj/202002/d4b895337e19445f8d728fcaf1e3e13a/files/ab6bec7f93e64e7f998d802991203cd6.pdf."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.17.20023630",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:00Z",
+      "timestamp": 1768484040000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.17.20023630"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 21,
+    "URL": "https://doi.org/10.1101/2020.02.17.20023630",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:33:09Z",
+      "timestamp": 1768545189112,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 30,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To investigate psychological and behavioral responses to the threat of SARS-CoV-2 infections and their associations with public perceptions in China</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>Cross sectional population-based telephone survey via random digital dialing between 1 and 10 February, 2020</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Setting</jats:title>\n                  <jats:p>Wuhan (the epicentre and quarantined city), and Shanghai (a typical major city with close transportation link with Wuhan)</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Participants</jats:title>\n                  <jats:p>Random sample of 510 residents in Wuhan and 501 residents in Shanghai aged above 18</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Main outcome measures</jats:title>\n                  <jats:p>Anxiety (measured by the 7-item generalized anxiety disorder [GAD-7] scale), recommended and avoidance behaviors (engaged in all six behaviors such as increasing surface cleaning and reducing going out).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>The prevalence rates of moderate or severe anxiety (score \u226510 on GAD-7) were 32.7% (n=167) among Wuhan participants and 20.4% (n=102) among Shanghai participants. 78.6% (n=401) of Wuhan participants and 63.9% (n=320) of Shanghai participants had carried out all six precautionary behaviors. For both measures, Wuhan participants were more responsive to the outbreak (p&lt;0.001). Controlling for personal characteristics, logistic regression results suggested that risks of moderate or severe anxiety were positively associated with perceived susceptibility (odds ratio 1.6, 95% confidence interval 1.3-1.8) and severity of the disease (1.6, 1.4-1.9) and confusion about information reliability (1.6, 1.5-1.9). Having confidence in taking measures to protect oneself against the disease was associated with a lower risk (0.6, 0.5-0.7). The strongest predictor of behavioral change was perceived severity (1.2, 1.1-1.4), followed by confusion about information reliability (1.1, 1.0-1.3).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Psychological and behavioral responses to COVID-19 have been dramatic during the rising phase of the outbreak. Our results support efforts for timely dissemination of accurate and reliable information to address the high anxiety level.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.18.20024448",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T18:25:15Z",
+      "timestamp": 1582223115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 96,
+    "title": [
+      "Psychological responses, behavioral changes and public perceptions during the early phase of the COVID-19 outbreak in China: a population based cross-sectional survey"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Mengcen",
+        "family": "Qian",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Qianhui",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhiyuan",
+        "family": "Hou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuxia",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin J.",
+        "family": "Cowling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hongjie",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.2",
+        "unstructured": "National Health Commission. Latest situation of new coronavirus pneumonia as of February 16 2020 (in Chinese); (http://www.nhc.gov.cn/xcs/yqfkdt/202002/18546da875d74445bb537ab014e7a1c6.shtml.)."
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.3",
+        "unstructured": "World Health Organization. Coronavirus disease 2019 (COVID-19) Situation Report - 26. 2020; (https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200215-sitrep-26-covid-19.pdf?sfvrsn=a4cc6787_2.)."
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jech.57.11.864"
+      },
+      {
+        "issue": "8",
+        "key": "2020110811300764000_2020.02.18.20024448v1.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1486",
+        "DOI": "10.3201/eid1008.040283",
+        "article-title": "SARS risk perception, knowledge, precautions, and information sources, the Netherlands",
+        "volume": "10",
+        "year": "2004",
+        "journal-title": "Emerging Infectious Diseases"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/070674370905400504"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b2651"
+      },
+      {
+        "issue": "5",
+        "key": "2020110811300764000_2020.02.18.20024448v1.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "813",
+        "DOI": "10.3201/eid2305.160768",
+        "article-title": "Population responses during the pandemic phase of the influenza A(H1N1)pdm09 Epidemic, Hong Kong, China",
+        "volume": "23",
+        "year": "2017",
+        "journal-title": "Emerging Infectious Diseases"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2015.0814"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.10",
+        "first-page": "139",
+        "article-title": "Avoidance behaviors and negative psychological responses in the general population in the initial stage of the H1N1 pandemic in Hong Kong",
+        "volume": "10",
+        "year": "2020",
+        "journal-title": "BMC Infectious Diseases"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2008.131821"
+      },
+      {
+        "issue": "9",
+        "key": "2020110811300764000_2020.02.18.20024448v1.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0137831",
+        "DOI": "10.1371/journal.pone.0137831",
+        "article-title": "Live poultry exposure and public response to influenza A(H7N9) in urban and rural China during two epidemic waves in 2013-2014",
+        "volume": "10",
+        "year": "2015",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2005.131859"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1111/j.1467-839X.2004.00130.x",
+        "article-title": "The psychology behind the masks: psychological responses to the severe acute respiratory syndrome outbreak in different regions",
+        "volume": "7",
+        "year": "2004",
+        "journal-title": "Asian Journal of Social Psychology"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1007/s12529-008-9004-6",
+        "article-title": "SARS knowledge, perceptions, and behaviors: a comparison between Finns and the Dutch during the SARS outbreak in 2003",
+        "volume": "16",
+        "year": "2009",
+        "journal-title": "Int J Behav Med"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12529-008-9008-2"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu J , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet 2020; https://doi.org/10.1016/S0140-6736(20)30260-9.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JRE , Cummings DAT , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. Preprint at https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2 (2020).",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.19",
+        "unstructured": "Health Commission of Hubei Province. Update on the outbreak of novel coronavirus-infected pneumonia as of 31 January 2020. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200201_2017100.shtml (accessed on February 15, 2020) (in Chinese)."
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.20",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Update on the outbreak of novel coronavirus-related pneumonia as of 31 January 2020. http://www.nhc.gov.cn/xcs/yqtb/202002/84faf71e096446fdb1ae44939ba5c528.shtml (accessed on February 15, 2020) (in Chinese)."
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.21",
+        "unstructured": "Shanghai Municipal Health Commission, Shanghai Municipal Administration of Traditional Chinese Medicine. 18 new confirmed cases of novel coronavirus-infected pneumonia in Shanghai. http://wsjkw.sh.gov.cn/yqtb/20200201/c109479681e64952824c04eae3145e89.html (accessed on February 15, 2020) (in Chinese)."
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.166.10.1092"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e318160d093"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.24",
+        "doi-asserted-by": "crossref",
+        "first-page": "28033",
+        "DOI": "10.1038/srep28033",
+        "article-title": "Meta-analysis of the prevalence of anxiety disorders in mainland China from 2000 to 2015",
+        "volume": "6",
+        "year": "2016",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.jad.2018.02.012",
+        "article-title": "Generalized anxiety disorder in urban China: prevalence, awareness, and disease burden",
+        "volume": "234",
+        "year": "2018",
+        "journal-title": "Journal of Affective Disorder"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0058249"
+      },
+      {
+        "issue": "9",
+        "key": "2020110811300764000_2020.02.18.20024448v1.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1307",
+        "DOI": "10.3201/eid1309.070372",
+        "article-title": "Precautionary behavior in response to perceived threat of pandemic influenza",
+        "volume": "13",
+        "year": "2007",
+        "journal-title": "Emerging Infectious Disease"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rubin GJ , Wessely S. Coronavirus: the psychological effects of quarantining a city. BMJ 2020; https://blogs.bmj.com/bmj/2020/01/24/coronavirus-the-psychological-effects-of-quarantining-a-city/",
+        "DOI": "10.1136/bmj.m313"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Qian M , Chou S , Lai EK . Confirmatory bias in health decisions: evidence form the MMR-autism controversy. Journal of Health Economics 2020; https://doi.org/10.1016/j.jhealeco.2019.102284",
+        "DOI": "10.1016/j.jhealeco.2019.102284"
+      },
+      {
+        "key": "2020110811300764000_2020.02.18.20024448v1.30",
+        "unstructured": "World Health Organization. Hand hygiene: why, how & when? https://www.who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf (accessed on February 15, 2020)."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20024448",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:03Z",
+      "timestamp": 1768484043000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20024448"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 30,
+    "URL": "https://doi.org/10.1101/2020.02.18.20024448",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1136/bmjopen-2020-040910",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:55:28Z",
+      "timestamp": 1768546528687,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 26,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Respiratory illness caused by a novel coronavirus (COVID-19) appeared in China during December 2019. Attempting to contain infection, China banned travel to and from Wuhan city on 23 January and implemented a national emergency response. Here we evaluate the spread and control of the epidemic based on a unique synthesis of data including case reports, human movement and public health interventions. The Wuhan shutdown slowed the dispersal of infection to other cities by an estimated 2.91 days (95%CI: 2.54-3.29), delaying epidemic growth elsewhere in China. Other cities that implemented control measures pre-emptively reported 33.3% (11.1-44.4%) fewer cases in the first week of their outbreaks (13.0; 7.1-18.8) compared with cities that started control later (20.6; 14.5-26.8). Among interventions investigated here, the most effective were suspending intra-city public transport, closing entertainment venues and banning public gatherings. The national emergency response delayed the growth and limited the size of the COVID-19 epidemic and, by 19 February (day 50), had averted hundreds of thousands of cases across China.</jats:p>\n                <jats:sec>\n                  <jats:title>One sentence summary</jats:title>\n                  <jats:p>Travel restrictions and the national emergency response delayed the growth and limited the size of the COVID-19 epidemic in China.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.30.20019844",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2020-02-02T11:45:11Z",
+      "timestamp": 1580643911000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 58,
+    "title": [
+      "The impact of transmission control measures during the first 50 days of the COVID-19 epidemic in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Huaiyu",
+        "family": "Tian",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yonghong",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yidan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chieh-Hsi",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Moritz U.G.",
+        "family": "Kraemer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bingying",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jun",
+        "family": "Cai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bo",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiqi",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ben",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yujun",
+        "family": "Cui",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yimeng",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pai",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Quanyi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ottar N.",
+        "family": "Bjornstad",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ruifu",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bryan T.",
+        "family": "Grenfell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Oliver G.",
+        "family": "Pybus",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Christopher",
+        "family": "Dye",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.2",
+        "unstructured": "R. Lu , X. Zhao , J. Li , P. Niu , B. Yang , H. Wu , W. Wang , H. Song , B. Huang , N. Zhu , Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet, doi: https://doi.org/10.1016/S0140-6736(1020)30251-30258 (2020)."
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.3",
+        "unstructured": "F. Wu , S. Zhao , B. Yu , Y.-M. Chen , W. Wang , Z.-G. Song , Y. Hu , Z.-W. Tao , J.-H. Tian , Y.-Y. Pei , A new coronavirus associated with human respiratory disease in China. Nature, 1\u20138 (2020)."
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.4",
+        "unstructured": "P. Zhou , X.-L. Yang , X.-G. Wang , B. Hu , L. Zhang , W. Zhang , H.-R. Si , Y. Zhu , B. Li , C.-L. Huang , A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, 1\u20134 (2020)."
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph16020222"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30421-9"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.8",
+        "unstructured": "in Chinadaily. (2020), pp. https://www.chinadaily.com.cn/a/202001/202029/WS202005e202318a202036a3101282172739c3101282172731.html (accessed Jan 3101282172730, 3101282172020)."
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/414716a"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1245200"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1223467"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04017"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature06536"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02759"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1125237"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1504964112"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "435",
+        "DOI": "10.1162/REST_a_00660",
+        "article-title": "Roads, railroads, and decentralization of Chinese cities",
+        "volume": "99",
+        "year": "2017",
+        "journal-title": "Rev Econ Stat"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2018.02.025"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1712767115"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(12)61684-5"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.22",
+        "unstructured": "B. Ripley , B. Venables , D. M. Bates , K. Hornik , A. Gebhardt , D. Firth , M. B. Ripley , Package \u2018MASS\u2019. CRAN Repository, See http://cran.r-projectorg/web/packages/MASS/MASS.pdf (2013)."
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.23",
+        "unstructured": "R. M. Anderson , R. M. May , Infectious Diseases of Humans: Dynamics and Control. (Oxford Univ Press, Oxford, 1992)."
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9876.2005.05366.x"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111110200546000_2020.01.30.20019844v4.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0169-5347(99)01677-8"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.30.20019844",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:38Z",
+      "timestamp": 1768484018000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.30.20019844"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "references-count": 26,
+    "URL": "https://doi.org/10.1101/2020.01.30.20019844",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1126/science.abb6105",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          2
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

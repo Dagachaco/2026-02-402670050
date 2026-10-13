@@ -1,0 +1,324 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:56:30Z",
+      "timestamp": 1768546590952,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The impact of the drastic reduction in travel volume within mainland China in January and February 2020 was quantified with respect to reports of novel coronavirus (COVID-19) infections outside China. Data on confirmed cases diagnosed outside China were analyzed using statistical models to estimate the impact of travel reduction on three epidemiological outcome measures: (i) the number of exported cases, (ii) the probability of a major epidemic, and (iii) the time delay to a major epidemic. From 28 January to 7 February 2020, we estimated that 226 exported cases (95% confidence interval: 86, 449) were prevented, corresponding to a 70.4% reduction in incidence compared to the counterfactual scenario. The reduced probability of a major epidemic ranged from 7% to 20% in Japan, which resulted in a median time delay to a major epidemic of two days. Depending on the scenario, the estimated delay may be less than one day. As the delay is small, the decision to control travel volume through restrictions on freedom of movement should be balanced between the resulting estimated epidemiological impact and predicted economic fallout.</jats:p>",
+    "DOI": "10.1101/2020.02.14.20022897",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2020-02-17T21:25:10Z",
+      "timestamp": 1581974710000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "title": [
+      "Assessing the impact of reduced travel on exportation dynamics of novel coronavirus infection (COVID-19)"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Asami",
+        "family": "Anzai",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Tetsuro",
+        "family": "Kobayashi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Natalie M",
+        "family": "Linton",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ryo",
+        "family": "Kinoshita",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Katsuma",
+        "family": "Hayashi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ayako",
+        "family": "Suzuki",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yichi",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sung-mok",
+        "family": "Jung",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Takeshi",
+        "family": "Miyama",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3269-7351",
+        "authenticated-orcid": false,
+        "given": "Andrei R",
+        "family": "Akhmetzhanov",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hiroshi",
+        "family": "Nishiura",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.1",
+        "unstructured": "World Health Organization. Novel Coronavirus \u2013 China, 2020. Available from: https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/ (accessed on 11 February 2020)"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.2",
+        "unstructured": "World Health Organization. Novel Coronavirus (2019-nCoV) Situation Report-21, 2020. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200210-sitrep-21-ncov.pdf (accessed on 11 February 2020)"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.3",
+        "unstructured": "Center for Disease Central and Prevention. 2019 Novel Coronavirus, Wuhan, China, 2020. Available from: https://www.cdc.gov/coronavirus/2019-nCoV/summary.html (accessed on 11 February 2020)"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.6",
+        "unstructured": "BBC NEWS. Coronavirus: Wuhan shuts public transport over outbreak, 2020. Available from: https://www.bbc.com/news/world-asia-china-51215348 (accessed on 11 February 2020)"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.286.21.2711"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-9-27"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/dmp.2015.38"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtbi.2006.09.015"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.38573.696100.3A"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "220",
+        "DOI": "10.5694/j.1326-5377.2004.tb05889.x",
+        "article-title": "Border screening for SARS in Australia: what has been learnt?",
+        "volume": "180",
+        "year": "2004",
+        "journal-title": "Med. J. Aust"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1101.040835"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jung, S. ; Akhmetzhanov, A.R. ; Hayashi, K. ; Linton, N.M. ; Yang, Y. ; Yuan, B. ; Kobayashi, T. ; Kinoshita, R. ; Nishiura, H. Real time estimation of the risk of death from novel coronavirus (2019-nCoV) infection: Inference using exported cases. 2020, Available from: https://www.medrxiv.org/content/10.1101/2020.01.29.20019547v1 (accessed on 11 February 2020)",
+        "DOI": "10.1101/2020.01.29.20019547"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.15",
+        "first-page": "2000080",
+        "article-title": "CMMID nCoV working group; Flasche, S., Eggo, R.M. Effectiveness of airport screening at detecting travellers infected with novel coronavirus (2019-nCoV)",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Euro surveill"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000058"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura, H. ; Kobayashi, T. ; Miyama, T. ; Suzuki, A. ; Jung, S. ; Hayashi, K. ; Kinoshita, R. ; Yang, Y. ; Yuan, B. ; Akhmetzhanov, A.R. ; Linton, N.M. Estimation of the asymptomatic ratio of novel coronavirus (2019-nCoV) infections among passengers on evacuation flights. 2020, Available from: https://www.medrxiv.org/content/10.1101/2020.02.03.20020248v1 (accessed on 13 February 2020)",
+        "DOI": "10.1101/2020.02.03.20020248"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chinazzi, M. ; Davis, J.T. ; Ajelli, M. ; Gioannini, C. ; Litvinova, M. ; Merler, S. ; Pastore Y Piontti, A. ; Rossi, L. ; Sun, K. ; Viboud, C. ; et al. The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-nCoV) outbreak; 2020, Available from: https://www.mobs-lab.org/uploads/6/7/8/7/6787877/modeling_travel_limitations_paper.pdf (accessed on 11 February 2020)",
+        "DOI": "10.1101/2020.02.09.20021261"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tian, H. ; Li, Y. ; Liu, Y. ; Kraemer, M.U.G. ; Chen, B. ; Cai, J. ; Li, B. ; Xu, B. ; Yang, Q. ; Yang, P. ; et al. Early evaluation of the Wuhan City travel restrictions in response to the 2019 novel coronavirus outbreak. 2020, Available from: https://www.medrxiv.org/content/10.1101/2020.01.30.20019844v1 (accessed on 11 February 2020)",
+        "DOI": "10.1101/2020.01.30.20019844"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.21",
+        "unstructured": "World Health Organization. Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV), 2020. Available from: https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov) (accessed on 11 February 2020)"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.22",
+        "unstructured": "aBBC NEWS. Coronavirus: US bars foreigners who recently visited China, 2020. Available from: https://www.bbc.com/news/world-us-canada-51335278 (accessed on 11 February 2020)"
+      },
+      {
+        "key": "2020110715000502000_2020.02.14.20022897v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.14.20022897",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:56Z",
+      "timestamp": 1768484036000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.14.20022897"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.14.20022897",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3390/jcm9020601",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

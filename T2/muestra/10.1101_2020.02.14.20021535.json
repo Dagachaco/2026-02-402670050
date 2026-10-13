@@ -1,0 +1,336 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:32:30Z",
+      "timestamp": 1768545150952,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 28,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>A novel pneumonia associated with the 2019 coronavirus infected pneumonia (NCIP) suddenly broke out in Wuhan, China in December 2019. 37287 confirmed cases and 813 death case in China (Until 8th/Feb/2019) have been reported in just fortnight. Although this risky pneumonia with high infection rates and high mortality rates need to be resolved immediately, major gaps in our knowledge of clinical characters of it were still not be established. The aim of this study is to summaries and analysis the clinical characteristics of 2019-nCoV pneumonia.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Literatures have been systematically performed a search on PubMed, Embase, Web of Science, GreyNet International, and The Cochrane Library from inception up to February 8, 2020. The Newcastle-Ottawa Scale was used to assess quality, and publication bias was analyzed by Egger\u2019s test. In the single-arm meta-analysis, A fix-effects model was used to obtain a pooled incidence rate. We conducted subgroup analysis according to geographic region and research scale.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>A total of nine studies including 356 patients were included in this study, the mean age was 52.4 years and 221 (62.1%) were male. The pooled incidences rate of symptoms as follows: pharyngalgia (12.2%, 95% CI: 0.087-0.167), diarrhea (9.2%, 95% CI: 0.062-0.133) and headache (8.9%, 95% CI: 0.063-0.125). Meanwhile, 5.7% (95% CI: 0.027-0.114) of patients were found without any symptoms although they were diagnosed by RT-PCR. In the terms of CT imaging examination, the most of patients showed bilateral mottling or ground-glass opacity, 8.6% (95% CI: 0.048-0.148) of patients with crazy-paving pattern, and 11.5% (95% CI: 0.064-0.197) of patients without obvious CT imaging presentations. The pooled incidence of mortality was 8.9% (95% CI: 0.062-0.126).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>To our knowledge, this is the first evidence-based medicine research to further elaborate the clinical characteristics of NCIP, which is beneficial to the next step of prevention and treatment.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.14.20021535",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2020-02-17T21:45:21Z",
+      "timestamp": 1581975921000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Clinical Characteristics of 2019 Novel Infected Coronavirus Pneumonia: A Systemic Review and Meta-analysis"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Kai",
+        "family": "Qian",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yi",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yong-Hang",
+        "family": "Tai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jun",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hao",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li-Hong",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.2",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020."
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu A , Peng Y , Huang B , et al. Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell Host Microbe. 2020.",
+        "DOI": "10.1016/j.chom.2020.02.001"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep17155"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)14630-2"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jiph.2017.05.003"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Khan S , Ali A , Siddique R , Nabi G. Novel coronavirus is putting the whole world on alert. J Hosp Infect. 2020.",
+        "DOI": "10.1016/j.jhin.2020.01.019"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.06.005"
+      },
+      {
+        "issue": "11",
+        "key": "2020110610551116000_2020.02.14.20021535v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1025",
+        "DOI": "10.1007/s10654-018-0443-3",
+        "article-title": "Case study in major quotation errors: a critical commentary on the Newcastle-Ottawa scale",
+        "volume": "33",
+        "year": "2018",
+        "journal-title": "Eur J Epidemiol"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1258/1355819021927674"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chung M , Bernheim A , Mei X , et al. CT Imaging Features of 2019 Novel Coronavirus 1. (2019-nCoV). Radiology. 2020:200230.",
+        "DOI": "10.1148/radiol.2020200230"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alqahtani FY , Aleanizy FS , Ali El Hadi Mohamed R , et al. Prevalence of comorbidities in cases of Middle East respiratory syndrome coronavirus: a retrospective study. Epidemiol Infect. 2018:1\u20135.",
+        "DOI": "10.1186/s12879-016-2137-3"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-0716-0211-9_12"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40246-018-0185-z"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Holshue ML , DeBolt C , Lindquist S , et al. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med. 2020.",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(13)70204-4"
+      },
+      {
+        "issue": "7",
+        "key": "2020110610551116000_2020.02.14.20021535v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0220126",
+        "DOI": "10.1371/journal.pone.0220126",
+        "article-title": "Increasing the translation of mouse models of MERS coronavirus pathogenesis through kinetic hematological analysis",
+        "volume": "14",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mehy.2008.03.019"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2249.2004.02512.x"
+      },
+      {
+        "issue": "5",
+        "key": "2020110610551116000_2020.02.14.20021535v1.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1083",
+        "DOI": "10.1016/j.ejrad.2011.02.050",
+        "article-title": "Comparison of initial high resolution computed tomography features in viral pneumonia between metapneumovirus infection and severe acute respiratory syndrome",
+        "volume": "81",
+        "year": "2012",
+        "journal-title": "Eur J Radiol"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nkengasong J. China\u2019s response to a novel coronavirus stands in stark contrast to the 2002 SARS outbreak response. Nat Med. 2020.",
+        "DOI": "10.1038/s41591-020-0816-5"
+      },
+      {
+        "issue": "1",
+        "key": "2020110610551116000_2020.02.14.20021535v1.24",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1919325",
+        "DOI": "10.1001/jamanetworkopen.2019.19325",
+        "article-title": "Limitations of Meta-analyses of Studies With High Heterogeneity",
+        "volume": "3",
+        "year": "2020",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.25",
+        "unstructured": "Ren LL , Wang YM , Wu ZQ , et al. Identification of a novel coronavirus causing severe pneumonia in human: a descriptive study. Chin Med J (Engl). 2020."
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chang , Lin M , Wei L , et al. Epidemiologic and Clinical Characteristics of Novel Coronavirus Infections Involving 13 Patients Outside Wuhan, China. JAMA. 2020.",
+        "DOI": "10.1001/jama.2020.1623"
+      },
+      {
+        "key": "2020110610551116000_2020.02.14.20021535v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.1001-0939.2020.0005"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.14.20021535",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:55Z",
+      "timestamp": 1768484035000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.14.20021535"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "references-count": 28,
+    "URL": "https://doi.org/10.1101/2020.02.14.20021535",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

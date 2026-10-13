@@ -1,0 +1,386 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:40:19Z",
+      "timestamp": 1768549219959,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The recent outbreak of a novel coronavirus SARS-CoV-2 (also known as 2019-nCoV) threatens global health, given serious cause for concern. SARS-CoV-2 is a human-to-human pathogen that caused fever, severe respiratory disease and pneumonia (known as COVID-19). By press time, more than 70,000 infected people had been confirmed worldwide. SARS-CoV-2 is very similar to the severe acute respiratory syndrome (SARS) coronavirus broke out 17 years ago. However, it has increased transmissibility as compared with the SARS-CoV, e.g. very often infected individuals without any symptoms could still transfer the virus to others. It is thus urgent to develop a rapid, accurate and onsite diagnosis methods in order to effectively identify these early infects, treat them on time and control the disease spreading. Here we developed an isothermal LAMP based method-iLACO (\n                  <jats:italic>i</jats:italic>\n                  sothermal\n                  <jats:underline>LA</jats:underline>\n                  MP based method for\n                  <jats:underline>CO</jats:underline>\n                  VID-19) to amplify a fragment of the ORF1ab gene using 6 primers. We assured the species-specificity of iLACO by comparing the sequences of 11 related viruses by BLAST (including 7 similar coronaviruses, 2 influenza viruses and 2 normal coronaviruses). The sensitivity is comparable to Taqman based qPCR detection method, detecting synthesized RNA equivalent to 10 copies of 2019-nCoV virus. Reaction time varied from 15-40 minutes, depending on the loading of virus in the collected samples. The accuracy, simplicity and versatility of the new developed method suggests that iLACO assays can be conveniently applied with for 2019-nCoV threat control, even in those cases where specialized molecular biology equipment is not available.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.20.20025874",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T21:15:17Z",
+      "timestamp": 1582578917000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 74,
+    "title": [
+      "Rapid colorimetric detection of COVID-19 coronavirus using a reverse transcriptional loop-mediated isothermal amplification (RT-LAMP) diagnostic platform: iLACO"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Lin",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shanshan",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0175-1186",
+        "authenticated-orcid": false,
+        "given": "Xiaowen",
+        "family": "Hao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuelong",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiyang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shenglong",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Heng",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xue",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xin",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiyao",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Na",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianmin",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wanzhong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Vicent",
+        "family": "Pelechano",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5160-4398",
+        "authenticated-orcid": false,
+        "given": "Wei-Hua",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiushan",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "issue": "1",
+        "key": "2020110811500954000_2020.02.20.20025874v1.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1080/22221751.2020.1729071",
+        "article-title": "Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Emerging microbes & infections"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu Y , Gayle AA , Wilder-Smith A , Rockl\u00f6v J. The reproductive number of COVID-19 is higher compared to SARS coronavirus. Journal of Travel Medicine. 2020.",
+        "DOI": "10.1093/jtm/taaa021"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/423114a"
+      },
+      {
+        "issue": "49",
+        "key": "2020110811500954000_2020.02.20.20025874v1.4",
+        "first-page": "20334",
+        "article-title": "Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections",
+        "volume": "17",
+        "year": "2012",
+        "journal-title": "Euro Surveill"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "issue": "16",
+        "key": "2020110811500954000_2020.02.20.20025874v1.6",
+        "first-page": "20461",
+        "article-title": "Specific detection by real-time reverse-transcription PCR assays of a novel avian influenza A(H7N9) strain associated with human spillover infections in China",
+        "volume": "18",
+        "year": "2013",
+        "journal-title": "Euro Surveill"
+      },
+      {
+        "issue": "39",
+        "key": "2020110811500954000_2020.02.20.20025874v1.7",
+        "first-page": "20285",
+        "article-title": "Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction",
+        "volume": "17",
+        "year": "2012",
+        "journal-title": "Euro Surveill"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1503.081104"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2471/BLT.16.175950"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-107917.ES.2020.25.3.2000045"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/28.12.e63"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/mcpr.2002.0415"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.01734-06"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.01487-06"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.01188-08"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-13-387"
+      },
+      {
+        "issue": "5",
+        "key": "2020110811500954000_2020.02.20.20025874v1.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1111/j.1348-0421.2006.tb03804.x",
+        "article-title": "Rapid detection and quantification of Japanese encephalitis virus by real-time reverse transcription loop-mediated isothermal amplification",
+        "volume": "50",
+        "year": "2006",
+        "journal-title": "Microbiol Immunol"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2144/000114253"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-13-134"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkt282"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "113675",
+        "DOI": "10.1016/j.jviromet.2019.113675",
+        "article-title": "Ten-minute direct detection of Zika virus in serum samples by RT-LAMP",
+        "volume": "271",
+        "year": "2019",
+        "journal-title": "Journal of Virological Methods"
+      },
+      {
+        "issue": "1",
+        "key": "2020110811500954000_2020.02.20.20025874v1.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1080/22221751.2020.1723441",
+        "article-title": "An emerging coronavirus causing pneumonia outbreak in Wuhan, China: calling for developing therapeutic and prophylactic strategies",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "Emerging Microbes & Infections"
+      },
+      {
+        "key": "2020110811500954000_2020.02.20.20025874v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mimet.2010.03.008"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025874",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:07Z",
+      "timestamp": 1768484047000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025874"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025874",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1093/clinchem/hvaa102",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

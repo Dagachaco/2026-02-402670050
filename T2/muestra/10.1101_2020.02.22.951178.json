@@ -1,0 +1,474 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T19:08:44Z",
+      "timestamp": 1774638524678,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 48,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              27
+            ]
+          ],
+          "date-time": "2020-02-27T00:00:00Z",
+          "timestamp": 1582761600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Coronavirus disease 2019 (COVID-19) is a new emerging human infectious disease caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2, also previously known as 2019-nCoV), originated in Wuhan seafood and animal market, China. Since December 2019, more than 69,000 cases of COVID-19 have been confirmed in China and quickly spreads to other counties. Currently, researchers put their best efforts to identify effective drugs for COVID-19. The neutralizing antibody, which binds to viral capsid in a manner that inhibits cellular entry of virus and uncoating of the genome, is the specific defense against viral invaders. In this study, we investigate to identify neutralizing antibodies that can bind to SARS-CoV-2 Sipke (S) protein and interfere with the interaction between viral S protein and a host receptor by bioinformatic methods. The sequence analysis of S protein showed two major differences in the RBD region of the SARS-CoV-2 S protein compared to SARS-CoV and SARS-CoV related bat viruses (btSARS-CoV). The insertion regions were close to interacting residues with the human ACE2 receptor. Epitope analysis of neutralizing antibodies revealed that SARS-CoV neutralizing antibodies used conformational epitopes, whereas MERS-CoV neutralizing antibodies used a common linear epitope region, which contributes to form the \u03b2-sheet structure in MERS-CoV S protein and deleted in SARS-CoV-2 S protein. To identify effective neutralizing antibodies for SARS-CoV-2, the binding affinities of neutralizing antibodies with SARS-CoV-2 S protein were predicted and compared by antibody-antigen docking simulation. The result showed that CR3022 neutralizing antibody from human may have higher binding affinity with SARS-CoV-2 S protein than SARS-CoV S protein. We also found that F26G19 and D12 mouse antibodies could bind to SARS-CoV S protein with high affinity. Our findings provide crucial clues towards the development of antigen diagnosis, therapeutic antibody, and the vaccine against SARS-CoV-2.</jats:p>",
+    "DOI": "10.1101/2020.02.22.951178",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T18:25:10Z",
+      "timestamp": 1582827910000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 24,
+    "title": [
+      "Spike protein binding prediction with neutralizing antibodies of SARS-CoV-2"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Tamina",
+        "family": "Park",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Sang-Yeop",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Seil",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mi Jeong",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hong Gi",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sangmi",
+        "family": "Jun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Seung Il",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bum Tae",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Edmond Changkyun",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9452-5849",
+        "authenticated-orcid": false,
+        "given": "Daeui",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li G , Fan Y , Lai Y , Han T , Li Z , Zhou P , Pan P , Wang W , Hu D , Liu X et al: Coronavirus infections and immune responses. J Med Virol 2020.",
+        "DOI": "10.1002/jmv.25685"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.2",
+        "unstructured": "Summary of probable SARS cases with onset of illness form 1 November 2002 to 31 July 2003 [https://www.who.int/csr/sars/country/table2004_04_21/en/]"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.3",
+        "unstructured": "MERS situation update. November 2019 [https://www.who.int/emergencies/mers-cov/en/]"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.4",
+        "unstructured": "Novel Coronavirus (2019-nCoV) Situation Report-1 (21 January 2020) [https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf?sfvrsn=20a99c10_4]"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fan Wu , Su Zhao , Bin Yu , Yan-Mei Chen , Wen Wang , Yi Hu , Zhi-Gang Song , Zhao-Wu Tao , Jun-Hua Tian , Yuan-Yuan Pei et al: Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China. In: BioRxiv. 2020.",
+        "DOI": "10.1101/2020.01.24.919183"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alexander E. Gorbalenya , Susan C. Baker , Ralph S. Baric , Raoul J. de Groot , Christian Drosten , Anastasia A. Gulyaeva , Bart L. Haagmans , Chris Lauber , Andrey M Leontovich , Benjamin W. Neuman , et al: Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group. In: BioRxiv. 2020.",
+        "DOI": "10.1101/2020.02.07.937862"
+      },
+      {
+        "issue": "5",
+        "key": "2024080321105128000_2020.02.22.951178v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0216604",
+        "DOI": "10.1371/journal.pone.0216604",
+        "article-title": "Short chain fatty acids enriched fermentation metabolites of soluble dietary fibre from Musa paradisiaca drives HT29 colon cancer cells to apoptosis",
+        "volume": "14",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y , Zhang L , Fan G , Xu J , Gu X et al: Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen N , Zhou M , Dong X , Qu J , Gong F , Han Y , Qiu Y , Wang J , Liu Y , Wei Y et al: Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020.",
+        "DOI": "10.2139/ssrn.3523861"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.10",
+        "unstructured": "Coronavirus disease 2019 (COVID-19) Situation Report \u2013 24 (13 February 2020) [https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200213-sitrep-24-covid-19.pdf?sfvrsn=9a7406a4_4]"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu R , Zhao X , Li J , Niu P , Yang B , Wu H , Wang W , Song H , Huang B , Zhu N et al: Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.13",
+        "unstructured": "Zhou P , Yang XL , Wang XG , Hu B , Zhang L , Zhang W , Si HR , Zhu Y , Li B , Huang CL et al: A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020."
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiaolong Tian , Cheng Li , Ailing Huang , Shuai Xia , Sicong Lu , Zhengli Shi , Lu Lu , Shibo Jiang , Zhenlin Yang , Yanling Wu et al: Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody. In: BioRxiv. 2020.",
+        "DOI": "10.1101/2020.01.28.923011"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wrapp D , Wang N , Corbett KS , Goldsmith JA , Hsieh CL , Abiona O , Graham BS , McLellan JS : Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science 2020.",
+        "DOI": "10.1101/2020.02.11.944462"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wan Y , Shang J , Graham R , Baric RS , Li F : Receptor recognition by novel coronavirus from Wuhan: An analysis based on decade-long structural studies of SARS. J Virol 2020.",
+        "DOI": "10.1128/JVI.00127-20"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/rmv.706"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Han HJ , Liu JW , Yu H , Yu XJ : Neutralizing Monoclonal Antibodies as Promising Therapeutics against Middle East Respiratory Syndrome Coronavirus Infection. Viruses 2018, 10(12).",
+        "DOI": "10.3390/v10120680"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shu Y , McCauley J : GISAID: Global initiative on sharing all influenza data - from vision to reality. Euro Surveill 2017, 22(13).",
+        "DOI": "10.2807/1560-7917.ES.2017.22.13.30494"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v4113209"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msy096"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.molbev.a040454"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF01734359"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/sysbio/20.4.406"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jukes TH , Cantor CR : Evolution of protein molecules. In: Mammalian Protein Metabolism. Edited by Munro H : Academic Press, New York; 1969: 21\u2013132.",
+        "DOI": "10.1016/B978-1-4832-3211-9.50009-7"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2408678"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gki370"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku340"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-7-339"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.0030237"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-381270-4.00019-6"
+      },
+      {
+        "issue": "2",
+        "key": "2024080321105128000_2020.02.22.951178v1.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "401",
+        "DOI": "10.1038/nprot.2016.180",
+        "article-title": "Modeling and docking of antibody structures with Rosetta",
+        "volume": "12",
+        "year": "2017",
+        "journal-title": "Nat Protoc"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1000644"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tengs T , Jonassen CM : Distribution and Evolutionary History of the Mobile Genetic Element s2m in Coronaviruses. Diseases 2016, 4(3).",
+        "DOI": "10.3390/diseases4030027"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M111.325803"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12711"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/cr.2013.92"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Qiang Huang , Herrmann A : Fast assessment of human receptor-binding capability of 2019 novel coronavirus (2019-nCoV). In: BioRxiv. 2020.",
+        "DOI": "10.1101/2020.02.01.930537"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0701000104"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M603275200"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2018.12.028"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2009.03.042"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang L , Shi W , Chappell JD , Joyce MG , Zhang Y , Kanekiyo M , Becker MM , van Doremalen N , Fischer R , Wang N et al: Importance of Neutralizing Monoclonal Antibodies Targeting Multiple Antigenic Sites on the Middle East Respiratory Syndrome Coronavirus Spike Glycoprotein To Avoid Neutralization Escape. J Virol 2018, 92(10).",
+        "DOI": "10.1128/JVI.02002-17"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "13133",
+        "DOI": "10.1038/srep13133",
+        "article-title": "Structural basis for the neutralization of MERS-CoV by a human monoclonal antibody MERS-27",
+        "volume": "5",
+        "year": "2015",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms9223"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jix209"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/cr.2015.113"
+      },
+      {
+        "key": "2024080321105128000_2020.02.22.951178v1.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms8712"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.22.951178",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:03:56Z",
+      "timestamp": 1768435436000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.22.951178"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "references-count": 48,
+    "URL": "https://doi.org/10.1101/2020.02.22.951178",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:39:51Z",
+      "timestamp": 1768549191845,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The 2019-nCoV is reported to share the same entry (ACE2) as SARS-CoV according to the updated findings. Analyzing the distribution and expression level of the route of coronavirus may help reveal underlying mechanisms of viral susceptibility and post-infection modulation. In this study, we found that the expression of ACE2 in healthy populations and patients with underlying diseases was not significantly different, suggesting relatively similar susceptibility. Besides, based on the expression of ACE2 in smoking individuals, we inferred that long-term smoking might be a risk factor for 2019-nCoV. Analyzing the ACE2 in SARS-CoV infected cells suggested that ACE2 was more than just a receptor but also participated in post-infection regulation, including immune response, cytokine secretion, and viral genome replication. Moreover, we also constructed Protein-protein interaction (PPI) networks and identified hub genes in viral activity and cytokine secretion. Our findings may explain the clinical symptoms so far and help clinicians and researchers understand the pathogenesis and design therapeutic strategies for 2019-nCoV.</jats:p>",
+    "DOI": "10.1101/2020.02.03.20020206",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T18:15:14Z",
+      "timestamp": 1580926514000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Integrative Bioinformatics Analysis Provides Insight into the Molecular Mechanisms of 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Xiang",
+        "family": "He",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qin",
+        "family": "Ran",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Junyi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Anying",
+        "family": "Xiong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dehong",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Feng",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guoping",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. 2020.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu F , Zhao S , Yu B , Chen Y-M , Wang W , Hu Y , et al. Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China. bioRxiv. 2020:2020.01.24.919183.",
+        "DOI": "10.1101/2020.01.24.919183"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dong N , Yang X , Ye L , Chen K , Chan EW-C , Yang M , et al. Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China. bioRxiv. 2020:2020.01.20.913368.",
+        "DOI": "10.1101/2020.01.20.913368"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou P , Yang X-L , Wang X-G , Hu B , Zhang L , Zhang W , et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv. 2020:2020.01.22.914952.",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2007.04.035"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.2067"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rockx B , Baas T , Zornetzer GA , Haagmans B , Sheahan T , Frieman M , et al. Early Upregulation of Acute Respiratory Distress Syndrome-Associated Cytokines Promotes Lethal Disease in an Aged-Mouse Model of Severe Acute Respiratory Syndrome Coronavirus Infection. Journal of Virology.83(14):07062\u201374.",
+        "DOI": "10.1128/JVI.00127-09"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fischer DD , Kandasamy S , Paim FC , Langel SN , Alhamo MA , Shao L , et al. Protein Malnutrition Alters Tryptophan and Angiotensin-Converting Enzyme 2 Homeostasis and Adaptive Immune Responses in Human Rotavirus-Infected Gnotobiotic Pigs with Human Infant Fecal Microbiota Transplant. 2017.",
+        "DOI": "10.1128/CVI.00172-17"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.9",
+        "unstructured": "C H, Y W, X L, L R, J Z, Y H, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet (London, England). 2020."
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.10",
+        "unstructured": "Jiyoung K , Yeon-Soo K. Effect of HIV-1 Tat on the formation of the mitotic spindle by interaction with ribosomal protein S3. Scientific Reports. 8(1):8680-."
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jang CY , Kim HD , Zhang X , Chang J-S , Kim J. Ribosomal protein S3 localizes on the mitotic spindle and functions as a microtubule associated protein in mitosis. Biochemical & Biophysical Research Communications.429(1-2).",
+        "DOI": "10.1016/j.bbrc.2012.10.093"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/omi.2011.0118"
+      },
+      {
+        "key": "2020110508000803000_2020.02.03.20020206v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.immuni.2013.10.003"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.20020206",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:41Z",
+      "timestamp": 1768484021000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.03.20020206"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2020.02.03.20020206",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

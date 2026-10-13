@@ -1,0 +1,462 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2026-04-03T16:55:29Z",
+      "timestamp": 1775235329232,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 44,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              21
+            ]
+          ],
+          "date-time": "2020-02-21T00:00:00Z",
+          "timestamp": 1582243200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:p>As of early March, 2019-nCoV has infected more than one hundred thousand people and claimed thousands of lives. 2019-nCoV is a novel form of coronavirus that causes COVID-19 and has high similarity with SARS-CoV. No approved vaccine yet exists for any form of coronavirus. Here we use computational tools from structural biology and machine learning to identify 2019-nCoV T-cell and B-cell epitopes based on viral protein antigen presentation and antibody binding properties. These epitopes can be used to develop more effective vaccines and identify neutralizing antibodies. We identified 405 viral peptides with good antigen presentation scores for both human MHC-I and MHC-II alleles, and two potential neutralizing B-cell epitopes near the 2019-nCoV spike protein receptor binding domain (440-460 and 494-506). Analyzing mutation profiles of 68 viral genomes from four continents, we identified 96 coding-change mutations. These mutations are more likely to occur in regions with good MHC-I presentation scores (p=0.02). No mutations are present near the spike protein receptor binding domain. Based on these findings, the spike protein is likely immunogenic and a potential vaccine candidate. We validated our computational pipeline with SARS-CoV experimental data.</jats:p>\n                <jats:sec>\n                  <jats:title>Significance Statement</jats:title>\n                  <jats:p>The novel coronavirus 2019-nCoV has affected more than 100 countries and continues to spread. There is an immediate need for effective vaccines that contain antigens which trigger responses from human T-cells and B-cells (known as epitopes). Here we identify potential T-cell epitopes through an analysis of human antigen presentation, as well as B-cell epitopes through an analysis of protein structure. We identify a list of top candidates, including an epitope located on 2019-nCoV spike protein that potentially triggers both T-cell and B-cell responses. Analyzing 68 samples, we observe that viral mutations are more likely to happen in regions with strong antigen presentation, a potential form of immune evasion. Our computational pipeline is validated with experimental data from SARS-CoV.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.19.955484",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2020-02-21T22:05:20Z",
+      "timestamp": 1582322720000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 64,
+    "title": [
+      "Potential T-cell and B-cell Epitopes of 2019-nCoV"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ethan",
+        "family": "Fast",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3859-2905",
+        "authenticated-orcid": false,
+        "given": "Russ B.",
+        "family": "Altman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2973-2718",
+        "authenticated-orcid": false,
+        "given": "Binbin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "439",
+        "DOI": "10.1038/nrmicro2147",
+        "article-title": "Coronaviruses post-sars: update on replication and pathogenesis",
+        "volume": "7",
+        "year": "2009",
+        "journal-title": "Nat. reviews microbiology"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.2",
+        "unstructured": "WMCR Group,, et al., State of knowledge and data gaps of middle east respiratory syndrome coronavirus (mers-cov) in humans. PLoS currents 5 (2013)."
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.3",
+        "unstructured": "C Huang , et al., Clinical features of patients infected with 2019 novel coronavirus in wuhan, china. The Lancet (2020)."
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.4",
+        "unstructured": "F Wu , et al., A new coronavirus associated with human respiratory disease in china. Nature, 1\u20138 (2020)."
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.5",
+        "unstructured": "P Zhou , et al., A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, 1\u20134 (2020)."
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.6",
+        "unstructured": "World Health Organization report (https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200216-sitrep-27-covid-19.pdf) (Accessed February 2020)."
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2019.01781"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2014.04.016"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "CT Tseng , et al., Immunization with sars coronavirus vaccines leads to pulmonary immunopathology on challenge with the sars virus. PloS one 7 (2012).",
+        "DOI": "10.1371/annotation/2965cfae-b77d-4014-8b7b-236e01a35492"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "eaaw2888",
+        "DOI": "10.1126/scitranslmed.aaw2888",
+        "article-title": "Vaccines and global health: In search of a sustainable model for vaccine development and delivery",
+        "volume": "11",
+        "year": "2019",
+        "journal-title": "Sci. Transl. Medicine"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2007.03.049"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0145-305X(99)00078-6"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2016.08.005"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "SR Pedersen , et al., Immunogenicity of hla class i and ii double restricted influenza a-derived peptides. PloS one 11 (2016).",
+        "DOI": "10.1371/journal.pone.0145629"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1332",
+        "DOI": "10.1038/s41587-019-0280-2",
+        "article-title": "Predicting hla class ii antigen presentation through integrated deep learning",
+        "volume": "37",
+        "year": "2019",
+        "journal-title": "Nat. biotechnology"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.16",
+        "unstructured": "R Lu , et al., Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet (2020)."
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "3360",
+        "DOI": "10.4049/jimmunol.1700893",
+        "article-title": "Netmhcpan-4.0: improved peptide\u2013mhc class i interaction predictions integrating eluted ligand and peptide binding affinity data",
+        "volume": "199",
+        "year": "2017",
+        "journal-title": "The J. Immunol"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D Wrapp , et al., Cryo-em structure of the 2019-ncov spike in the prefusion conformation. Science (2020).",
+        "DOI": "10.1101/2020.02.11.944462"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R Yan , Y Zhang , Y Guo , L Xia , Q Zhou , Structural basis for the recognition of the 2019-ncov by human ace2. bioRxiv (2020).",
+        "DOI": "10.1101/2020.02.19.956946"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J Lan , et al., Crystal structure of the 2019-ncov spike receptor-binding domain bound with the ace2 receptor. bioRxiv (2020).",
+        "DOI": "10.1101/2020.02.19.956235"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "JV Kringelum , C Lundegaard , O Lund , M Nielsen , Reliable b cell epitope predictions: impacts of method development and improved benchmarking. PLoS computational biology 8 (2012).",
+        "DOI": "10.1371/journal.pcbi.1002829"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y Shu , J McCauley , Gisaid: Global initiative on sharing all influenza data\u2013from vision to reality. Eurosurveillance 22 (2017).",
+        "DOI": "10.2807/1560-7917.ES.2017.22.13.30494"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "591",
+        "DOI": "10.4049/jimmunol.175.1.591",
+        "article-title": "Response of memory cd8+ t cells to severe acute respiratory syndrome (sars) coronavirus in recovered sars patients and healthy individuals",
+        "volume": "175",
+        "year": "2005",
+        "journal-title": "The J. Immunol"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.24",
+        "doi-asserted-by": "crossref",
+        "first-page": "2138",
+        "DOI": "10.4049/jimmunol.177.4.2138",
+        "article-title": "Screening and identification of severe acute respiratory syndrome-associated coronavirus-specific ctl epitopes",
+        "volume": "177",
+        "year": "2006",
+        "journal-title": "The J. Immunol"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1016/j.bbrc.2006.03.152",
+        "article-title": "Hla-a* 0201 t-cell epitopes in severe acute respiratory syndrome (sars) coronavirus nucleocapsid and spike proteins",
+        "volume": "344",
+        "year": "2006",
+        "journal-title": "Biochem. biophysical research communications"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "2008",
+        "DOI": "10.1016/j.vaccine.2016.02.063",
+        "article-title": "Memory t cell responses targeting the sars coronavirus persist up to 11 years post-infection",
+        "volume": "34",
+        "year": "2016",
+        "journal-title": "Vaccine"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01505-14"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "929",
+        "DOI": "10.1016/j.bbrc.2004.05.066",
+        "article-title": "Identification of two antigenic epitopes on sars-cov spike protein",
+        "volume": "319",
+        "year": "2004",
+        "journal-title": "Biochem. biophysical research communications"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.1016/j.virol.2006.09.016",
+        "article-title": "Selection of sars-coronavirus-specific b cell epitopes by phage peptide library screening and evaluation of the immunological effect of epitope-based peptides on mice",
+        "volume": "359",
+        "year": "2007",
+        "journal-title": "Virology"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2004.04.017"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1007236"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "TJ Yang , et al., Cryo-em analysis of a feline coronavirus spike protein reveals a unique structure and camouflaging glycans. Proc. Natl. Acad. Sci. (2020).",
+        "DOI": "10.1073/pnas.1908898117"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku938"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00262-014-1551-x"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.35",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1186/1471-2172-10-61",
+        "article-title": "Identification of a novel conserved hla-a* 0201-restricted epitope from the spike protein of sars-cov",
+        "volume": "10",
+        "year": "2009",
+        "journal-title": "BMC immunology"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.36",
+        "doi-asserted-by": "crossref",
+        "first-page": "4050",
+        "DOI": "10.4049/jimmunol.173.6.4050",
+        "article-title": "Identification of immunodominant sites on the spike protein of severe acute respiratory syndrome (sars) coronavirus: implication for developing sars diagnostics and vaccines",
+        "volume": "173",
+        "year": "2004",
+        "journal-title": "The J. Immunol"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.43.8.3718-3726.2005"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.42.11.5309-5314.2004"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jcp.2005.029868"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.40",
+        "doi-asserted-by": "crossref",
+        "first-page": "4790",
+        "DOI": "10.4049/jimmunol.1401689",
+        "article-title": "Uncovering the peptide-binding specificities of hla-c: a general strategy to determine the specificity of any mhc class i molecule",
+        "volume": "193",
+        "year": "2014",
+        "journal-title": "The J. Immunol"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ng.3576"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.42",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1016/j.antiviral.2010.04.006",
+        "article-title": "Analysis of the epitope and neutralizing capacity of human monoclonal antibodies induced by hepatitis b vaccine",
+        "volume": "87",
+        "year": "2010",
+        "journal-title": "Antivir. research"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.43",
+        "first-page": "1",
+        "article-title": "Identification of antigens presented by mhc for vaccines against tuberculosis",
+        "volume": "5",
+        "year": "2020",
+        "journal-title": "npj Vaccines"
+      },
+      {
+        "key": "2024080320450378000_2020.02.19.955484v2.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkg520"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.19.955484",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:02:50Z",
+      "timestamp": 1768435370000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.19.955484"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "references-count": 44,
+    "URL": "https://doi.org/10.1101/2020.02.19.955484",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2026-04-08T16:04:43Z",
+      "timestamp": 1775664283520,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 45,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              11
+            ]
+          ],
+          "date-time": "2020-02-11T00:00:00Z",
+          "timestamp": 1581379200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The present outbreak of lower respiratory tract infections, including respiratory distress syndrome, is the third spillover, in only two decades, of an animal coronavirus to humans resulting in a major epidemic. Here, the Coronavirus Study Group (CSG) of the International Committee on Taxonomy of Viruses, which is responsible for developing the official classification of viruses and taxa naming (taxonomy) of the\n                  <jats:italic>Coronaviridae</jats:italic>\n                  family, assessed the novelty of the human pathogen tentatively named 2019-nCoV. Based on phylogeny, taxonomy and established practice, the CSG formally recognizes this virus as a sister to severe acute respiratory syndrome coronaviruses (SARS-CoVs) of the species\n                  <jats:italic>Severe acute respiratory syndrome-related coronavirus</jats:italic>\n                  and designates it as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). To facilitate communication, the CSG further proposes to use the following naming convention for individual isolates: SARS-CoV-2/Isolate/Host/Date/Location. The spectrum of clinical manifestations associated with SARS-CoV-2 infections in humans remains to be determined. The independent zoonotic transmission of SARS-CoV and SARS-CoV-2 highlights the need for studying the entire (virus) species to complement research focused on individual pathogenic viruses of immediate significance. This research will improve our understanding of virus-host interactions in an ever-changing environment and enhance our preparedness for future outbreaks.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.07.937862",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T15:35:13Z",
+      "timestamp": 1581435313000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 729,
+    "title": [
+      "<i>Severe acute respiratory syndrome-related coronavirus</i>\n                  : The species and its viruses \u2013 a statement of the Coronavirus Study Group"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4967-7341",
+        "authenticated-orcid": false,
+        "given": "Alexander E.",
+        "family": "Gorbalenya",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Susan C.",
+        "family": "Baker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ralph S.",
+        "family": "Baric",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Raoul J.",
+        "family": "de Groot",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Christian",
+        "family": "Drosten",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Anastasia A.",
+        "family": "Gulyaeva",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bart L.",
+        "family": "Haagmans",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chris",
+        "family": "Lauber",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrey M",
+        "family": "Leontovich",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin W.",
+        "family": "Neuman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dmitry",
+        "family": "Penzar",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stanley",
+        "family": "Perlman",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Leo L.M.",
+        "family": "Poon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dmitry",
+        "family": "Samborskiy",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Igor A.",
+        "family": "Sidorov",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Isabel",
+        "family": "Sola",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "John",
+        "family": "Ziebuhr",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00545-13"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2015.03.022"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1000896"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00495-16"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01381-18"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0065-3527(06)66005-3"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro2147"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030781"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13077-2"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(15)60454-8"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.15",
+        "unstructured": "Gorbalenya, A. E. et al. The new scope of virus taxonomy: partitioning the virosphere into 15 hierarchical ranks. Nat Microbiol in press (2020)."
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00705-018-04136-2"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.17",
+        "unstructured": "Ziebuhr, J. et al. Proposal 2017.013S.A.v1. Reorganization of the family Coronaviridae into two families, Coronaviridae (including the current subfamily Coronavirinae and the new subfamily Letovirinae) and the new family Tobaniviridae (accommodating the current subfamily Torovirinae and three other subfamilies), revision of the genus rank structure and introduction of a new subgenus rank. (2017). <https://talk.ictvonline.org/ICTV/proposals/2017.013S.A.v1.Nidovirales.zip.>."
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.18",
+        "unstructured": "Ziebuhr, J. et al. Proposal 2019.021S.Ac.v1. Create ten new species and a new genus in the subfamily Orthocoronavirinae of the family Coronaviridae and five new species and a new genus in the subfamily Serpentovirinae of the family Tobaniviridae. (2019). <URL: https://talk.ictvonline.org/ICTV/proposals/2019.021S.A.v1.Nidovirales.zip>."
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.19",
+        "unstructured": "de Groot, R. J. et al. in Virus Taxonomy, Ninth Report of the International Committee on Taxonomy of Viruses (eds A.M.Q. King , M.J. Adams , E.B. Carstens , & E.J. Lefkowitz ) 806\u2013828 (Elsevier Academic Press, 2012)."
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1085952"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-801238-3.99237-7"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.07173-11"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00705-012-1295-x"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MRA.00548-19"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1006698"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2004.1478"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01926-07"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01244-13"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.78.15.7863-7866.2004"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00705-019-04477-6"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.34",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1128/jb.14.4.217-258.1927",
+        "article-title": "FILTERABLE VIRUSES A CRITICAL REVIEW",
+        "volume": "14",
+        "year": "1927",
+        "journal-title": "Journal of Bacteriology"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aap7463"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-virology-092818-015851"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00705-016-3215-y"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/bs.aivir.2018.01.001"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00705-003-0162-1"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkv838"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.07174-11"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/smvy.1996.0046"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2019.03.001"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01953-16"
+      },
+      {
+        "key": "2024080319113273000_2020.02.07.937862v1.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "313",
+        "DOI": "10.1007/BF01310487",
+        "article-title": "The concept of virus species",
+        "volume": "120",
+        "year": "1991",
+        "journal-title": "Arch Virol"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.07.937862",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:22Z",
+      "timestamp": 1768435222000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.07.937862"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 45,
+    "URL": "https://doi.org/10.1101/2020.02.07.937862",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

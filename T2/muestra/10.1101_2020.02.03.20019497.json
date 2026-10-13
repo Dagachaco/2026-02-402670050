@@ -1,0 +1,198 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2026-04-15T13:49:06Z",
+      "timestamp": 1776260946543,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 9,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To estimate the serial interval of novel coronavirus (COVID-19) from information on 28 infector-infectee pairs.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    We collected dates of illness onset for primary cases (infectors) and secondary cases (infectees) from published research articles and case investigation reports. We subjectively ranked the credibility of the data and performed analyses on both the full dataset (\n                    <jats:italic>n</jats:italic>\n                    =28) and a subset of pairs with highest certainty in reporting (\n                    <jats:italic>n</jats:italic>\n                    =18). In addition, we adjusting for right truncation of the data as the epidemic is still in its growth phase.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Accounting for right truncation and analyzing all pairs, we estimated the median serial interval at 4.0 days (95% credible interval [CrI]: 3.1, 4.9). Limiting our data to only the most certain pairs, the median serial interval was estimated at 4.6 days (95% CrI: 3.5, 5.9).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>The serial interval of COVID-19 is shorter than its median incubation period. This suggests that a substantial proportion of secondary transmission may occur prior to illness onset. The COVID-19 serial interval is also shorter than the serial interval of severe acute respiratory syndrome (SARS), indicating that calculations made using the SARS serial interval may introduce bias.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Highlights</jats:title>\n                  <jats:list list-type=\"simple\">\n                    <jats:list-item>\n                      <jats:label>-</jats:label>\n                      <jats:p>The serial interval of novel coronavirus (COVID-19) infections was estimated from a total of 28 infector-infectee pairs.</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:label>-</jats:label>\n                      <jats:p>The median serial interval is shorter than the median incubation period, suggesting a substantial proportion of pre-symptomatic transmission.</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:label>-</jats:label>\n                      <jats:p>A short serial interval makes it difficult to trace contacts due to the rapid turnover of case generations.</jats:p>\n                    </jats:list-item>\n                  </jats:list>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.03.20019497",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T15:25:11Z",
+      "timestamp": 1581607511000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 106,
+    "title": [
+      "Serial interval of novel coronavirus (COVID-19) infections"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Hiroshi",
+        "family": "Nishiura",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Natalie M.",
+        "family": "Linton",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrei R.",
+        "family": "Akhmetzhanov",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwg251"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.3659"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.5",
+        "unstructured": "Jung S , Akhmetzhanov AR , Hayashi K , Linton NM , Yang Y , Yuan B , Kobayashi T , Kinoshita R , Nishiura H. Real time estimation of the risk of death from novel coronavirus (2019-nCoV) infection: Inference using exported cases. medRxiv, http://dx.doi.org/10.1101/2020.01.29.20019547v1"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Linton NM , Kobayashi T , Yang Y , Hayashi K , Andrei, AR , Jung S , Yuan B , Kinoshita R , Nishiura H. (2020). Epidemiological characteristics of novel coronavirus infection: A statistical analysis of publicly available case data. medRxiv. http://dx.doi.org/10.1101/2020.01.26.20018754",
+        "DOI": "10.1101/2020.01.26.20018754"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0307506101"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020419"
+      },
+      {
+        "key": "2020110411400697000_2020.02.03.20019497v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2001468"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.20019497",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:41Z",
+      "timestamp": 1768484021000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.03.20019497"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 9,
+    "URL": "https://doi.org/10.1101/2020.02.03.20019497",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.ijid.2020.02.060",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

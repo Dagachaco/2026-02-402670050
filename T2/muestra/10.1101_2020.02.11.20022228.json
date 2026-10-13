@@ -1,0 +1,195 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2026-01-28T21:55:07Z",
+      "timestamp": 1769637307219,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 7,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>A novel coronavirus (2019-nCoV) was first identified in Wuhan, Hubei Province, and then spreads to the other Provinces of China. WHO decides to determine a Public Health Emergency of International Concern (PHEIC) of 2019-nCoV. 2019-nCov was reported to share the same receptor, Angiotensin-converting enzyme 2 (ACE2), with SARS-Cov. Here based on the public single-cell RNA-Seq datasets, we analyzed the ACE2 RNA expression profile in the tissues at different locations of the respiratory tract. The result indicates that the ACE2 expression appears in nasal epithelial cells. We found that the size of this population of ACE2-expressing nasal epithelial cells is comparable with the size of the population of ACE2-expression type II alveolar cells (AT2) in the Asian sample reported by Yu Zhao et al. We further detected 2019-nCoV by polymerase chain reaction (PCR) from the nasal-swab and throat-swab of seven suspected cases. We found that 2019-nCoV tends to have a higher concentration in the nasal-swab comparing to the throat-swab, which could attribute to the ACE2-expressing nasal epithelial cells. We hope this study could be informative for virus-prevention strategy development, especially the treatment of nasal mucus.</jats:p>",
+    "DOI": "10.1101/2020.02.11.20022228",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2020-02-13T14:55:13Z",
+      "timestamp": 1581605713000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 50,
+    "title": [
+      "Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCoV, in the nasal tissue"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Chao",
+        "family": "Wu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shufa",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Min",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110614400490000_2020.02.11.20022228v2.1",
+        "unstructured": "Huang, C.-l. et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet (2020)."
+      },
+      {
+        "key": "2020110614400490000_2020.02.11.20022228v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu, X.-t. et al. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. SCIENCE CHINA Life Sciences 63 (2020)",
+        "DOI": "10.1007/s11427-020-1637-5"
+      },
+      {
+        "key": "2020110614400490000_2020.02.11.20022228v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2020110614400490000_2020.02.11.20022228v2.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hamming, I. et al. Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis. Journal of Pathology 203, 631-637 (2004).",
+        "DOI": "10.1002/path.1570"
+      },
+      {
+        "key": "2020110614400490000_2020.02.11.20022228v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yu Zhao et al., Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov. bioRxiv. January 26, 2020.",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "issue": "7720",
+        "key": "2020110614400490000_2020.02.11.20022228v2.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "649",
+        "DOI": "10.1038/s41586-018-0449-8",
+        "article-title": "Allergic inflammatory memory in human respiratory epithelial progenitor cells",
+        "volume": "560",
+        "year": "2018",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2020110614400490000_2020.02.11.20022228v2.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ruiz Garcia S et al., Novel dynamics of human mucociliary differentiation revealed by single-cell RNA sequencing of nasal epithelial cultures. Development. 2019 Oct 23;146(20).",
+        "DOI": "10.1242/dev.177428"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.11.20022228",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:52Z",
+      "timestamp": 1768484032000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.11.20022228"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "references-count": 7,
+    "URL": "https://doi.org/10.1101/2020.02.11.20022228",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

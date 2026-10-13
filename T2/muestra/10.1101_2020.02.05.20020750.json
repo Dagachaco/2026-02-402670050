@@ -1,0 +1,336 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2026-03-16T12:57:56Z",
+      "timestamp": 1773665876282,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          6
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 18,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          24
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>COVID-19 epidemic doubling time by Chinese province was increasing from January 20 through February 9, 2020. The harmonic mean of the arithmetic mean doubling time estimates ranged from 1.4 (Hunan, 95% CI, 1.2-2.0) to 3.1 (Xinjiang, 95% CI, 2.1-4.8), with an estimate of 2.5 days (95% CI, 2.4-2.6) for Hubei.</jats:p>",
+    "DOI": "10.1101/2020.02.05.20020750",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2020-02-06T18:15:13Z",
+      "timestamp": 1581012913000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": [
+      "Doubling Time of the COVID-19 Epidemic by Chinese Province"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4786-9438",
+        "authenticated-orcid": false,
+        "given": "Kamalich",
+        "family": "Muniz-Rodriguez",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2194-2251",
+        "authenticated-orcid": false,
+        "given": "Gerardo",
+        "family": "Chowell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chi-Hin",
+        "family": "Cheung",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1962-6858",
+        "authenticated-orcid": false,
+        "given": "Dongyu",
+        "family": "Jia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Po-Ying",
+        "family": "Lai",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9751-7211",
+        "authenticated-orcid": false,
+        "given": "Yiseul",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Manyun",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9961-9975",
+        "authenticated-orcid": false,
+        "given": "Sylvia K.",
+        "family": "Ofori",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1169-7125",
+        "authenticated-orcid": false,
+        "given": "Kimberlyn M.",
+        "family": "Roosa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1535-8526",
+        "authenticated-orcid": false,
+        "given": "Lone",
+        "family": "Simonsen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3243-4711",
+        "authenticated-orcid": false,
+        "given": "Cecile",
+        "family": "Viboud",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5496-2529",
+        "authenticated-orcid": false,
+        "given": "Isaac Chun-Hai",
+        "family": "Fung",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anderson RM , May RM . Infectious diseases of humans. Oxford: Oxford University Press; 1991.",
+        "DOI": "10.1093/oso/9780198545996.001.0001"
+      },
+      {
+        "issue": "8",
+        "key": "2020113013451215000_2020.02.05.20020750v5.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1447",
+        "DOI": "10.3201/eid2108.141613",
+        "article-title": "Transmission Models of Historical Ebola Outbreaks",
+        "volume": "21",
+        "year": "2015",
+        "journal-title": "Emerging Infectious Disease journal"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.3",
+        "unstructured": "Vynnycky E , White RG . An Introduction to Infectious Disease Modelling. Oxford: Oxford University Press; 2010."
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Muniz-Rodriguez K , Fung IC-H , Ferdosi SR , Ofori SK , Lee Y , Tariq A , et al. Transmission potential of SARS-CoV-2 in Iran, 2020. Emerging Infectious Disease journal. 2020;26(8):DOI: https://doi.org/10.3201/eid2608.200536.",
+        "DOI": "10.3201/eid2608.200536"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "issue": "5",
+        "key": "2020113013451215000_2020.02.05.20020750v5.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1049",
+        "DOI": "10.3201/eid2605.200146",
+        "article-title": "Risk for Transportation of Coronavirus Disease from Wuhan to Other Cities in China",
+        "volume": "26",
+        "year": "2020",
+        "journal-title": "Emerging Infectious Disease journal"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.8",
+        "unstructured": "Volz E , Baguelin M , Bhatia S , Boonyasiri A , Cori A , Cucunub\u00e1 Z , et al. Report 5: Phylogenetic analysis of SARS-CoV-2. 2020 [cited Apr 15, 2020]; Available from: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-phylogenetics-15-02-2020.pdf"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.9",
+        "unstructured": "Fang G , Li S , Liu Y , Xin N , Ma K. People beyond the statistics: Died of \u201cnormal pneumonia\u201d? [\u7edf\u8ba1\u6570\u5b57\u4e4b\u5916\u7684\u4eba:\u4ed6\u4eec\u6b7b\u4e8e \u201c\u666e\u901a\u80ba\u708e\u201d?]. Caijing Zachi [\u8d22\u7ecf\u6742\u5fd7] (Finance and Ecomomics Magazine) 2020 [cited Feb 13, 2020]; Available from: https://web.archive.org/web/20200213190623/ http://www.sohu.com/a/370032279_120094087"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anderson RM , May RM . Infectious diseases of humans. Oxford: Oxford University Press; 1991.",
+        "DOI": "10.1093/oso/9780198545996.001.0001"
+      },
+      {
+        "issue": "8",
+        "key": "2020113013451215000_2020.02.05.20020750v5.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1447",
+        "DOI": "10.3201/eid2108.141613",
+        "article-title": "Transmission Models of Historical Ebola Outbreaks",
+        "volume": "21",
+        "year": "2015",
+        "journal-title": "Emerging Infectious Disease journal"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.12",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. 2020 [cited Feb 2, 2020]; Available from: http://www.nhc.gov.cn/"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.13",
+        "unstructured": "Centre for Health Protection, Department of Health, The Government for the Hong Kong Special Administrative Region. 2020 [cited Feb 2, 2020]; Available from: https://www.chp.gov.hk/en/index.html"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.14",
+        "unstructured": "John Hopkins University Center for Systems Science and Engineering. 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE. 2020 [cited Feb 13, 2020]; Available from: https://github.com/CSSEGISandData/COVID-19"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Banks HT , Hu S , Thompson WC . Modeling and inverse problems in the presence of uncertainty: CRC Press; 2014.",
+        "DOI": "10.1201/b16760"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtbi.2005.11.026"
+      },
+      {
+        "issue": "11",
+        "key": "2020113013451215000_2020.02.05.20020750v5.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1840",
+        "DOI": "10.1002/sim.2352",
+        "article-title": "Modelling the transmission dynamics of acute haemorrhagic conjunctivitis: application to the 2003 outbreak in Mexico",
+        "volume": "25",
+        "year": "2006",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2020113013451215000_2020.02.05.20020750v5.18",
+        "unstructured": "Vynnycky E , White RG . An Introduction to Infectious Disease Modelling. Oxford: Oxford University Press; 2010."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.05.20020750",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:45Z",
+      "timestamp": 1768484025000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.05.20020750"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          6
+        ]
+      ]
+    },
+    "references-count": 18,
+    "URL": "https://doi.org/10.1101/2020.02.05.20020750",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.3201/eid2608.200219",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          6
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T10:25:22Z",
+      "timestamp": 1772706322186,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 10,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  The novel coronavirus (2019-nCoV) appeared in Wuhan in late 2019 have infected 34,598 people, and killed 723 among them until 8\n                  <jats:sup>th</jats:sup>\n                  February 2020. The new virus has spread to at least 316 cities (until 1\n                  <jats:sup>st</jats:sup>\n                  February 2020) in China. We used the traffic flow data from Baidu Map, and number of air passengers who left Wuhan from 1\n                  <jats:sup>st</jats:sup>\n                  January to 26\n                  <jats:sup>th</jats:sup>\n                  January, to quantify the potential infectious people. We developed multiple linear models with local population and air passengers as predicted variables to explain the variance of confirmed cases in every city across China. We found the contribution of air passengers from Wuhan was decreasing gradually, but the effect of local population was increasing, indicating the trend of local transmission. However, the increase of local transmission is slow during the early stage of novel coronavirus, due to the super strict control measures carried out by government agents and communities.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.07.20021196",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T16:05:20Z",
+      "timestamp": 1581437120000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Tracking the spread of novel coronavirus (2019-nCoV) based on big data"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Xumao",
+        "family": "Zhao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xiang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4514-0149",
+        "authenticated-orcid": false,
+        "given": "Xinhai",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.1",
+        "unstructured": "Dingxiangyuan: https://ncov.dxy.cn/ncovh5/view/pneumonia_peopleapp?scene=126&clicktime=1579832412&from=timeline&isappinstalled=0"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guo Q , Li M , Wang C , Wang P , Fang Z , Tian J , Wu S , Xiao Y , Zhu H. Host and infectivity prediction of Wuhan 2019 novel coronavirus using deep learning algorithm. 2020, bioRxiv. http://dx.doi.org/10.1101/2020.01.21.914044",
+        "DOI": "10.1101/2020.01.21.914044"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riou J , Althaus CL . Pattern of early human-to-human transmission of Wuhan 2019-nCoV. 2020, bioRxiv. http://dx.doi.org/10.1101/2020.01.23.917351",
+        "DOI": "10.1101/2020.01.23.917351"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JRE , Cummings DAT , Ho A , Jewell C. Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. 2020, medRxiv.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.5",
+        "unstructured": "Baidu Map Huiyan platform: https://qianxi.baidu.com/?city=420100 (in Chinese)"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.6",
+        "unstructured": "Aviationtalk : https://mp.weixin.qq.com/s/7ynWYxB-s7nfz7rmjBLSpQ (in Chinese)"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , Li X , Yang B , Song J , Zhao X , Huang B , Shi W , Lu R , Niu P , Zhan F. A novel coronavirus from patients with pneumonia in China, 2019. 2020, New England Journal of Medicine. DOI: 10.1056/NEJMoa2001017.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.8",
+        "unstructured": "China news : http://www.chinanews.com/gn/2020/01-25/9069668.shtml (in Chinese)"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.9",
+        "unstructured": "Xinhua net: http://www.xinhuanet.com/2020-01/26/c_1125503530.htm (in Chinese)"
+      },
+      {
+        "key": "2020110611100587000_2020.02.07.20021196v1.10",
+        "unstructured": "Close contactor detection tool: http://2019ncov.nosugartech.com/?from=timeline&isappinstalled=0 (in Chinese)"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.07.20021196",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:47Z",
+      "timestamp": 1768484027000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.07.20021196"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 10,
+    "URL": "https://doi.org/10.1101/2020.02.07.20021196",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

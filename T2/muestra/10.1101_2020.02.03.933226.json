@@ -1,0 +1,384 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2026-02-10T20:03:49Z",
+      "timestamp": 1770753829326,
+      "version": "3.50.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 33,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              4
+            ]
+          ],
+          "date-time": "2020-02-04T00:00:00Z",
+          "timestamp": 1580774400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The beginning of 2020 has seen the emergence of COVID-19 outbreak caused by a novel coronavirus, Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). There is an imminent need to better understand this new virus and to develop ways to control its spread. In this study, we sought to gain insights for vaccine design against SARS-CoV-2 by considering the high genetic similarity between SARS-CoV-2 and SARS-CoV, which caused the outbreak in 2003, and leveraging existing immunological studies of SARS-CoV. By screening the experimentally-determined SARS-CoV-derived B cell and T cell epitopes in the immunogenic structural proteins of SARS-CoV, we identified a set of B cell and T cell epitopes derived from the spike (S) and nucleocapsid (N) proteins that map identically to SARS-CoV-2 proteins. As no mutation has been observed in these identified epitopes among the available SARS-CoV-2 sequences (as of 9 February 2020), immune targeting of these epitopes may potentially offer protection against this novel virus. For the T cell epitopes, we performed a population coverage analysis of the associated MHC alleles and proposed a set of epitopes that is estimated to provide broad coverage globally, as well as in China. Our findings provide a screened set of epitopes that can help guide experimental efforts towards the development of vaccines against SARS-CoV-2.</jats:p>",
+    "DOI": "10.1101/2020.02.03.933226",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2020-02-04T22:45:15Z",
+      "timestamp": 1580856315000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 142,
+    "title": [
+      "Preliminary identification of potential vaccine targets for the COVID-19 coronavirus (SARS-CoV-2) based on SARS-CoV immunological studies"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6086-0307",
+        "authenticated-orcid": false,
+        "given": "Syed Faraz",
+        "family": "Ahmed",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5295-9067",
+        "authenticated-orcid": false,
+        "given": "Ahmed A.",
+        "family": "Quadeer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8086-2545",
+        "authenticated-orcid": false,
+        "given": "Matthew R.",
+        "family": "McKay",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "issue": "20",
+        "key": "2024080318451000000_2020.02.03.933226v4.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "3884",
+        "DOI": "10.1093/bioinformatics/btz524",
+        "article-title": "Sub-dominant principal components inform new vaccine targets for HIV Gag",
+        "volume": "35",
+        "year": "2019",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.2",
+        "unstructured": "Centers-of-Disease-Control-and-Prevention. (2020). Confirmed 2019-nCoV cases globally. Retrieved January 31, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/locations-confirmed-cases.html"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01505-14"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1105315108"
+      },
+      {
+        "issue": "12",
+        "key": "2024080318451000000_2020.02.03.933226v4.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "e525",
+        "DOI": "10.1371/journal.pmed.0030525",
+        "article-title": "Vaccine efficacy in senescent mice challenged with recombinant SARS-CoV bearing epidemic and zoonotic spike variants",
+        "volume": "3",
+        "year": "2006",
+        "journal-title": "PLoS Medicine"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00705-009-0409-6"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm.2972"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heymann, D. L. (2020). Data sharing and outbreaks: best practice exemplified. The Lancet. https://doi.org/10.1016/S0140-6736(20)30184-7",
+        "DOI": "10.1016/S0140-6736(20)30184-7"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoffmann, M. , Kleine-Weber, H. , Kruger, N. , Muller, M. , Drosten, C. , & Pohlmann, S. (2020). The novel coronavirus 2019 (2019-nCoV) uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells. BioRxiv 2020.01.31.929042. https://doi.org/10.1101/2020.01.31.929042",
+        "DOI": "10.1101/2020.01.31.929042"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang, C. , Wang, Y. , Li, X. , Ren, L. , Zhao, J. , Hu, Y. , \u2026 Cao, B. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. https://doi.org/10.1016/S0140-6736(20)30183-5",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/mst010"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Letko, M. , & Munster, V. (2020). Functional assessment of cell entry and receptor usage for lineage B \u03b2- coronaviruses, including 2019-nCoV. BioRxiv 2020.01.22.915660. https://doi.org/10.1101/2020.01.22.915660",
+        "DOI": "10.1101/2020.01.22.915660"
+      },
+      {
+        "issue": "8",
+        "key": "2024080318451000000_2020.02.03.933226v4.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "5490",
+        "DOI": "10.4049/jimmunol.181.8.5490",
+        "article-title": "T cell responses to whole SARS coronavirus in humans",
+        "volume": "181",
+        "year": "2008",
+        "journal-title": "The Journal of Immunology"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.cr.7290158"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.1016/j.antiviral.2016.11.006",
+        "article-title": "T-cell immunity of SARS-CoV: Implications for vaccine development against MERS-CoV",
+        "volume": "137",
+        "year": "2017",
+        "journal-title": "Antiviral Research"
+      },
+      {
+        "issue": "1",
+        "key": "2024080318451000000_2020.02.03.933226v4.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1128/CDLI.11.1.227-228.2004",
+        "article-title": "Profile of antibodies to the nucleocapsid protein of the severe acute respiratory syndrome (SARS)-associated coronavirus in probable SARS patients",
+        "volume": "11",
+        "year": "2004",
+        "journal-title": "Clinical and Vaccine Immunology"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu, Xin , & Wang, X.-J. (2020). Potential inhibitors for 2019-nCoV coronavirus M protease from clinically approved medicines. BioRxiv2020.01.29.924100. https://doi.org/10.1101/2020.01.29.924100",
+        "DOI": "10.1101/2020.01.29.924100"
+      },
+      {
+        "issue": "20",
+        "key": "2024080318451000000_2020.02.03.933226v4.19",
+        "first-page": "1",
+        "article-title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+        "volume": "6736",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/cmb.2014.0156"
+      },
+      {
+        "issue": "17",
+        "key": "2024080318451000000_2020.02.03.933226v4.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "2008",
+        "DOI": "10.1016/j.vaccine.2016.02.063",
+        "article-title": "Memory T cell responses targeting the SARS coronavirus persist up to 11 years post-infection",
+        "volume": "34",
+        "year": "2016",
+        "journal-title": "Vaccine"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2006.03.036"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkr859"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.03812-13"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ramaiah, A. , & Arumugaswami, V. (2020). Insights into cross-species evolution of novel human coronavirus 2019-nCoV and defining immune determinants for vaccine development. BioRxiv 2020.01.29.925867. https://doi.org/10.1101/2020.01.29.925867",
+        "DOI": "10.1101/2020.01.29.925867"
+      },
+      {
+        "issue": "12",
+        "key": "2024080318451000000_2020.02.03.933226v4.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "7264",
+        "DOI": "10.4049/jimmunol.0903490",
+        "article-title": "Lack of peripheral memory B cell responses in recovered patients with severe acute respiratory syndrome: A six-year follow-up study",
+        "volume": "186",
+        "year": "2011",
+        "journal-title": "The Journal of Immunology"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky1006"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, C. , Horby, P. W. , Hayden, F. G. , & Gao, G. F. (2020). A novel coronavirus outbreak of global health concern. The Lancet. https://doi.org/10.1016/S0140-6736(20)30185-9",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1373/clinchem.2003.023184"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.30",
+        "unstructured": "World-Health-Organization. (2020a). Statement on the meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). Retrieved January 31, 2020, from https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.31",
+        "unstructured": "World-Health-Organization. (2020b). Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). Retrieved January 31, 2020, from https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02463"
+      },
+      {
+        "key": "2024080318451000000_2020.02.03.933226v4.33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou, P. , Yang, X.-L. , Wang, X.-G. , Hu, B. , Zhang, L. , Zhang, W. , \u2026 Shi, Z.-L. (2020). A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, https://doi.org/10.1038/s41586-020-2012-7",
+        "DOI": "10.1038/s41586-020-2012-7"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.933226",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:59:18Z",
+      "timestamp": 1768435158000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.03.933226"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 33,
+    "URL": "https://doi.org/10.1101/2020.02.03.933226",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

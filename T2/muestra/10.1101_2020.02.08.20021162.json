@@ -1,0 +1,427 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:31:53Z",
+      "timestamp": 1768545113570,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Public and Global Health",
+    "reference-count": 33,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>To assess the viability of isolation and contact tracing to control onwards transmission from imported cases of 2019-nCoV.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>\n                    We developed a stochastic transmission model, parameterised to the 2019-nCoV outbreak. We used the model to quantify the potential effectiveness of contact tracing and isolation of cases at controlling a 2019 nCoV-like pathogen. We considered scenarios that varied in: the number of initial cases; the basic reproduction number\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>0</jats:italic>\n                    </jats:sub>\n                    ; the delay from symptom onset to isolation; the probability contacts were traced; the proportion of transmission that occurred before symptom onset, and the proportion of subclinical infections. We assumed isolation prevented all further transmission in the model. Outbreaks were deemed controlled if transmission ended within 12 weeks or before 5000 cases in total. We measured the success of controlling outbreaks using isolation and contact tracing, and quantified the weekly maximum number of cases traced to measure feasibility of public health effort.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>\n                    While simulated outbreaks starting with only 5 initial cases,\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>0</jats:italic>\n                    </jats:sub>\n                    of 1.5 and little transmission before symptom onset could be controlled even with low contact tracing probability, the prospects of controlling an outbreak dramatically dropped with the number of initial cases, with higher\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>0</jats:italic>\n                    </jats:sub>\n                    , and with more transmission before symptom onset. Across different initial numbers of cases, the majority of scenarios with an R\n                    <jats:sub>0</jats:sub>\n                    of 1.5 were controllable with under 50% of contacts successfully traced. For\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>0</jats:italic>\n                    </jats:sub>\n                    of 2.5 and 3.5, more than 70% and 90% of contacts respectively had to be traced to control the majority of outbreaks. The delay between symptom onset and isolation played the largest role in determining whether an outbreak was controllable for lower values of\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>0</jats:italic>\n                    </jats:sub>\n                    . For higher values of\n                    <jats:italic>R</jats:italic>\n                    <jats:sub>\n                      <jats:italic>0</jats:italic>\n                    </jats:sub>\n                    and a large initial number of cases, contact tracing and isolation was only potentially feasible when less than 1% of transmission occurred before symptom onset.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>We found that in most scenarios contact tracing and case isolation alone is unlikely to control a new outbreak of 2019-nCov within three months. The probability of control decreases with longer delays from symptom onset to isolation, fewer cases ascertained by contact tracing, and increasing transmission before symptoms. This model can be modified to reflect updated transmission characteristics and more specific definitions of outbreak control to assess the potential success of local response efforts.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>Wellcome Trust, Global Challenges Research Fund, and HDR UK.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Research in Context</jats:title>\n                  <jats:sec>\n                    <jats:title>Evidence before this study</jats:title>\n                    <jats:p>Contact tracing and isolation of cases is a commonly used intervention for controlling infectious disease outbreaks. This intervention can be effective, but may require intensive public health effort and cooperation to effectively reach and monitor all contacts. When the pathogen has infectiousness before symptom onset, control of outbreaks using contact tracing and isolation is more challenging.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Added value of this study</jats:title>\n                    <jats:p>This study uses a mathematical model to assess the feasibility of contact tracing and case isolation to control outbreaks of 2019-nCov, a newly emerged pathogen. We used disease transmission characteristics specific to the pathogen and therefore give the best available evidence if contact tracing and isolation can achieve control of outbreaks.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Implications of all the available evidence</jats:title>\n                    <jats:p>Contact tracing and isolation may not contain outbreaks of 2019-nCoV unless very high levels of contact tracing are achieved. Even in this case, if there is asymptomatic transmission, or a high fraction of transmission before onset of symptoms, this strategy may not achieve control within three months.</jats:p>\n                  </jats:sec>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.08.20021162",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2020-02-11T15:59:20Z",
+      "timestamp": 1581436760000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 124,
+    "title": [
+      "Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2683-0849",
+        "authenticated-orcid": false,
+        "given": "Joel",
+        "family": "Hellewell",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8057-8037",
+        "authenticated-orcid": false,
+        "given": "Sam",
+        "family": "Abbott",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Amy",
+        "family": "Gimma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nikos I",
+        "family": "Bosse",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0812-2446",
+        "authenticated-orcid": false,
+        "given": "Christopher I",
+        "family": "Jarvis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Timothy W",
+        "family": "Russell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6206-7134",
+        "authenticated-orcid": false,
+        "given": "James D",
+        "family": "Munday",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8814-9421",
+        "authenticated-orcid": false,
+        "given": "Adam J",
+        "family": "Kucharski",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "W John",
+        "family": "Edmunds",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "name": "CMMID nCoV working group",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2842-3406",
+        "authenticated-orcid": false,
+        "given": "Sebastian",
+        "family": "Funk",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0362-6717",
+        "authenticated-orcid": false,
+        "given": "Rosalind M",
+        "family": "Eggo",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.1",
+        "unstructured": "WHO. Novel Coronavirus(2019-nCoV) Situation Report 16 [Internet]. World Health Organization; 2020 [cited 2020 Feb 5]. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200205-sitrep-16-ncov.pdf?sfvrsn=23af287f_2"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "World Health Organization. Novel Coronavirus (2019-nCoV) Situation Report 2. 2020.",
+        "DOI": "10.46405/ejms.v2i2.101"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.3",
+        "unstructured": "European CDC . Public health management of persons having had contact with novel coronavirus cases in the European Union [Internet]. ECDC; 2020 [cited 2020 Feb 2]. Available from: https://www.ecdc.europa.eu/en/publications-data/public-health-management-persons-having-had-contact-novel-coronavirus-cases"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Quilty B , Clifford S , CCMID nCoV working group, Flasche S , Eggo RM . Effectiveness of airport screening at detecting travellers infected with 2019-nCoV. 2020 Jan 30 [cited 2020 Feb 5]; Available from: https://cmmid.github.io/ncov/airport_screening_report/airport_screening_preprint_2020_01_30.pdf",
+        "DOI": "10.1101/2020.01.31.20019265"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0307506101"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1616438114"
+      },
+      {
+        "issue": "1",
+        "key": "2020110610400802000_2020.02.08.20021162v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.1016/j.epidem.2011.01.001",
+        "article-title": "Modeling and public health emergency responses: lessons from SARS",
+        "volume": "3",
+        "year": "2011",
+        "journal-title": "Epidemics"
+      },
+      {
+        "issue": "9",
+        "key": "2020110610400802000_2020.02.08.20021162v1.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0006762",
+        "DOI": "10.1371/journal.pntd.0006762",
+        "article-title": "Contact tracing performance during the Ebola epidemic in Liberia, 2014-2015",
+        "volume": "12",
+        "year": "2018",
+        "journal-title": "PLoS Negl Trop Dis"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.9",
+        "unstructured": "WHO. Implementation and management of contact tracing for Ebola virus disease [Internet]. WHO. 2015 [cited 2020 Feb 4]. Available from: http://www.who.int/csr/resources/publications/ebola/contact-tracing/en/"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kang M , Song T , Zhong H , Hou J , Wang J , Li J , et al. Contact Tracing for Imported Case of Middle East Respiratory Syndrome, China, 2015 - Volume 22, Number 9\u2014 September 2016 - Emerging Infectious Diseases journal - CDC. [cited 2020 Feb 7]; Available from: https://www.nc.cdc.gov/eid/article/22/9/15-2116_article",
+        "DOI": "10.3201/eid2209.152116"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.11",
+        "unstructured": "Public Health England. MERS-CoV Close Contact Algorithm: Public health investigation and management of close contacts of Middle East Respiratory Coronavirus (MERS-CoV) cases (v17 29 January 2019) [Internet]. 2019 [cited 2020 Feb 6]. Available from: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/776218/MERS-CoV_Close_contacts_algorithm.pdf"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.12",
+        "unstructured": "European Centre for Disease Prevention and Control. Risk assessment guidelines for diseases transmitted on aircraft. Part 2: Operational guidelines for assisting in the evaluation of risk for transmission by disease [Internet]. 2011 [cited 2020 Feb 6]. Available from: https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/1012_GUI_RAGIDA_2.pdf"
+      },
+      {
+        "issue": "1",
+        "key": "2020110610400802000_2020.02.08.20021162v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1186/s12889-019-6573-z",
+        "article-title": "Active contact tracing beyond the household in multidrug resistant tuberculosis in Vietnam: a cohort study",
+        "volume": "19",
+        "year": "2019",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Klinkenberg D , Fraser C , Heesterbeek H. The Effectiveness of Contact Tracing in Emerging Epidemics. PLOS ONE [Internet]. 2006 Dec 20 [cited 2020 Feb 7]; Available from: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000012",
+        "DOI": "10.1371/journal.pone.0000012"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Abbott S , Hellewell J , Munday J , Funk S. The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis [Internet]. CMMID project repository. 2020 [cited 2020 Jan 30]. Available from: https://cmmid.github.io/ncov/event-size-vs-duration.html",
+        "DOI": "10.12688/wellcomeopenres.15718.1"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.12688/wellcomeopenres.15718.1",
+        "article-title": "The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis",
+        "volume": "5",
+        "author": "CMMID nCoV working group",
+        "year": "2020",
+        "journal-title": "Wellcome Open Res"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.17",
+        "unstructured": "Imai N , Cori A , Dorigatti I , Baguelin M , Donnelly C , Riley S , et al. Report 3: Transmissibility of 2019-nCov. 2020 Jan 25;"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kucharski AJ , Eggo RM , Watson C , Camacho A , Funk S , Edmunds WJ . Effectiveness of Ring Vaccination as Control Strategy for Ebola Virus Disease - Volume 22, Number 1\u2014January 2016 - Emerging Infectious Diseases journal - CDC. 2016 [cited 2020 Jan 30]; Available from: https://www.nc.cdc.gov/eid/article/22/1/15-1410_article",
+        "DOI": "10.3201/eid2201.151410"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.19",
+        "unstructured": "Imai N , Dorigatti I , Cori A , Riley S , Ferguson NM . Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. 2020 Jan 17;4."
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.21",
+        "unstructured": "Coronavirus: UK patient is University of York student [Internet]. BBC News. 2020 [cited 2020 Feb 7]. Available from: https://www.bbc.co.uk/news/health-51337400"
+      },
+      {
+        "issue": "9371",
+        "key": "2020110610400802000_2020.02.08.20021162v1.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1761",
+        "DOI": "10.1016/S0140-6736(03)13410-1",
+        "article-title": "Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong",
+        "volume": "361",
+        "year": "2003",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.23",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N Engl J Med. 2020 Jan 29;NEJMoa2001316."
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Backer JA , Klinkenberg D , Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20\u201328 January 2020. Eurosurveillance [Internet]. 2020 Feb 6 [cited 2020 Feb 6];25(5). Available from: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000062#r8",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000062"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0056176"
+      },
+      {
+        "issue": "4",
+        "key": "2020110610400802000_2020.02.08.20021162v1.26",
+        "first-page": "2000058",
+        "article-title": "Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020",
+        "volume": "25",
+        "year": "2020",
+        "journal-title": "Eurosurveillance"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.27",
+        "unstructured": "Bedford T , Neher R , Hadfield J , Hodcroft E , Ilcisin M , M\u00fcller N. Nextstrain / narratives / ncov / sit-rep / 2020-01-25 [Internet]. 2020 [cited 2020 Jan 30]. Available from: https://nextstrain.org/narratives/ncov/sit-rep/2020-01-25?n=11"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Majumder M , Mandl KD . Early Transmissibility Assessment of a Novel Coronavirus in Wuhan, China [Internet]. Rochester, NY: Social Science Research Network; 2020 Jan [cited 2020 Jan 30]. Report No.: ID 3524675. Available from: https://papers.ssrn.com/abstract=3524675",
+        "DOI": "10.2139/ssrn.3524675"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JR , Cummings DA , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020 Jan 28;2020.01.23.20018549.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Ran J , Musa SS , Yang G , Lou Y , Gao D , et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv. 2020 Jan 24;2020.01.23.916395.",
+        "DOI": "10.1101/2020.01.23.916395"
+      },
+      {
+        "issue": "12",
+        "key": "2020110610400802000_2020.02.08.20021162v1.31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1302",
+        "DOI": "10.1016/S1473-3099(18)30656-X",
+        "article-title": "When is contact tracing not enough to stop an outbreak?",
+        "volume": "18",
+        "year": "2018",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Olu OO , Lamunu M , Nanyunja M , Dafae F , Samba T , Sempiira N , et al. Contact Tracing during an Outbreak of Ebola Virus Disease in the Western Area Districts of Sierra Leone: Lessons for Future Ebola Outbreak Response. Front Public Health [Internet]. 2016 Jun 22 [cited 2020 Feb 6];4. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4916168/",
+        "DOI": "10.3389/fpubh.2016.00130"
+      },
+      {
+        "key": "2020110610400802000_2020.02.08.20021162v1.33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. 2020 Jan;S0140673620301835.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.20021162",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:47Z",
+      "timestamp": 1768484027000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.08.20021162"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 33,
+    "URL": "https://doi.org/10.1101/2020.02.08.20021162",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/s2214-109x(20)30074-7",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

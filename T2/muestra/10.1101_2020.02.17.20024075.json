@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:56:46Z",
+      "timestamp": 1768546606213,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 24,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The emergence of a novel coronavirus (SARS-CoV-2) in Wuhan, China in early December 2019 has caused widespread transmission within the country, with over 1,000 deaths reported to date. Other countries have since reported coronavirus disease 2019 (COVID-19) importation from China, with some experiencing local transmission and even case importation from countries outside China. We aim to estimate the number of cases imported from Wuhan to each country or territory outside mainland China, and with these estimates assess the risk of onward local transmission and the relative potential of case importation between countries outside China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We used the reported number of cases imported from Wuhan and flight data to generate an uncertainty distribution for the estimated number of imported cases from Wuhan to each location outside mainland China. This uncertainty was propagated to quantify the local outbreak risk using a branching process model. A COVID-19 introduction index was derived for each pair of donor and recipient countries, accounting for the local outbreak risk in the donor country and the between- country connectivity.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>We identified 13 countries or territories outside mainland China that may have under-detected COVID-19 importation from Wuhan, such as Thailand and Indonesia. In addition, 16 countries had a local outbreak risk estimate exceeding 50%, including four outside Asia. The COVID-19 introduction index highlights potential locations outside mainland China from which cases may be imported to each recipient country.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>As SARS-CoV-2 continues to spread globally, more epicentres may emerge outside China. Hence, it is important for countries to remain alert for the possibilities of viral introduction from other countries outside China, even before local transmission in a source country becomes known.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.17.20024075",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:05:01Z",
+      "timestamp": 1582218301000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Estimating number of global importations of COVID-19 from Wuhan, risk of transmission outside mainland China and COVID-19 introduction index between countries outside mainland China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Haoyang",
+        "family": "Sun",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Borame L",
+        "family": "Dickens",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mark I. C.",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Alex R",
+        "family": "Cook",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hannah E",
+        "family": "Clapham",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.5",
+        "unstructured": "WHO. Novel Coronavirus Situation Report 18.; 2020. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200207-sitrep-18-ncov.pdf?sfvrsn=fa644293_2. Accessed February 8, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.04.20020495"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jtm/taaa008"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.04.20020479"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.05.20020792"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.31.20019901"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.11",
+        "unstructured": "BBC NEWS. Coronavirus: Fourth patient in UK diagnosed - BBC News. https://www.bbc.com/news/uk-51430654#. Accessed February 11, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.12",
+        "unstructured": "Straits Times. Coronavirus: South Korea\u2019s 28th patient casts doubt on 14-day quarantine, East Asia News & Top Stories - The Straits Times. https://www.straitstimes.com/asia/east-asia/coronavirus-south-koreas-28th-patient-casts-doubt-on-14-day-quarantine. Accessed February 16, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.13",
+        "unstructured": "nCoV-2019 Data Working Group. No Title. Epidemiological Data from the nCoV-2019 Outbreak: Early Descriptions from Publicly Available Data. http://virological.org/t/epidemiological-data-from-the-ncov-2019-outbreak-early-descriptions-from-publicly-available-data/337. Accessed February 7, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.14",
+        "unstructured": "OAG. OAG: Definitive flight information, aviation intelligence and analytics. https://www.oag.com/. Accessed February 14, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.4.2000058"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04153"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.17",
+        "unstructured": "Data?\u00bb Gridded Population of the World (GPW), v4 | SEDAC. https://sedac.ciesin.columbia.edu/data/collection/gpw-v4/sets/browse. Accessed February 14, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.18",
+        "unstructured": "WHO. WHO Coronavirus Situation Report February 10 2020. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200210-sitrep-21-ncov.pdf?sfvrsn=947679ef_2. Accessed February 11, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.19",
+        "unstructured": "Straits Times. All pneumonia patients in public hospitals in Singapore being tested for coronavirus: MOH, Health News & Top Stories - The Straits Times. https://www.straitstimes.com/singapore/health/all-pneumonia-patients-in-public-hospitals-here-being-tested-for-coronavirus-moh. Accessed February 16, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.2000080"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.08.20021162"
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.22",
+        "unstructured": "Business Insider. The US will begin testing patients with flu-like symptoms for coronavirus in an expanded effort to contain the outbreak, Business Insider - Business Insider Singapore. https://www.businessinsider.sg/coronavirus-test-patients-flu-like-symptoms-2020-2/?r=US&IR=T. Accessed February 16, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.23",
+        "unstructured": "BBC News . Coronavirus: Third UK patient \u201ccaught coronavirus in Singapore\u201d - BBC News. https://www.bbc.com/news/uk-51398039. Accessed February 16, 2020."
+      },
+      {
+        "key": "2020110711000714000_2020.02.17.20024075v1.24",
+        "unstructured": "CNA. Egypt confirms first coronavirus case in Africa - CNA. https://www.channelnewsasia.com/news/world/egypt-confirms-first-covid-19-coronavirus-case-in-africa-12437088. Accessed February 16, 2020."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.17.20024075",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:01Z",
+      "timestamp": 1768484041000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.17.20024075"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 24,
+    "URL": "https://doi.org/10.1101/2020.02.17.20024075",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

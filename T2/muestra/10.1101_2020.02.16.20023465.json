@@ -1,0 +1,369 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2026-04-23T04:51:48Z",
+      "timestamp": 1776919908005,
+      "version": "3.51.2"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 36,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The outbreak of novel coronavirus-caused pneumonia (COVID-19) in Wuhan has attracted worldwide attention. Here, we propose a generalized SEIR model to analyze this epidemic. Based on the public data of National Health Commission of China from Jan. 20th to Feb. 9th, 2020, we reliably estimate key epidemic parameters and make predictions on the inflection point and possible ending time for 5 different regions. According to optimistic estimation, the epidemics in Beijing and Shanghai will end soon within two weeks, while for most part of China, including the majority of cities in Hubei province, the success of anti-epidemic will be no later than the middle of March. The situation in Wuhan is still very severe, at least based on public data until Feb. 15th. We expect it will end up at the beginning of April. Moreover, by inverse inference, we find the outbreak of COVID-19 in Mainland, Hubei province and Wuhan all can be dated back to the end of December 2019, and the doubling time is around two days at the early stage.</jats:p>",
+    "DOI": "10.1101/2020.02.16.20023465",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2020-02-18T22:59:15Z",
+      "timestamp": 1582066755000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 338,
+    "title": [
+      "Epidemic analysis of COVID-19 in China by dynamical modeling"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6843-8987",
+        "authenticated-orcid": false,
+        "given": "Liangrong",
+        "family": "Peng",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wuyue",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dongyan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0179-6325",
+        "authenticated-orcid": false,
+        "given": "Changjing",
+        "family": "Zhuge",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4040-4005",
+        "authenticated-orcid": false,
+        "given": "Liu",
+        "family": "Hong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chaolin Huang , Yeming Wang , Xingwang Li , Lili Ren , Jianping Zhao , Yi Hu , Li Zhang , Guohui Fan , Jiuyang Xu , Xiaoying Gu , Zhenshun Cheng , Ting Yu , Jiaan Xia , Yuan Wei , Wenjuan Wu , Xuelei Xie , Wen Yin , Hui Li , Min Liu , Yan Xiao , Hong Gao , Li Guo , Jungang Xie , Guangfa Wang , Rongmeng Jiang , Zhancheng Gao , Qi Jin , Jianwei Wang , and Bin Cao. Clinical features of patients infected with 2019 novel coronavirus in wuhan, china. The Lancet, 2020.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.2",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. http://www.nhc.gov.cn/xcs/yqfkdt/202002/553ff43ca29d4fe88f3837d49d6b6ef1.shtml, accessed Feb 14, 202."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.3",
+        "unstructured": "Health Commission of Hubei Province. http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t202002142027187.shtmll, accessed Feb 13, 202."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.4",
+        "unstructured": "Kamalich Muniz-Rodriguez , Gerardo Chowell , Chi-Hin Cheung , Dongyu Jia , Po-Ying Lai , Yiseul Lee , Manyun Liu , Sylvia K. Ofori , Kimberlyn M. Roosa , Lone Simonsen , and Isaac Chun-Hai Fung . Epidemic doubling time of the 2019 novel coronavirus outbreak by province in mainland china. medRxiv, 2020."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yang Yang , Qingbin Lu , Mingjin Liu , Yixing Wang , Anran Zhang , Neda Jalali , Natalie Dean , Ira Longini , M. Elizabeth Halloran , Bo Xu , Xiaoai Zhang , Liping Wang , Wei Liu , and Liqun Fang . Epidemiological and clinical features of the 2019 novel coronavirus outbreak in china. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.6",
+        "first-page": "A data",
+        "article-title": "Preliminary estimation of the basic reproduction number of novel coronavirus (2019-ncov) in china, from 2019 to",
+        "volume": "2020",
+        "year": "2020",
+        "journal-title": "bioRxiv"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Steven Sanche , Yen Ting Lin , Chonggang Xu , Ethan Romero-Severson, Nick Hengartner, and Ruian Ke. The novel coronavirus, 2019-ncov, is highly contagious and more infectious than initially estimated. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.07.20021154"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hiroshi Nishiura , Natalie M Linton , and Andrei R. Akhmetzhanov . Serial interval of novel coronavirus (2019-ncov) infections. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.03.20019497"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.9",
+        "first-page": "a travel network",
+        "article-title": "Assessing spread risk of wuhan novel coronavirus within and beyond china, january-april",
+        "volume": "2020",
+        "year": "2020",
+        "journal-title": "medRxiv"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hiroshi Nishiura , Sung-mok Jung , Natalie M. Linton , Ryo Kinoshita , Yichi Yang , Katsuma Hayashi , Tetsuro Kobayashi , Baoyin Yuan , and Andrei R. Akhmetzhanov . The extent of transmission of novel coronavirus in wuhan, china, 2020. Journal of Clinical Medicine, 9(2), 2020.",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pablo M De Salazar , Rene Niehus , Aimee Taylor , Caroline O Buckee , and Marc Lipsitch . Using predicted imports of 2019-ncov cases to determine locations that may not be identifying all imported cases. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.04.20020495"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hongxin Zhao , Sailimai Man , Bo Wang , and Yi Ning . Epidemic size of novel coronavirusinfected pneumonia in the epicenter wuhan: using data of five-countries\u2019 evacuation action. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.12.20022285"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.13",
+        "unstructured": "Qiushi Lin , Taojun Hu , and Xiao-Hua Zhou . Estimating the daily trend in the size of covid-19 infected population in wuhan. medRxiv, 2020."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hiroshi Nishiura , Tetsuro Kobayashi , Takeshi Miyama , Ayako Suzuki , Sungmok Jung , Katsuma Hayashi , Ryo Kinoshita , Yichi Yang , Baoyin Yuan , Andrei R. Akhmetzhanov , and Natalie M Linton. Estimation of the asymptomatic ratio of novel coronavirus (2019-ncov) infections among passengers on evacuation flights. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.03.20020248"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Adam J Kucharski , Timothy W Russell , Charlie Diamond , CMMID nCoV working group, Sebastian Funk, and Rosalind M Eggo. Early dynamics of transmission and control of 2019-ncov: a mathematical modelling study. medRxiv, 2020.",
+        "DOI": "10.1101/2020.01.31.20019901"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matteo Chinazzi , Jessica T. Davis , Marco Ajelli , Corrado Gioannini , Maria Litvinova , Stefano Merler , Ana Pastore y Piontti , Luca Rossi , Kaiyuan Sun , C\u00e9cile Viboud , Xinyue Xiong , Hongjie Yu , M. Elizabeth Halloran , Ira M. Longini , and Alessandro Vespignani . The effect of travel restrictions on the spread of the 2019 novel coronavirus (2019-ncov) outbreak. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.09.20021261"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gehui Jin , Jiayu Yu , Liyuan Han , and Shiwei Duan . The impact of traffic isolation in wuhan on the spread of 2019-ncov. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.04.20020438"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Joel Hellewell , Sam Abbott , Amy Gimma , Nikos I Bosse , Christopher I Jarvis , Timothy W Russell , James D Munday , Adam J Kucharski , W John Edmunds , CMMID nCoV working group, Sebastian Funk, and Rosalind M Eggo. Feasibility of controlling 2019-ncov outbreaks by isolation of cases and contacts. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.08.20021162"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Billy Quilty , Sam Clifford , Stefan Flasche , and Rosalind M Eggo . Effectiveness of airport screening at detecting travellers infected with 2019-ncov. medRxiv, 2020.",
+        "DOI": "10.1101/2020.01.31.20019265"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.20",
+        "unstructured": "Tianyu Zeng , Yunong Zhang , Zhenyu Li , Xiao Liu , and Binbin Qiu . Predictions of 2019-ncov transmission ending via comprehensive methods, 2020."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Norden E Huang and Fangli Qiao . A data driven time-dependent transmission rate for tracking an epidemic: a case study of 2019-ncov. Science Bulletin, 2020.",
+        "DOI": "10.1016/j.scib.2020.02.005"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.22",
+        "unstructured": "Jonathan M Read , Jessica RE Bridgen , Derek AT Cummings , Antonia Ho , and Chris P Jewell . Novel coronavirus 2019-ncov: early estimation of epidemiological parameters and epidemic predictions. medRxiv, 2020."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Biao Tang , Xia Wang , Qian Li , Nicola Luigi Bragazzi , Sanyi Tang , Yanni Xiao , and Jianhong Wu . Estimation of the transmission risk of the 2019-ncov and its implication for public health interventions. Journal of Clinical Medicine, 9(2), 2020.",
+        "DOI": "10.2139/ssrn.3525558"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Biao Tang , Nicola Luigi Bragazzi , Qian Li , Sanyi Tang , Yanni Xiao , and Jianhong Wu . An updated estimation of the risk of transmission of the novel coronavirus (2019-ncov). Infectious Disease Modelling, 2020.",
+        "DOI": "10.1016/j.idm.2020.02.001"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jane Labadin and Boon Hao Hong . Transmission dynamics of 2019-ncov in malaysia. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.07.20021188"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mingwang Shen , Zhihang Peng , Yuming Guo , Yanni Xiao , and Lei Zhang . Lockdown may partially halt the spread of 2019 novel coronavirus in hubei province, China. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.11.20022236"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samuel J Clifford , Petra Klepac , Kevin Van Zandvoort , Billy J Quilty , CMMID nCoV working group , Rosalind M Eggo , and Stefan Flasche . Interventions targeting air travellers early in the pandemic may delay local outbreaks of sars-cov-2. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.12.20022426"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hao Xiong and Huili Yan . Simulating the infected population and spread trend of 2019-ncov under different policy by eir model. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.10.20021519"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.29",
+        "unstructured": "Xinhai Li , Xumao Zhao , and Yuehua Sun . The lockdown of hubei province causing different transmission dynamics of the novel coronavirus (2019-ncov) in wuhan and beijing. medRxiv, 2020."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tianmu Chen , Jia Rui , Qiupeng Wang , Zeyu Zhao , Jing-An Cui , and Ling Yin . A mathematical model for simulating the transmission of wuhan novel coronavirus. bioRxiv, 2020.",
+        "DOI": "10.1101/2020.01.19.911669"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yu Chen , Jin Cheng , Yu Jiang , and Keji Liu . A time delay dynamical model for outbreak of 2019-ncov and the parameter identification, 2020.",
+        "DOI": "10.1515/jiip-2020-0010"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.32",
+        "unstructured": "Yan Yue , Chen Yu , Liu Keji , Luo Xinyue , Xu Boxi , Jiang Yu , and Cheng Jin . Modeling and prediction for the trend of outbreak of ncp based on a time-delay dynamic system. SCIENTIA SINICA Mathematica, (1674-7216), 2020."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wei-jie Guan , Zheng-yi Ni , Yu Hu , Wen-hua Liang , Chun-quan Ou , Jian-xing He , Lei Liu , Hong Shan , Chun-liang Lei , David SC Hui , Bin Du , Lan-juan Li , Guang Zeng , Kowk-Yung Yuen , Ru-chong Chen , Chun-li Tang , Tao Wang , Ping-yan Chen , Jie Xiang , Shi-yue Li , Jin-lin Wang , Zi-jing Liang , Yi-xiang Peng , Li Wei , Yong Liu , Ya-hua Hu , Peng Peng , Jian-ming Wang , Ji-yang Liu , Zhong Chen , Gang Li , Zhi-jian Zheng , Shao-qin Qiu , Jie Luo , Chang-jiang Ye , Shao-yong Zhu , and Nan-shan Zhong . Clinical characteristics of 2019 novel coronavirus infection in china. medRxiv, 2020.",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.34",
+        "unstructured": "Zhen Li , Ming Wu , Jie Guo , Jiwei Yao , Xiang Liao , Siji Song , Min Han , Jiali Li , Guangjie Duan , Yuanxiu Zhou , Xiaojun Wu , Zhansong Zhou , Taojiao Wang , Ming Hu , Xianxiang Chen , Yu Fu , Chong Lei , Hailong Dong , Yi Zhou , Hongbo Jia , Xiaowei Chen , and Junan Yan . Caution on kidney dysfunctions of 2019-ncov patients. medRxiv, 2020."
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.35",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1016/j.mbs.2015.10.009",
+        "article-title": "Partial equilibrium approximations in apoptosis. ii. the death-inducing signaling complex subsystem",
+        "volume": "270",
+        "year": "2015",
+        "journal-title": "Mathematical biosciences"
+      },
+      {
+        "key": "2020110711001059000_2020.02.16.20023465v1.36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu Hong , Chiu Fan Lee , and Ya Jing Huang . Statistical Mechanics and Kinetics of Amyloid Fibrillation, chapter Chapter 4, pages 113\u2013186. World Scientific Press.",
+        "DOI": "10.1142/9789813202382_0004"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.16.20023465",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:58Z",
+      "timestamp": 1768484038000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.16.20023465"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 36,
+    "URL": "https://doi.org/10.1101/2020.02.16.20023465",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          18
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

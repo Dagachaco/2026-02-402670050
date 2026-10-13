@@ -1,0 +1,219 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:14:47Z",
+      "timestamp": 1768544087641,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 10,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>An outbreak of a novel coronavirus, named CoVID-19, was first reported in China on 31 December 2019. As of 9 February 2020, cases have been reported in 25 countries, including probable cases of human-to-human transmission in England.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We adapted an existing national-scale metapopulation model to capture the spread of CoVID-19 in England and Wales. We used 2011 census data to capture population sizes and population movement, together with parameter estimates from the current outbreak in China.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>We predict that a CoVID-19 outbreak will peak 126 to 147 days (\u223c4 months) after the start of person-to-person transmission in England and Wales in the absence of controls, assuming biological parameters remain unchanged. Therefore, if person-to-person transmission persists from February, we predict the epidemic peak would occur in June. The starting location has minimal impact on peak timing, and model stochasticity varies peak timing by 10 days. Incorporating realistic parameter uncertainty leads to estimates of peak time ranging from 78 days to 241 days after person-to-person transmission has been established. Seasonal changes in transmission rate substantially impact the timing and size of the epidemic peak, as well as the total attack rate.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Discussion</jats:title>\n                  <jats:p>We provide initial estimates of the potential course of CoVID-19 in England and Wales in the absence of control measures. These results can be refined with improved estimates of epidemiological parameters, and permit investigation of control measures and cost effectiveness analyses. Seasonal changes in transmission rate could shift the timing of the peak into winter months, which will have important implications for health-care capacity planning.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.12.20022566",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ],
+      "date-time": "2020-02-14T18:35:12Z",
+      "timestamp": 1581705312000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 52,
+    "title": [
+      "A spatial model of CoVID-19 transmission in England and Wales: early spread and peak timing"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7076-1871",
+        "authenticated-orcid": false,
+        "given": "Leon",
+        "family": "Danon",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5984-4932",
+        "authenticated-orcid": false,
+        "given": "Ellen",
+        "family": "Brooks-Pollock",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mick",
+        "family": "Bailey",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4639-4765",
+        "authenticated-orcid": false,
+        "given": "Matt",
+        "family": "Keeling",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.1",
+        "unstructured": "World Health Organization (WHO). Novel Coronavirus (COVID19) Situation Report-23. 2020."
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.2",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. N Engl J Med. 2020 Jan;NEJMoa2001316."
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read JM , Bridgen JR , Cummings DA , Ho A , Jewell CP . Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv. 2020;2020.01.23.20018549.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu JT , Leung K , Leung GM . Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet (London, England). 2020 Jan;0(0).",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.5",
+        "unstructured": "Imai N , Cori A , Dorigatti I , Baguelin M , Donnelly CA , Riley S , et al. Report 3: Transmissibility of 2019-nCoV. 2020."
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.6",
+        "unstructured": "Liu T , Hu J , Kang M , Lin L , Zhong H , Xiao J , et al. Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv [Internet]. 2020 Jan 26 [cited 2020 Feb 13];2020.01.25.919787. Available from: https://www.biorxiv.org/content/10.1101/2020.01.25.919787v1"
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.12688/wellcomeopenres.15718.1",
+        "article-title": "The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis",
+        "volume": "5",
+        "year": "2020",
+        "journal-title": "Wellcome Open Res [Internet]"
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.8",
+        "unstructured": "Dorigatti I , Okell L , Cori A , Imai N , Baguelin M , Bhatia S , et al. Report 4: Severity of 2019-novel coronavirus (nCoV). 2020."
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hellewell J , Abbott S , Gimma A , Bosse NI , Jarvis CI , Russell TW , et al. Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts. medRxiv [Internet]. 2020 Feb 11 [cited 2020 Feb 13];2020.02.08.20021162. Available from: https://www.medrxiv.org/content/10.1101/2020.02.08.20021162v1",
+        "DOI": "10.1101/2020.02.08.20021162"
+      },
+      {
+        "key": "2020110711201120000_2020.02.12.20022566v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Danon L , House T , Keeling M. The role of routine versus random movements on the spread of disease in Great Britain. Epidemics [Internet]. 2009; Available from: http://linkinghub.elsevier.com/retrieve/pii/S1755436509000553",
+        "DOI": "10.1016/j.epidem.2009.11.002"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.12.20022566",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:54Z",
+      "timestamp": 1768484034000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.12.20022566"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "references-count": 10,
+    "URL": "https://doi.org/10.1101/2020.02.12.20022566",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1098/rstb.2020.0272",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          14
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

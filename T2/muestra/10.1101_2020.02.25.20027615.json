@@ -1,0 +1,313 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:02:06Z",
+      "timestamp": 1768546926254,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Before the lock-down of Wuhan/Hubei/China, on January 23\n                  <jats:sup>rd</jats:sup>\n                  2020, a large number of individuals infected by COVID-19 moved from the epicenter Wuhan and the Hubei province due to the Spring Festival, resulting in an epidemic in the other provinces including the Shaanxi province. The epidemic scale in Shaanxi was comparatively small and with half of cases being imported from the epicenter. Based on the complete epidemic data including the symptom onset time and transmission chains, we calculate the control reproduction number (1.48-1.69) in Xi\u2019an. We could also compute the time transition, for each imported or local case, from the latent, to infected, to hospitalized compartment, as well as the effective reproduction number. This calculation enables us to revise our early deterministic transmission model to a stochastic discrete epidemic model with case importation and parameterize it. Our model-based analyses reveal that the newly generated infections decay to zero quickly; the cumulative number of case-driven quarantined individuals via contact tracing stabilize at a manageable level, indicating that the intervention strategies implemented in the Shaanxi province have been effective. Risk analyses, important for the consideration of \u201cresumption of work\u201d, show that a large second outbreak is expected if the level of case importation remains at the same level as between January 10\n                  <jats:sup>th</jats:sup>\n                  and February 4\n                  <jats:sup>th</jats:sup>\n                  2020. However, if the case importation decreases by 30%, 60% and 90%, the second outbreak if happening will be of small-scale assuming contact tracing and quarantine/isolation remain as effective as before. Finally, we consider the effects of intermittent inflow with a Poisson distribution on the likelihood of multiple outbreaks. We believe the developed methodology and stochastic model provide an important model framework for the evaluation of revising travel restriction rules in the consideration of resuming social-economic activities while managing the disease control with potential case importation.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.25.20027615",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ],
+      "date-time": "2020-02-29T11:15:11Z",
+      "timestamp": 1582974911000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Stochastic discrete epidemic modeling of COVID-19 transmission in the Province of Shaanxi incorporating public health intervention and case importation"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Sanyi",
+        "family": "Tang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Biao",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nicola Luigi",
+        "family": "Bragazzi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fan",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tangjuan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sha",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pengyu",
+        "family": "Ren",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xia",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhihang",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanni",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianhong",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.3390/jcm9020571",
+        "article-title": "Risk assessment of novel coronavirus COVID-19 outbreaks outside China",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "J Clin Med"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.367.6475.234"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2605.200146"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gilbert M , Pullano G , Pinotti F , et al. Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study. The Lancet 2020, DOI: https://doi.org/10.1016/S0140-6736(20)30411-6.",
+        "DOI": "10.1016/S0140-6736(20)30411-6"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0902958106"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.7",
+        "unstructured": "Health Commission of Shaanxi Province. Available at http://sxwjw.shaanxi.gov.cn/col/col863/index.html [Accessed 20 Feb 2020]"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heymann D L , Shindo N. COVID-19: what is next for public health? The Lancet, 2020, DOI: https://doi.org/10.1016/S0140-6736(20)30374-3.",
+        "DOI": "10.1016/S0140-6736(20)30374-3"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Keeling M J , Rohnai P. Modeling infectious diseases in humans and animals. Princeton University Press. 2008..",
+        "DOI": "10.1515/9781400841035"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1541-0420.2006.00609.x"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mode C J , Sleeman C K. Stochastic Processes in Epidemiology. Singapore: World Scientific, 2000.",
+        "DOI": "10.1142/4243"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.13",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. http://www.nhc.gov.cn."
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m236"
+      },
+      {
+        "issue": "1",
+        "key": "2020110909500584000_2020.02.25.20027615v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.3390/ijerph7010291",
+        "article-title": "Correcting the actual reproduction number: a simple method to estimate R0 from early epidemic growth data",
+        "volume": "7",
+        "year": "2010",
+        "journal-title": "Int J Env Res Pub Health"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nishiura H , Chowell G. The effective reproduction number as a prelude to statistical estimation of time-dependent epidemic trends. In Mathematical and statistical estimation approaches in epidemiology (pp. 103\u2013121), Springer, Dordrecht 2009.",
+        "DOI": "10.1007/978-90-481-2313-1_5"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sun K , Chen J , Viboud C. Early epidemiological analysis of the coronavirus disease 2019 outbreak based on crowdsourced data: a population-level observational study. Lancet Digital Health 2020, DOI: https://doi.org/10.1016/S2589-7500(20)30026-1.",
+        "DOI": "10.1016/S2589-7500(20)30026-1"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.18",
+        "first-page": "248",
+        "article-title": "An updated estimation of the risk of transmission of the novel coronavirus (COVID-19)",
+        "volume": "5",
+        "year": "2020",
+        "journal-title": "Infect Dis Model"
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.19",
+        "unstructured": "Tang B , Xia F , Tang S , Bragazzi N L , Li Q , Sun X , Liang J , Xiao Y , Wu J. The evolution of q uarantined and suspected cases determines the final trend of the 2019-nCoV epidemics based on multi-source data analyses. Available at SSRN: https://ssrn.com/abstract=3537099."
+      },
+      {
+        "key": "2020110909500584000_2020.02.25.20027615v1.20",
+        "first-page": "462",
+        "article-title": "Estimation of the Transmission Risk of the COVID-19 and Its Implication for Public Health Interventions",
+        "volume": "9",
+        "year": "2020",
+        "journal-title": "J Clin Med"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.25.20027615",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:17Z",
+      "timestamp": 1768484057000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.25.20027615"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.25.20027615",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          29
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

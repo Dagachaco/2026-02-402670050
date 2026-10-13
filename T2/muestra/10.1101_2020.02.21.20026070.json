@@ -1,0 +1,381 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:34:01Z",
+      "timestamp": 1768545241315,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 26,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:p>COVID-19 has been impacting on the whole world critically and constantly Since December 2019. We have independently developed a novel statistical time delay dynamic model on the basis of the distribution models from CCDC. Based only on the numbers of confirmed cases in different regions in China, the model can clearly reveal that the containment of the epidemic highly depends on early and effective isolation. We apply the model on the epidemic in Japan and conclude that there could be a rapid outbreak in Japan if no effective quarantine measures are carried out immediately.</jats:p>",
+    "DOI": "10.1101/2020.02.21.20026070",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:35:44Z",
+      "timestamp": 1582518944000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "COVID-19 in Japan: What could happen in the future?"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Nian",
+        "family": "Shao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yan",
+        "family": "Xuan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hanshuang",
+        "family": "Pan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shufen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weijia",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yue",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xingjie",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Christopher Y.",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xu",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xinyue",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Boxi",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Keji",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Min",
+        "family": "Zhong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiang",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuai",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guanghong",
+        "family": "Ding",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jin",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenbin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. T. Wu , K. Leung , G. M. Leung , Lancet. (2020). https://doi.org/10.1016/S0140-6736(20)30260-9.",
+        "DOI": "10.1016/S0140-6736(20)30260-9"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.2",
+        "first-page": "1",
+        "volume": "7",
+        "year": "2018",
+        "journal-title": "EMERG.MICROBES.INFEC"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Q. Li , et al., NEW.ENGL.J.MED. (2020). https://doi.org/10.1056/NEJMoa2001316.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.4",
+        "unstructured": "Z. Du , et al., https://www.medrxiv.org/content/early/2020/02/17/ 2020.01.28.20019299 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.5",
+        "unstructured": "J. Hellewell , et al., https://www.medrxiv.org/content/early/2020/02/ 11/2020.02.08.20021162 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. Zhao , S. Man , B. Wang , Y. Ning , https://www.medrxiv.org/content/ early/2020/02/13/2020.02.12.20022285 (2020).",
+        "DOI": "10.1055/a-1035-4599"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.8",
+        "unstructured": "N. Shao , J. Cheng , W. Chen , https://www.medrxiv.org/content/early/ 2020/02/20/2020.02.17.20023747.1 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.10",
+        "unstructured": "J. M. Read , J. R. Bridgen , D. A. Cummings , A. Ho , C. P. Jewell , https://www. medrxiv.org/content/early/2020/01/28/2020.01.23.20018549 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Liu , et al., https://www.biorxiv.org/content/early/2020/02/13/ 2020.01.25.919787 (2020).",
+        "DOI": "10.1055/s-0040-1703039"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.12",
+        "unstructured": "Q. Zhao , Y. Chen , D. S. Small , https://www.medrxiv.org/content/early/ 2020/02/09/2020.02.06.20020941 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. Xiong , H. Yan , https://www.medrxiv.org/content/early/2020/02/ 12/2020.02.10.20021519 (2020).",
+        "DOI": "10.1055/s-0040-1710421"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.14",
+        "unstructured": "K. Mizumoto , K. Kagaya , G. Chowell , https://www.medrxiv.org/content/ early/2020/02/13/2020.02.12.20022434 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. M. Anderson , B. Anderson , R. M. May , Infectious diseases of humans: dynamics and control (Oxford university press, 1992).",
+        "DOI": "10.1093/oso/9780198545996.001.0001"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.16",
+        "unstructured": "Y. Chen , J. Cheng , Y. Jiang , K. Liu , https://arxiv.org/abs/2002.00418 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.17",
+        "unstructured": "Y. Chen , J. Cheng , Y. Jiang , K. Liu , https://arxiv.org/abs/2002.02590 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.18",
+        "unstructured": "k. Liu , Y. Jiang , Y. Yan , W. Chen , A time delay dynamic model with external source and the basic reproductive number estimation for the outbreak of Novel Coronavirus Pneumonia. Submitted to Control Theory and Appl (in Chinese) (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.19",
+        "unstructured": "N. Shao , Y. Chen , J. Cheng , W. Chen , Some novel statistical time delay dynamic model by statistics data from CCDC on Novel Coronavirus Pneumonia. Submitted to Control Theory and Appl (in Chinese) (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.20",
+        "unstructured": "WHO, Novel coronavirus (COVID-19): situation report, 31 (2020)."
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04017"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature04795"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1058321"
+      },
+      {
+        "key": "2020111005150567000_2020.02.21.20026070v2.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "214",
+        "DOI": "10.1016/j.ijid.2020.01.050",
+        "volume": "92",
+        "year": "2020",
+        "journal-title": "Int.J.Infect.Dis"
+      },
+      {
+        "issue": "3",
+        "key": "2020111005150567000_2020.02.21.20026070v2.26",
+        "first-page": "1",
+        "volume": "50",
+        "year": "2020",
+        "journal-title": "Sci.Sin.Math"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.21.20026070",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:09Z",
+      "timestamp": 1768484049000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.21.20026070"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 26,
+    "URL": "https://doi.org/10.1101/2020.02.21.20026070",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

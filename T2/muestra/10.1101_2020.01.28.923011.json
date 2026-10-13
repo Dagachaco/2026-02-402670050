@@ -1,0 +1,297 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:05:53Z",
+      "timestamp": 1768489553336,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 15,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              28
+            ]
+          ],
+          "date-time": "2020-01-28T00:00:00Z",
+          "timestamp": 1580169600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>The newly identified 2019 novel coronavirus (2019-nCoV) has caused more than 800 laboratory-confirmed human infections, including 25 deaths, posing a serious threat to human health. Currently, however, there is no specific antiviral treatment or vaccine. Considering the relatively high identity of receptor binding domain (RBD) in 2019-nCoV and SARS-CoV, it is urgent to assess the cross-reactivity of anti-SARS-CoV antibodies with 2019-nCoV spike protein, which could have important implications for rapid development of vaccines and therapeutic antibodies against 2019-nCoV. Here, we report for the first time that a SARS-CoV-specific human monoclonal antibody, CR3022, could bind potently with 2019-nCoV RBD (KD of 6.3 nM). The epitope of CR3022 does not overlap with the ACE2 binding site within 2019-nCoV RBD. Therefore, CR3022 has the potential to be developed as candidate therapeutics, alone or in combination with other neutralizing antibodies, for the prevention and treatment of 2019-nCoV infections. Interestingly, some of the most potent SARS-CoV-specific neutralizing antibodies (e.g., m396, CR3014) that target the ACE2 binding site of SARS-CoV failed to bind 2019-nCoV spike protein, indicating that the difference in the RBD of SARS-CoV and 2019-nCoV has a critical impact for the cross-reactivity of neutralizing antibodies, and that it is still necessary to develop novel monoclonal antibodies that could bind specifically to 2019-nCoV RBD.</jats:p>",
+    "DOI": "10.1101/2020.01.28.923011",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2020-01-28T22:25:10Z",
+      "timestamp": 1580250310000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 25,
+    "title": [
+      "Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Xiaolong",
+        "family": "Tian",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Cheng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ailing",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuai",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sicong",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhengli",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lu",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shibo",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhenlin",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanling",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tianlei",
+        "family": "Ying",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.1",
+        "unstructured": "Jasper F-W C , Kin-H K , Zheng Z , et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from patients with acute respiratory disease in Wuhan, Hubei, China. Emerging Microbes & Infections. 2020."
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.2",
+        "unstructured": "Shi Z-L , Zhou P , Yang X-L , et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin. bioRxiv. 2020:2020.01.22.914952."
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0701000104"
+      },
+      {
+        "issue": "9427",
+        "key": "2024080322510637000_2020.01.28.923011v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "2139",
+        "DOI": "10.1016/S0140-6736(04)16506-9",
+        "article-title": "Human monoclonal antibody as prophylaxis for SARS coronavirus infection in ferrets",
+        "volume": "363",
+        "year": "2004",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ter Meulen J , Van Den Brink EN , Poon LL , et al. Human monoclonal antibody combination against SARS coronavirus: synergy and coverage of escape mutants. PLoS medicine. 2006;3(7).",
+        "DOI": "10.1371/journal.pmed.0030237"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0307140101"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1080"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/viro.2000.0757"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.C300520200"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M600697200"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2009.03.042"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hwang WC , Lin Y , Santelli E , et al. Structural Basis of Neutralization by a Human Anti-severe Acute Respiratory Syndrome Spike Protein Antibody, 80R. Journal of Biological Chemistry. 281(45):34610\u201334616.",
+        "DOI": "10.1074/jbc.M603275200"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2018.12.028"
+      },
+      {
+        "key": "2024080322510637000_2020.01.28.923011v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "8223",
+        "DOI": "10.1038/ncomms9223",
+        "article-title": "Junctional and allele-specific residues are critical for MERS-CoV neutralization by an exceptionally potent germline-like antibody",
+        "volume": "6",
+        "year": "2015",
+        "journal-title": "Nature communications"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.28.923011",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:58:00Z",
+      "timestamp": 1768435080000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.28.923011"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "references-count": 15,
+    "URL": "https://doi.org/10.1101/2020.01.28.923011",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

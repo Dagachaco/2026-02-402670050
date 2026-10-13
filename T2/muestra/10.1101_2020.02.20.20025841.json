@@ -1,0 +1,268 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:15:31Z",
+      "timestamp": 1768544131721,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 10,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                  We report the kinetics of the immune response in relation to clinical and virological features of a patient with mild-to-moderate coronavirus disease-19 (COVID-19) requiring hospitalisation. Increased antibody-secreting cells, follicular T-helper cells, activated CD4\n                  <jats:sup>+</jats:sup>\n                  and CD8\n                  <jats:sup>+</jats:sup>\n                  T-cells and IgM/IgG SARS-CoV-2-binding antibodies were detected in blood, prior to symptomatic recovery. These immunological changes persisted for at least 7 days following full resolution of symptoms, indicating substantial anti-viral immunity in this non-severe COVID-19.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.20.20025841",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2020-02-24T04:35:50Z",
+      "timestamp": 1582518950000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Breadth of concomitant immune responses underpinning viral clearance and patient recovery in a non-severe case of COVID-19"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Irani",
+        "family": "Thevarajan",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Thi HO",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marios",
+        "family": "Koutsakos",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Julian",
+        "family": "Druce",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Leon",
+        "family": "Caly",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Carolien E",
+        "family": "van de Sandt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoxiao",
+        "family": "Jia",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Suellen",
+        "family": "Nicholson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mike",
+        "family": "Catton",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin",
+        "family": "Cowie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1368-8356",
+        "authenticated-orcid": false,
+        "given": "Steven YC",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sharon R",
+        "family": "Lewin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6141-335X",
+        "authenticated-orcid": false,
+        "given": "Katherine",
+        "family": "Kedzierska",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1502619112"
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ni.3533"
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.3",
+        "unstructured": "Koutsakos, M. et al. Sci Transl Med 10 (2018)."
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-018-03243-7"
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1321748111"
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.6",
+        "unstructured": "Everitt, A.R. et al. 484, 519\u2013523 (2012)."
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms7833"
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.3.2000045"
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1038/icb.2015.93",
+        "volume": "94",
+        "year": "2016",
+        "journal-title": "Immunol & Cell Biol"
+      },
+      {
+        "key": "2020110811501190000_2020.02.20.20025841v1.10",
+        "unstructured": "Koutsakos, M. et al. Sci Transl Med 10 (2018)."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.20.20025841",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:07Z",
+      "timestamp": 1768484047000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.20.20025841"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "references-count": 10,
+    "URL": "https://doi.org/10.1101/2020.02.20.20025841",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1038/s41591-020-0819-2",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

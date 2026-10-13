@@ -1,0 +1,723 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          6
+        ]
+      ],
+      "date-time": "2026-04-06T11:54:03Z",
+      "timestamp": 1775476443137,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 94,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              4
+            ]
+          ],
+          "date-time": "2020-02-04T00:00:00Z",
+          "timestamp": 1580774400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  As of February 20, 2020, the 2019 novel coronavirus (renamed to COVID-19) spread to 30 countries with 2130 deaths and more than 75500 confirmed cases. COVID-19 is being compared to the infamous SARS coronavirus, which resulted, between November 2002 and July 2003, in 8098 confirmed cases worldwide with a 9.6% death rate and 774 deaths. Though COVID-19 has a death rate of 2.8% as of 20 February, the 75752 confirmed cases in a few weeks (December 8, 2019 to February 20, 2020) are alarming, with cases likely being under-reported given the comparatively longer incubation period. Such outbreaks demand elucidation of taxonomic classification and origin of the virus genomic sequence, for strategic planning, containment, and treatment. This paper identifies an intrinsic COVID-19 genomic signature and uses it together with a machine learning-based alignment-free approach for an ultra-fast, scalable, and highly accurate classification of whole COVID-19 genomes. The proposed method combines supervised machine learning with digital signal processing for genome analyses, augmented by a decision tree approach to the machine learning component, and a Spearman\u2019s rank correlation coefficient analysis for result validation. These tools are used to analyze a large dataset of over 5000 unique viral genomic sequences, totalling 61.8 million bp. Our results support a hypothesis of a bat origin and classify COVID-19 as\n                  <jats:italic>Sarbecovirus</jats:italic>\n                  , within\n                  <jats:italic>Betacoronavirus</jats:italic>\n                  . Our method achieves high levels of classification accuracy and discovers the most relevant relationships among over 5,000 viral genomes within a few minutes,\n                  <jats:italic>ab initio</jats:italic>\n                  , using raw DNA sequence data alone, and without any specialized biological knowledge, training, gene or genome annotations. This suggests that, for novel viral and pathogen genome sequences, this alignment-free whole-genome machine-learning approach can provide a reliable real-time option for taxonomic classification.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.03.932350",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2020-02-04T22:35:10Z",
+      "timestamp": 1580855710000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 43,
+    "title": [
+      "Machine learning using intrinsic genomic signatures for rapid classification of novel pathogens: COVID-19 case study"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1054-125X",
+        "authenticated-orcid": false,
+        "given": "Gurjit S.",
+        "family": "Randhawa",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7495-5203",
+        "authenticated-orcid": false,
+        "given": "Maximillian P.M.",
+        "family": "Soltysiak",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hadi El",
+        "family": "Roz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Camila P.E.",
+        "family": "de Souza",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kathleen A.",
+        "family": "Hill",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lila",
+        "family": "Kari",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.1",
+        "unstructured": "Enjuanes L , Brian D , Cavanagh D , Holmes K , Lai MMC , Laude H , et al. Coronaviridae. In: Regenmortel MV , Fauquet CM , Bishop DHL , Carstens EB , Estes MK , Lemon SM , et al., editors. Virus Taxonomy. Seventh Report of the International Committee on Taxonomy of Viruses, Academic Press; 2000. pp. 835\u2013849."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MMBR.69.4.635-664.2005"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2016.03.003"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-018-0118-9"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schoeman D , Fielding BC. Coronavirus envelope protein: Current knowledge. Virology Journal. 2019; 16.",
+        "DOI": "10.1186/s12985-019-1182-0"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "de Groot RJ , Baker SC , Baric R , Enjuanes L , Gorbalenya AE , Holmes KV , et al. Family Coronaviridae. In: King AMQ , Adams MJ , Carstens EB , Lefkowitz EJ , editors. Virus taxonomy. Ninth report of the international committee on taxonomy of viruses, Elsevier Academic Press; 2012. pp. 806\u2013828.",
+        "DOI": "10.1016/B978-0-12-384684-6.00068-9"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3181/0903-MR-94"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.03273-12"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2019.03.001"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02605-06"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01305-12"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1118391"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrg2323"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00239-001-0064-3"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/viro.1997.8681"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "6183",
+        "DOI": "10.1128/jvi.71.8.6183-6190.1997",
+        "article-title": "Generation of coronavirus spike deletion variants by high-frequency recombination at regions of predicted RNA secondary structure",
+        "volume": "71",
+        "year": "1997",
+        "journal-title": "J. Virol"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cavanagh D. Coronaviridae: a review of coronaviruses and toroviruses. In: Schmidt A , Wolff MH , Weber O , editors. Coronaviruses with Special Emphasis on First Insights Concerning SARS. Birkh\u00e4user-Verlag, 2005; pp. 1\u201354.",
+        "DOI": "10.1007/3-7643-7339-3_1"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1128/mr.56.1.61-79.1992",
+        "article-title": "RNA recombination in animal and plant viruses",
+        "volume": "56",
+        "year": "1992",
+        "journal-title": "Microbiological Reviews"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/vir.0.81611-0"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030781"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1211721"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1087139"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alagaili AN , Briese T , Mishra N , Kapoor V , Sameroff SC , de Wit E , et al. Middle east respiratory syndrome coronavirus infection in dromedary camels in Saudi Arabia. MBio. 2014; 5.",
+        "DOI": "10.1128/mBio.00884-14"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.25.919787"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMe2001126"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gralinski LE , Menachery VD. Return of the Coronavirus: 2019-nCoV. Viruses. 2020; 12: 135.",
+        "DOI": "10.3390/v12020135"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.32",
+        "unstructured": "2019-nCoV Global Cases by Johns Hopkins CSSE. 2020 February 6 [cited 6 February 2020]. In: JHU CSSE website [Internet]. Available from: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.33",
+        "unstructured": "Novel Coronavirus(2019-nCoV) Situation Report - 13. 2002 February 02 [cited 02 February 2020]. In: WHO website [Internet]. Available from: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200202-sitrep-13-ncov-v3.pdf."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hu B , Zeng LP , Yang XL , Ge XY , Zhang W , Li B , et al. Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathog. 2017; 13.",
+        "DOI": "10.1371/journal.ppat.1006698"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.20.913368"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.21.914044"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.24.919183"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.26.920249"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25682"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.22.914952"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.22.915660"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.28.922922"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.29.924100"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btg005"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13059-017-1319-7"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0119815"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.49",
+        "doi-asserted-by": "crossref",
+        "first-page": "246",
+        "DOI": "10.1186/s12859-015-0655-4",
+        "article-title": "An investigation into inter- and intragenomic variations of graphic genomic signatures",
+        "volume": "16",
+        "year": "2015",
+        "journal-title": "BMC Bioinformatics"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.50",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0206409",
+        "DOI": "10.1371/journal.pone.0206409",
+        "article-title": "An open-source k-mer based machine learning tool for fast and accurate subtyping of HIV-1 genomes",
+        "volume": "13",
+        "year": "2018",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.51",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1186/s12864-019-5571-y",
+        "article-title": "ML-DSP: Machine Learning with Digital Signal Processing for ultrafast, accurate, and scalable genome classification at all taxonomic levels",
+        "volume": "20",
+        "year": "2019",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.52",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Randhawa GS , Hill KH , Kari L. MLDSP-GUI: an alignment-free standalone tool with an interactive graphical user interface for DNA sequence comparison and analysis. Bioinformatics. 2019; btz918.",
+        "DOI": "10.1101/745406"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/18.8.2163"
+      },
+      {
+        "issue": "1",
+        "key": "2024080318404551000_2020.02.03.932350v3.54",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1080/10408340500526766",
+        "article-title": "The correlation coefficient: an overview",
+        "volume": "36",
+        "year": "2006",
+        "journal-title": "Crit Rev Anal Chem"
+      },
+      {
+        "issue": "19",
+        "key": "2024080318404551000_2020.02.03.932350v3.55",
+        "doi-asserted-by": "crossref",
+        "first-page": "3091",
+        "DOI": "10.1093/bioinformatics/btx367",
+        "article-title": "MoDMaps3D: an interactive webtool for the quantification and 3D visualization of interrelationships in a dataset of DNA sequences",
+        "volume": "33",
+        "year": "2017",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02289565"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkz033"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1176934318761368"
+      },
+      {
+        "issue": "10",
+        "key": "2024080318404551000_2020.02.03.932350v3.59",
+        "first-page": "455",
+        "article-title": "DNA helix: the importance of being AT-rich",
+        "volume": "9",
+        "year": "2017",
+        "journal-title": "Mammalian Genome"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.60",
+        "unstructured": "Hollander M , Wolfe DA , Chicken E. Nonparametric statistical methods, 3rd Edition, John Wiley & Sons; 2013."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.61",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S , Lin Q , Ran J , Musa SS , Yang G , Wang W , et al. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. International Journal of Infectious Diseases [In Press] [received 2020 January 23; revised 2020 January 27; accepted 2020 January 27; cited 2020 February 1], 2020.",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.28.923169"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.24.919241"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.64",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hayward JA , Tachedjian M , Cui J , Field H , Holmes EC , Wang L , Tachedjian G. Identification of diverse full-length endogenous betaretroviruses in megabats and microbats. Retrovirology. 2013; 10.",
+        "DOI": "10.1186/1742-4690-10-35"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cui J , Tachedjian G , Wang LF. Bats and Rodents Shape Mammalian Retroviral Phylogeny. Sci. Rep. 2015; 5.",
+        "DOI": "10.1038/srep16561"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msy048"
+      },
+      {
+        "issue": "2",
+        "key": "2024080318404551000_2020.02.03.932350v3.67",
+        "doi-asserted-by": "crossref",
+        "first-page": "174",
+        "DOI": "10.3390/v11020174",
+        "article-title": "Global Epidemiology of Bat Coronaviruses",
+        "volume": "11",
+        "year": "2019",
+        "journal-title": "Viruses"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02582-15"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01055-13"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.70",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1016/j.meegid.2016.11.029",
+        "article-title": "Genetic diversity of coronaviruses in bats in Lao PDR and Cambodia",
+        "volume": "48",
+        "year": "2017",
+        "journal-title": "Infect. Genet. Evol"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00650-10"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00705-010-0612-5"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00631-14"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12985-014-0235-7"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1503.081013"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0506735102"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.77",
+        "unstructured": "Virologists weigh in on novel coronavirus in China\u2019s outbreak. 2020 January 08 [cited 31 January 2020]. In: University of Minnesota [Internet]. Available from: http://www.cidrap.umn.edu/news-perspective/2020/01/virologists-weigh-novel-coronavirus-chinas-outbreak."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.78",
+        "unstructured": "nCoV\u2019s relationship to bat coronaviruses & recombination signals (no snakes) - no evidence the 2019-nCoV lineage is recombinant. 2020 January 31 [cited 31 January 2020]. In: Virological blog [Internet]. Available from: http://virological.org/t/ncovs-relationship-to-bat-coronaviruses-recombination-signals-no-snakes-no-evidence-the-2019-nCoV-lineage-is-recombinant/331."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.79",
+        "unstructured": "Experts: nCoV spread in China\u2019s cities could trigger global epidemic. 2020 January 27 [cited 31 January 2020]. In: University of Minnesota [Internet]. Available from: http://www.cidrap.umn.edu/news-perspective/2020/01/experts-ncov-spread-chinas-cities-could-trigger-global-epidemic."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.80",
+        "unstructured": "China detects large quantity of novel coronavirus at Wuhan seafood market. 2020 January 27 [cited 31 January 2020]. In: Xinhuanet News [Internet]. Available from: http://www.xinhuanet.com/english/2020-01/27/c_138735677.htm."
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature24039"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1000079"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0006282"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.84",
+        "first-page": "68",
+        "article-title": "To sense or not to sense viral RNA-essentials of coronavirus innate immune evasion",
+        "volume": "20",
+        "year": "2014",
+        "journal-title": "Current Opinion in Microbiology"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-018-24448-2"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1100658"
+      },
+      {
+        "issue": "1",
+        "key": "2024080318404551000_2020.02.03.932350v3.87",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1186/1743-422X-1-7",
+        "article-title": "Genome structure and transcriptional regulation of human coronavirus NL63",
+        "volume": "1",
+        "year": "2004",
+        "journal-title": "Virology Journal"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virusres.2014.11.031"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3181/0903-MR-94"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v2081803"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02114-07"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1085658"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.93",
+        "doi-asserted-by": "crossref",
+        "first-page": "861",
+        "DOI": "10.1016/j.jtbi.2008.07.030",
+        "article-title": "Molecular dynamic simulations analysis of ritronavir and lopinavir as SARS-CoV 3CLpro inhibitors",
+        "volume": "254",
+        "year": "2008",
+        "journal-title": "J. Theor. Biol"
+      },
+      {
+        "key": "2024080318404551000_2020.02.03.932350v3.94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.27.921627"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.932350",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:59:13Z",
+      "timestamp": 1768435153000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.03.932350"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 94,
+    "URL": "https://doi.org/10.1101/2020.02.03.932350",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

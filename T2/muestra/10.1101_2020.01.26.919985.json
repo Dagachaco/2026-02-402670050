@@ -1,0 +1,310 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2026-02-08T00:52:52Z",
+      "timestamp": 1770511972309,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "group-title": "Bioinformatics",
+    "reference-count": 22,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              26
+            ]
+          ],
+          "date-time": "2020-01-26T00:00:00Z",
+          "timestamp": 1579996800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>A novel coronavirus SARS-CoV-2 was identified in Wuhan, Hubei Province, China in December of 2019. According to WHO report, this new coronavirus has resulted in 76,392 confirmed infections and 2,348 deaths in China by 22 February, 2020, with additional patients being identified in a rapidly growing number internationally. SARS-CoV-2 was reported to share the same receptor, Angiotensin-converting enzyme 2 (ACE2), with SARS-CoV. Here based on the public database and the state-of-the-art single-cell RNA-Seq technique, we analyzed the ACE2 RNA expression profile in the normal human lungs. The result indicates that the ACE2 virus receptor expression is concentrated in a small population of type II alveolar cells (AT2). Surprisingly, we found that this population of ACE2-expressing AT2 also highly expressed many other genes that positively regulating viral entry, reproduction and transmission. This study provides a biological background for the epidemic investigation of the COVID-19, and could be informative for future anti-ACE2 therapeutic strategy development.</jats:p>",
+    "DOI": "10.1101/2020.01.26.919985",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2020-01-26T18:25:10Z",
+      "timestamp": 1580063110000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 408,
+    "title": [
+      "Single-cell RNA expression profiling of ACE2, the receptor of SARS-CoV-2"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yu",
+        "family": "Zhao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Zixian",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yujia",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yueqing",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yu",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wei",
+        "family": "Zuo",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang CL , Wang YM , Li XW , Ren LL , Zhao JP , Hu Y , Zhang L , Fan GH , Xu JY , Gu XY , Cheng ZS , Yu T , Xia JA , Wei Y , Wu WJ , Xie XL , Yin W , Li H , Liu M , Xiao Y , Gao H , Guo L , Xie JG , Wang GF , Jiang RM , Gao ZC , Jin Q , Wang JW , Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li Q , Guan X , Wu P , Wang X , Zhou L , Tong Y , Ren R , Leung KSM , Lau EHY , Wong JY , Xing X , Xiang N , Wu Y , Li C , Chen Q , Li D , Liu T , Zhao J , Li M , Tu W , Chen C , Jin L , Yang R , Wang Q , Zhou S , Wang R , Liu H , Luo Y , Liu Y , Shao G , Li H , Tao Z , Yang Y , Deng Z , Liu B , Ma Z , Zhang Y , Shi G , Lam TTY , Wu JTK , Gao GF , Cowling BJ , Yang B , Leung GM , Feng Z. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. The New England journal of medicine 2020.",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guan WJ , Ni ZY , Hu Y , Liang WH , Ou CQ , He JX , Liu L , Shan H , Lei CL , Hui DS , Du B , Li LJ , Zeng G , Yuen KY , Chen RC , Tang CL , Wang T , Chen PY , Xiang J , Li SY , Wang JL , Liang ZJ , Peng YX , Wei L , Liu Y , Hu YH , Peng P , Wang JM , Liu JY , Chen Z , Li G , Zheng ZJ , Qiu SQ , Luo J , Ye CJ , Zhu SY , Zhong NS. Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv 2020: 2020.2002.2006.20020974.",
+        "DOI": "10.1056/NEJMoa2002032"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.4",
+        "unstructured": "Organization WH. Coronavirus disease 2019 (COVID-19) Situation Report-32. World Health Organization; 2020."
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.5",
+        "first-page": "P7",
+        "article-title": "Novel Wuhan (2019-nCoV) Coronavirus",
+        "volume": "201",
+        "year": "2020",
+        "journal-title": "American Journal of Respiratory and Critical Care Medicine"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xu XT , Chen P , Wang JF , Feng JN , Zhou H , Li X , Zhong W , Hao P. Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. SCIENCE CHINA Life Sciences 2020; 63.",
+        "DOI": "10.1007/s11427-020-1637-5"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2007.04.035"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0908837106"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "He L , Ding Y , Zhang Q , Che X , He Y , Shen H , Wang H , Li Z , Zhao L , Geng J. Expression of elevated levels of pro-inflammatory cytokines in SARS-CoV-infected ACE2+ cells in SARS patients: relation to the acute lung injury and pathogenesis of SARS. Journal of Pathology 2006; 210.",
+        "DOI": "10.1002/path.2067"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wu F , Zhao S , Yu B , Chen YM , Wang W , Song ZG , Hu Y , Tao ZW , Tian JH , Pei YY , Yuan ML , Zhang YL , Dai FH , Liu Y , Wang QM , Zheng JJ , Xu L , Holmes EC , Zhang YZ. A new coronavirus associated with human respiratory disease in China. Nature 2020.",
+        "DOI": "10.1038/s41586-020-2202-3"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wrapp D , Wang N , Corbett KS , Goldsmith JA , Hsieh CL , Abiona O , Graham BS , McLellan JS. Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science 2020.",
+        "DOI": "10.1101/2020.02.11.944462"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhou P , Yang XL , Wang XG , Hu B , Zhang L , Zhang W , Si HR , Zhu Y , Li B , Huang CL , Chen HD , Chen J , Luo Y , Guo H , Jiang RD , Liu MQ , Chen Y , Shen XR , Wang X , Zheng XS , Zhao K , Chen QJ , Deng F , Liu LL , Yan B , Zhan FX , Wang YY , Xiao GF , Shi ZL. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 2020.",
+        "DOI": "10.1038/s41586-020-2951-z"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.1570"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00592-009-0109-4"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Reyfman P , Walter J , Joshi N , Anekalla K , McQuattie-Pimentel A , Chiu S , Fernandez R , Akbarpour M , Chen C , Ren Z , Verma R , Abdala-Valencia H , Nam K , Chi M , Han S , Gonzalez-Gonzalez F , Soveranes S , Watanabe S. Single-Cell Transcriptomic Analysis of Human Lung Provides Insights into the Pathobiology of Pulmonary Fibrosis. American Journal of Respiratory and Critical Care Medicine 2018.",
+        "DOI": "10.1164/rccm.201712-2410OC"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao Y , Zhao ZX , Wang YJ , Zhou YQ , Ma Y , Zuo W. Single-cell RNA expression profiling of ACE2, the putative receptor of Wuhan 2019-nCov. bioRxiv 2020.01.26.919985.",
+        "DOI": "10.1101/2020.01.26.919985"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.17",
+        "unstructured": "Duffney P , Thatcher TH , Sime PJ. Cigarette Smoke Increases Uptake of Influenza A Virus by Lung Epithelial Cells by Increasing Expression of Caveolin-1. B101 ADVANCES IN COPD PATHOGENESIS; 2019. p. A4051\u2013A4051."
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.18",
+        "first-page": "0",
+        "article-title": "Lipid rafts are involved in SARS-CoV entry into Vero E6 cells",
+        "volume": "369",
+        "year": "2008",
+        "journal-title": "Biochemical & Biophysical Research Communications"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1582-4934.2007.00109.x"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2011.02.004"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1155/2009/623969",
+        "article-title": "The Mechanism of Budding of Retroviruses from Cell Membranes",
+        "volume": "2009",
+        "year": "2009",
+        "journal-title": "Adv Virol"
+      },
+      {
+        "key": "2024080322334358000_2020.01.26.919985v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1164/rccm.201712-2570OC"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.26.919985",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:26Z",
+      "timestamp": 1768435046000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.26.919985"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "references-count": 22,
+    "URL": "https://doi.org/10.1101/2020.01.26.919985",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

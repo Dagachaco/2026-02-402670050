@@ -1,0 +1,137 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:56:29Z",
+      "timestamp": 1768546589502,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 0,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                  <jats:title>Importance</jats:title>\n                  <jats:p>The new coronavirus outbreak has seriously affected the quality of life in China. Wuhan is the disaster area, where the number of cases has increased rapidly. However, the current measures of infected patients in Wuhan are still underestimated.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To estimate the overall infected patients in Wuhan from several sampled data. The correct estimated infected patients can be helpful for the government to arrange the needed beds in hospital wards to meet the actual needs.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>We proposed to use the sampling survey to estimate the overall infected patients in Wuhan. The sampling survey is a kind of non-comprehensive survey. It selected some units from all the survey objects to carry out the survey and made the estimation and inference to all the survey objects. Sampling surveys can obtain information that reflects the overall situation, although it is not a comprehensive survey.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Setting</jats:title>\n                  <jats:p>We estimated the overall infection rate in Wenzhou city, which has a better data collection system. Simultaneously, another different samples of Wuhan tourists to Singapore will be used to validate the infection rate in Wenzhou city. Combined these two samples, we give the estimation of the number of infected patients in Wuhan and other prefecture-level cities in Hubei Province.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Participants</jats:title>\n                  <jats:p>The number of people who returned from Wuhan to Wenzhou was selected from the daily notification of the pneumonia epidemic caused by a new coronavirus infection in the city.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Exposures for observational studies</jats:title>\n                  <jats:p>The daily rate of the pneumonia epidemic caused by the new coronavirus infection in Wenzhou City. The numerator is the number of people diagnosed and whether each person diagnosed had a history of living in Wuhan. The denominator is the total number of people returning to Wenzhou from Wuhan. Based on this rate, it is reasonable to predict the number of the infected patients.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Main Outcome(s) and Measure(s)</jats:title>\n                  <jats:p>According to the most conservative estimate from our proposed sampling method, at least total 54,000 infected patients are in Wuhan. Therefore, the current 8,000 beds in hospital wards and the 20,000 beds in square-class hospitals are far away from meeting the actual needs.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.10.20021774",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T15:45:14Z",
+      "timestamp": 1581522314000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Statistical Inference for Coronavirus Infected Patients in Wuhan"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yong-Dao",
+        "family": "Zhou",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jianghu James",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.10.20021774",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:50Z",
+      "timestamp": 1768484030000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.10.20021774"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1101/2020.02.10.20021774",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

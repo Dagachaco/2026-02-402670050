@@ -1,0 +1,412 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:11:23Z",
+      "timestamp": 1768489883152,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "group-title": "Biochemistry",
+    "reference-count": 47,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              24
+            ]
+          ],
+          "date-time": "2020-02-24T00:00:00Z",
+          "timestamp": 1582502400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>A new porcine coronavirus SADS-CoV was recently identified from suckling piglets with severe diarrhea in southern China and its genome sequence is most identical (~95% identity) to that of bat \u03b1-coronavirus HKU2. It again indicates bats are the natural reservoir of many coronaviruses that have great potential for cross-species transmission to animals and humans by recombination and/or mutation. Here we report the cryo-EM structures of HKU2 and SADS-CoV spike glycoprotein trimers at 2.38 \u00c5 and 2.83 \u00c5 resolution, respectively. HKU2 and SADS-CoV spikes exhibit very high structural similarity, with subtle differences mainly distributed in the NTD and CTD of the S1 subunit responsible for cell attachment and receptor binding. We systematically analyzed and compared the NTD, CTD, SD1 and SD2 domains of the S1 subunit and the S2 subunit of HKU2 spike with those of \u03b1-, \u03b2-, \u03b3-, and \u03b4-coronavirus spikes. The results show that the NTD and CTD of HKU2/SADS-CoV are probably the most ancestral in the evolution of spike. Although the S2 subunit mediating membrane fusion is highly conserved, the connecting region after fusion peptide in HKU2/SADS-CoV S2 subunit also adopts a conformation distinct from other coronaviruses. These results structurally demonstrate a close evolutionary relationship between HKU2 /SADS-CoV and \u03b2-coronavirus spikes and provide new insights into the evolution and cross-species transmission of coronaviruses.</jats:p>",
+    "DOI": "10.1101/2020.02.23.961912",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T05:15:16Z",
+      "timestamp": 1582607716000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Cryo-EM structures of HKU2 and SADS-CoV spike glycoproteins and insights into coronavirus evolution"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2294-0752",
+        "authenticated-orcid": false,
+        "given": "Jinfang",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1830-112X",
+        "authenticated-orcid": false,
+        "given": "Shuyuan",
+        "family": "Qiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8820-0821",
+        "authenticated-orcid": false,
+        "given": "Runyu",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3136-8070",
+        "authenticated-orcid": false,
+        "given": "Xinquan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41579-018-0118-9"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4939-2438-7_1"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2016.03.003"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.coviro.2018.12.001"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2018.04.031"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/tbed.12992"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-018-0010-9"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vetmic.2017.09.020"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2309.170915"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2018.03.001"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MMBR.00004-08"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2015.06.003"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-virology-100114-055029"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3181/0903-MR-94"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.06540-11"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/v11030210"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01448-19"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-virology-110615-042301"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/bs.aivir.2019.08.002"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02615-14"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1007236"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0908837106"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1116480"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/cr.2013.92"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature12328"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1002859"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7554/eLife.51230"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-017-01706-x"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41594-019-0233-y"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1104306108"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nsmb.3293"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00923-19"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature16988"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1708727114"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature17200"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms15092"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/cr.2016.152"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-018-36918-8"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1707304114"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41594-019-0334-7"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1007009"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01556-17"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01628-17"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2014.08.009"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2017.04.016"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acs.biochem.6b00790"
+      },
+      {
+        "key": "2024080321160303000_2020.02.23.961912v1.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2007.06.009"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.23.961912",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:03:20Z",
+      "timestamp": 1768435400000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.23.961912"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "references-count": 47,
+    "URL": "https://doi.org/10.1101/2020.02.23.961912",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

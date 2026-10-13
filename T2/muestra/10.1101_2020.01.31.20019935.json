@@ -1,0 +1,275 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:55:28Z",
+      "timestamp": 1768546528700,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 26,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  As the outbreak of novel 2019 coronavirus (2019-nCoV) progresses within China and beyond, there is a need for rapidly available epidemiological data to guide situational awareness and intervention strategies. Here we present an effort to compile epidemiological information on 2019-nCoV from media news reports and a physician community website (dxy.cn) between Jan 20, 2020 and Jan 30, 2020, as the outbreak entered its 7\n                  <jats:sup>th</jats:sup>\n                  week. We compiled a line list of patients reported in China and internationally and daily case counts by Chinese province. We describe the demographics, hospitalization and reporting delays for 288 patients, over time and geographically. We find a decrease in case detection lags in provinces outside of Wuhan and internationally, compared to Wuhan, and after Jan 18, 2020, as outbreak awareness increased. The rapid progression of reported cases in different provinces of China is consistent with local transmission beyond Wuhan. The age profile of cases points at a deficit among children under 15 years of age, possibly related to prior immunity with related coronavirus or behavioral differences. Overall, our datasets, which have been publicly available since Jan 21, 2020, align with official reports from Chinese authorities published more than a week later. Availability of publicly available datasets in the early stages of an outbreak is important to encourage disease modeling efforts by independent academic modeling teams and provide robust evidence to guide interventions.\n                </jats:p>",
+    "DOI": "10.1101/2020.01.31.20019935",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2020-11-05T10:50:19Z",
+      "timestamp": 1604573419000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Early epidemiological analysis of the 2019-nCoV outbreak based on a crowdsourced data"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1753-9884",
+        "authenticated-orcid": false,
+        "given": "Kaiyuan",
+        "family": "Sun",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jenny",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3243-4711",
+        "authenticated-orcid": false,
+        "given": "C\u00e9cile",
+        "family": "Viboud",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.1",
+        "unstructured": "WHO. WHO second emergency meeting statement. 2020. https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-019-11067-2"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa0904023"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000436"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1176062"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/civ748"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.8",
+        "unstructured": "Wikipedia. DXY.cn. 2020. https://en.wikipedia.org/wiki/DXY.cn."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.9",
+        "unstructured": "DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.10",
+        "unstructured": "Vespignani A. MOBS lab -- preliminary analysis of the 2019 coronavirus outbreak in Wuhan. 2020. https://www.mobs-lab.org/2019ncov.html."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Evaluation IfHMa. Global Burden of Disease Data. 2020.",
+        "DOI": "10.1093/med/9780190082543.001.0001"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-10-162"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.13",
+        "unstructured": "Analysis IC-CfGID. News / Wuhan Coronavirus. 2020. https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.14",
+        "unstructured": "CDC C. Wuhan coronavirus report. 2020. http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Backer J , Klinkenberg D , Wallinga J. The incubation period of 2019-nCoV infections among travellers from Wuhan, China. 2020. https://www.medrxiv.org/content/10.1101/2020.01.27.20018986v1.",
+        "DOI": "10.1101/2020.01.27.20018986"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.16",
+        "unstructured": "Lessler J. Incubation Period. 2020. https://github.com/HopkinsIDD/ncov_incubation"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao Sea . Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. 2020. https://www.biorxiv.org/content/10.1101/2020.01.23.916395v1.",
+        "DOI": "10.1101/2020.01.23.916395"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.18",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.19",
+        "unstructured": "Huang C , Wang Y , Li X , et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020."
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.2014-0244"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chan JF , Yuan S , Kok KH , et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet 2020.",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-141-9-200411020-00006"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001558"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-10-50"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Du W , Wang L , Cauchemez S , et al. Risk of 2019 novel coronavirus importations throughout China prior to the Wuhan quarantine MedRxiv 2020.",
+        "DOI": "10.1101/2020.01.28.20019299"
+      },
+      {
+        "key": "2020110507500835000_2020.01.31.20019935v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1002170"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.31.20019935",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:39Z",
+      "timestamp": 1768484019000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.31.20019935"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 26,
+    "URL": "https://doi.org/10.1101/2020.01.31.20019935",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          4
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

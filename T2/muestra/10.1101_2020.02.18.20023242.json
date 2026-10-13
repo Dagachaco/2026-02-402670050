@@ -1,0 +1,331 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ],
+      "date-time": "2026-04-20T17:25:50Z",
+      "timestamp": 1776705950123,
+      "version": "3.51.2"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Nephrology",
+    "reference-count": 23,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Information on kidney impairment in patients with coronavirus disease 2019 (COVID-19) is limited. This study aims to assess the prevalence and impact of abnormal urine analysis and kidney dysfunction in hospitalized COVID-19 patients in Wuhan.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We conducted a consecutive cohort study of COVID-19 patients admitted in a tertiary teaching hospital with 3 branches following a major outbreak in Wuhan in 2020. Hematuria, proteinuria, serum creatinine concentration and other clinical parameters were extracted from the electronic hospitalization databases and laboratory databases. Incidence rate for acute kidney injury (AKI) was examined during the study period. Association between kidney impairment and in-hospital death was analyzed.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>We included 710 consecutive COVID-19 patients, 89 (12.3%) of whom died in hospital. The median age of the patients was 63 years (inter quartile range, 51-71), including 374 men and 336 women. On admission, 44% of patients have proteinuria hematuria and 26.9% have hematuria, and the prevalence of elevated serum creatinine and blood urea nitrogen were 15.5% and 14.1% respectively. During the study period, AKI occurred in 3.2% patients. Kaplan\u2013Meier analysis demonstrated that patients with kidney impairment have higher risk for in-hospital death. Cox proportional hazard regression confirmed that elevated serum creatinine, elevated urea nitrogen, AKI, proteinuria and hematuria was an independent risk factor for in-hospital death after adjusting for age, sex, disease severity, leukocyte count and lymphocyte count.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>The prevalence of kidney impairment (hematuria, proteinuria and kidney dysfunction) in hospitalized COVID-19 patients was high. After adjustment for confounders, kidney impairment indicators were associated with higher risk of in-hospital death. Clinicians should increase their awareness of kidney impairment in hospitalized COVID-19 patients.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.18.20023242",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:35:22Z",
+      "timestamp": 1582220122000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 154,
+    "title": [
+      "Kidney impairment is associated with in-hospital death of COVID-19 patients"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yichun",
+        "family": "Cheng",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ran",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meng",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhixiang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Junhua",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ying",
+        "family": "Yao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shuwang",
+        "family": "Ge",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Gang",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1523-1755.2005.67130.x"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-150-9-200905050-00006"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.7",
+        "unstructured": "Kidney Disease Improving Global Outcomes, Acute Kidney Injury Work Group: KDIGO clinical practice guideline for acute kidney injury. Kidney int 2012, Suppl 2, 1\u2013138."
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030666"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrneph.2013.44"
+      },
+      {
+        "issue": "6",
+        "key": "2020110710450894000_2020.02.18.20023242v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "752",
+        "DOI": "10.1053/j.ajkd.2016.09.018",
+        "article-title": "CKD and Risk for Hospitalization With Infection: The Atherosclerosis Risk in Communities (ARIC) Study",
+        "volume": "69",
+        "year": "2017",
+        "journal-title": "Am J Kidney Dis"
+      },
+      {
+        "issue": "9",
+        "key": "2020110710450894000_2020.02.18.20023242v1.12",
+        "first-page": "557",
+        "article-title": "Upper Respiratory Tract Infection among Dialysis Patients",
+        "volume": "18",
+        "year": "2016",
+        "journal-title": "Isr Med Assoc J"
+      },
+      {
+        "issue": "1",
+        "key": "2020110710450894000_2020.02.18.20023242v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1186/s12882-016-0412-6",
+        "article-title": "The clinical and economic burden of pneumonia in patients enrolled in Medicare receiving dialysis: a retrospective, observational cohort study",
+        "volume": "17",
+        "year": "2016",
+        "journal-title": "BMC nephrol"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(17)31329-6"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "issue": "1",
+        "key": "2020110710450894000_2020.02.18.20023242v1.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1186/s12882-016-0351-2",
+        "article-title": "Epidemiology and outcomes of acute kidney injury in elderly chinese patients: a subgroup analysis from the EACH study",
+        "volume": "17",
+        "year": "2016",
+        "journal-title": "BMC nephrol"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(15)00344-X"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2215/CJN.02140215"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13412-5"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-1.020-2012-7"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.08.20021212"
+      },
+      {
+        "key": "2020110710450894000_2020.02.18.20023242v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2009.1496"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20023242",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:02Z",
+      "timestamp": 1768484042000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20023242"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 23,
+    "URL": "https://doi.org/10.1101/2020.02.18.20023242",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.kint.2020.03.005",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

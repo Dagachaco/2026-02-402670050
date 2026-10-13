@@ -1,0 +1,229 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:22:05Z",
+      "timestamp": 1768486925501,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          31
+        ]
+      ]
+    },
+    "group-title": "Pharmacology and Toxicology",
+    "reference-count": 9,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              31
+            ]
+          ],
+          "date-time": "2020-01-31T00:00:00Z",
+          "timestamp": 1580428800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          31
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:p>Coronaviruses such as the newly discovered virus from Wuhan, China, 2019-nCoV, and the viruses that cause SARS and MERS, have resulted in regional and global public health emergencies. Based on our molecular insight that the hepatitis C virus and the coronavirus use a similar viral genome replication mechanism, we reasoned that the FDA-approved drug EPCLUSA (Sofosbuvir/Velpatasvir) for the treatment of hepatitis C will also inhibit the above coronaviruses, including 2019-nCoV. To develop broad spectrum anti-viral agents, we further describe a novel strategy to design and synthesize viral polymerase inhibitors, by combining the ProTide Prodrug approach used in the development of Sofosbuvir with the use of 3\u2019-blocking groups that we have previously built into nucleotide analogues that function as polymerase terminators.</jats:p>",
+    "DOI": "10.1101/2020.01.30.927574",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          1
+        ]
+      ],
+      "date-time": "2020-02-01T07:05:10Z",
+      "timestamp": 1580540710000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "title": [
+      "Nucleotide Analogues as Inhibitors of Viral Polymerases"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Jingyue",
+        "family": "Ju",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Shiv",
+        "family": "Kumar",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoxu",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Steffen",
+        "family": "Jockusch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "James J.",
+        "family": "Russo",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1021/acsmedchemlett.8b00586",
+        "article-title": "The ProTide prodrug technology: where next?",
+        "volume": "10",
+        "year": "2019",
+        "journal-title": "ACS Med Chem Lett"
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0804023105"
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0609513103"
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.4",
+        "unstructured": "Ju J , Li Z , Edwards JR and Itagaki Y (2003) Massive Parallel Method for Decoding DNA and RNA. United States Patent 6,664,079."
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/jo201492m"
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/jm100863x"
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature13027"
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080323141567000_2020.01.30.927574v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "327",
+        "DOI": "10.1038/nrd.2015.37",
+        "article-title": "Coronaviruses \u2013 drug discovery and therapeutic options",
+        "volume": "15",
+        "year": "2016",
+        "journal-title": "Nat Rev J Drug Discovery"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.30.927574",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:58:31Z",
+      "timestamp": 1768435111000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.30.927574"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          31
+        ]
+      ]
+    },
+    "references-count": 9,
+    "URL": "https://doi.org/10.1101/2020.01.30.927574",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          31
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

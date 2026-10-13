@@ -1,0 +1,250 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2026-03-01T19:22:01Z",
+      "timestamp": 1772392921553,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Intensive Care and Critical Care Medicine",
+    "reference-count": 16,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Summary</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) results in a cluster of coronavirus disease 2019 (COVID-19). We reported the clinical characteristics of COVID-19 patients with acute respiratory distress syndrome (ARDS), and further investigated the treatment and progression of ARDS in COVID-19.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>This study enrolled 109 patients with COVID-19 admitted to the Central Hospital of Wuhan, a designated hospital in Wuhan, China, from January 2 to February 1, 2020. Patients were followed up to February 12, 2020. The clinical data were collected from the electronic medical records. The differences in the treatment and progression with the time and the severity of ARDS were determined.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>\n                    Among 109 patients, mean age was 55 years, and 59 patients were male. With a median 15 days (range, 4 to 30 days) follow-up period, 31 patients (28.4%) died, while 78 (71.6%) survived and discharged. Of all patients, 53 (48.6%) developed ARDS. Compared to non-ARDS patients, ARDS patients were elder (mean age, 61 years\n                    <jats:italic>vs</jats:italic>\n                    . 49 years), and more likely to have the coexistent conditions, including diabetes (20.8%\n                    <jats:italic>vs</jats:italic>\n                    . 1.8%), cerebrovascular disease (11.3%\n                    <jats:italic>vs</jats:italic>\n                    . 0%), and chronic kidney disease (15.1%\n                    <jats:italic>vs</jats:italic>\n                    . 3.6%). Compared to mild ARDS patients, those with moderate and severe ARDS had higher mortality rates. No significant effect of antivirus, glucocorticoid, or immunoglobulin treatment on survival was observed in patients with ARDS.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>The mortality rate increased with the severity of ARDS in COVID-19, and the effects of current therapies on the survival for these patients were not satisfactory, which needs more attention from clinicians.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>Health and Family Planning Commission of Wuhan Municipality.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.17.20024166",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:15:42Z",
+      "timestamp": 1582218942000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 88,
+    "title": [
+      "Clinical features and progression of acute respiratory distress syndrome in coronavirus disease 2019"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Yanli",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Wenwu",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jia",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liangkai",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yujun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lijuan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Li",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Velavan TP , Meyer CG . The COVID-19 epidemic. Trop Med Int Health 2020.",
+        "DOI": "10.1111/tmi.13383"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Team C-NIRS. COVID-19, Australia: Epidemiology Report 3 (Reporting week ending 19:00 AEDT 15 February 2020). Commun Dis Intell (2018) 2020; 44.",
+        "DOI": "10.33321/cdi.2020.44.15"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Smith N , Fraser M. Straining the System: Novel Coronavirus (COVID-19) and Preparedness for Concomitant Disasters. Am J Public Health 2020:e1\u2013e2.",
+        "DOI": "10.2105/AJPH.2020.305618"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15171/ijoem.2020.1921"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang D , Hu B , Hu C , et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA 2020.",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.8",
+        "unstructured": "Li Q , Guan X , Wu P , et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med 2020."
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.9",
+        "unstructured": "Yang X , Yu Y , Xu J , et al. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. The Lancet Respiratory Medicine."
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.10",
+        "unstructured": "World Health Organization. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected: interim guidance. https://www.who.int/docs/default-source/coronaviruse/clinical-management-of-novel-cov.pdf?sfvrsn=bc7da517_2. Published January 28, 2020. Accessed February 12, 2020."
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2012.5669"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/thorax.58.5.377"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.14",
+        "unstructured": "Xu Z , Shi L , Wang Y , et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. The Lancet Respiratory Medicine."
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peck TJ , Hibbert KA . Recent advances in the understanding and management of ARDS. F1000Res 2019; 8.",
+        "DOI": "10.12688/f1000research.20411.1"
+      },
+      {
+        "key": "2021010305300548000_2020.02.17.20024166v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4187/respcare.04716"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.17.20024166",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:01Z",
+      "timestamp": 1768484041000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.17.20024166"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1101/2020.02.17.20024166",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

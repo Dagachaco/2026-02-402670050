@@ -1,0 +1,299 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:57:01Z",
+      "timestamp": 1768546621752,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 24,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:sec>\n                  <jats:title>BACKGROUND AND OBJECTIVE</jats:title>\n                  <jats:p>The novel coronavirus (SARS-Cov-2) infected coronavirus disease 2019 (COVID-19) was broken out in Wuhan and Hubei province for more than a month. It severely threats people\u2019s health of thousands in Chin and even other countries. In order to prevent its wide spread, it is necessary to understand the development of the epidemic with precise mathematical language.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>METHODS</jats:title>\n                  <jats:p>\n                    The various data of novel coronavirus pneumonia were collected from the official websites of the National Health Committee of the People\u2019s Republic of China. According to epidemic and administrative division, three groups were divided to analyze the data, Hubei Province (including Wuhan), nationwide without Hubei and Henan Province. With classic SIR models, the fitting epidemiological curves of incidence have made, and basic reproduction number (R\n                    <jats:sub>0</jats:sub>\n                    ) was also calculated as well. Therefore the disease\u2019s infection intensity, peak time and the epidemiological end time can be deduced.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>RESULTS</jats:title>\n                  <jats:p>\n                    (1) Wuhan was the origin place of the epidemic, then it spread to Hubei province quickly. The patients in Hubei had increased rapidly with exponential rise. According to data in Hubei province, the fitting parabolas were made, and some with 51,673 cases. R\n                    <jats:sub>0</jats:sub>\n                    curve shows with S-curve, at early breakout, R\n                    <jats:sub>0</jats:sub>\n                    was as high as 6.27, then it decrease gradually. It is expected to approach to zero in early May; (2) In the group of nationwide without Hubei, the patient cases were much lower than Hubei, but its epidemiological fitting curve also shows a parabola as Hubei. The peak will arrive around February 10 with 9,145 cases. At beginning, R\n                    <jats:sub>0</jats:sub>\n                    was as high as 2.44, then it decreases gradually and approach to zero in the end of March. (3) In Henan Province, the incidence stays very low, the parabolic fitting curve is similar to the nationwide without Hubei. The epidemic is expected to reach the peak on around February 12 and end in early April.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>CONCLUSION</jats:title>\n                  <jats:p>The epidemic development in all three groups shows parabolic curves. Their incidences are expected to reach their peaks on February 18 in Hubei, on February 10 in other areas of China. The epidemic will end in early May in Hubei, and in early April in other areas of China. Our study may provide useful knowledge for the government to make prevention and treatment policies.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.21.20026229",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2020-02-27T00:35:10Z",
+      "timestamp": 1582763710000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Epidemiological Development of Novel Coronavirus Pneumonia in China and Its Forecast"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Shanshan",
+        "family": "Wu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Panpan",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ruiling",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liang",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanli",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lifang",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haili",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jinbo",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0254-6450.2020.02.002"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.ES.2020.25.5.200131e"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020330"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.02.10.20021675"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0376-2491.2020.0001"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40779-020-0233-6"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1016599411804"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rsif.2008.0493"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-020-00236-9"
+      },
+      {
+        "issue": "2",
+        "key": "2020110909551361000_2020.02.21.20026229v1.13",
+        "first-page": "167",
+        "article-title": "[Unraveling R(0): considerations for public health applications]",
+        "volume": "38",
+        "year": "2015",
+        "journal-title": "Revista panamericana de salud publica = Pan American journal of public health"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/1560-7917.es.2020.25.4.2000058"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm9020388"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwh255"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086478"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/currents.outbreaks"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.0254-6450.2020.02.001"
+      },
+      {
+        "key": "2020110909551361000_2020.02.21.20026229v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jtm/taaa020"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.21.20026229",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:10Z",
+      "timestamp": 1768484050000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.21.20026229"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "references-count": 24,
+    "URL": "https://doi.org/10.1101/2020.02.21.20026229",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

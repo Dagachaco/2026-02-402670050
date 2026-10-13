@@ -1,0 +1,273 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T07:07:55Z",
+      "timestamp": 1768547275549,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 16,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  By proposing a varying coefficient Susceptible-Infected-Removal model (vSIR), we track the epidemic of COVID-19 in 30 provinces in China and 15 cities in Hubei province, the epicenter of the outbreak. It is found that the spread of COVID-19 has been significantly slowing down within the two weeks from January 27 to February 10th with 87.0% and 84.3% reductions in the reproduction number\n                  <jats:italic>R</jats:italic>\n                  <jats:sub>0</jats:sub>\n                  among the 30 provinces and 15 Hubei cities, respectively. This suggests the extreme control measures implemented since January 23, which include cutting off Wuhan and many other cities and towns, a great public awareness and high level of self isolation at home, have contributed to a substantial decline in the reproductivity of the COVID-19 in China. We predict that Hubei province will reach its peak between February 20 and 22, 2020, and if the removal rate can be increased to 0.1, the epidemic outside Hubei province will end in May 2020, and inside Hubei in early June.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.17.20024257",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2020-02-20T17:15:21Z",
+      "timestamp": 1582218921000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 33,
+    "title": [
+      "Tracking and Predicting COVID-19 Epidemic in China Mainland"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Haoxuan",
+        "family": "Sun",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yumou",
+        "family": "Qiu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Han",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yaxuan",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuru",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Song Xi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.1",
+        "unstructured": "World Health Organization (WHO), Situation report - 26, Available at https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200215-sitrep-26-covid-19.pdf, 2020. [Accessed February 16, 2020]."
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.2",
+        "unstructured": "W. O. Kermack , A. G. McKendrick , A contribution to the mathematical theory of epidemics, Proceedings of the royal society of london. Series A, Containing papers of a mathematical and physical character 115 (1927) 700\u2013721."
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "599",
+        "DOI": "10.1137/S0036144500371907",
+        "article-title": "The mathematics of infectious diseases",
+        "volume": "42",
+        "year": "2000",
+        "journal-title": "SIAM review"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1016/0040-5809(77)90004-1",
+        "article-title": "On a general stochastic epidemic model",
+        "volume": "11",
+        "year": "1977",
+        "journal-title": "Theoretical Population Biology"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.5",
+        "first-page": "287",
+        "volume": "61",
+        "year": "1999",
+        "journal-title": "Statistical studies of infectious disease in-cidence, Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1016/S0378-3758(98)00087-1",
+        "article-title": "Statistical inference for a multitype epidemic model",
+        "volume": "71",
+        "year": "1998",
+        "journal-title": "Journal of statistical planning and inference"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "721",
+        "DOI": "10.2307/1427788",
+        "article-title": "The final size and severity of a generalised stochastic multitype epidemic model",
+        "volume": "25",
+        "year": "1993",
+        "journal-title": "Advances in applied probability"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.8",
+        "unstructured": "J. T. Wu , K. Leung , G. M. Leung , Nowcasting and forecasting the potential domestic and international spread of the 2019-ncov outbreak originating in wuhan, china: a modelling study, The Lancet (2020)."
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. M. Read , J. R. Bridgen , D. A. Cummings , A. Ho , C. P. Jewell , Novel coronavirus 2019-ncov: early estimation of epidemiological parameters and epidemic predictions, medRxiv (2020).",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "B. Tang , X. Wang , Q. Li , N. L. Bragazzi , S. Tang , Y. Xiao , J. Wu , Estimation of the transmission risk of 2019-ncov and its implication for public health interventions, Available at SSRN 3525558 (2020).",
+        "DOI": "10.2139/ssrn.3525558"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2289282"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Q. Li , X. Guan , P. Wu , X. Wang , L. Zhou , Y. Tong , R. Ren , K. S. Leung , E. H. Lau , J. Y. Wong , et al., Early transmission dynamics in wuhan, china, of novel coronavirus\u2013infected pneumonia, New England Journal of Medicine (2020).",
+        "DOI": "10.1056/NEJMoa2001316"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "W. Guan , Z. Ni , Y. Hu , W. Liang , C. Ou , J. He , et al., N. Zhong , Clinical characteristics of 2019 novel coronavirus infection in china, medRxiv (2020).",
+        "DOI": "10.1101/2020.02.06.20020974"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. Chen , M. Zhou , X. Dong , J. Qu , F. Gong , Y. Han , Y. Qiu , J. Wang , Y. Liu , Y. Wei , et al., Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in wuhan, china: a descriptive study, The Lancet (2020).",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.15",
+        "unstructured": "Shenzhen Municipal Affairs Service Data Administration, Latest data, Available at https://opendata.sz.gov.cn/data/dataSet/toDataSet, 2020. [Accessed February 14, 2020]."
+      },
+      {
+        "key": "2020110811051087000_2020.02.17.20024257v1.16",
+        "unstructured": "Shaoyang Municipal Health Commission, Dynamic information on prevention and control of new coronavirus-infected pneumonia in shaoyang, Available at https://wjw.shaoyang.gov.cn/wjw/zyxw/202002/c49df53092784c85aaac769149f30265.shtml, 2020. [Accessed February 14, 2020]."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.17.20024257",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:01Z",
+      "timestamp": 1768484041000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.17.20024257"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1101/2020.02.17.20024257",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.6339/JDS.202007_18(3).0010",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T21:28:34Z",
+      "timestamp": 1772746114034,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "group-title": "Pharmacology and Toxicology",
+    "reference-count": 39,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              28
+            ]
+          ],
+          "date-time": "2020-01-28T00:00:00Z",
+          "timestamp": 1580169600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.biorxiv.org/about/FAQ#license"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  2019-nCov has caused more than 80 deaths as of 27 January 2020 in China, and infection cases have been reported in more than 10 countries. However, there is no approved drug to treat the disease. 2019-nCov M\n                  <jats:sup>pro</jats:sup>\n                  is a potential drug target to combat the virus. We built homology models based on SARS M\n                  <jats:sup>pro</jats:sup>\n                  structures, and docked 1903 small molecule drugs to the models. Based on the docking score and the 3D similarity of the binding mode to the known M\n                  <jats:sup>pro</jats:sup>\n                  ligands, 4 drugs were selected for binding free energy calculations. Both MM/GBSA and SIE methods voted for nelfinavir, with the binding free energy of \u221224.69\u00b10.52 kcal/mol and \u22129.42\u00b10.04 kcal/mol, respectively. Therefore, we suggested that nelfinavir might be a potential inhibitor against 2019-nCov M\n                  <jats:sup>pro</jats:sup>\n                  .\n                </jats:p>",
+    "DOI": "10.1101/2020.01.27.921627",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2020-01-28T17:49:22Z",
+      "timestamp": 1580233762000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 123,
+    "title": [
+      "Nelfinavir was predicted to be a potential inhibitor of 2019-nCov main protease by an integrative approach combining homology modelling, molecular docking and binding free energy calculation"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3063-8473",
+        "authenticated-orcid": false,
+        "given": "Zhijian",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Cheng",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yulong",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhengdan",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kaijie",
+        "family": "Mu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoyu",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6699-5299",
+        "authenticated-orcid": false,
+        "given": "Weiliang",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu, N. ; Zhang, D. ; Wang, W. ; Li, X. ; Yang, B. ; Song, J. ; Zhao, X. ; Huang, B. ; Shi, W. ; Lu, R. ; Niu, P. ; Zhan, F. ; Ma, X. ; Wang, D. ; Xu, W. ; Wu, G. ; Gao, G. F. ; Tan, W. , A Novel Coronavirus from Patients with Pneumonia in China, 2019. The New England journal of medicine 2020.",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu, H. ; Stratton, C. W. ; Tang, Y.-W. , Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle. J. Med. Virol. 2020.",
+        "DOI": "10.1002/jmv.25678"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.3",
+        "first-page": "264",
+        "article-title": "The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China",
+        "volume": "91",
+        "year": "2020",
+        "journal-title": "International journal of infectious diseases: IJID: official publication of the International Society for Infectious Diseases"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, Y. ; Liu, Q. ; Guo, D. , Coronaviruses: genome structure, replication, and pathogenesis. J. Med. Virol. 2020.",
+        "DOI": "10.1002/jmv.26234"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.5",
+        "unstructured": "Jared S. , M.; Tyler, L. ; Shiqing, X. ; Wenshe, L. , Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute Respiratory Infections Caused by 2019-nCoV. 2020."
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky1004"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.7",
+        "unstructured": "Schrodinger, LLC , The PyMOL Molecular Graphics System, Version 2.4. 2019."
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gky427"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkx1037"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.21256"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ci300604z"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.21334"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkh381"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "296",
+        "DOI": "10.1016/j.ejmech.2012.11.013",
+        "article-title": "MolShaCS: a free and open source tool for ligand similarity identification based on Gaussian descriptors",
+        "volume": "59",
+        "year": "2013",
+        "journal-title": "Eur. J. Med. Chem"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.20035"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.10349"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ar000033j"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ja981844+"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ci600406v"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/prot.20033"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.0030324"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2005.09.004"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/jm050548m"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2006.11.078"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/jm0603926"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/jm060207o"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/bi0621415"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bmcl.2007.08.031"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chembiol.2008.04.011"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M807947200"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2011.08.001"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/jm301580n"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01348-12"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bmcl.2013.08.112"
+      },
+      {
+        "issue": "4",
+        "key": "2024080322432175000_2020.01.27.921627v1.35",
+        "doi-asserted-by": "crossref",
+        "first-page": "876",
+        "DOI": "10.1016/j.bmc.2014.12.028",
+        "article-title": "Fused-ring structure of decahydroisoquinolin as a novel scaffold for SARS 3CL protease inhibitors",
+        "volume": "23",
+        "year": "2015",
+        "journal-title": "Bioorg Med Chem"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M115.651463"
+      },
+      {
+        "issue": "17",
+        "key": "2024080322432175000_2020.01.27.921627v1.37",
+        "doi-asserted-by": "crossref",
+        "first-page": "6036",
+        "DOI": "10.1016/j.bmc.2015.06.039",
+        "article-title": "Targeting zoonotic viruses: Structure-based inhibition of the 3C-like protease from bat coronavirus HKU4--The likely reservoir host to the human coronavirus that causes Middle East Respiratory Syndrome (MERS)",
+        "volume": "23",
+        "year": "2015",
+        "journal-title": "Bioorg Med Chem"
+      },
+      {
+        "issue": "22",
+        "key": "2024080322432175000_2020.01.27.921627v1.38",
+        "doi-asserted-by": "crossref",
+        "first-page": "5072",
+        "DOI": "10.1016/j.bmcl.2015.10.023",
+        "article-title": "X-ray structure and inhibition of the feline infectious peritonitis virus 3C-like protease: Structural implications for drug design",
+        "volume": "25",
+        "year": "2015",
+        "journal-title": "Bioorg Med Chem Lett"
+      },
+      {
+        "key": "2024080322432175000_2020.01.27.921627v1.39",
+        "doi-asserted-by": "crossref",
+        "first-page": "334",
+        "DOI": "10.1016/j.ejmech.2018.03.004",
+        "article-title": "Structure-guided design of potent and permeable inhibitors of MERS coronavirus 3CL protease that utilize a piperidine moiety as a novel design element",
+        "volume": "150",
+        "year": "2018",
+        "journal-title": "Eur J Med Chem"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.27.921627",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:57:34Z",
+      "timestamp": 1768435054000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.27.921627"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "references-count": 39,
+    "URL": "https://doi.org/10.1101/2020.01.27.921627",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

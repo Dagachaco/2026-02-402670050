@@ -1,0 +1,286 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:33:09Z",
+      "timestamp": 1768545189273,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 17,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The epidemic caused by the novel coronavirus COVID-19 in Wuhan at the end of 2019 has become an urgent public event of worldwide concern. However, due to the changing data of the epidemic, there is no scientific estimate of the cure rate and case fatality rate of the epidemic. This study proposes a method to estimate the cure rate and case fatality rate of COVID-19. The ratio of cumulative discharges on a given day to the sum of cumulative discharges on a given day and cumulative deaths before j days is used to estimate the cure rate. Moreover, the case fatality ratio can also be estimated. After simulation calculations, j is statistically appropriate when it is 8-10, and it is also clinically appropriate. When j is 9, based on the available data, it is inferred that the cure rate of this epidemic is about 93% and the case fatality rate is about 7%. This method of estimating the cure rate can be used to evaluate the effectiveness of treatment in different medical schemes and different regions, and has great value and significance for decision-making in the epidemic.</jats:p>",
+    "DOI": "10.1101/2020.02.18.20024513",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2020-02-21T00:05:14Z",
+      "timestamp": 1582243514000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Estimating the cure rate and case fatality rate of the ongoing epidemic COVID-19"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Ying",
+        "family": "Diao",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaoyun",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiaofei",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Chen",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuanming",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Changlong",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuan",
+        "family": "She",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Dingfu",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhongli",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.1",
+        "unstructured": "WHO. Statement on the second meeting of the International Health Regulations Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV)(2005). https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2020.01.009"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D. T. Andrea , Outbreak of a novel coronavirus. Nature Reviews Microbiology (2020) https://doi.org/10.1038/s41579-020-0332-0",
+        "DOI": "10.1038/s41579-020-0332-0"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Zhou , X. L. Yang , Z. L. Shi , et.al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature (2020) https://doi.org/10.1038/s41586-020-2012-7.",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-020-00180-8"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Y. Qiu , T. T. Mao , Y. Wang , M. D. Zhou , Z. W. Cao . Identification of potential cross-protective epitope between 2019-nCoV and SARS virus. Journal of Genetics and Genomics (2020), https://doi.org/10.1016/j.jgg.2020.01.003",
+        "DOI": "10.1016/j.jgg.2020.01.003"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. J. Lu , X. Zhao , J. Li , P. H Niu , B. Yang , H. L. Wu , W. L. Wang , H. Song , B. Y. Huang , N. Zhu , Y. H. Bi , X. J. Ma , F. X. Zhan , L. Wang , T. Hu , H. Zhou , Z. H. Hu , W. M. Zhou , et al., Genomic characterisation and epidemiology of 2019 novel coronavirus implications forvirus origins and receptor binding. The Lancet (2020), https://doi.org/10.1016/S0140-6736(20)30251-8.",
+        "DOI": "10.1016/S0140-6736(20)30251-8"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. S. Chen , M. Zhou , X. Dong , J. M. Qu , L. Zhang . Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.The Lancet (2020), https://doi.org/10.1016/S0140-6736(20)30211-7",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. L. Huang , Y. M. Wang , X. W. Li , L. L. Ren , B. Cao . Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.The Lancet (2020). https://doi.org/10.1016/S0140-6736(20)30183-5",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "X. Xu , P. Chen , J. Wang , J. Feng , H. Zhou , X. Li , W. Zhong , P. Hao , Evolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission. Sci China Life Sci. 63 (2020). https://doi.org/10.1007/s11427-020-1637-5",
+        "DOI": "10.1007/s11427-020-1637-5"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. John , China\u2019s response to a novel coronavirus stands in stark contrast to the 2002 SARS outbreak response. Nature Medicine (2020) https://doi.org/10.1038/s41591-020-0771-1",
+        "DOI": "10.1038/s41591-020-0771-1"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.12",
+        "unstructured": "WHO. Summary of probable SARS cases with onset of illness from 1 November 2002 to 31 July 2003. https://www.who.int/csr/sars/country/table2004_04_21/en/"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.13",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Press briefing (Feb 04, 2020). http://www.nhc.gov.cn/xwzb/webcontroller.do?titleSeq=11220&gecstype=1 (accessed)"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.14",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Press briefing (Feb 05, 2020) http://www.nhc.gov.cn/xwzb/webcontroller.do?titleSeq=11221&gecstype=1"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z. Xu , S. Li , S. Tian , H. Li , L. Q. Kong . Full spectrum of COVID-19 severity still being depicted. The Lancet (2020). https://doi.org/10.1016/S0140-6736(20)30308-1",
+        "DOI": "10.1016/S0140-6736(20)30308-1"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "N. Chen , M. Zhou , X. Dong et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet (2020).",
+        "DOI": "10.1016/S0140-6736(20)30211-7"
+      },
+      {
+        "key": "2020110810550882000_2020.02.18.20024513v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.18.20024513",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:03Z",
+      "timestamp": 1768484043000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.18.20024513"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 17,
+    "URL": "https://doi.org/10.1101/2020.02.18.20024513",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1360/tb-2020-0190",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          20
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

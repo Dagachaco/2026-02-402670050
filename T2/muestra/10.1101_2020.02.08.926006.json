@@ -1,0 +1,487 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T12:43:58Z",
+      "timestamp": 1770986638154,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 47,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              11
+            ]
+          ],
+          "date-time": "2020-02-11T00:00:00Z",
+          "timestamp": 1581379200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          16
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  At the end of 2019, the SARS-CoV-2 induces an ongoing outbreak of pneumonia in China\n                  <jats:sup>1</jats:sup>\n                  , even more spread than SARS-CoV infection\n                  <jats:sup>2</jats:sup>\n                  . The entry of SARS-CoV into host cells mainly depends on the cell receptor (ACE2) recognition and spike protein cleavage-induced cell membrane fusion\n                  <jats:sup>3,4</jats:sup>\n                  . The spike protein of SARS-CoV-2 also binds to ACE2 with a similar affinity, whereas its spike protein cleavage remains unclear\n                  <jats:sup>5,6</jats:sup>\n                  . Here we show that an insertion sequence in the spike protein of SARS-CoV-2 enhances the cleavage efficiency, and besides pulmonary alveoli, intestinal and esophagus epithelium were also the target tissues of SARS-CoV-2. Compared with SARS-CoV, we found a SPRR insertion in the S1/S2 protease cleavage sites of SARS-CoV-2 spike protein increasing the cleavage efficiency by the protein sequence aligment and furin score calculation. Additionally, the insertion sequence facilitates the formation of an extended loop which was more suitable for protease recognition by the homology modeling and molicular docking. Furthermore, the single-cell transcriptomes identified that ACE2 and TMPRSSs are highly coexpressed in AT2 cells of lung, along with esophageal upper epithelial cells and absorptive enterocytes. Our results provide the bioinformatics evidence for the increased spike protein cleavage of SARS-CoV-2 and indicate its potential target cells.\n                </jats:p>",
+    "DOI": "10.1101/2020.02.08.926006",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T01:09:40Z",
+      "timestamp": 1581469780000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 52,
+    "title": [
+      "The insert sequence in SARS-CoV-2 enhances spike protein cleavage by TMPRSS"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Tong",
+        "family": "Meng",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Hao",
+        "family": "Cao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hao",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zijian",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Da",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haiyi",
+        "family": "Gong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zifu",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xingang",
+        "family": "Cui",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huji",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haifeng",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiuwu",
+        "family": "Pan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Rongrong",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianru",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wang",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liming",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianmin",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gorbalenya AE , B. S., Baric RS , de Groot RJ , Drosten C , Gulyaeva AA , Haagmans BL , Lauber C , Leontovich AM , Neuman BW , Penzar D , Perlman S , Poon LL , Samborskiy D , Sidorov IA , Sola I , Ziebuhr J. Severe acute respiratory syndrome-related coronavirus: The species and its viruses \u2013 a statement of the Coronavirus Study Group. bioRxiv doi:doi: https://doi.org/10.1101/2020.02.07.937862 (2020).",
+        "DOI": "10.1101/2020.02.07.937862"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)14630-2"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2004.08.008"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30154-9"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P Zhou , X. Y., XG Wang , B Hu , L Zhang , W Zhang , HR Si , Y Zhu , B Li , CL Huang , HD Chen , J Chen , Y Luo , H Guo , RD Jiang , MQ Liu , Y Chen , XR Shen , X Wang , XS Zheng , K Zhao , QJ Chen , F Deng , LL Liu , B Yan , FX Zhan , YY Wang , GF Xiao , Zl Shi . A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, doi:https://doi.org/10.1038/s41586-020-2012-7 (2020).",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tian XL , L. C., Huang A , Xia S , Lu SC , Shi ZL , Lu L , Jiang SB , Yang ZL , Wu YL , Ying TL. Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody. bioRxiv doi:doi: https://doi.org/10.1101/2020.01.28.923011 (2020).",
+        "DOI": "10.1101/2020.01.28.923011"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30183-5"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.micinf.2020.01.004"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2018.12.028"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/viro.2000.0757"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/cr.2016.152"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhao S. R. J. , Musa SS , Yang G , Lou Y , Gao D , Yang L , He D. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. bioRxiv, 916395, doi:doi: https://doi.org/10.1101/2020.01.23.916395 (2020).",
+        "DOI": "10.1016/j.ijid.2020.01.050"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2015.01.011"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virusres.2014.11.021"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2017.11.012"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.02202-13"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1042/BJ20041955"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jvi.00649-19"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001191"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guan WJ , N. Z., Hu Y , Liang WH , Ou CQ , He JX , Liu L , Shan H , Lei CL , Hui David S.C. , Du B Clinical characteristics of 2019 novel coronavirus infection in China. medRxiv, doi:doi: http://dx.doi.org/10.1101/2020.02.06.20020974 (2020).",
+        "DOI": "10.1056/NEJMoa2002032"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro2147"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro.2016.81"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmii.2020.02.001"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature02145"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)13967-0"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aam6603"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1172/JCI68782"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1005338"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biochi.2017.07.016"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17460441.2017.1372417"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku340"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jcc.20084"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/prot.20559"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/protein/gzh013"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/S13059-019-1906-x"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/S41591-019-0468-5"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1164/rccm.201712-2410OC"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/annrheumdis-2018-214865"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.celrep.2019.04.052"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2019.08.008"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2019.06.029"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2019.05.031"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/J.CELL.2019.05.006"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/database/baw100"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1262110"
+      },
+      {
+        "key": "2024080319180909000_2020.02.08.926006v3.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1260419"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.08.926006",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:59:57Z",
+      "timestamp": 1768435197000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.08.926006"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 47,
+    "URL": "https://doi.org/10.1101/2020.02.08.926006",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

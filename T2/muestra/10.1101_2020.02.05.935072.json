@@ -1,0 +1,1105 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T15:06:34Z",
+      "timestamp": 1768489594317,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "group-title": "Immunology",
+    "reference-count": 201,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Wuhan Novel Coronavirus disease (COVID-19) outbreak has become a global outbreak which has raised the concern of scientific community to design and discover a definitive cure against this deadly virus which has caused deaths of numerous infected people upon infection and spreading. To date, no antiviral therapy or vaccine is available which can effectively combat the infection caused by this virus. This study was conducted to design possible epitope-based subunit vaccines against the SARS-CoV-2 virus using the approaches of reverse vaccinology and immunoinformatics. Upon continual computational experimentation three possible vaccine constructs were designed and one vaccine construct was selected as the best vaccine based on molecular docking study which is supposed to effectively act against SARS-CoV-2. Later, molecular dynamics simulation and in silico codon adaptation experiments were carried out in order to check biological stability and find effective mass production strategy of the selected vaccine. Hopefully, this study will contribute to uphold the present efforts of the researches to secure a definitive treatment against this lethal virus.</jats:p>",
+    "DOI": "10.1101/2020.02.05.935072",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2020-02-12T01:15:15Z",
+      "timestamp": 1581470115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 18,
+    "title": [
+      "The Essential Facts of Wuhan Novel Coronavirus Outbreak in China and Epitope-based Vaccine Designing against COVID-19"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Bishajit",
+        "family": "Sarkar",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Md. Asad",
+        "family": "Ullah",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fatema Tuz",
+        "family": "Johora",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Masuma Afrin",
+        "family": "Taniya",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yusha",
+        "family": "Araf",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/viro.2000.0757"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paules C , Marston H , Fauci A . Coronavirus Infections\u2014More Than Just the Common Cold. JAMA. 2020;.",
+        "DOI": "10.1001/jama.2020.0757"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MMBR.69.4.635-664.2005"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nm1024"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fehr A , Perlman S . Coronaviruses: An Overview of Their Replication and Pathogenesis. Coronaviruses. 2015:1\u201323.",
+        "DOI": "10.1007/978-1-4939-2438-7_1"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.78.14.7523-7527.2004"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang C , Wang Y , Li X , Ren L , Zhao J , Hu Y et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. 2020;",
+        "DOI": "10.1016/S0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.8",
+        "unstructured": "Transmission of Novel Coronavirus (2019-nCoV) | CDC [Internet]. Cdc.gov. 2020 [cited 29 January 2020]. Available from: https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.9",
+        "unstructured": "Coronavirus [Internet]. En.wikipedia.org. 2020 [cited 29 January 2020]. Available from: https://en.wikipedia.org/wiki/Coronavirus"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.10",
+        "unstructured": "Nawrat A , Nawrat A , Nawrat A. Coronavirus outbreak: the story and response so far [Internet]. Pharmaceutical-technology.com. 2020 [cited 29 January 2020]. Available from: https://www.pharmaceutical-technology.com/features/coronavirus-outbreak-responding-china-wuhan/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Li G , Fan Y , Lai Y , Han T , Li Z , Zhou P et al. Coronavirus Infections and Immune Responses. Journal of Medical Virology. 2020.",
+        "DOI": "10.1002/jmv.25685"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/path.4454"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tim.2016.03.003"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.14",
+        "unstructured": "Zablon F , Aryal S. The Novel Coronavirus, 2019-nCoV: An Overview - The Biology Notes [Internet]. The Biology Notes. 2020 [cited 29 January 2020]. Available from: https://thebiologynotes.com/the-novel-coronavirus-2019-ncov-an-overview/?fbclid=IwAR2-trLcg9k8RWqGA5aLRpEMgLTDGlON-ZJIahUf26bkYRXVvNV4EHYDAFY"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhu N , Zhang D , Wang W , Li X , Yang B , Song J et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England Journal of Medicine. 2020;",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.16",
+        "unstructured": "How dangerous is China\u2019s latest viral outbreak? | Financial Times [Internet]. Ft.com. 2020 [cited 29 January 2020]. Available from: https://www.ft.com/content/7a80b8c6-362c-11ea-a6d3-9a26f8c3cba4"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.17",
+        "unstructured": "Lu R , Zhao X , Li J , Niu P , Yang B , Wu H , et al. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. The Lancet. 2020;."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang C , Horby P , Hayden F , Gao G . A novel coronavirus outbreak of global health concern. The Lancet. 2020;.",
+        "DOI": "10.1016/S0140-6736(20)30185-9"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Perlman S. Another Decade, Another Coronavirus. New England Journal of Medicine. 2020.",
+        "DOI": "10.1056/NEJMe2001126"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.20",
+        "unstructured": "Ji W , Wang W , Zhao X , Zai J , Li X . Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross-species transmission from snake to human. Journal of Medical Virology. 2020;."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.21",
+        "unstructured": "McKay, B. (2020, January 23). What we know about coronavirus. The wall street journal. Retrieved from: https://www.wsj.com/articles/what-we-know-about-the-wuhan-virus-11579716128"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.22",
+        "unstructured": "Christensen, J. , & Senthilingam, M. (2020, January 22). Coronavirus explained: What you need to know. CNN. Retrieved from : https://edition.cnn.com/2020/01/20/health/what-is-coronavirus-explained/index.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.23",
+        "unstructured": "Lee, Y. (2020, January 19). New coronavirus outbreak in Chinese city of Wuhan. Reuters. Retrieved from: https://www.reuters.com/article/us-china-health-pneumonia-factbox/factbox-new-coronavirus-outbreak-in-chinese-city-of-wuhan-idUSKBN1ZI04G"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.24",
+        "unstructured": "Here\u2019s Everything You Need to Know About The Coronavirus Spreading From China. (2020, January 21). Science alert. Retrieved from: https://www.sciencealert.com/here-s-everything-you-need-to-know-about-china-s-mysterious-virus"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.25",
+        "unstructured": "Roxburgh, H. (2020, January 21). Here\u2019s What Scientists Know So Far About The \u2019Novel Coronavirus\u2019 From China. Science alert. Retrieved from: https://www.sciencealert.com/here-s-what-scientists-know-so-far-about-the-novel-coronavirus-from-china"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.26",
+        "unstructured": "Nawrat, A. (2020, January 22). Coronavirus outbreak: the story so far. Pharmaceutical technology. Retrieved from : https://www.pharmaceutical-technology.com/features/coronavirus-outbreak-responding-china-wuhan/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.27",
+        "unstructured": "China reports 1st death from new type of coronavirus. (2020, January 11). The Asahi Shimbun. Retrieved from : http://www.asahi.com/ajw/articles/AJ202001110026.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.28",
+        "unstructured": "Qin, A. , & Hern\u00e1ndez, J. c. (2020, January 21). China Reports First Death From New Virus. The New York Times. Retrieved from : https://www.nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.29",
+        "unstructured": "China says second person dies in Wuhan pneumonia outbreak. (2020, January 17). Reuters. Retrieved from : https://www.reuters.com/news/picture/china-says-second-person-dies-in-wuhan-p-idUSKBN1ZG01B"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.30",
+        "unstructured": "Hodal, K. , Boseley, S. , & Wahlquist, C. (2020, January 18). Coronavirus: more cases and second death reported in China. The Guardian. Retrieved from : https://www.theguardian.com/world/2020/jan/17/corona-second-death-in-china-after-sars-like-outbreak"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.31",
+        "unstructured": "Gardner, L. (2020, January 23). Mapping the Wuhan Coronavirus (2019-nCoV). Retrieved from The Center for Systems Science and Engineering (CSSE) at JHU: https://systems.jhu.edu/research/public-health/ncov/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.32",
+        "unstructured": "Bai, N. (2020, January 24). As Mysterious Coronavirus Spreads, An Infectious Disease Expert Explains What You Should Know. Retrieved from University of California San Francisco News: https://www.ucsf.edu/news/2020/01/416511/mysterious-coronavirus-spreads-infectious-disease-expert-explains-what-you"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.33",
+        "unstructured": "Schumaker, E. (2020, January 20). Human-to-human transmission of new coronavirus reported in China. abc News. Retrieved from : https://abcnews.go.com/Health/human-human-transmission-coronavirus-reported-china/story?id=68403105"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.34",
+        "unstructured": "China confirms human-to-human transmission of new coronavirus. (2020, January 20). Al Jazeera. Retrieved from : https://www.aljazeera.com/news/2020/01/china-confirms-human-human-transmission-coronavirus-200120162507948.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.35",
+        "unstructured": "Akpan, N. (2020, January 21). New coronavirus can spread between humans\u2014but it started in a wildlife market. National Geographic. Retrieved from : https://www.nationalgeographic.com/science/2020/01/new-coronavirus-spreading-between-humans-how-it-started/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.36",
+        "unstructured": "China confirms spread of coronavirus, surge in new infections. (2020, January 20). Al Jazeera. Retrieved from : https://www.aljazeera.com/news/2020/01/china-reports-3rd-death-140-cases-coronavirus-200120003807454.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.37",
+        "unstructured": "The Wuhan crisis . (2020, January 25). The Economist, pp. 46\u201347. Retrieved from : file:///D:/papers/coronavirus/(Vol.%20434%20No.%209178)%20The%20Economist%20-%20The%20Economist%20(January%2025th%202020)-The%20Economist%20(2020).pdf"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.38",
+        "unstructured": "Rabin, R. C. (2020, January 21). First Patient With Wuhan Coronavirus Is Identified in the U.S. The New York Times. Retrieved from : https://www.nytimes.com/2020/01/21/health/cdc-coronavirus.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.39",
+        "unstructured": "Liu, R. , Hua, J. , & Munroe, T. (2020, January 24). China confirms 830 coronavirus cases, with 25 deaths. Reuters. Retrieved from : https://www.reuters.com/article/us-china-health-toll/china-confirms-830-coronavirus-cases-with-25-deaths-idUSKBN1ZN01Q"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.40",
+        "unstructured": "Wang, Y . (2020, January 23). China confirms 26 deaths related to coronavirus, expands lockdown. CityNews. Retrieved from : https://toronto.citynews.ca/2020/01/23/china-confirms-25-deaths-related-to-coronavirus/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.41",
+        "unstructured": "Tan, W. , & Tan, J. (2020, January 23). China coronavirus: The confirmed cases and where they are. CNBC. Retrieved from : https://www.cnbc.com/2020/01/23/china-coronavirus-confirmed-cases-and-where-they-are.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.42",
+        "unstructured": "France confirms first European coronavirus cases. (2020, January 25). Al Jazeera. Retrieved from : https://www.aljazeera.com/news/2020/01/france-confirms-european-coronavirus-cases-200124195752666.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.43",
+        "unstructured": "Coronavirus cases in France: What you need to know. (2020, January 28). THE LOCAL. Retrieved from : https://www.thelocal.fr/20200129/coronavirus-in-france-what-you-need-to-know"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.44",
+        "unstructured": "Overstraeten, B. V. , & Lefief, J. -P. (2020, January 25). France confirms first three cases of coronavirus in Europe. Reuters. Retrieved from : https://www.reuters.com/article/us-china-health-france/france-confirms-first-two-cases-of-coronavirus-idUSKBN1ZN2CW"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.45",
+        "unstructured": "Coronavirus: Wuhan shuts public transport over outbreak. (2020, January 23). BBC News. Retrieved from : https://www.bbc.com/news/world-asia-china-51215348"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.46",
+        "unstructured": "Liu, R. , Hua, J. , & Lee, S. Y. (2020, January 25). China confirms 1,287 coronavirus cases, with 41 deaths. Reuters. Retrieved from : https://www.reuters.com/article/us-china-health-toll/china-confirms-1287-coronavirus-cases-with-41-deaths-idUSKBN1ZO017"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.47",
+        "unstructured": "Ratcliffe, R. , Yang, L. , & Campbell, D. (2020, January 24). Coronavirus: death toll reaches 41 in China with first cases in Europe. The Guardian. Retrieved from : https://www.theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.48",
+        "unstructured": "China coronavirus outbreak: All the latest updates. (2020, January 25). Al Jazeera. Retrieved from : https://www.aljazeera.com/news/2020/01/china-coronavirus-outbreak-latest-updates-200123133559818.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.49",
+        "unstructured": "Sun, Y. , Shen, S. , & Lee, V. (2020, January 26). Death toll from coronavirus outbreak in China at 56: state media. Reuters. Retrieved from : https://www.reuters.com/article/us-china-health-toll/death-toll-from-coronavirus-outbreak-in-china-at-56-state-media-idUSKBN1ZP014"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.50",
+        "unstructured": "China virus death toll rises to 56, with nearly 2,000 infected. (2020, January 26). Al Jazeera. Retrieved from : https://www.aljazeera.com/news/2020/01/china-virus-death-toll-rises-56-2000-infected-200126025109758.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.51",
+        "unstructured": "Coronavirus deaths hit 56; China bans wildlife trade. (2020, January 26). The Asahi Shimbun. Retrieved from : http://www.asahi.com/ajw/articles/AJ202001260023.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.52",
+        "unstructured": "China virus death toll now at 81, more than 2,700 cases confirmed. (2020, January 27). Al Jazeera. Retrieved from : https://www.aljazeera.com/news/2020/01/china-virus-toll-spikes-80-2700-cases-confirmed-200127004443733.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.53",
+        "unstructured": "Otte, J. , Weaver, M. , & Rourke, A. (2020, January 27). China virus death toll hits 82 as 73 test negative in UK \u2013 as it happened. The Guardian. Retrieved from : https://www.theguardian.com/world/live/2020/jan/27/coronavirus-china-death-toll-climbs-to-80-with-more-than-2700-cases-live-updates"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.54",
+        "unstructured": "Coronavirus Death Toll Reaches 81 in China as Disease Spreads Around the World. (2020, January 27). Democracy Now. Retrieved from : https://www.democracynow.org/2020/1/27/headlines/coronavirus_death_toll_reaches_81_in_china_as_disease_spreads_around_the_world"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.55",
+        "unstructured": "Singh, K. , & Maxwell, K. (2020, January 28). Germany identifies first case of coronavirus. Reuters. Retrieved from : https://www.reuters.com/article/us-china-health-germany/germany-identifies-first-case-of-deadly-coronavirus-idUSKBN1ZR057"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.56",
+        "unstructured": "Germany confirms 1st case of new virus from China. (2020, January 28). The Washington Post. Retrieved from : https://www.washingtonpost.com/world/asia_pacific/germany-confirms-1st-case-of-new-virus-from-china/2020/01/28/e6187e12-4198-11ea-99c7-1dfd4241a2fe_story.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.57",
+        "unstructured": "China battles coronavirus outbreak: All the latest updates. (2020, January 28). Al Jazeera. Retrieved from : https://www.aljazeera.com/news/2020/01/cloneofchina-battles-coronavirus-outbreak-latest-200127233550044.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.58",
+        "unstructured": "Bacon, J. (2020, January 28). Americans flee Wuhan: Coronavirus deaths, infections boom in China. USA TODAY. Retrieved from : https://www.usatoday.com/story/news/nation/2020/01/28/coronavirus-americans-evacuated-wuhan-hong-kong/4595206002/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.59",
+        "unstructured": "Wilson, A . (2020, January 28). Countries Begin Evacuating Citizens From Wuhan. Foreign Policy. Retrieved from : https://foreignpolicy.com/2020/01/28/evacuating-citizens-wuhan-virus-eu-united-states-china-health/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.60",
+        "unstructured": "Feuer, W., Jr , B. L., & Bhattacharjee, R. (2020, January 29). Coronavirus live updates: Outbreak is \u2018grave concern\u2019 as infections spread beyond China. CNBC. Retrieved from : https://www.cnbc.com/2020/01/29/coronavirus-latest-updates.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.61",
+        "unstructured": "Jet evacuates Americans from China outbreak zone. (2020, January 29). The Asahi Shimbun. Retrieved from : http://www.asahi.com/ajw/articles/AJ202001290017.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.62",
+        "unstructured": "Pollmann, M. (2020, January 30). Japan Begins Evacuating Citizens From Outbreak-Hit Wuhan. THE DIPLOMAT. Retrieved from : https://thediplomat.com/2020/01/japan-begins-evacuating-citizens-from-outbreak-hit-wuhan/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.63",
+        "unstructured": "Coronavirus spread now a global emergency declares World Health Organization. (2020, January 30). UN News. Retrieved from : https://news.un.org/en/story/2020/01/1056372"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.64",
+        "unstructured": "Deaths Surpass 200, and State Department Urges Against Travel to China. (2020, January 30). The New York Times. Retrieved from : https://www.nytimes.com/2020/01/30/world/asia/coronavirus-china.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.65",
+        "unstructured": "Confirmed Coronavirus Cases Climb to 9826 Globally \u2013 213 Deaths in China. (2020, January 31). SciTechDaily. Retrieved from : https://scitechdaily.com/confirmed-coronavirus-cases-climb-to-9826-globally-213-deaths-in-china/"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.66",
+        "unstructured": "Lee, J. (2020, January 31). China reports 213 deaths from coronavirus; State Department warns against travel to China. Market CWatch. Retrieved from : https://www.marketwatch.com/story/china-reports-213-deaths-from-coronavirus-state-department-warns-against-travel-to-china-2020-01-31"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.67",
+        "unstructured": "China virus death toll rises to 258, more than 11K infected. (2020, February 1). DAILY SABAH. Retrieved from : https://www.dailysabah.com/asia/2020/02/01/china-virus-death-toll-rises-to-258-more-than-10k-infected"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.68",
+        "unstructured": "Slawson, N. , Parveen, N. , Gayle, D. , & Rourke, A. (2020, February 1). China virus death toll rises to 258. The Guardian. Retrieved from : https://www.theguardian.com/world/live/2020/jan/31/coronavirus-live-updates-china-wuhan-death-toll-who-global-health-emergency-latest-news"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.69",
+        "unstructured": "Coronavirus: German evacuation flight lands in Frankfurt. (2020, February 1). D W Made for Minds. Retrieved from : https://www.dw.com/en/coronavirus-german-evacuation-flight-lands-in-frankfurt/a-52223609"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.70",
+        "unstructured": "Ramzy, A. , & May, T. (2020, February 2). Philippines Reports First Coronavirus Death Outside China. The New York Times. Retrieved from : https://www.nytimes.com/2020/02/03/world/asia/coronavirus-china.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.71",
+        "unstructured": "The death toll passed 360, with more than 17,000 infections confirmed. (2020, February 2). The New York Times. Retrieved from : https://www.nytimes.com/2020/02/02/world/asia/china-coronavirus.html#link-5d8d5fc4"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.72",
+        "unstructured": "Australia coronavirus: Hundreds evacuated to Christmas Island. (2020, February 3). BBC News. Retrieved from : https://www.bbc.com/news/world-australia-51352145"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.73",
+        "unstructured": "In Pictures: Inside Wuhan\u2019s fast-built hospital. (2020, February 3). Al Jazeera. Retrieved from : https://www.aljazeera.com/indepth/inpictures/pictures-wuhan-fast-built-hospital-200203080542994.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.74",
+        "unstructured": "Wang, J. , Zhu, E. , & Umlauf, T. (2020, February 3). How China Built a Coronavirus Hospital in 10 Days. The Wall Street ournal. Retrieved from : https://www.wsj.com/articles/how-china-can-build-a-coronavirus-hospital-in-10-days-11580397751"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.75",
+        "unstructured": "Coronavirus update 3 Feb: 3 confirmed cases in India, worldwide death toll reaches 362, GSK collaborates on vaccine and more. (2020, February 3). Firstpost. Retrieved from : https://www.firstpost.com/health/coronavirus-update-3-feb-3-confirmed-cases-in-india-worldwide-death-toll-reaches-362-gsk-collaborates-on-vaccine-and-more-7996001.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.76",
+        "unstructured": "Reid, D. (2020, January 30). India confirms its first coronavirus case. CNBC. Retrieved from : https://www.cnbc.com/2020/01/30/india-confirms-first-case-of-the-coronavirus.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.77",
+        "unstructured": "India reports 2nd case of novel coronavirus: Ker govt says awaiting results from NIV. (2020, February 2). The Economic Times. Retrieved from : https://economictimes.indiatimes.com/news/politics-and-nation/india-reports-second-case-of-novel-coronavirus/articleshow/73863406.cms"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.78",
+        "unstructured": "Choudhury, S. R. , & Wang, C. (2020, February 3). Coronavirus updates: Hong Kong reports first death as mainland China cases cross 20,000. CNBC. Retrieved from : https://www.cnbc.com/2020/02/04/coronavirus-latest-updates-china-hubei.html"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.79",
+        "unstructured": "Moritsugu, K. (2020, February 4). China virus death toll rises to 425, total cases now 20,438. AP News. Retrieved from : https://apnews.com/aa083296d7e340024e612e020ba1ab01"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.80",
+        "unstructured": "Delaney, R. , Zheng, W. , Wu, W. , Zhou, L. , & Ng, T. (2020, February 4). Tough penalties for spreading coronavirus as deaths in China hit 425. South China Morning Post. Retrieved from : https://www.scmp.com/news/china/society/article/3048815/coronavirus-china-death-toll-hits-425-new-cases-hubei-jump"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.81",
+        "unstructured": "Master, Farah and Woo, Ryan . (2020, February 5). China virus claims second life off mainland, Macau casinos told to close. Reuters. Retrieved from: https://www.reuters.com/article/us-china-health/china-virus-claims-second-life-off-mainland-macau-casinos-told-to-close-idUSKBN1ZY05A."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.82",
+        "unstructured": "Field Briefing: Diamond Princess COVID-19 Cases. National Institute of Infectious Diseases. (2020, February 19). Retrieved from : https://www.niid.go.jp/niid/en/2019-ncov-e/9407-covid-dp-fe-01.html."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.83",
+        "unstructured": "Number of coronavirus cases on cruise ship surges to 61. (2020, February 7)The Asahi Shimbun. Retrieved from: http://www.asahi.com/ajw/articles/13108266"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.84",
+        "unstructured": "Xiong, Yong , Alam, Hande Atay and Gan, Nectar . (2020, February 7). Wuhan hospital announces death of whistleblower doctor Li Wenliang. CNN. Retrieved from: https://edition.cnn.com/2020/02/06/asia/li-wenliang-coronavirus-whistleblower-doctor-dies-intl/index.html."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.85",
+        "unstructured": "Ratcliffe, Rebecca . (2020, February 7). Cruise operator bans Chinese nationals from its ships \u2013 as it happened. The Guardian. Retrieved from:https://www.theguardian.com/world/live/2020/feb/07/coronavirus-live-updates-in-china-wuhan-coronavirus-outbreak-cruise-ship-doctor-japan."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.86",
+        "unstructured": "Tan, Yvette . (2020, February 12). Coronavirus: Are cruise ships really \u2019floating Petri dishes\u2019? BBC News. Retrieved from: https://www.bbc.com/news/world-asia-51470603."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.87",
+        "unstructured": "China\u2019s Hubei Reports 139 New Coronavirus Deaths on Feb. 15. (2020, February 15). US News. Retrieved from: https://www.usnews.com/news/world/articles/2020-02-15/chinas-hubei-reports-139-new-coronavirus-deaths-on-feb-15."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.88",
+        "unstructured": "Chinese tourist in France is Europe\u2019s first coronavirus death. (2020, February 15). Al Jazeera. Retrieved from: https://www.aljazeera.com/news/2020/02/chinese-tourist-france-europe-coronavirus-death-200215152240577.html."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.89",
+        "unstructured": "China coronavirus outbreak: All the latest updates. (2020, February 19). Al Jazeera. Retrieved from: https://www.aljazeera.com/news/2020/02/cloneof200215224437270-200216231809757.html."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.90",
+        "unstructured": "China urges recovered patients to donate plasma as Covid-19 death toll rises above 2,000. (2020, February 19). South China Morning Post. Retrieved from: https://www.scmp.com/video/hong-kong/3051413/china-urges-recovered-patients-donate-plasma-covid-19-death-toll-rises."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.91",
+        "unstructured": "Coronavirus: Two passengers dead from quarantined Diamond Princess. (2020, February 20). BBC News. Retrieved from: https://www.bbc.com/news/world-asia-51568496."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.92",
+        "unstructured": "Japan reports its 1st coronavirus infection in child under 10. (2020, February 21). The Asahi Shimbun. Retrieved from: http://www.asahi.com/ajw/articles/13152960."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.93",
+        "unstructured": "Cha, Sangmi . (2020, February 22). South Korea coronavirus cases surge due to church, hospital outbreaks. Reuters. Retrieved rom: https://www.reuters.com/article/us-china-health-southkorea-cases/south-korea-coronavirus-cases-surge-due-to-church-hospital-outbreaks-idUSKBN20G02F."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.94",
+        "unstructured": "Sun, Yilei and Singh, Shivani . (2020, February 23). New coronavirus cases fall in China, but WHO concerned by global spread. Reuters. Retrieved from: https://www.reuters.com/article/us-china-health/new-coronavirus-cases-fall-in-china-but-who-concerned-by-global-spread-idUSKCN20G05W."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.95",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fehr AR , Perlman S . Coronaviruses: an overview of their replication and pathogenesis. InCoronaviruses 2015 (pp. 1\u201323). Humana Press, New York, NY.",
+        "DOI": "10.1007/978-1-4939-2438-7_1"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2013.12.009"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.virol.2005.06.046"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.98",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cavanagh D . The coronavirus surface glycoprotein. InThe coronaviridae 1995 (pp. 73\u2013113). Springer, Boston, MA.",
+        "DOI": "10.1007/978-1-4899-1531-3_5"
+      },
+      {
+        "issue": "8",
+        "key": "2020031105541563000_2020.02.05.935072v2.99",
+        "doi-asserted-by": "crossref",
+        "first-page": "8865",
+        "DOI": "10.1096/fj.201802418R",
+        "article-title": "Severe acute respiratory syndrome coronavirus ORF3a protein activates the NLRP3 inflammasome by promoting TRAF3-dependent ubiquitination of ASC",
+        "volume": "33",
+        "year": "2019",
+        "journal-title": "The FASEB Journal"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.100",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rottier PJ . The coronavirus membrane glycoprotein. InThe Coronaviridae 1995 (pp. 115\u2013139). Springer, Boston, MA.",
+        "DOI": "10.1007/978-1-4899-1531-3_6"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.101",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chong, L.C. and Khan, A.M ., 2019. Vaccine Target Discovery. DOI: https://doi.org/10.1016/b978-0-12-809633-8.20100-3",
+        "DOI": "10.1016/B978-0-12-809633-8.20100-3"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.102",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mar\u00eda RR , Arturo CJ , Alicia JA , Paulina MG , Gerardo AO . The impact of bioinformatics on vaccine design and development. InTech, Rijeka, Croatia; 2017 Sep 6. DOI: https://doi.org/10.5772/intechopen.69273",
+        "DOI": "10.5772/intechopen.69273"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-8-4"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2006.09.032"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.105",
+        "unstructured": "Doytchinova IA , Flower DR . Bioinformatic approach for identifying parasite and fungal candidate subunit vaccines. Open Vaccine J 2008;1:4."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-8-4"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2006.09.032"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.108",
+        "unstructured": "Doytchinova IA , Flower DR . Bioinformatic approach for identifying parasite and fungal candidate subunit vaccines. Open Vaccine J 2008;1:4."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1385/1-59259-890-0:571"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.110"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/9858"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1745-7580-2-2"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.113",
+        "unstructured": "Website: http://tools.iedb.org/bcell/help/. Accessed on: 17 February, 2020."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/17.7.646"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00894-014-2278-5"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btt619"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.117",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gupta S , Kapoor P , Chaudhary K , Gautam A , Kumar R , Raghava GP , Open Source Drug Discovery Consortium. In silico approach for predicting toxicity of peptides and proteins. PloS one. 2013;8(9). DOI: https://doi.org/10.1371/journal.pone.0073957",
+        "DOI": "10.1371/journal.pone.0073957"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.118",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00251-013-0714-9"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkw329"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/ct500592m"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.121",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gks419"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.122",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mar\u00eda RA , Arturo CV , Alicia JA , Paulina ML , Gerardo AO . The impact of bioinformatics on vaccine design and development. InTech, Rijeka, Croatia; 2017.",
+        "DOI": "10.5772/intechopen.69273"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/3-540-45784-4_14"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gki481"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.125",
+        "unstructured": "Gujjula KR. Prediction and comparison of hiv-1 protease inhibitor binding energies by various molecular docking methods (Doctoral dissertation)."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.126"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.127",
+        "unstructured": "Dassault Syst\u00e8mes BIOVIA , Discovery Studio Visualizer , v19.1.0.1828 (2019), San Diego: Dassault Syst\u00e8mes."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.128"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro2745"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/vaccines2020323"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.131",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0702130104"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0104351"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.meegid.2016.12.010"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.134",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmicb.2016.00206"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1423-0127-17-88"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkl343"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.137",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkz297"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jmbi.1999.3091"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.139",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0015079"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.140",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nprot.2012.085"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.141",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btt210"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.142",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/prot.23175"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.143",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkw336"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.144",
+        "first-page": "119",
+        "article-title": "3Drefine: Consistent protein structure refinement by optimizing hydrogen bonding network and atomic-level energy minimization. Proteins: Struct, Funct",
+        "volume": "81",
+        "year": "2013",
+        "journal-title": "Bioinf"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.145",
+        "unstructured": "Laskowski RA , MacArthur MW , Thornton JM . PROCHECK: validation of protein-structure coordinates. Int Tab Crystallography 2006;F:722-725."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.146",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/prot.340120407"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.147",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-14-346"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.148",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/protein/12.7.535"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.149",
+        "unstructured": "http://cptweb.cpt.wayne.edu/DbD2/help.php. Accessed on: 17 February, 2020."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.150",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/138161209789105171"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.151",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.addr.2007.11.003"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.152",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jmb.2013.11.024"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.153",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Smith EC , Denison MR . Coronaviruses as DNA wannabes: a new model for the regulation of RNA virus replication fidelity. PLoS pathogens. 2013 Dec;9(12).",
+        "DOI": "10.1371/journal.ppat.1003760"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.154"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.155",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nprot.2016.169"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.156"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.157",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vangone A , Bonvin AM . Contacts-based prediction of binding affinity in protein\u2013protein complexes. Elife 2015;4:e07454.",
+        "DOI": "10.7554/eLife.07454"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.158",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btw514"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.159",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmr.2266"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.160",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkz397"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.161",
+        "first-page": "69",
+        "article-title": "Assessing the performance of the MM/PBSA and MM/GBSA methods. 1. The accuracy of binding free energy calculations based on molecular dynamics simulations",
+        "volume": "51",
+        "year": "2010",
+        "journal-title": "J Chem Inf Model"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.162",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13321-017-0254-7"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.163",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/C4CP01388C"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.164",
+        "unstructured": "The PyMOL Molecular Graphics System, Version 1.2r3pre, Schr\u00f6dinger, LLC."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.165",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms18010139"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.166"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.167",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gku339"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.168",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btr497"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.169",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/prot.20151"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.170",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gki376"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.171",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.10.901678"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.172",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/biot.201000332"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.173",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep41926"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.174",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btg272"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.175",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1423-0127-17-88"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.176",
+        "unstructured": "http://raptorx.uchicago.edu/documentation/. Accessed on: 20 February, 2020."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.177",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nprot.2012.085"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.178",
+        "first-page": "1125",
+        "article-title": "Homology modeling and sequence analysis of anxC3",
+        "volume": "2",
+        "year": "2010",
+        "journal-title": "Int J Eng Sci Technol"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.179",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1107/S0021889892009944"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.180",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3923/jbs.2018.178.191"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.181",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-14-346"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.182",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-019-40055-1"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.183"
+      },
+      {
+        "issue": "1",
+        "key": "2020031105541563000_2020.02.05.935072v2.184",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1128/JVI.66.1.386-398.1992",
+        "article-title": "Identification and characterization of vaccinia virus genes encoding proteins that are highly antigenic in animals and are immunodominant in vaccinated humans",
+        "volume": "66",
+        "year": "1992  1",
+        "journal-title": "Journal of virology"
+      },
+      {
+        "issue": "1",
+        "key": "2020031105541563000_2020.02.05.935072v2.185",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1128/JVI.66.1.386-398.1992",
+        "article-title": "Identification and characterization of vaccinia virus genes encoding proteins that are highly antigenic in animals and are immunodominant in vaccinated humans",
+        "volume": "66",
+        "year": "1992  1",
+        "journal-title": "Journal of virology"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.186",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pro.5560041120"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.187",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0003-2697(89)90602-7"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.188",
+        "first-page": "1895",
+        "article-title": "Thermostability and aliphatic index of globular proteins",
+        "volume": "88",
+        "year": "1980",
+        "journal-title": "J Biochem"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.189",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.02.20016311"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.190",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-2836(82)90515-0"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.191",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1074-7613(00)80014-X"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.192",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ni0503-431"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.193",
+        "unstructured": "Pavli P , Hume DA , Van De Pol E , Doe WF . Dendritic cells, the major antigen-presenting cells of the human colonic lamina propria. Immunology 1993;78:132."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.194",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.7537388"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.195",
+        "unstructured": "Cano RL , Lopera HD . Introduction to T and B lymphocytes. In Autoimmunity: From Bench to Bedside [Internet] 2013. El Rosario University Press."
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.196",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(13)60177-4"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.197",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1022969101804"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.198",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s2221-1691(15)30366-x"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.199",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.coi.2014.01.009"
+      },
+      {
+        "key": "2020031105541563000_2020.02.05.935072v2.200",
+        "unstructured": "Stratton K , Almario DA , McCormick MC , Institute of Medicine (US) Immunization Safety Review Committee. Immunization safety review: SV40 contamination of polio vaccine and cancer. InImmunization Safety Review: SV40 Contamination of Polio Vaccine and Cancer 2002. National Academies Press (US)."
+      },
+      {
+        "issue": "4",
+        "key": "2020031105541563000_2020.02.05.935072v2.201",
+        "first-page": "327",
+        "article-title": "Virus like particles-A recent advancement in vaccine development",
+        "volume": "55",
+        "year": "2019  31",
+        "journal-title": "Korean Journal of Microbiology"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.05.935072",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T00:00:22Z",
+      "timestamp": 1768435222000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.02.05.935072"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "references-count": 201,
+    "URL": "https://doi.org/10.1101/2020.02.05.935072",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

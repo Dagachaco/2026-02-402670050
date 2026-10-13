@@ -1,0 +1,173 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:34:09Z",
+      "timestamp": 1768545249359,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 7,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The recent outbreak of the Covid-19 suggests a rather long latent phase that precludes public health officials to predict the pandemic transmission on time. Here we apply mass action laws and chemical transition theory to propose a kinetic model that accounts for viral transmission dynamics at the latent phase. This model is useful for authorities to make early preventions and control measurements that stop the spread of a deadly new virus.</jats:p>",
+    "DOI": "10.1101/2020.02.22.20026815",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2020-02-25T19:25:12Z",
+      "timestamp": 1582658712000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Applying chemical reaction transition theory to predict the latent transmission dynamics of coronavirus outbreak in China"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0999-8546",
+        "authenticated-orcid": false,
+        "given": "Peng",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110910051083000_2020.02.22.20026815v1.1",
+        "unstructured": "Chen, N. , et al., Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet."
+      },
+      {
+        "key": "2020110910051083000_2020.02.22.20026815v1.2",
+        "unstructured": "Li, Q. , et al., Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus\u2013Infected Pneumonia. New England Journal of Medicine, 2020."
+      },
+      {
+        "key": "2020110910051083000_2020.02.22.20026815v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, T. , et al., A mathematical model for simulating the transmission of Wuhan novel Coronavirus. bioRxiv, 2020: p. 2020.01.19.911669.",
+        "DOI": "10.1101/2020.01.19.911669"
+      },
+      {
+        "key": "2020110910051083000_2020.02.22.20026815v1.4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Read, J.M. , et al., Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. medRxiv, 2020: p. 2020.01.23.20018549.",
+        "DOI": "10.1101/2020.01.23.20018549"
+      },
+      {
+        "key": "2020110910051083000_2020.02.22.20026815v1.5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang, C. and M. Wang , MRCA time and epidemic dynamics of the 2019 novel coronavirus. bioRxiv, 2020: p. 2020.01.25.919688.",
+        "DOI": "10.1101/2020.01.25.919688"
+      },
+      {
+        "key": "2020110910051083000_2020.02.22.20026815v1.6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothe, jC. , et al., Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany. New England Journal of Medicine, 2020.",
+        "DOI": "10.1056/NEJMc2001468"
+      },
+      {
+        "key": "2020110910051083000_2020.02.22.20026815v1.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Liu, T. , et al., Transmission dynamics of 2019 novel coronavirus (2019-nCoV). bioRxiv, 2020: p. 2020.01.25.919787.",
+        "DOI": "10.1148/radiol.2020200257"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.22.20026815",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:34:11Z",
+      "timestamp": 1768484051000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.22.20026815"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 7,
+    "URL": "https://doi.org/10.1101/2020.02.22.20026815",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          25
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

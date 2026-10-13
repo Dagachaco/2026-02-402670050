@@ -1,0 +1,430 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T06:31:27Z",
+      "timestamp": 1768545087806,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 20,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>On December 31, 2019, an outbreak of COVID-19 in humans was reported in Wuhan, and then spread fast to other provinces, China. We analyzed data from field investigations and genetic sequencing to describe the evidence and characteristics of human-to-human transmission in Guangdong Province.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>A confirmed COVID-19 case was defined if a suspected case was verified with positive of SARS-CoV-2 in throat swabs, nasal swabs, bronchoalveolar lavage fluid (BALF), or endotracheal aspirates by real-time reverse transcriptase polymerase chain reaction assay (RT-PCR) or genetic sequencing. Field investigations were conducted for each confirmed case. Clinical and demographic data of confirmed cases were collected from medical records. Exposure and travel history were obtained by interview.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>A total of 1,151 confirmed cases were identified as of February 10, 2020 in Guangdong Province, China. Of them, 697 (60.1%) cases were from 234 cluster infections. Two hundred and fourteen (18.6%) were secondary cases, in which 144 cases were from family cluster infections. With the epidemic continuing, although familial cluster events were dominated, community cluster events increased with a nosocomial event. The whole genomes within the same family cluster infections were identical, and presented a few unique single nucleotide variants (SNVs) compared with SARS-CoV-2 identified on December 2019 in Wuhan.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>We observed evident human-to-human transmissions of SARS-CoV-2 in Guangdong, China. Although most of them were from family cluster infections, community and nosocomial infections were increasing. Our findings indicate that human-to-human transmission risks are transferring from family to community in Guangdong Province.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.02.03.20019141",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T20:06:00Z",
+      "timestamp": 1580933160000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Evidence and characteristics of human-to-human transmission of SARS-CoV-2"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Min",
+        "family": "Kang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jie",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Wenjun",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianfeng",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jing",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tao",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Baisheng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shujiang",
+        "family": "Mei",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Feng",
+        "family": "Ruan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lifeng",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lirong",
+        "family": "Zou",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Changwen",
+        "family": "Ke",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Haojie",
+        "family": "Zhong",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yingtao",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xuguang",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zhe",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qi",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianpeng",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianxiang",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianxiong",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Weilin",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuhuang",
+        "family": "Liao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xiujuan",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Songjian",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ying",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yingchao",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Xue",
+        "family": "Zhuang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Lijun",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Siqing",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guanhao",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peng",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Huihong",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tie",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.1",
+        "unstructured": "Wuhan Municipal Health Commission , Hubei Province , China. Wuhan Municipal Health Commission briefing on the pneumonia epidemic situation, 31 December 2019. 2019. (http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989.)"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.46234/ccdcw2020.022"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.3",
+        "unstructured": "World Health Organization. WHO Statement Regarding Cluster of Pneumonia Cases in Wuhan, China. 2020. (https://www.who.int/china/.)"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.4",
+        "unstructured": "World Health Organization. Coronavirus. 2020. (https://www.who.int/health-topics/coronavirus.)"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.5",
+        "unstructured": "National Health Commission of the People\u2019s Republic of China. Prevention and Control Scheme of Novel Coronavirus. 2020. (http://www.nhc.gov.cn/xcs/zhengcwj/202001/808bbf75e5ce415aa19f74c78ddc653f.shtml.)"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/bty560"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nmeth.1923"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/cmb.2012.0021"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btv033"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-10-421"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/molbev/msu300."
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.12",
+        "first-page": "e000056",
+        "article-title": "SNP-sites: rapid efficient extraction of SNPs from multi-FASTA alignments",
+        "volume": "2",
+        "year": "2016",
+        "journal-title": "Microb Genom"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/2041&ndash;210X.12628"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2012-7"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2001017"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa030747"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-020-2008-3"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(20)30154-9"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2020.1585"
+      },
+      {
+        "key": "2021010305100526000_2020.02.03.20019141v3.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1092002"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.03.20019141",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:40Z",
+      "timestamp": 1768484020000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.03.20019141"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 20,
+    "URL": "https://doi.org/10.1101/2020.02.03.20019141",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

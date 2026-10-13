@@ -1,0 +1,919 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2026-04-08T00:40:41Z",
+      "timestamp": 1775608841584,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 133,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The many respiratory viruses that cause influenza-like illness (ILI) are reported and tracked as one entity, defined by the CDC as a group of symptoms that include a fever of 100 degrees Fahrenheit and a cough and/or a sore throat. In the United States alone, ILI impacts 9-49 million people every year. While tracking ILI as a single clinical syndrome is informative in many respects, the underlying viruses differ in their parameters and outbreak properties. Most existing models treat either a single respiratory virus or ILI as a whole. However, there is a need for models capable of comparing several individual ILI viruses. To address this need, here we present a flexible model and simulations of epidemics for influenza, RSV, rhinovirus, seasonal coronavirus, adenovirus, and SARS/MERS, parameterized by a systematic literature review and accompanied by a global sensitivity analysis. We find that for these biological causes of ILI, their parameter values, timing, prevalence, and proportional contributions differ substantially. These results demonstrate that distinguishing the viruses that cause influenza-like illness will be an important aspect of future work on ILI diagnostics, mitigation, modeling, and preparation for future unknown pandemics.</jats:p>",
+    "DOI": "10.1101/2020.02.04.20020404",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2020-02-05T18:25:11Z",
+      "timestamp": 1580927111000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 18,
+    "title": [
+      "Distinguishing Viruses Responsible for Influenza-Like Illness"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Julie A.",
+        "family": "Spencer",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Deborah P.",
+        "family": "Shutt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sarah K.",
+        "family": "Moser",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hannah",
+        "family": "Clegg",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Helen J.",
+        "family": "Wearing",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Harshini",
+        "family": "Mukundan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Carrie A.",
+        "family": "Manore",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "142",
+        "DOI": "10.1016/j.coviro.2018.01.001",
+        "article-title": "Transmission routes of respiratory viruses among humans",
+        "volume": "28",
+        "year": "2018",
+        "journal-title": "Current opinion in virology"
+      },
+      {
+        "issue": "10127",
+        "key": "2021042411500664000_2020.02.04.20020404v2.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1285",
+        "DOI": "10.1016/S0140-6736(17)33293-2",
+        "article-title": "Estimates of global seasonal influenza-associated respiratory mortality: a modelling study",
+        "volume": "391",
+        "year": "2018",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.inf.0000108187.63151.ea"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jit806"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.5",
+        "unstructured": "C. for Disease Control, P. (CDC), U.S. influenza surveillance system: Purpose and methods, FluView Website (downloaded October 29, 2020 2020) [cited 1/28/2020]. URL https://www.cdc.gov/flu/weekly/overview.htm"
+      },
+      {
+        "issue": "1",
+        "key": "2021042411500664000_2020.02.04.20020404v2.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1186/1471-2296-12-4",
+        "article-title": "Clinical prediction rules combining signs, symptoms and epidemiological context to distinguish influenza from influenza-like illnesses in primary care: a cross sectional study",
+        "volume": "12",
+        "year": "2011",
+        "journal-title": "BMC family practice"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.7",
+        "unstructured": "C. for Disease Control (CDC), National, regional, and state level outpatient illness and viral surveillance, https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html (data downloaded on 10-28-2020 2020)."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. D. Silverman , N. Hupert , A. D. Washburne , Using influenza surveillance networks to estimate state-specific prevalence of sars-cov-2 in the united states, Science translational medicine 12 (554).",
+        "DOI": "10.1126/scitranslmed.abc1126"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cix1060"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.10",
+        "year": "2019",
+        "journal-title": "Multiscale influenza forecasting"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2016.09.003"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijid.2013.01.006"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0028786"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s01406736(20)30211-7"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.15",
+        "unstructured": "S. Zayet , Q. Lepiller , H. Zahra , P.-Y. Royer , L. Toko , V. Gendrin , T. Klopfenstein, et al., Clinical features of covid-19 and influenza: a comparative study on nord franche-comte cluster, Microbes and infection."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcv.2016.07.014"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jis415"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1166/jcsmd.2015.1082"
+      },
+      {
+        "issue": "1",
+        "key": "2021042411500664000_2020.02.04.20020404v2.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1186/1743-422X-10-143",
+        "article-title": "Epidemiological analysis of respiratory viral etiology for influenza-like illness during 2010 in zhuhai, china",
+        "volume": "10",
+        "year": "2013",
+        "journal-title": "Virology journal"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. Gilca , R. Amini , M. Douville-Fradet , H. Charest , J. Dubuque , N. Boulianne , D. M. Skowronski , G. De Serres , Other respiratory viruses are important contributors to adult respiratory hospitalizations and mortality even during peak weeks of the influenza season, in: Open forum infectious diseases, Vol. 1, Oxford University Press, 2014.",
+        "DOI": "10.1093/ofid/ofu086"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0950268812002506"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2018.06.004"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. W. Rudge , N. Inthalaphone , R. Pavlicek , P. Paboriboune , B. Flaissier , C. Monidarin , N. Steenkeste , V. Davong , M. Vongsouvath , K. Bonath , et al., \u201cepidemiology and aetiology of influenza-like illness among house-holds in metropolitan vientiane, lao pdr\u201d: A prospective, community-based cohort study, PloS one 14 (4).",
+        "DOI": "10.1371/journal.pone.0214207"
+      },
+      {
+        "issue": "10",
+        "key": "2021042411500664000_2020.02.04.20020404v2.24",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1008301",
+        "DOI": "10.1371/journal.pcbi.1008301",
+        "article-title": "Aggregating forecasts of multiple respiratory pathogens supports more accurate forecasting of influenza-like illness",
+        "volume": "16",
+        "year": "2020",
+        "journal-title": "PLoS computational biology"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/507558"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1016/j.idm.2018.03.006",
+        "article-title": "Simulation of four respiratory viruses and inference of epidemiological parameters",
+        "volume": "3",
+        "year": "2018",
+        "journal-title": "Infectious Disease Modelling"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1006770"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1007.030647"
+      },
+      {
+        "issue": "10224",
+        "key": "2021042411500664000_2020.02.04.20020404v2.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1016/S0140-6736(20)30251-8",
+        "article-title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+        "volume": "395",
+        "year": "2020",
+        "journal-title": "The Lancet"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00401706.1979.10489755"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.31",
+        "unstructured": "R. C. Team , et al., R: A language and environment for statistical computing."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2009.07.006"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/314938"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/124.5.473"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa060601"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.aje.a112781"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1386-6532(99)00058-X"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.100.5.1235"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(09)70069-6"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejim.2004.01.006"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.41",
+        "first-page": "663",
+        "article-title": "Respiratory syncytial virus. IV. correlation of virus shedding, serologic response, and illness in adult volunteers",
+        "volume": "176",
+        "year": "1961",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0264-410X(93)90290-E"
+      },
+      {
+        "issue": "1",
+        "key": "2021042411500664000_2020.02.04.20020404v2.43",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1017/S0950268800056764",
+        "article-title": "Schilarb, Signs and symptoms in common colds",
+        "volume": "111",
+        "year": "1993",
+        "journal-title": "Epidemiology & Infection"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0019496"
+      },
+      {
+        "issue": "2",
+        "key": "2021042411500664000_2020.02.04.20020404v2.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.4049/jimmunol.99.2.297",
+        "article-title": "Rhinovirus neutralizing antibody in tears, parotid saliva, nasal secretions and serum",
+        "volume": "99",
+        "year": "1967",
+        "journal-title": "J Immunol"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/mai.2000.106214"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0031-9384(00)00322-X"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/157.1.133"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/23.6.1287"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.3.5568.767"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bjsports-2018-100487"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(13)70204-4"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2203.151437"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.54",
+        "unstructured": "R. M. Anderson , C. Fraser , A. C. Ghani , C. A. Donnelly , S. Riley , N. M. Ferguson , G. M. Leung , T. H. Lam , A. J. Hedley , Epidemiology, transmission dynamics and control of sars: the 2002\u20132003 epidemic, Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences 359 (1447) (2004) 1091\u20131105."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2807/esm.09.03.00453-en"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313500"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.57",
+        "unstructured": "S. Berger , Infectious Diseases of Bhutan, O\u2019Reilly Media, Inc., 2010."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.58",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. R. Tanz , Sore throat, in: R. Kliegman , P. Lye , B. Bordini , H. Toth , D. Basel (Eds.), Nelson Pediatric Symptom-Based Diagnosis E-Book, Elsevier Health Sciences, 2017. URL https://books.google.com/books?id=OwRODgAAQBAJ",
+        "DOI": "10.1016/B978-0-323-39956-2.00001-7"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.59",
+        "unstructured": "C. Robinson , M. Echavarria, Adenoviruses, in: P. Murray , E. Baron , J. Jorgensen , M. Landry , M. Pfaller (Eds.), Manual of clinical microbiology, 9th Edition, Washington, DC, 2007, p. 1589."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e31819d1092"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/322657"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-5564(01)00066-9"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.63",
+        "unstructured": "CDC, Rsv transmission, https://www.cdc.gov/rsv/about/transmission.html."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.313.7065.1119"
+      },
+      {
+        "issue": "11",
+        "key": "2021042411500664000_2020.02.04.20020404v2.65",
+        "doi-asserted-by": "crossref",
+        "first-page": "2864",
+        "DOI": "10.1128/JCM.35.11.2864-2868.1997",
+        "article-title": "Frequency and natural history of rhinovirus infections in adults during autumn",
+        "volume": "35",
+        "year": "1997",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1164/arrd.1966.94.2.159"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.67",
+        "unstructured": "M. L. Landry , Rhinoviruses, in: P. Murray , E. Baron , J. Jorgensen , M. Landry , M. Pfaller (Eds.), Manual of clinical microbiology, 9th Edition, Washington, DC, 2007, p. 1405."
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.inf.0000183773.80217.12"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/430301"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/320146"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.aje.a112704"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bjid.2018.10.275"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2013.11.005"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/mpd.2000.107525"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1440-1754.2006.00825.x"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.282.15.1440"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0b013e3181e9de24"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/atm.ATM_291_17"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jir634"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.inf.0000183743.68569.c7"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/civ951"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/000992280404300303"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.113.6.1758"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2109.141665"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2010.131768"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jmv.25285"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.vaccine.2006.09.041"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.41.10.4879-4882.2003"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaci.2015.06.017"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1164/rccm.201202-0330OC"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/426869"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.rce.2014.05.020"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.aje.a119882"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/146.3.313"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cix740"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwm012"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwt235"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bjid.2019.08.009"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1185/03007995.2010.505126"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/a:1022556215190"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ccc.2013.07.003"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bjid.2014.10.003"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/339881"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18683/germs.2019.1155"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12938-017-0370-7"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0195-6701(93)90036-Y"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/319210"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcv.2007.04.016"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3904/kjim.2019.092"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.110",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2006.3754"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0030018"
+      },
+      {
+        "issue": "2",
+        "key": "2021042411500664000_2020.02.04.20020404v2.112",
+        "first-page": "611",
+        "article-title": "Niramitsantipong, S. Khumket, M. Chittaganpitch, J. Lessler, Effectiveness of non-pharmaceutical interventions in controlling an influenza A outbreak in a school, Thailand, November 2007",
+        "volume": "4",
+        "year": "2011",
+        "journal-title": "Outbreak Surveill Investig Rep"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0950268807009144"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2009.1897"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-14-480"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pcbi.1005133"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.117",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0115674"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.118",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep14268"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1004591"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idm.2018.03.006"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.121",
+        "doi-asserted-by": "crossref",
+        "first-page": "288",
+        "DOI": "10.1016/j.physa.2017.12.052",
+        "article-title": "Modeling influenza-like illnesses through composite compartmental models",
+        "volume": "494",
+        "year": "2018",
+        "journal-title": "Physica A: Statistical Mechanics and its Applications"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2402.170778"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/currents.outbreaks.98d2f8f3382d84f390736cd5f5fe133c"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1009.040155"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.phrp.2016.01.001"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.126",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.127",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ede.0000181633.80269.4c"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086478"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.129",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. M. Hendrickson , M. A. Matthay , Viral pathogens and acute lung injury: investigations inspired by the sars epidemic and the 2009 h1n1 influenza pandemic, in: Seminars in respiratory and critical care medicine, Vol. 34, Thieme Medical Publishers, 2013, pp. 475\u2013486.",
+        "DOI": "10.1055/s-0033-1351122"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.130",
+        "unstructured": "W. Zhen , R. Manji , E. Smith , G. J. Berry , Comparison of four molecular in vitro diagnostic assays for the detection of sars-cov-2 in nasopharyngeal specimens, Journal of Clinical Microbiology."
+      },
+      {
+        "issue": "12",
+        "key": "2021042411500664000_2020.02.04.20020404v2.131",
+        "doi-asserted-by": "crossref",
+        "first-page": "e3000551",
+        "DOI": "10.1371/journal.pbio.3000551",
+        "article-title": "Coinfections by noninteracting pathogens are not independent and require new tests of interaction",
+        "volume": "17",
+        "year": "2019",
+        "journal-title": "PLoS biology"
+      },
+      {
+        "issue": "6",
+        "key": "2021042411500664000_2020.02.04.20020404v2.132",
+        "doi-asserted-by": "crossref",
+        "first-page": "e254",
+        "DOI": "10.1016/S2666-5247(20)30114-2",
+        "article-title": "Interference between rhinovirus and influenza a virus: a clinical data analysis and experimental infection study",
+        "volume": "1",
+        "year": "2020",
+        "journal-title": "The Lancet Microbe"
+      },
+      {
+        "key": "2021042411500664000_2020.02.04.20020404v2.133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-5564(02)00108-6"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.02.04.20020404",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:43Z",
+      "timestamp": 1768484023000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.02.04.20020404"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "references-count": 133,
+    "URL": "https://doi.org/10.1101/2020.02.04.20020404",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1016/j.jtbi.2022.111145",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          5
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

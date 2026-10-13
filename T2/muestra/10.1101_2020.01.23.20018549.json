@@ -1,0 +1,295 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2026-03-23T10:47:41Z",
+      "timestamp": 1774262861126,
+      "version": "3.50.1"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "group-title": "Infectious Diseases (except HIV/AIDS)",
+    "reference-count": 24,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Since first identified, the epidemic scale of the recently emerged novel coronavirus (2019-nCoV) in Wuhan, China, has increased rapidly, with cases arising across China and other countries and regions. using a transmission model, we estimate a basic reproductive number of 3.11 (95%CI, 2.39\u20134.13); 58\u201376% of transmissions must be prevented to stop increasing; Wuhan case ascertainment of 5.0% (3.6\u20137.4); 21022 (11090\u201333490) total infections in Wuhan 1 to 22 January.</jats:p>\n                <jats:sec>\n                  <jats:title>Changes to previous version</jats:title>\n                  <jats:list list-type=\"bullet\">\n                    <jats:list-item>\n                      <jats:p>case data updated to include 22 Jan 2020; we did not use cases reported after this period as cases were reported at the province level hereafter, and large-scale control interventions were initiated on 23 Jan 2020;</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:p>improved likelihood function, better accounting for first 41 confirmed cases, and now using all infections (rather than just cases detected) in Wuhan for prediction of infection in international travellers;</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:p>improved characterization of uncertainty in parameters, and calculation of epidemic trajectory confidence intervals using a more statistically rigorous method;</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:p>extended range of latent period in sensitivity analysis to reflect reports of up to 6 day incubation period in household clusters;</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:p>removed travel restriction analysis, as different modelling approaches (e.g. stochastic transmission, rather than deterministic transmission) are more appropriate to such analyses.</jats:p>\n                    </jats:list-item>\n                  </jats:list>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.23.20018549",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2020-01-24T11:55:54Z",
+      "timestamp": 1579866954000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 467,
+    "title": [
+      "Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9697-0962",
+        "authenticated-orcid": false,
+        "given": "Jonathan M.",
+        "family": "Read",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5497-2700",
+        "authenticated-orcid": false,
+        "given": "Jessica R.E.",
+        "family": "Bridgen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Derek A.T.",
+        "family": "Cummings",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1465-3785",
+        "authenticated-orcid": false,
+        "given": "Antonia",
+        "family": "Ho",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7902-2178",
+        "authenticated-orcid": false,
+        "given": "Chris P.",
+        "family": "Jewell",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ede.0000181633.80269.4c"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.2",
+        "unstructured": "BBC News (2020) Death toll rises as coronavirus spreads, BBC News. BBC News. Available at: https://www.bbc.com/news/world-asia-china-51245680 (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jtm/taaa008"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1519235113"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.5",
+        "unstructured": "CGTN (2020) Things you need to know about the world\u2019s largest human migration. Available at: https://news.cgtn.com/news/2020-01-19/What-is-the-world-s-largest-human-migration--Nmsd7OcJ8Y/index.html (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30154-9"
+      },
+      {
+        "issue": "7",
+        "key": "2020110412100640000_2020.01.23.20018549v2.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1258",
+        "DOI": "10.3201/eid1007.030647",
+        "article-title": "\u2018Model parameters and outbreak control for SARS\u2019",
+        "volume": "10",
+        "year": "2004",
+        "journal-title": "Emerging infectious diseases"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.8",
+        "unstructured": "European Centre for Disease Prevention and Control (2020) Geographical distribution of 2019-nCov cases, European Centre for Disease Prevention and Control. Available at: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0140-6736(20)30183-5"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.10",
+        "unstructured": "Imai, N. et al. (2020a) Estimating the potential total number of novel Coronavirus cases in Wuhan City, China. 2. Imperial College. Available at: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf (Accessed: 27 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.11",
+        "unstructured": "Imai, N. et al. (2020b) Transmissibility of 2019-nCoV. 3. Imperial College. Available at: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-2019-nCoV-transmissibility.pdf (Accessed: 27 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(09)70069-6"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1086616"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2020.01.25.919787"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Majumder, M. and Mandl, K. D. (2020) \u2018Early Transmissibility Assessment of a Novel Coronavirus in Wuhan, China\u2019. Available at: https://papers.ssrn.com/abstract=3524675 (Accessed: 27 January 2020).",
+        "DOI": "10.2139/ssrn.3524675"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.16",
+        "unstructured": "Munroe, T. (2020) Xi says China faces \u2018grave situation\u2019 as virus death toll hits 42, IN. Reuters. Available at: https://in.reuters.com/article/us-china-health-idINKBN1ZO005 (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.17",
+        "unstructured": "New York Times (2020) Toll From Outbreak Climbs in China as Infections Reach Europe and Australia. Available at: https://www.nytimes.com/2020/01/24/world/asia/china-coronavirus.html (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.18",
+        "unstructured": "NHCPRC daily reports (2020) National Health Commission of the People\u2019s Republic of China. Available at: http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml (Accessed: 27 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.19",
+        "unstructured": "OAG (2020) Traffic Analyser FAQ. Available at: https://www.oag.com/traffic-analyser-faq (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Riou, J. and Althaus, C. L. (2020) Pattern of early human-to-human transmission of Wuhan 2019-nCoV, bioRxiv 2020.01.23.917351. Available at: https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf (Accessed: 27 January 2020).",
+        "DOI": "10.1101/2020.01.23.917351"
+      },
+      {
+        "issue": "4",
+        "key": "2020110412100640000_2020.01.23.20018549v2.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.46234/ccdcw2020.017",
+        "article-title": "\u2018A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases \u2014 Wuhan, China 2019\u22122020\u2019",
+        "volume": "2",
+        "year": "2020",
+        "journal-title": "China CDC Weekly. China CDC Weekly"
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.22",
+        "unstructured": "World Health Organization (2003) Consensus document on the epidemiology of severe acute respiratory syndrome (SARS). Available at: https://www.who.int/csr/sars/en/WHOconsensus.pdf (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.23",
+        "unstructured": "World Health Organization (2020) \u2018WHO | Novel Coronavirus \u2013 China\u2019. World Health Organization. Available at: http://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/ (Accessed: 26 January 2020)."
+      },
+      {
+        "key": "2020110412100640000_2020.01.23.20018549v2.24",
+        "unstructured": "World Health Organization Western Pacific on Twitter (2020) Twitter. Available at: https://twitter.com/WHOWPRO/status/1219478547644813312 (Accessed: 26 January 2020)."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.23.20018549",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T13:33:30Z",
+      "timestamp": 1768484010000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2020.01.23.20018549"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "references-count": 24,
+    "URL": "https://doi.org/10.1101/2020.01.23.20018549",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1098/rstb.2020.0265",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

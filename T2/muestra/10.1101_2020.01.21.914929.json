@@ -1,0 +1,493 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:46:57Z",
+      "timestamp": 1768488417269,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          23
+        ]
+      ]
+    },
+    "group-title": "Microbiology",
+    "reference-count": 47,
+    "publisher": "openRxiv",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              23
+            ]
+          ],
+          "date-time": "2020-01-23T00:00:00Z",
+          "timestamp": 1579737600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          23
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Bunyaviruses are significant human pathogens, causing diseases ranging from hemorrhagic fevers to encephalitis. Among these viruses, La Crosse virus (LACV), a member of the California serogroup, circulates in the eastern and midwestern United States. While LACV infection is often asymptomatic, dozens of cases of encephalitis are reported yearly. Unfortunately, no antivirals have been approved to treat LACV infection. Here, we developed a method to rapidly test potential antivirals against LACV infection. From this screen, we identified several potential antiviral molecules, including known antivirals. Additionally, we identified many novel antivirals that exhibited antiviral activity without affecting cellular viability. Valinomycin, a potassium ionophore, was among our top targets. We found that valinomycin exhibited potent anti-LACV activity in multiple cell types in a dose-dependent manner. Valinomycin did not affect particle stability or infectivity, suggesting that it may preclude virus replication by altering cellular potassium ions, a known determinant of LACV entry. We extended these results to other ionophores and found that the antiviral activity of valinomycin extended to other viral families including bunyaviruses (Rift Valley fever virus, Keystone virus), enteroviruses (Coxsackievirus, rhinovirus), flavirivuses (Zika), and coronaviruses (229E and MERS-CoV). In all viral infections, we observed significant reductions in virus titer in valinomycin-treated cells. In sum, we demonstrate the importance of potassium ions to virus infection, suggesting a potential therapeutic target to disrupt virus replication.</jats:p>\n                <jats:sec>\n                  <jats:title>Importance</jats:title>\n                  <jats:p>\n                    No antivirals are approved for the treatment of bunyavirus infection. The ability to rapidly screen compounds and identify novel antivirals is one means to accelerate drug discovery for viruses with no approved treatments. We used this approach to screen hundreds of compounds against La Crosse virus, an emerging bunyavirus that causes significant disease, including encephalitis. We identified several known and previously unidentified antivirals. We focused on a potassium ionophore, valinomycin, due to its promising\n                    <jats:italic>in vitro</jats:italic>\n                    antiviral activity. We demonstrate that valinomycin, as well as a selection of other ionophores, exhibits activity against La Crosse virus as well as several other distantly related bunyaviruses. We finally observe that valinomycin has activity against a wide array of human viral pathogens, suggesting that disrupting potassium ion homeostasis with valinomycin may be a potent host pathway to target to quell virus infection.\n                  </jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2020.01.21.914929",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2020-01-23T18:05:11Z",
+      "timestamp": 1579802711000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Novel ionophores active against La Crosse virus identified through rapid antiviral screening"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zachary J.",
+        "family": "Sandler",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Michelle N.",
+        "family": "Vu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8803-7606",
+        "authenticated-orcid": false,
+        "given": "Vineet D.",
+        "family": "Menachery",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1710-5362",
+        "authenticated-orcid": false,
+        "given": "Bryan C.",
+        "family": "Mounce",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(16)30010-X"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.0030263"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Evans, A. B. & Peterson, K. E. Throw out the Map: Neuropathogenesis of the Globally Expanding California Serogroup of Orthobunyaviruses. Viruses 11, (2019).",
+        "DOI": "10.3390/v11090794"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2987/moco-31-03-233-241.1"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1603/ME12023"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1921",
+        "DOI": "10.3201/eid2211.160308",
+        "article-title": "Epidemiology of La Crosse Virus Emergence, Appalachia Region, United States",
+        "volume": "22",
+        "year": "2016",
+        "journal-title": "Emerg. Infect. Dis"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.7",
+        "unstructured": "Epidemiology & Geographic Distribution | La Crosse encephalitis | CDC. https://www.cdc.gov/lac/tech/epi.html (2019)."
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.8",
+        "first-page": "1137",
+        "article-title": "West Nile Virus and Other Nationally Notifiable Arboviral Diseases - United States",
+        "volume": "67",
+        "year": "2017",
+        "journal-title": "MMWR Morb. Mortal. Wkly. Rep"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/0022-1317-66-10-2271"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Faburay, B. , LaBeaud, A. D. , McVey, D. S. , Wilson, W. C. & Richt, J. A. Current Status of Rift Valley Fever Vaccine Development. Vaccines 5, (2017).",
+        "DOI": "10.3390/vaccines5030029"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "601",
+        "DOI": "10.1080/14760584.2017.1321482",
+        "article-title": "Rift Valley fever vaccines: an overview of the safety and efficacy of the live-attenuated MP-12 vaccine candidate",
+        "volume": "16",
+        "year": "2017",
+        "journal-title": "Expert Rev. Vaccines"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2015.12.012"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bmcl.2017.12.019"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0007681",
+        "DOI": "10.1371/journal.pntd.0007681",
+        "article-title": "Identification of anti-flaviviral drugs with mosquitocidal and anti-Zika virus activity in Aedes aegypti",
+        "volume": "13",
+        "year": "2019",
+        "journal-title": "PLoS Negl. Trop. Dis"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chom.2016.07.004"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/j.vetmic.2019.01.027",
+        "article-title": "Identification and evaluation of antivirals for Rift Valley fever virus",
+        "volume": "230",
+        "year": "2019",
+        "journal-title": "Vet. Microbiol"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tips.2013.11.006"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1016/j.virusres.2019.02.011",
+        "article-title": "Drug repurposing for new, efficient, broad spectrum antivirals",
+        "volume": "264",
+        "year": "2019",
+        "journal-title": "Virus Res"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "865",
+        "DOI": "10.1016/j.tim.2018.04.004",
+        "article-title": "Drug Repurposing for Viral Infectious Diseases: How Far Are We?",
+        "volume": "26",
+        "year": "2018",
+        "journal-title": "Trends Microbiol"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Johnson, B. A. et al. Peptidoglycan-Associated Cyclic Lipopeptide Disrupts Viral Infectivity. J. Virol. 93, (2019).",
+        "DOI": "10.1128/JVI.01282-19"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.RA118.002494"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.RA119.007618"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.23",
+        "unstructured": "Na+ and K+ Concentration and Regulation of Protein Synthesis in L-A9 and Aedes albopictus Cells Infected with Marituba Virus (Bunyaviridae) | Microbiology Society. https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-70-12-3493."
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.ppat.1006845"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0007194"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.0403596101"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bcp.2016.02.002"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00632-13"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1471",
+        "DOI": "10.7164/antibiotics.41.1471",
+        "article-title": "Mechanism of inhibition of reverse transcriptase by quinone antibiotics. II. Dependence on putative quinone pocket on the enzyme molecule",
+        "volume": "41",
+        "year": "1988",
+        "journal-title": "J. Antibiot. (Tokyo)"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.30",
+        "doi-asserted-by": "crossref",
+        "first-page": "2533",
+        "DOI": "10.1016/j.bmcl.2018.05.046",
+        "article-title": "Identification of quinone analogues as potential inhibitors of picornavirus 3C protease in vitro",
+        "volume": "28",
+        "year": "2018",
+        "journal-title": "Bioorg. Med. Chem. Lett"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.80.6.2933-2940.2006"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1111/odi.12835",
+        "article-title": "Ellagic acid inhibits HIV-1 infection in vitro: Potential role as a novel microbicide",
+        "volume": "24",
+        "year": "2018",
+        "journal-title": "Oral Dis"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1186/1472-6882-14-171",
+        "article-title": "Antiviral activity and possible mode of action of ellagic acid identified in Lagerstroemia speciosa leaves toward human rhinoviruses",
+        "volume": "14",
+        "year": "2014",
+        "journal-title": "BMC Complement. Altern. Med"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.antiviral.2005.06.005"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0968-0896(02)00542-4"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.36",
+        "first-page": "221",
+        "article-title": "Antiviral activity of naphthoquinones. I. Lapachol derivatives against enteroviruses",
+        "volume": "28",
+        "year": "1986",
+        "journal-title": "Rev. Latinoam. Microbiol"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.01739-08"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.38",
+        "doi-asserted-by": "crossref",
+        "first-page": "733",
+        "DOI": "10.1165/rcmb.2017-0345OC",
+        "article-title": "Targeting Intracellular Ion Homeostasis for the Control of Respiratory Syncytial Virus",
+        "volume": "59",
+        "year": "2018",
+        "journal-title": "Am. J. Respir. Cell Mol. Biol"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/bi002069p"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/np50024a015"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.41",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1002/jmv.1890220108",
+        "article-title": "Effect of antiviral substances on hepatitis A virus replication in vitro",
+        "volume": "22",
+        "year": "1987",
+        "journal-title": "J. Med. Virol"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.42",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1007/BF02976598",
+        "article-title": "Anti-human immunodeficiency virus-type 1 activity of constituents from Juglans mandshurica",
+        "volume": "25",
+        "year": "2002",
+        "journal-title": "Arch. Pharm. Res"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.90.6.2399"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JVI.00770-07"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "18439",
+        "DOI": "10.3390/ijms160818439",
+        "article-title": "Identification of Hydroxyanthraquinones as Novel Inhibitors of Hepatitis C Virus NS3 Helicase",
+        "volume": "16",
+        "year": "2015",
+        "journal-title": "Int. J. Mol. Sci"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.46",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1186/s12866-019-1639-8",
+        "article-title": "Antiviral activity of mitoxantrone dihydrochloride against human herpes simplex virus mediated by suppression of the viral immediate early genes",
+        "volume": "19",
+        "year": "2019",
+        "journal-title": "BMC Microbiol"
+      },
+      {
+        "key": "2024080322051675000_2020.01.21.914929v1.47",
+        "first-page": "1571",
+        "article-title": "[Effect of aristolochic acid on herpes simplex infection of the rabbit eye]",
+        "volume": "30",
+        "year": "1980",
+        "journal-title": "Arzneimittelforschung"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2020.01.21.914929",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T23:56:57Z",
+      "timestamp": 1768435017000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2020.01.21.914929"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          23
+        ]
+      ]
+    },
+    "references-count": 47,
+    "URL": "https://doi.org/10.1101/2020.01.21.914929",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          23
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}
