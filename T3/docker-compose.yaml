@@ -1,0 +1,55 @@
+services:
+
+  postgres:
+    image: postgres:16
+    container_name: postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-spark}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-spark123}
+      POSTGRES_DB: ${POSTGRES_DB:-tarea3db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-spark} -d ${POSTGRES_DB:-tarea3db}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - big-data
+
+  bigdata:
+    build: ./big-data
+    container_name: big-data
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/src/notebooks
+      - ./data:/src/data
+      - ./output:/src/output
+    working_dir: /src
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_USER: ${POSTGRES_USER:-spark}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-spark123}
+      POSTGRES_DB: ${POSTGRES_DB:-tarea3db}
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: >
+      jupyter notebook
+      --ip=0.0.0.0
+      --port=8888
+      --no-browser
+      --allow-root
+    networks:
+      - big-data
+
+volumes:
+  pgdata:
+
+networks:
+  big-data:
+    driver: bridge
